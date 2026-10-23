@@ -1,0 +1,436 @@
+AS|Carta de la baraja que vale uno|1
+AL|Contracción de a y el|1
+YA|En este momento, ahora mismo|1
+FE|Creencia sin necesidad de pruebas|1
+TE|Infusión de hojas orientales|1
+RE|Segunda nota musical|1
+MI|Tercera nota musical|1
+SOL|Astro rey|1
+LA|Sexta nota musical|1
+SI|Séptima nota musical|1
+DO|Primera nota musical|1
+FA|Cuarta nota musical|1
+OSO|Mamífero plantígrado que hiberna|1
+ALA|Extremidad para volar|1
+ORO|Metal precioso amarillo|1
+ARO|Anillo, argolla|1
+OLA|Onda en la superficie del mar|1
+ASA|Parte de una taza por donde se toma|1
+ESA|Pronombre demostrativo femenino|1
+ANA|Nombre de mujer, palíndromo|1
+OCA|Ganso; también un juego de mesa|1
+UVA|Fruto de la vid|1
+AVE|Animal con plumas|1
+RIO|Corriente de agua que desemboca en el mar|1
+MAR|Gran masa de agua salada|1
+PAN|Alimento hecho con harina y horneado|1
+SAL|Condimento blanco que se extrae del mar|1
+LUZ|Lo contrario de la oscuridad|1
+PIE|Extremidad inferior del cuerpo|1
+OJO|Órgano de la vista|1
+DIA|Período de veinticuatro horas|1
+MES|Cada una de las doce partes del año|1
+AÑO|Doce meses|1
+REY|Monarca|1
+LEY|Norma dictada por la autoridad|1
+HOY|En el día presente|1
+MUY|Adverbio que intensifica|1
+TOS|Expulsión brusca de aire de los pulmones|1
+VOZ|Sonido que emite la garganta al hablar|1
+PAZ|Ausencia de guerra|1
+NUEZ|Fruto seco del nogal|1
+CRUZ|Símbolo del cristianismo|1
+ARROZ|Cereal base de la paella|1
+LAPIZ|Útil para escribir con mina de grafito|1
+NARIZ|Órgano del olfato|1
+MAIZ|Cereal americano de granos amarillos|1
+RAIZ|Parte de la planta que va bajo tierra|1
+PEZ|Animal acuático con aletas y escamas|1
+VEZ|Ocasión, oportunidad|1
+DIEZ|Número que sigue al nueve|1
+TIZA|Barrita para escribir en el pizarrón|1
+TAZA|Recipiente con asa para el café|1
+CASA|Vivienda, hogar|1
+MESA|Mueble con patas y tablero|1
+SILLA|Asiento con respaldo para una persona|1
+CAMA|Mueble para dormir|1
+PUERTA|Abertura para entrar y salir|1
+VENTANA|Abertura en la pared para dar luz|1
+TECHO|Parte superior de una habitación|1
+PISO|Suelo de una habitación|1
+PARED|Muro de una habitación|1
+LLAVE|Sirve para abrir una cerradura|1
+PERRO|Mejor amigo del hombre|1
+GATO|Felino doméstico que maúlla|1
+VACA|Rumiante que da leche|1
+TORO|Macho de la vaca|1
+CABALLO|Animal de montura que relincha|1
+BURRO|Asno|1
+OVEJA|Animal que da lana|1
+CABRA|Rumiante de cuernos curvos que trepa|1
+CERDO|Chancho|1
+GALLO|Ave que canta al amanecer|1
+GALLINA|Ave de corral que pone huevos|1
+PATO|Ave palmípeda que hace cuac|1
+LEON|Rey de la selva|1
+TIGRE|Gran felino de piel rayada|1
+ELEFANTE|Paquidermo con trompa|1
+JIRAFA|Animal de cuello muy largo|1
+MONO|Primate que trepa árboles|1
+LOBO|Cánido salvaje que aúlla|1
+ZORRO|Cánido astuto de cola peluda|1
+CONEJO|Roedor de orejas largas|1
+RATON|Pequeño roedor; también accesorio de computadora|1
+LORO|Ave que puede imitar la voz humana|1
+AGUILA|Ave rapaz de gran tamaño|1
+PALOMA|Ave símbolo de la paz|1
+BALLENA|Mamífero marino más grande|1
+DELFIN|Mamífero marino muy inteligente|1
+TIBURON|Pez cartilaginoso temido por sus dientes|1
+PULPO|Molusco de ocho tentáculos|1
+RANA|Anfibio que croa|1
+SAPO|Anfibio de piel rugosa|1
+VIBORA|Serpiente venenosa|1
+ABEJA|Insecto que produce miel|1
+HORMIGA|Insecto trabajador que vive en colonias|1
+MOSCA|Insecto molesto de la cocina|1
+ARAÑA|Teje su tela para cazar|1
+MARIPOSA|Insecto de alas coloridas|1
+CARACOL|Molusco que lleva su casa a cuestas|1
+TORTUGA|Reptil con caparazón|1
+COCODRILO|Gran reptil de río|1
+MANZANA|Fruta roja o verde del pecado original|1
+PERA|Fruta de forma acampanada|1
+BANANA|Fruta amarilla alargada|1
+NARANJA|Cítrico de color anaranjado|1
+LIMON|Cítrico ácido amarillo|1
+FRUTILLA|Fresa, en Argentina|1
+SANDIA|Fruta grande verde por fuera y roja por dentro|1
+MELON|Fruta de pulpa dulce y cáscara rugosa|1
+DURAZNO|Melocotón|1
+CIRUELA|Fruta que seca se vuelve pasa|1
+CEREZA|Pequeña fruta roja con carozo|1
+PAPA|Tubérculo, base del puré|1
+TOMATE|Fruto rojo de las ensaladas|1
+CEBOLLA|Bulbo que hace llorar al cortarlo|1
+AJO|Bulbo de sabor fuerte que ahuyenta vampiros|1
+ZANAHORIA|Hortaliza naranja que comen los conejos|1
+LECHUGA|Verdura de hoja para ensaladas|1
+ZAPALLO|Calabaza|1
+CHOCLO|Mazorca de maíz tierno|1
+ARVEJA|Guisante|1
+POROTO|Frijol, judía|1
+LENTEJA|Legumbre pequeña y redonda|1
+LECHE|Líquido blanco que dan las vacas|1
+QUESO|Producto que se obtiene cuajando la leche|1
+MANTECA|Grasa de la leche, en Argentina|1
+HUEVO|Lo pone la gallina|1
+CARNE|Músculo animal que se come|1
+ASADO|Comida argentina a la parrilla|1
+EMPANADA|Masa rellena típica|1
+FIDEOS|Pasta seca larga|1
+PIZZA|Comida italiana redonda con queso|1
+MATE|Infusión típica del Río de la Plata|1
+YERBA|Se pone en el mate|1
+AZUCAR|Endulzante blanco|1
+MIEL|Producto dulce de las abejas|1
+DULCE|De sabor como el azúcar|1
+TORTA|Pastel de cumpleaños|1
+ALFAJOR|Golosina de dos tapas con dulce de leche|1
+AGUA|Líquido incoloro esencial para la vida|1
+VINO|Bebida de uva fermentada|1
+CAFE|Bebida negra que despierta|1
+CERVEZA|Bebida de cebada fermentada|1
+SOPA|Plato caldoso|1
+PLATO|Recipiente donde se sirve la comida|1
+VASO|Recipiente para beber|1
+CUCHARA|Cubierto para la sopa|1
+TENEDOR|Cubierto con dientes|1
+CUCHILLO|Cubierto para cortar|1
+OLLA|Recipiente para cocinar|1
+SARTEN|Para freír|1
+HORNO|Aparato para asar o cocer|1
+CABEZA|Parte superior del cuerpo|1
+MANO|Tiene cinco dedos|1
+DEDO|Cada una de las prolongaciones de la mano|1
+BRAZO|Miembro superior|1
+PIERNA|Miembro inferior|1
+RODILLA|Articulación de la pierna|1
+CODO|Articulación del brazo|1
+HOMBRO|Unión del brazo con el tronco|1
+ESPALDA|Parte posterior del torso|1
+BOCA|Por ahí se come|1
+DIENTE|Pieza dura de la boca|1
+LENGUA|Órgano del gusto; también idioma|1
+OREJA|Órgano externo del oído|1
+PELO|Cabello|1
+CARA|Rostro|1
+FRENTE|Parte superior de la cara|1
+CORAZON|Órgano que bombea la sangre|1
+SANGRE|Líquido rojo que circula por las venas|1
+HUESO|Parte dura del esqueleto|1
+PIEL|Cubre el cuerpo|1
+UÑA|Crece en la punta de los dedos|1
+PADRE|Papá|1
+MADRE|Mamá|1
+HIJO|Descendiente directo|1
+HERMANO|Hijo de los mismos padres|1
+ABUELO|Padre del padre o de la madre|1
+ABUELA|Madre del padre o de la madre|1
+TIO|Hermano del padre o de la madre|1
+PRIMO|Hijo del tío|1
+NIETO|Hijo del hijo|1
+NOVIO|Pareja antes del casamiento|1
+ESPOSA|Mujer casada respecto de su marido|1
+AMIGO|Persona con quien se tiene amistad|1
+VECINO|El que vive al lado|1
+NIÑO|Persona de pocos años|1
+BEBE|Niño recién nacido|1
+ROJO|Color de la sangre|1
+AZUL|Color del cielo despejado|1
+VERDE|Color del pasto|1
+AMARILLO|Color del sol y del limón|1
+BLANCO|Color de la nieve|1
+NEGRO|Color de la noche|1
+GRIS|Color de la ceniza|1
+ROSA|Flor con espinas; también un color|1
+MARRON|Color del chocolate|1
+CIELO|Bóveda azul sobre nuestras cabezas|1
+NUBE|Masa de vapor en el cielo|1
+LLUVIA|Agua que cae de las nubes|1
+NIEVE|Agua helada que cae en copos|1
+VIENTO|Aire en movimiento|1
+TRUENO|Ruido que sigue al rayo|1
+RAYO|Descarga eléctrica de la tormenta|1
+LUNA|Satélite de la Tierra|1
+ESTRELLA|Astro que brilla de noche|1
+TIERRA|Nuestro planeta|1
+MONTAÑA|Gran elevación del terreno|1
+CERRO|Elevación de tierra menor que un monte|1
+VALLE|Llanura entre montañas|1
+LAGO|Masa de agua rodeada de tierra|1
+PLAYA|Orilla del mar con arena|1
+ARENA|Conjunto de granitos de la playa|1
+ISLA|Tierra rodeada de agua|1
+BOSQUE|Lugar poblado de árboles|1
+SELVA|Bosque tropical muy denso|1
+ARBOL|Planta de tronco leñoso|1
+FLOR|Parte colorida de la planta|1
+HOJA|Parte verde de la planta; también de papel|1
+RAMA|Brazo del árbol|1
+PASTO|Hierba que come el ganado|1
+PIEDRA|Roca pequeña|1
+FUEGO|Llamas que queman|1
+HUMO|Lo que sale del fuego|1
+CALOR|Temperatura alta|1
+FRIO|Temperatura baja|1
+VERANO|Estación más calurosa|1
+INVIERNO|Estación más fría|1
+OTOÑO|Estación en que caen las hojas|1
+PRIMAVERA|Estación de las flores|1
+LUNES|Primer día de la semana laboral|1
+MARTES|Día de la semana de mala suerte|1
+VIERNES|Último día laboral de la semana|1
+SABADO|Día anterior al domingo|1
+DOMINGO|Día de descanso|1
+ENERO|Primer mes del año|1
+MARZO|Tercer mes del año|1
+ABRIL|Cuarto mes del año|1
+MAYO|Mes de la Revolución argentina|1
+JUNIO|Sexto mes del año|1
+JULIO|Mes de la Independencia argentina|1
+AGOSTO|Octavo mes del año|1
+NOCHE|Tiempo sin luz solar|1
+TARDE|Parte del día entre el mediodía y la noche|1
+HORA|Sesenta minutos|1
+MINUTO|Sesenta segundos|1
+SEMANA|Siete días|1
+RELOJ|Aparato que marca la hora|1
+LIBRO|Conjunto de hojas impresas encuadernadas|1
+CARTA|Mensaje escrito que se envía|1
+DIARIO|Periódico que sale todos los días|1
+REVISTA|Publicación periódica con fotos|1
+PAPEL|Hoja para escribir|1
+TINTA|Líquido de la lapicera|1
+ESCUELA|Lugar donde se aprende|1
+MAESTRA|Enseña en la escuela|1
+ALUMNO|El que aprende|1
+CLASE|Lección|1
+NOTA|Calificación de un examen|1
+AUTO|Coche|1
+TREN|Vehículo que va sobre rieles|1
+AVION|Vehículo que vuela|1
+BARCO|Vehículo que navega|1
+BOTE|Embarcación pequeña|1
+COLECTIVO|Ómnibus urbano, en Argentina|1
+BICI|Bicicleta, abreviado|1
+RUEDA|Pieza circular que gira|1
+CALLE|Vía de una ciudad|1
+PLAZA|Espacio abierto con bancos y árboles|1
+CIUDAD|Población grande|1
+PUEBLO|Población pequeña|1
+PAIS|Nación|1
+MUNDO|El planeta entero|1
+IGLESIA|Templo cristiano|1
+HOSPITAL|Lugar donde se cura a los enfermos|1
+BANCO|Asiento largo; también entidad financiera|1
+TIENDA|Negocio, comercio|1
+MERCADO|Lugar de compra y venta|1
+DINERO|Plata, moneda|1
+PRECIO|Lo que cuesta algo|1
+TRABAJO|Ocupación remunerada|1
+MEDICO|Doctor|1
+ENFERMERA|Asiste al médico|1
+POLICIA|Agente del orden|1
+BOMBERO|Apaga incendios|1
+PANADERO|Hace el pan|1
+CARTERO|Reparte la correspondencia|1
+PINTOR|Artista que pinta|1
+CANTANTE|Persona que canta|1
+MUSICA|Arte de los sonidos|1
+CANCION|Composición para cantar|1
+GUITARRA|Instrumento de seis cuerdas|1
+PIANO|Instrumento de teclas blancas y negras|1
+TANGO|Baile rioplatense|1
+BAILE|Acción de bailar|1
+FIESTA|Celebración|1
+REGALO|Obsequio|1
+JUEGO|Actividad para divertirse|1
+PELOTA|Esférica, se usa en el fútbol|1
+FUTBOL|Deporte de once jugadores por equipo|1
+GOL|Tanto en el fútbol|1
+TENIS|Deporte con raqueta y red|1
+CARRERA|Competencia de velocidad|1
+NADAR|Moverse en el agua|1
+CORRER|Ir rápido a pie|1
+SALTAR|Elevarse del suelo con impulso|1
+COMER|Ingerir alimentos|1
+BEBER|Tomar líquidos|1
+DORMIR|Descansar con los ojos cerrados|1
+SOÑAR|Ver imágenes mientras se duerme|1
+HABLAR|Expresarse con palabras|1
+CANTAR|Emitir sonidos melodiosos|1
+LEER|Interpretar lo escrito|1
+ESCRIBIR|Trazar letras|1
+MIRAR|Dirigir la vista|1
+OIR|Percibir sonidos|1
+REIR|Mostrar alegría con carcajadas|1
+LLORAR|Derramar lágrimas|1
+AMAR|Querer intensamente|1
+VIVIR|Estar con vida|1
+ABRIR|Lo contrario de cerrar|1
+CERRAR|Lo contrario de abrir|1
+SUBIR|Ir hacia arriba|1
+BAJAR|Ir hacia abajo|1
+LAVAR|Limpiar con agua|1
+COCINAR|Preparar la comida|1
+JUGAR|Divertirse con un juego|1
+GANAR|Lo contrario de perder|1
+PERDER|Lo contrario de ganar|1
+BUENO|Lo contrario de malo|1
+MALO|Lo contrario de bueno|1
+GRANDE|De gran tamaño|1
+CHICO|Pequeño|1
+ALTO|De mucha estatura|1
+BAJO|De poca estatura|1
+GORDO|Con mucha grasa|1
+FLACO|Delgado|1
+LINDO|Bonito|1
+FEO|Poco agradable a la vista|1
+NUEVO|Recién hecho|1
+VIEJO|De mucha edad|1
+JOVEN|De poca edad|1
+RAPIDO|Veloz|1
+LENTO|Tardo, pausado|1
+FELIZ|Contento, dichoso|1
+TRISTE|Apenado|1
+LLENO|Ocupado por completo|1
+VACIO|Sin contenido|1
+CALIENTE|Que tiene calor|1
+LIMPIO|Sin suciedad|1
+SUCIO|Con manchas|1
+AMOR|Sentimiento de afecto profundo|1
+VIDA|Tiempo entre el nacimiento y la muerte|1
+SUERTE|Fortuna, azar favorable|1
+ALEGRIA|Sentimiento de gozo|1
+MIEDO|Temor|1
+SALUD|Estado de bienestar del cuerpo|1
+NOMBRE|Palabra que designa a una persona|1
+PALABRA|Unidad del lenguaje|1
+IDEA|Representación mental|1
+VERDAD|Lo contrario de la mentira|1
+MENTIRA|Lo contrario de la verdad|1
+ROPA|Prendas de vestir|1
+CAMISA|Prenda con cuello y botones|1
+PANTALON|Prenda que cubre las piernas|1
+VESTIDO|Prenda femenina de una pieza|1
+POLLERA|Falda|1
+ZAPATO|Calzado|1
+MEDIA|Calcetín|1
+SOMBRERO|Prenda para la cabeza|1
+SACO|Chaqueta|1
+BOTON|Pieza para abrochar la ropa|1
+BOLSO|Cartera|1
+ANILLO|Aro que se lleva en el dedo|1
+COLLAR|Adorno para el cuello|1
+TELEFONO|Aparato para hablar a distancia|1
+RADIO|Aparato que transmite sonido|1
+TELE|Televisor, abreviado|1
+FOTO|Imagen fotográfica|1
+CINE|Sala donde se proyectan películas|1
+TEATRO|Lugar para obras dramáticas|1
+CUENTO|Narración breve|1
+HISTORIA|Relato de hechos pasados|1
+ARTE|Expresión creativa humana|1
+CUADRO|Pintura enmarcada|1
+CAJA|Recipiente con tapa|1
+BOTELLA|Envase de vidrio con cuello|1
+BOLSA|Recipiente de tela o plástico|1
+JABON|Sirve para lavarse|1
+TOALLA|Para secarse|1
+ESPEJO|Refleja la imagen|1
+PEINE|Sirve para ordenar el pelo|1
+CEPILLO|Utensilio con cerdas|1
+ESCOBA|Para barrer|1
+VELA|Cilindro de cera que da luz|1
+LAMPARA|Aparato que da luz|1
+SILLON|Asiento amplio y cómodo|1
+JARDIN|Terreno con plantas junto a la casa|1
+PATIO|Espacio abierto dentro de una casa|1
+COCINA|Habitación donde se cocina|1
+BAÑO|Habitación con ducha e inodoro|1
+ESCALERA|Sirve para subir y bajar|1
+BARRIO|Zona de una ciudad|1
+ESQUINA|Donde se cruzan dos calles|1
+PUENTE|Construcción para cruzar un río|1
+CAMINO|Vía para ir de un lugar a otro|1
+RUTA|Carretera|1
+NORTE|Punto cardinal opuesto al sur|1
+SUR|Punto cardinal opuesto al norte|1
+ESTE|Punto cardinal por donde sale el sol|1
+OESTE|Punto cardinal por donde se pone el sol|1
+MAPA|Representación de un territorio|1
+TAXI|Auto de alquiler con chofer|1
+MENU|Lista de platos de un restaurante|1
+SOFA|Asiento mullido para varias personas|1
+PAPA|Sumo pontífice; también tubérculo|1
+MAMA|Madre, familiarmente|1
+ESQUI|Deporte sobre la nieve|1
+RUBI|Piedra preciosa roja|1
+MANI|Cacahuete, en Argentina|1
+BAMBU|Caña oriental muy resistente|1
+TABU|Lo que está prohibido mencionar|1
+BUHO|Ave nocturna de grandes ojos|1
+ROBOT|Máquina que realiza tareas automáticamente|1
+CLUB|Sociedad deportiva o recreativa|1
+GOLF|Deporte con palos y hoyos|1
+CHEF|Jefe de cocina|1
+RELOJ|Marca la hora|1
+CHIP|Pequeño circuito electrónico|1
+ALBUM|Libro para guardar fotos|1
+FENIX|Ave mitológica que renace de sus cenizas|2
+TORAX|Pecho|2
+LATEX|Jugo lechoso de algunas plantas|2
+COÑAC|Aguardiente francés|2
+FRAC|Prenda masculina de etiqueta con faldones|2
+ZIGZAG|Línea quebrada en ángulos alternos|2

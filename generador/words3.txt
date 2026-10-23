@@ -1,0 +1,401 @@
+ROMA|Capital de Italia|1
+PARIS|Capital de Francia|1
+LIMA|Capital del Perú|1
+QUITO|Capital del Ecuador|2
+CARACAS|Capital de Venezuela|2
+BOGOTA|Capital de Colombia|2
+MADRID|Capital de España|1
+LONDRES|Capital del Reino Unido|1
+BERLIN|Capital de Alemania|1
+VIENA|Capital de Austria|2
+ATENAS|Capital de Grecia|2
+OSLO|Capital de Noruega|2
+CAIRO|Capital de Egipto|2
+TOKIO|Capital de Japón|1
+MOSCU|Capital de Rusia|2
+LISBOA|Capital de Portugal|2
+DUBLIN|Capital de Irlanda|3
+PRAGA|Capital de la República Checa|2
+VARSOVIA|Capital de Polonia|3
+BERNA|Capital de Suiza|3
+SANTIAGO|Capital de Chile|1
+ASUNCION|Capital del Paraguay|2
+MONTEVIDEO|Capital del Uruguay|1
+SALTA|Provincia argentina, la Linda|2
+JUJUY|Provincia del norte argentino|2
+CORDOBA|Provincia argentina de la Docta|2
+MENDOZA|Provincia argentina del vino|1
+ROSARIO|Ciudad de la Bandera|2
+TANDIL|Ciudad bonaerense de la piedra movediza|3
+USHUAIA|Ciudad del fin del mundo|2
+BARILOCHE|Ciudad andina del chocolate|2
+CHACO|Provincia argentina del Impenetrable|2
+NEUQUEN|Provincia patagónica|2
+TUCUMAN|Jardín de la República|2
+PARANA|Gran río del litoral argentino|2
+URUGUAY|País vecino de Argentina|1
+CHILE|País andino largo y angosto|1
+PERU|País de Machu Picchu|1
+CUBA|Isla del Caribe, capital La Habana|1
+ITALIA|País con forma de bota|1
+FRANCIA|País de la Torre Eiffel|1
+ESPAÑA|País de la Madre Patria|1
+GRECIA|Cuna de la democracia|1
+EGIPTO|País de las pirámides|1
+INDIA|País del Taj Mahal|1
+CHINA|País más poblado de Asia oriental|1
+JAPON|País del sol naciente|1
+RUSIA|País más extenso del mundo|1
+IRAN|Antigua Persia|2
+IRAK|País de la antigua Mesopotamia|2
+OMAN|Sultanato de Arabia|3
+MALI|País africano de Tombuctú|3
+TOGO|País africano de capital Lomé|3
+NILO|Gran río de Egipto|1
+EBRO|Río de Zaragoza|3
+SENA|Río de París|2
+TAJO|Río más largo de la península ibérica|3
+RIN|Río de Alemania|2
+DANUBIO|Río azul del vals|2
+AMAZONAS|Río más caudaloso del mundo|1
+ANDES|Cordillera sudamericana|1
+ALPES|Cordillera europea|1
+ACONCAGUA|Pico más alto de América|1
+PAMPA|Llanura argentina|1
+ETNA|Volcán de Sicilia|3
+SAHARA|Gran desierto africano|1
+ASIA|Continente más grande|1
+EUROPA|Continente del Viejo Mundo|1
+AFRICA|Continente del Sahara|1
+AMERICA|Continente de Colón|1
+OCEANIA|Continente de Australia|2
+ARTICO|Polo norte|2
+ANTARTIDA|Continente helado del sur|1
+ZEUS|Padre de los dioses griegos|2
+HERA|Esposa de Zeus|3
+ATENEA|Diosa griega de la sabiduría|2
+APOLO|Dios griego del sol y las artes|2
+ARES|Dios griego de la guerra|3
+EROS|Dios griego del amor|2
+MARTE|Dios romano de la guerra; planeta rojo|1
+VENUS|Diosa del amor; planeta|1
+JUPITER|Mayor planeta del sistema solar|1
+SATURNO|Planeta de los anillos|1
+URANO|Séptimo planeta|2
+NEPTUNO|Dios del mar; planeta|2
+PLUTON|Planeta enano|2
+ODIN|Dios supremo nórdico|3
+THOR|Dios nórdico del trueno|2
+ISIS|Diosa egipcia|3
+RA|Dios egipcio del sol|2
+HOMERO|Autor de la Ilíada|2
+ULISES|Héroe de la Odisea|2
+AQUILES|Héroe del talón vulnerable|2
+TROYA|Ciudad del famoso caballo|2
+ICARO|Voló demasiado cerca del sol|2
+EDIPO|Rey de Tebas que descifró el enigma|3
+NARCISO|Se enamoró de su reflejo|2
+ORFEO|Músico mítico que bajó al Hades|3
+MEDUSA|Gorgona de cabellos de serpiente|2
+PEGASO|Caballo alado|2
+CICLOPE|Gigante de un solo ojo|2
+SIRIO|Estrella más brillante del cielo|3
+ORION|Constelación del cazador|2
+COMETA|Astro con cola luminosa|1
+GALAXIA|Conjunto de millones de estrellas|2
+PLANETA|Astro que gira alrededor de una estrella|1
+CRATER|Boca de un volcán|2
+EJE|Línea alrededor de la cual algo gira|2
+ORE|Del verbo orar|3
+UNO|Primer número natural|1
+DOS|Número par más bajo|1
+TRES|Número de los mosqueteros|1
+CUATRO|Número de las patas de una silla|1
+CINCO|Dedos de una mano|1
+SEIS|Media docena|1
+SIETE|Número de las maravillas del mundo|1
+OCHO|Número de patas de la araña|1
+NUEVE|Número que sigue al ocho|1
+CIEN|Diez decenas|1
+MIL|Diez centenas|1
+CERO|Número nulo|1
+NADA|Ninguna cosa|1
+TODO|Lo contrario de nada|1
+ALGO|Una cosa indeterminada|1
+SOLO|Sin compañía|1
+OTRO|Distinto|1
+POCO|Escaso|1
+MUCHO|Abundante|1
+TAN|Apócope de tanto|2
+SIN|Preposición que indica falta|1
+CON|Preposición de compañía|1
+POR|Preposición de causa|1
+PARA|Preposición de finalidad|1
+ENTRE|En medio de|1
+SOBRE|Encima de; también de carta|1
+TRAS|Detrás de|2
+HACIA|Preposición de dirección|1
+NO|Negación|1
+NI|Conjunción negativa|1
+SE|Pronombre reflexivo|1
+TU|Pronombre de segunda persona|1
+YO|Pronombre de primera persona|1
+EL|Artículo masculino|1
+LO|Artículo neutro|1
+LE|Pronombre de complemento indirecto|1
+OH|Interjección de asombro|1
+AY|Interjección de dolor|1
+EN|Preposición de lugar|1
+UN|Artículo indeterminado|1
+ES|Del verbo ser|1
+DE|Preposición de pertenencia|1
+OS|Pronombre de vosotros|2
+IR|Moverse hacia un lugar|1
+VER|Percibir con los ojos|1
+DAR|Entregar|1
+SER|Existir|1
+ESTAR|Encontrarse en un lugar|1
+TENER|Poseer|1
+HACER|Fabricar, crear|1
+DECIR|Expresar con palabras|1
+PONER|Colocar|1
+SABER|Conocer|1
+QUERER|Desear|1
+PODER|Tener capacidad|1
+VENIR|Llegar|1
+SALIR|Ir afuera|1
+PASAR|Atravesar|1
+LLEGAR|Arribar|1
+LLEVAR|Transportar|1
+SEGUIR|Ir detrás|1
+PENSAR|Razonar|1
+CREER|Tener fe|1
+ACABAR|Terminar|1
+COSER|Unir con hilo y aguja|1
+TEJER|Hacer punto con agujas|1
+PINTAR|Cubrir de color|1
+BORDAR|Adornar la tela con hilo|2
+REGAR|Echar agua a las plantas|1
+PODAR|Cortar ramas|2
+SEMBRAR|Echar semillas|1
+COSECHAR|Recoger los frutos|1
+OLER|Percibir olores|1
+TOCAR|Palpar; hacer sonar un instrumento|1
+ROMPER|Quebrar|1
+ARMAR|Montar|1
+SECAR|Quitar la humedad|1
+SUMAR|Adicionar|1
+RESTAR|Quitar una cantidad|1
+NOTAR|Advertir|2
+ROTAR|Girar|2
+REMAR|Mover los remos|1
+RODAR|Dar vueltas|1
+NEVAR|Caer nieve|1
+TALAR|Cortar árboles|2
+ATAR|Amarrar|1
+OTRA|No esta|1
+ROTO|Quebrado|1
+RATA|Roedor grande|1
+TORO|Animal bravo de las corridas|1
+TAPA|Cubierta de un recipiente|1
+PALA|Herramienta para cavar|1
+SAPO|Batracio|1
+SOPA|Comida caldosa|1
+COPA|Vaso con pie|1
+CAPA|Prenda de Drácula|1
+MAPA|Plano|1
+PATA|Pierna de un animal|1
+LOTE|Porción de terreno|2
+NOTA|Apunte|1
+NATA|Crema de la leche|1
+TELA|Tejido|1
+VELA|De los barcos y de las tortas|1
+MALA|Femenino de malo|1
+SALA|Habitación principal|1
+POSA|Del verbo posar|2
+ROSA|Flor de San Valentín|1
+OSAR|Atreverse|2
+ORAR|Rezar|1
+AMAR|Querer|1
+ALAR|Del ala|3
+ARENA|Del desierto|1
+ARETE|Pendiente|2
+ESTERA|Alfombra de junco|3
+OTERO|Cerro aislado|3
+ENERO|Mes de verano en Argentina|1
+AREPA|Torta de maíz venezolana|2
+ARAÑA|Arácnido|1
+NENE|Niño pequeño|1
+NANA|Canción de cuna|2
+TATA|Abuelo, familiarmente|2
+SIESTA|Descanso después del almuerzo|1
+ALUMNA|Estudiante mujer|1
+ARENAL|Terreno arenoso|3
+ASTUTO|Sagaz|2
+ATALAYA|Torre de vigilancia|3
+ARENOSO|Con arena|2
+ELENA|Bella esposa de Menelao|3
+IRENE|Nombre de mujer que significa paz|2
+LAURA|Amada de Petrarca|3
+ELSA|Nombre de mujer|2
+INES|Nombre de mujer|2
+OSCAR|Premio de Hollywood|1
+TINA|Bañera|2
+NOTICIA|Novedad|1
+RESTO|Lo que queda|1
+TESTA|Cabeza|3
+TERCO|Obstinado|1
+TECLA|Pieza que se pulsa|1
+SECTA|Grupo religioso cerrado|3
+ESTOLA|Banda de piel para el cuello|3
+CANTO|Acción de cantar|1
+SANTO|Persona canonizada|1
+MANTA|Frazada|1
+PLANTA|Vegetal|1
+SALTO|Brinco|1
+ASALTO|Atraco|2
+ESCALA|Serie de notas; escalera|2
+OCTAVO|Que sigue al séptimo|2
+TACO|Parte del zapato|1
+SACO|Bolsa grande|1
+LAZO|Nudo decorativo|1
+RIZO|Bucle de pelo|2
+POZO|Hoyo|1
+ZONA|Región|1
+ZUMO|Jugo|2
+ZETA|Última letra del abecedario|1
+ZAGUAN|Entrada de una casa antigua|2
+ZOCALO|Franja inferior de la pared|3
+ZARPA|Mano de las fieras|2
+ZURDO|Que usa la mano izquierda|1
+ZONZO|Tonto|2
+ZAPATILLA|Calzado deportivo|1
+ZORRA|Hembra del zorro|1
+QUINCE|Número que sigue al catorce|1
+QUIETO|Inmóvil|1
+QUINTA|Casa de campo|2
+QUESO|Lácteo maduro|1
+QUILLA|Pieza que sostiene el casco de un barco|3
+QUINIELA|Juego de azar argentino|2
+QUENA|Flauta andina|3
+KILO|Mil gramos|1
+KIOSCO|Pequeña tienda de golosinas|1
+KARATE|Arte marcial japonés|1
+KOALA|Marsupial australiano de los eucaliptos|1
+KIWI|Fruta verde peluda|1
+YACARE|Caimán del litoral|3
+YUNQUE|Bloque de hierro del herrero|2
+YOGA|Disciplina oriental de posturas|1
+YEMA|Parte amarilla del huevo|1
+YUGO|Pieza que une a los bueyes|3
+YODO|Elemento químico desinfectante|2
+YERNO|Marido de la hija|2
+YESCA|Material seco que arde fácil|3
+WAFLE|Barquillo de cuadritos|3
+XILOFON|Instrumento de láminas que se golpean|2
+UBRE|Mama de la vaca|2
+UMBRAL|Parte inferior de la puerta|2
+UNICO|Solo en su especie|1
+URBANO|De la ciudad|2
+UTIL|Que sirve|1
+UVAS|Frutos de la parra|1
+UTOPIA|Ideal irrealizable|2
+UNIFORME|Ropa igual para todos|2
+HABANO|Cigarro cubano|2
+HALCON|Ave rapaz veloz|2
+HARINA|Polvo de trigo molido|1
+HAMBRE|Ganas de comer|1
+HELADO|Postre congelado|1
+HIERRO|Metal duro|1
+HOMBRE|Varón|1
+HORMIGA|Insecto laborioso|1
+HUERTA|Terreno de verduras|2
+HUMILDE|Modesto|2
+ICONO|Imagen religiosa|2
+IGUANA|Reptil verde|2
+INVENTO|Creación nueva|2
+ISLA|Porción de tierra rodeada de agua|1
+IDIOMA|Lengua de un pueblo|1
+IMPERIO|Reino muy extenso|2
+INFIERNO|Lugar de condenación|2
+INSECTO|Animal de seis patas|1
+JAMON|Pierna de cerdo curada|1
+JARABE|Remedio dulce líquido|2
+JINETE|El que monta a caballo|2
+JUGO|Zumo de fruta|1
+JUNIO|Mes del aguinaldo|1
+JUSTICIA|Dar a cada uno lo suyo|2
+JOROBA|Bulto en la espalda|2
+VAJILLA|Conjunto de platos y tazas|2
+VALIENTE|Valeroso|1
+VECINDAD|Conjunto de vecinos|2
+VELOZ|Rápido|1
+VERDURA|Hortaliza|1
+VIUDA|Mujer cuyo marido murió|2
+VOLUMEN|Espacio que ocupa un cuerpo; tomo|2
+BALCON|Saliente con baranda|1
+BARBA|Pelo de la cara|1
+BIGOTE|Pelo sobre el labio superior|1
+BLUSA|Prenda femenina superior|1
+BODA|Casamiento|1
+BOTA|Calzado alto|1
+BRUJO|Hechicero|1
+GAFAS|Anteojos|2
+GORRA|Prenda con visera|1
+GUANTE|Prenda para la mano|1
+GUSANO|Larva sin patas|1
+GIGANTE|De estatura enorme|1
+GLOBO|Se infla en los cumpleaños|1
+GRILLO|Insecto que canta de noche|1
+FLECHA|Proyectil del arco|1
+FOGATA|Fuego al aire libre|2
+FRESA|Frutilla|1
+FRUTA|Fruto comestible|1
+PAJARO|Ave pequeña|1
+PALOMA|Mensajera|1
+PANDA|Oso blanco y negro|1
+PATRON|Jefe|2
+PESCADO|Pez sacado del agua para comer|1
+PIMIENTA|Especia picante|1
+PINO|Árbol de las piñas|1
+PIRAMIDE|Monumento egipcio|1
+PLATANO|Banana|2
+POLLO|Cría de la gallina|1
+PUMA|Felino americano|2
+TAPIR|Mamífero de trompa corta|3
+TEJON|Mamífero excavador|3
+TUCAN|Ave de pico enorme y colorido|2
+VICUÑA|Camélido andino de lana fina|2
+LLAMA|Camélido andino; también fuego|1
+CONDOR|Ave de los Andes|1
+ÑANDU|Ave corredora de la pampa|2
+ÑU|Antílope africano|2
+ÑOQUI|Pasta que se come el 29|1
+CHAJA|Ave del litoral que grita|3
+CARPINCHO|Roedor más grande del mundo|2
+GUANACO|Camélido patagónico|2
+MULITA|Armadillo pequeño|3
+PECARI|Cerdo salvaje americano|3
+CUIS|Pequeño roedor de campo|3
+MATAMBRE|Corte de carne que se rellena|2
+CHORIZO|Embutido del asado|1
+MORCILLA|Embutido de sangre|2
+CHIMICHURRI|Salsa del asado|2
+DULCE DE LECHE|Dulce argentino|1
+LOCRO|Guiso patrio de maíz|2
+HUMITA|Pasta de choclo|2
+TAMAL|Masa de maíz envuelta en chala|2
+PUCHERO|Cocido de carne y verduras|2
+MILANESA|Carne empanada y frita|1
+PROVOLETA|Queso a la parrilla|2
+FACTURA|Masas dulces de panadería|1
+MEDIALUNA|Factura con forma creciente|1
+CHURRO|Masa frita alargada|1
+BIZCOCHO|Masa horneada esponjosa|1
+MERMELADA|Dulce de fruta|1
+CANELA|Especia en rama|1
+OREGANO|Hierba de la pizza|2
+COMINO|Especia de las empanadas|2
+PEREJIL|Hierba verde de la salsa|1
+LAUREL|Hoja del guiso|2
+ROMERO|Hierba aromática|2

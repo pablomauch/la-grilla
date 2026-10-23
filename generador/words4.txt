@@ -1,0 +1,318 @@
+ALELI|Flor de jardín muy perfumada|2
+AJI|Pimiento picante|1
+ALHELI|Alelí|3
+BALADI|Insignificante, sin importancia|3
+COLIBRI|Picaflor|2
+ESQUI|Tabla para deslizarse en la nieve|1
+JABALI|Cerdo salvaje|2
+MARROQUI|Natural de Marruecos|2
+ISRAELI|Natural de Israel|3
+IRAQUI|Natural de Irak|3
+PIRULI|Caramelo con palito|2
+SURUBI|Pez grande de los ríos argentinos|3
+OKAPI|Pariente africano de la jirafa|3
+OMBU|Árbol solitario de la llanura|2
+ORAL|Relativo a la boca; examen hablado|2
+OJAL|Abertura para el botón|1
+OVAL|De forma de huevo|2
+OPAL|Tejido fino de algodón|3
+ORIGINAL|Que no es copia|2
+OFICIAL|Que proviene de la autoridad|2
+OCCIDENTAL|Del oeste|2
+ORIENTAL|Del este; uruguayo|2
+ESPIRAL|Curva que gira alejándose del centro|2
+ESCOLAR|Relativo a la escuela|1
+ESPAÑOL|Natural de España|1
+ELEGIBLE|Que puede ser elegido|3
+ESTIVAL|Del verano|3
+EDIL|Concejal|3
+ESTABLO|Lugar donde se guarda el ganado|2
+ELASTICO|Que se estira|2
+IDEAL|Perfecto, modelo|2
+INFANTIL|Propio de los niños|1
+ISABEL|Reina Católica|2
+IMPAR|Número no divisible por dos|1
+IMITAR|Copiar, remedar|1
+IGUALAR|Poner al mismo nivel|2
+INVITAR|Convidar|1
+IR|Desplazarse|1
+INVENTAR|Crear algo nuevo|1
+INVERNAL|Del invierno|2
+INTEGRAL|Completo; pan con salvado|2
+IMPERIAL|Del imperio|2
+INDUSTRIAL|De la industria|2
+ATAUD|Féretro|2
+AZIMUT|Ángulo de orientación en astronomía|3
+AMULETO|Talismán de la suerte|2
+AFAN|Empeño, esfuerzo|2
+ADAN|Primer hombre según la Biblia|1
+ALBUM|Libro de figuritas|1
+ARMAZON|Estructura de sostén|2
+AGUJA|Sirve para coser|1
+ALDABA|Llamador de una puerta|3
+ADIOS|Saludo de despedida|1
+ALTAVOZ|Parlante|2
+ANTIFAZ|Careta|2
+AVESTRUZ|Ave que corre muy rápido|2
+ARCABUZ|Antigua arma de fuego|3
+AZUZ|Del verbo azuzar|3
+RED|Malla para pescar|1
+REDONDEZ|Cualidad de redondo|3
+RAPIDEZ|Velocidad|2
+RIGIDEZ|Dureza, inflexibilidad|3
+RAMADA|Cobertizo hecho con ramas|3
+RECTITUD|Honestidad|3
+RUIDO|Sonido molesto|1
+REGALIZ|Raíz dulce|3
+RELOJ|Marca la hora|1
+REQUIEM|Misa de difuntos|3
+RON|Bebida de caña de azúcar|2
+RAGU|Guiso de carne|3
+RENU|Del verbo...|9
+RUBOR|Color de la vergüenza|2
+RUMOR|Murmullo; chisme|2
+RIVAL|Contrincante|1
+REAL|Verdadero; propio del rey|1
+RURAL|Del campo|1
+RUFIAN|Sinvergüenza|3
+RUIN|Vil, mezquino|2
+RADAR|Detecta objetos a distancia|2
+RIGOR|Severidad|2
+OQUEDAD|Espacio hueco|3
+OLVIDAD|Del verbo olvidar|9
+OSCURIDAD|Falta de luz|1
+OCIOSIDAD|Pereza|3
+ORFANDAD|Condición de huérfano|3
+ORDEN|Disposición, organización|1
+OLOR|Lo que capta el olfato|1
+OTOR|...|9
+OPINION|Parecer|2
+OBEDECER|Cumplir órdenes|1
+OXIGENO|Gas que respiramos|2
+OPORTUNIDAD|Ocasión|2
+MITIN|Reunión política|3
+MAMUT|Elefante prehistórico peludo|2
+MAGNOLIA|Flor grande y blanca|3
+MATIZ|Gradación de un color|2
+MAIZAL|Plantación de maíz|2
+MANIQUI|Muñeco de las vidrieras|2
+MAMBRU|Se fue a la guerra|3
+MARABU|Ave zancuda africana|3
+MENU|Carta de comidas|1
+MUSEO|Exposición de arte|1
+MANANTIAL|Fuente natural de agua|2
+MAL|Lo contrario del bien|1
+MIL|Diez veces cien|1
+MOVIL|Que se mueve; celular|2
+METAL|Material como el hierro o el oro|1
+MORTAL|Que ha de morir|2
+MURAL|Pintura sobre una pared|2
+ETNICO|Relativo a una etnia|3
+EXIT|...|9
+ECU|...|9
+EMU|Ave australiana corredora|3
+EUNUCO|Guardián del harén|3
+EDREDON|Cobertor relleno de plumas|2
+EDAD|Años de vida|1
+ENRED|...|9
+EJE|Barra sobre la que gira una rueda|2
+ESBELT|...|9
+EBRIO|Borracho|2
+EMBUDO|Sirve para trasvasar líquidos|2
+EUCALIPTO|Árbol de hojas aromáticas|2
+ENTENDIMIENTO|Inteligencia, razón|3
+ESMOQUIN|Traje de etiqueta|3
+ESTUPOR|Asombro|3
+EDITOR|Publica libros|2
+ECUADOR|Línea imaginaria que divide la Tierra|1
+EMPERADOR|Soberano de un imperio|2
+ESCRITOR|Autor de libros|1
+ESCULTOR|Hace estatuas|2
+ESPECTADOR|El que mira un espectáculo|2
+EXPLORADOR|Viajero que descubre lugares|2
+ERROR|Equivocación|1
+ESTUDIANTIL|De los estudiantes|2
+ESTADIO|Cancha grande|1
+LIBERTAD|Estado de ser libre|1
+LEALTAD|Fidelidad|2
+LENTITUD|Calma excesiva|2
+LUCIDEZ|Claridad mental|3
+LIVIANDAD|Ligereza|3
+LAMBETAZO|Lengüetazo|3
+LAPIZ|Sirve para dibujar|1
+LUMBAGO|Dolor de cintura|3
+LATIGO|Azote|2
+LECHUGA|Verdura de la ensalada|1
+LITIO|Metal de las baterías|3
+LADRILLO|Bloque para construir paredes|1
+TIEMPO|Lo que mide el reloj|1
+TEMOR|Miedo|1
+TENOR|Cantante de voz aguda|2
+TUMOR|Bulto anormal|3
+TUTOR|Guía, protector|2
+TRACTOR|Vehículo agrícola|1
+TELEVISOR|Aparato para ver programas|1
+TAMBOR|Instrumento de percusión|1
+TERROR|Miedo intenso|1
+TIMBAL|Tambor grande|3
+TOTAL|Suma|1
+TRIBAL|De la tribu|3
+TROPICAL|Del trópico|2
+TUNEL|Paso subterráneo|1
+TONEL|Barril grande|2
+TERMINAL|Estación final|2
+TEXTIL|Relativo a los tejidos|2
+TABU|Prohibición|2
+TIRAMISU|Postre italiano de café|2
+TOTEM|Emblema tribal|3
+TULIPAN|Flor holandesa|2
+TAZON|Taza grande|1
+TALON|Parte trasera del pie|1
+TELON|Cortina del escenario|2
+TIMON|Rueda del barco|2
+TIBURON|Escualo|1
+TORREON|Torre grande de un castillo|3
+TRAIDOR|Desleal|2
+TRAMPOLIN|Tabla para saltar al agua|2
+DUENDE|Espíritu travieso|2
+DEBUT|Primera actuación|2
+DOLMEN|Monumento megalítico|3
+DIOS|Ser supremo|1
+DESIERTO|Lugar árido|1
+DIVAN|Sofá sin respaldo|2
+DIFICIL|Complicado|1
+DOCIL|Obediente|2
+DUCTIL|Maleable|3
+DIGITAL|Relativo a los dedos o los números|2
+DORMITORIO|Habitación para dormir|1
+HABITAT|Lugar donde vive una especie|2
+HOTEL|Alojamiento para viajeros|1
+HOSTAL|Hotel modesto|2
+HUMEDAD|Agua en el aire|2
+HERMANDAD|Fraternidad|2
+HIGADO|Órgano que segrega bilis|2
+HIGUERA|Árbol del higo|2
+HAMBRIENTO|Con mucha hambre|1
+HOLGAZAN|Perezoso|2
+GABAN|Abrigo|3
+GALAN|Hombre apuesto|2
+GLOTON|Que come mucho|1
+GIRASOL|Flor que mira al sol|1
+GLOBAL|Mundial|2
+GENERAL|Común; grado militar|1
+GUAPO|Lindo; valiente|1
+GOURMET|Experto en buena comida|3
+GORRION|Pájaro pequeño muy común|2
+GURU|Maestro espiritual|2
+CHAMPU|Jabón para el pelo|1
+CANCU|...|9
+CARIBU|Reno de América del Norte|3
+CUSCUS|Sémola africana|3
+CAMPUS|Terreno de la universidad|2
+CARACU|Hueso con médula|3
+CENIT|Punto más alto del cielo|3
+CLIP|Sujetapapeles|1
+CHIP|Circuito diminuto|1
+CENTIMETRO|Centésima parte del metro|1
+CRUCIGRAMA|Pasatiempo de palabras cruzadas|1
+CRIMEN|Delito grave|2
+CALIBRE|Diámetro de un caño|3
+CARIDAD|Virtud de ayudar al prójimo|2
+CIUDADANO|Habitante de una ciudad|1
+NANDU|...|9
+NENUFAR|Planta acuática de grandes hojas|3
+NUDO|Lazo apretado|1
+NOVEL|Principiante|3
+NATAL|Del nacimiento|2
+NAVAL|De la marina|2
+NIVEL|Altura; herramienta de albañil|2
+NOGAL|Árbol de las nueces|2
+NUPCIAL|De la boda|2
+NIRVANA|Estado de paz en el budismo|3
+NIÑEZ|Infancia|1
+VERTIGO|Mareo por la altura|2
+VAIVEN|Movimiento de ida y vuelta|2
+VOCAL|Letra como la A o la E|1
+VIRAL|Que se difunde rápido|2
+VITAL|Imprescindible para la vida|2
+VERBAL|De palabra|2
+VOLUMEN|Intensidad del sonido|2
+VIRREY|Representante del rey en las colonias|2
+VERANIEGO|Del verano|2
+SOLAZ|Esparcimiento|3
+SAGAZ|Astuto|2
+SILBATO|Pito|1
+SEMILLA|Germen de una planta|1
+SOFA|Sillón grande|1
+SIMIL|Comparación|3
+SUTIL|Delicado, fino|2
+SEÑAL|Indicio, aviso|1
+SAMURAI|Guerrero japonés|2
+SITAR|Instrumento de cuerda hindú|3
+SOLAR|Del sol; terreno|2
+SECULAR|Que dura siglos|3
+SUPERIOR|Que está encima|2
+SABOR|Lo que capta el gusto|1
+SUDOR|Transpiración|1
+SEÑOR|Caballero|1
+STOP|...|9
+SIROCO|Viento cálido del Sahara|3
+SALVAJE|Silvestre|1
+SOY|Del verbo ser|1
+WISKY|...|9
+YATAY|Palmera del litoral argentino|3
+GUAU|Ladrido|1
+UNIR|Juntar|1
+URUGUAYO|Natural de Uruguay|1
+UNIVERSAL|De todo el mundo|2
+USUAL|Habitual|2
+UTENSILIO|Herramienta de cocina|2
+USURA|Interés excesivo de un préstamo|3
+FIEL|Leal|1
+FACIL|Sencillo|1
+FATAL|Mortal; desgraciado|2
+FERIAL|De la feria|3
+FINAL|Término|1
+FLOR|La rosa es una|1
+FUROR|Furia; gran éxito|2
+FAVOR|Ayuda, gracia|1
+FERVOR|Entusiasmo|2
+FULGOR|Resplandor|3
+FRAUDE|Engaño|2
+FUSIL|Arma larga de fuego|2
+FRAGIL|Que se rompe fácil|1
+PINCEL|Útil del pintor|1
+PAPEL|Hoja de árbol muerto|1
+PANAL|Casa de las abejas|1
+PLURAL|Más de uno|1
+PUÑAL|Cuchillo de hoja corta|2
+PEDAL|Palanca que se acciona con el pie|1
+PORTAL|Puerta principal|2
+PUEBLO|Aldea|1
+PIRATA|Bucanero|1
+QUINTAL|Cien kilos|3
+QUIRURGICO|Relativo a la cirugía|3
+BAUL|Arcón|2
+BIEN|Lo contrario del mal|1
+BEBEDERO|Lugar donde beben los animales|2
+BOTICA|Farmacia antigua|3
+BAMBU|Caña asiática|2
+BISTURI|Cuchillo del cirujano|2
+BENJUI|Resina aromática|3
+BUQUE|Barco grande|1
+KETCHUP|Salsa de tomate|2
+KEPIS|Gorra militar|3
+KERMES|Fiesta popular benéfica|3
+JABOTI|Tortuga terrestre sudamericana|3
+JAGUAR|Yaguareté|2
+JOVIAL|Alegre|2
+JUDICIAL|De la justicia|2
+JUVENIL|De los jóvenes|1
+ZORRAL|...|9
+ZURRON|Bolsa de cuero del pastor|3
+ZODIACO|Las doce constelaciones|2
+ZOOLOGICO|Lugar con animales|1
+XENOFOBIA|Odio al extranjero|3
+YAGUARETE|Gran felino de la selva misionera|2
+YACARE|Caimán|2
+WATERPOLO|Deporte acuático con pelota|3

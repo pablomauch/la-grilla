@@ -1,0 +1,430 @@
+ARA|Altar de sacrificios|2
+ERA|Período histórico|2
+ORA|Del verbo orar|2
+AMO|Dueño, patrón|2
+ASO|Del verbo asar|2
+OSA|Hembra del oso|2
+ATO|Del verbo atar|2
+EGO|El yo, en psicoanálisis|2
+ECO|Repetición de un sonido reflejado|2
+ODA|Composición poética lírica|2
+OPA|Saludo griego en las fiestas|3
+ACA|En este lugar|1
+ALI|Boxeador apodado El más grande|2
+ANO|Final del tubo digestivo|2
+APIO|Hortaliza de tallos largos|1
+ATAR|Sujetar con cuerdas|1
+AREA|Superficie|1
+ARAR|Labrar la tierra|1
+ASAR|Cocinar a la parrilla|1
+ALAS|Las tienen los aviones|1
+ARCO|Arma que lanza flechas|1
+ACTO|Hecho; también parte de una obra teatral|2
+AMOR|Sentimiento que movió a Romeo y Julieta|1
+ANTE|Delante de|2
+ALMA|Espíritu|1
+AIRE|Lo que respiramos|1
+AUTOR|Creador de una obra|1
+ATLAS|Libro de mapas|2
+ACERO|Aleación de hierro y carbono|2
+ACRE|De sabor agrio y picante|3
+ADOBE|Ladrillo de barro secado al sol|2
+ALERO|Parte del tejado que sobresale|2
+ALETA|Miembro del pez para nadar|1
+ALIAS|Apodo|2
+ALUD|Avalancha de nieve|2
+AMAR|Sentir amor|1
+AMENO|Grato, placentero|2
+ANCLA|Sujeta el barco al fondo|1
+ANDEN|Plataforma de una estación de tren|2
+ANIS|Planta aromática; también licor|2
+ANTES|Lo contrario de después|1
+APTO|Idóneo, capaz|2
+ARDOR|Calor intenso; pasión|2
+ARETE|Pendiente, aro para la oreja|2
+ARIA|Pieza de ópera para una voz|3
+ARPA|Instrumento de cuerdas que se pulsan|2
+ARTE|Expresión de belleza|1
+ASCO|Repugnancia|1
+ASTRO|Cuerpo celeste|2
+ATAJO|Camino más corto|2
+ATENEO|Asociación cultural|3
+AVARO|Tacaño, codicioso|2
+AVENA|Cereal de los copos del desayuno|1
+AZAR|Casualidad|2
+AZOR|Ave rapaz diurna|3
+BAHIA|Entrada del mar en la costa|2
+BALADA|Canción romántica lenta|2
+BALSA|Embarcación plana de troncos|2
+BARRO|Tierra mezclada con agua|1
+BASTON|Vara para apoyarse al caminar|1
+BATEA|Recipiente para lavar; también terreno|3
+BAUL|Cofre grande|2
+BEATO|Persona muy devota|3
+BELLO|Hermoso|1
+BESO|Toque con los labios|1
+BOINA|Gorra redonda sin visera|2
+BOLERO|Canción romántica de ritmo lento|2
+BORDE|Orilla, extremo|1
+BRASA|Leña o carbón encendidos|2
+BRISA|Viento suave|1
+BRUJA|Hechicera con escoba|1
+BUZO|Persona que trabaja bajo el agua|2
+CACAO|Semilla del chocolate|2
+CALMA|Tranquilidad|1
+CANOA|Embarcación ligera de remo|2
+CAÑA|Tallo hueco; también de pescar|2
+CAOS|Desorden total|2
+CAPA|Prenda sin mangas de los superhéroes|1
+CARGO|Puesto, empleo|2
+CARIES|Destrucción del diente|2
+CEDRO|Árbol de madera aromática|2
+CENA|Comida de la noche|1
+CERA|Sustancia de las velas|1
+CIMA|Punta de una montaña|1
+CISNE|Ave acuática de cuello largo y blanco|2
+CLAVE|Código secreto|1
+CLAVO|Pieza metálica que se martilla|1
+COBRE|Metal rojizo conductor|2
+COLA|Extremo posterior del animal; también fila|1
+COMA|Signo de puntuación|1
+CORAL|Esqueleto marino calcáreo|2
+CORO|Conjunto de cantantes|1
+COSTA|Orilla del mar|1
+CRÁNEO|Huesos de la cabeza|2
+CRISOL|Recipiente para fundir metales|3
+CUEVA|Cavidad subterránea|1
+CUPULA|Bóveda semiesférica|2
+DAMA|Mujer distinguida; pieza del ajedrez|2
+DARDO|Flecha pequeña que se lanza a mano|2
+DATO|Información|1
+DEDAL|Protege el dedo al coser|2
+DELTA|Desembocadura en forma de triángulo|2
+DESTINO|Hado, sino|2
+DIADEMA|Adorno para la cabeza|2
+DIESTRO|Hábil; que usa la mano derecha|2
+DIOSA|Deidad femenina|2
+DOGMA|Verdad indiscutible|3
+DONCELLA|Mujer joven y virgen|3
+DUELO|Combate entre dos; también pena|2
+DUNA|Montículo de arena|2
+EBANO|Madera negra y dura|2
+ECLIPSE|Ocultación de un astro|2
+EDAD|Años vividos|1
+EDEN|Paraíso terrenal|2
+ELITE|Minoría selecta|2
+ELOGIO|Alabanza|2
+EMIR|Príncipe árabe|3
+ENANO|De estatura muy baja|1
+ENIGMA|Misterio, acertijo|2
+ENOJO|Enfado|1
+ENTE|Ser, entidad|3
+EPICA|Género literario de héroes|3
+EPOCA|Período de tiempo|2
+ERIZO|Mamífero cubierto de púas|2
+ESCUDO|Arma defensiva; emblema|2
+ESENCIA|Lo fundamental de algo|2
+ESTRIBO|Apoyo del pie del jinete|3
+ETAPA|Fase, tramo|2
+ETICA|Parte de la filosofía que trata la moral|2
+EURO|Moneda europea|1
+EXITO|Resultado feliz|1
+FABULA|Relato breve con moraleja|2
+FARO|Torre que guía a los barcos|1
+FAUNA|Conjunto de animales de una región|2
+FIERA|Animal salvaje|2
+FLORA|Conjunto de plantas de una región|2
+FOCA|Mamífero marino que aplaude|1
+FRAGUA|Fogón del herrero|3
+FRESNO|Árbol de madera elástica|3
+FUENTE|Manantial|1
+GAITA|Instrumento de viento escocés|2
+GALA|Fiesta elegante|2
+GAMO|Ciervo de cuernos en pala|3
+GARZA|Ave zancuda de cuello largo|2
+GEMA|Piedra preciosa|2
+GENIO|Persona de talento extraordinario|2
+GLOBO|Esfera; también de cumpleaños|1
+GOTA|Partícula de líquido|1
+GRANO|Semilla de los cereales|1
+GRUTA|Cueva natural|2
+GUIRNALDA|Corona de flores|3
+HADA|Ser fantástico con varita mágica|1
+HAZAÑA|Proeza|2
+HELICE|Parte giratoria de un avión|2
+HEROE|Protagonista valiente|1
+HIEDRA|Planta trepadora|2
+HIELO|Agua congelada|1
+HILO|Hebra para coser|1
+HOGAR|Casa, morada|1
+HORIZONTE|Línea donde parecen juntarse cielo y tierra|2
+HUELLA|Marca que deja el pie|1
+IDOLO|Figura venerada|2
+IGLU|Vivienda esquimal de hielo|2
+IMAN|Atrae el hierro|1
+INDICE|Lista de contenidos de un libro|2
+ISLOTE|Isla pequeña|2
+JADE|Piedra verde ornamental|3
+JARRA|Recipiente con asa para servir|1
+JAULA|Encierra a los pájaros|1
+JOYA|Alhaja|1
+JUEZ|Quien dicta sentencia|1
+JUNCO|Planta de tallos rectos de los pantanos|3
+JURADO|Grupo que juzga un concurso|2
+LABIO|Borde de la boca|1
+LAGRIMA|Gota que sale del ojo al llorar|1
+LANA|Pelo de la oveja|1
+LANZA|Arma de asta larga|2
+LATA|Envase metálico|1
+LAUREL|Hoja aromática de los guisos|2
+LEMA|Frase que expresa un ideal|2
+LENTE|Cristal que aumenta la imagen|2
+LEÑA|Madera para el fuego|1
+LIEBRE|Animal parecido al conejo, más veloz|2
+LIRA|Instrumento de cuerdas de la antigua Grecia|2
+LIRIO|Flor de la realeza francesa|3
+LOMA|Altura pequeña del terreno|2
+LORO|Ave parlanchina|1
+LOTO|Flor sagrada acuática|2
+MAGIA|Arte de hacer prodigios|1
+MALVA|Planta de flores violáceas|3
+MANTO|Capa larga|2
+MAREA|Subida y bajada del mar|2
+MARFIL|Material de los colmillos del elefante|2
+MEDALLA|Premio de metal colgado al cuello|1
+MELODIA|Sucesión armoniosa de sonidos|2
+METRO|Unidad de longitud; también subte|1
+MIRLO|Pájaro negro de pico amarillo|3
+MITO|Leyenda fabulosa|2
+MOLINO|Máquina que muele granos|2
+MORAL|Ética; también árbol de moras|2
+MUSA|Diosa inspiradora de las artes|2
+MUSEO|Lugar donde se exhiben obras de arte|1
+NACAR|Capa brillante del interior de las conchas|3
+NAVE|Barco; también espacial|2
+NECTAR|Jugo dulce de las flores|2
+NIDO|Casa del pájaro|1
+NIEBLA|Nube a ras del suelo|2
+NOBLE|De linaje aristocrático|2
+NORIA|Rueda de feria|2
+NOVELA|Obra narrativa extensa|1
+NUCA|Parte posterior del cuello|2
+OASIS|Lugar con agua en el desierto|2
+OBRA|Producto de un trabajo|1
+OCASO|Puesta del sol|2
+OCEANO|Mar muy extenso|1
+OLIVO|Árbol que da aceitunas|2
+OLMO|Árbol de sombra frondosa|3
+OPERA|Obra teatral cantada|2
+ORACION|Plegaria|2
+ORBITA|Trayectoria de un planeta|2
+ORCA|Ballena asesina|2
+ORGULLO|Soberbia; también satisfacción|2
+ORIGEN|Principio, comienzo|2
+ORILLA|Borde de un río|1
+OVALO|Figura con forma de huevo|2
+PAGO|Entrega de dinero debido|1
+PALACIO|Residencia de reyes|1
+PALCO|Balcón de un teatro|2
+PAMPA|Llanura argentina|2
+PARAISO|Edén|2
+PASION|Sentimiento intenso|2
+PATRIA|Tierra natal|2
+PAVO|Ave de la cena de Navidad|1
+PERLA|Gema que se forma en la ostra|2
+PIRATA|Ladrón de los mares|1
+PLUMA|Cubre a las aves|1
+POEMA|Obra en verso|1
+POETA|Escribe versos|1
+POLEN|Polvillo de las flores|2
+PORTAL|Entrada de una casa|2
+POZO|Hoyo profundo para sacar agua|1
+PRADO|Terreno de pasto|2
+PRISMA|Cuerpo geométrico que descompone la luz|3
+PUERTO|Lugar donde atracan los barcos|1
+PULGA|Insecto saltarín parásito|2
+QUIMERA|Ilusión imposible|3
+RANCHO|Choza; también comida colectiva|2
+REMO|Pala para mover un bote|1
+RENO|Ciervo de Papá Noel|2
+RIMA|Coincidencia de sonidos al final del verso|2
+RITO|Ceremonia|2
+ROBLE|Árbol de madera muy dura|2
+ROCIO|Gotas de la madrugada sobre las hojas|2
+ROSAL|Planta que da rosas|2
+RUBIO|De pelo claro|1
+RUINA|Restos de un edificio|2
+SABIO|Persona de mucho saber|2
+SABLE|Espada curva|2
+SALMON|Pez que remonta los ríos|2
+SAUCE|Árbol llorón|2
+SELLO|Estampilla|2
+SENDA|Camino estrecho|2
+SIRENA|Mitad mujer, mitad pez|1
+SOMBRA|Silueta oscura que proyecta un cuerpo|1
+SONETO|Poema de catorce versos|3
+TALLER|Lugar de trabajo manual|2
+TEJA|Pieza del techo|2
+TELAR|Máquina para tejer|2
+TEMA|Asunto|1
+TESORO|Riqueza escondida|1
+TIARA|Corona alta|3
+TIMON|Sirve para dirigir un barco|2
+TINTO|Vino de color oscuro|2
+TORRE|Construcción alta y estrecha|1
+TRIGO|Cereal de la harina|1
+TRONO|Asiento del rey|2
+TRUCO|Engaño hábil; juego de naipes argentino|1
+TULIPAN|Flor emblema de Holanda|2
+TUMBA|Sepultura|2
+UNION|Acción de unir|2
+UNIVERSO|Todo lo que existe|2
+URNA|Caja para los votos|2
+VALOR|Coraje|2
+VAPOR|Agua en estado gaseoso|2
+VELERO|Barco a vela|2
+VENADO|Ciervo|2
+VERSO|Línea de un poema|2
+VIAJE|Traslado de un lugar a otro|1
+VIOLIN|Instrumento de cuerda con arco|2
+VIRTUD|Cualidad moral buena|2
+VOLCAN|Montaña que expulsa lava|1
+YATE|Embarcación de recreo de lujo|2
+YEGUA|Hembra del caballo|2
+YESO|Material de los moldes y escayolas|2
+ZAFIRO|Piedra preciosa azul|3
+ZORZAL|Pájaro cantor pampeano|3
+ACACIA|Árbol de flores amarillas|3
+ACUARELA|Pintura diluida en agua|3
+ALBA|Primera luz del día|2
+ALBAHACA|Hierba aromática del pesto|2
+ALCAZAR|Fortaleza árabe|3
+ALDEA|Pueblo pequeño|2
+ALIADO|Socio en una alianza|2
+ALMENDRA|Fruto seco ovalado|2
+ALTAR|Mesa sagrada|2
+AMATISTA|Cuarzo violeta|3
+ANEMONA|Flor; también animal marino|3
+ANTORCHA|Tea encendida|3
+APOGEO|Punto culminante|3
+ARMONIA|Concordancia, equilibrio|2
+AROMA|Olor agradable|2
+ARTESANO|Trabaja con las manos|2
+AURORA|Luz rosada antes de salir el sol|2
+AZAHAR|Flor del naranjo|3
+BALCON|Saliente de una fachada|2
+BANDOLEON|Instrumento del tango|2
+BANDONEON|Instrumento emblemático del tango|2
+BARRANCA|Despeñadero, quebrada|3
+BIOMBO|Mampara plegable|3
+BOHEMIO|De vida libre y artística|3
+BRUJULA|Instrumento que indica el norte|2
+CALANDRIA|Pájaro cantor|3
+CAMALOTE|Planta flotante de los ríos del litoral|3
+CANDIL|Lámpara de aceite|3
+CARAVANA|Grupo de viajeros en fila|2
+CARRUAJE|Coche tirado por caballos|2
+CENTINELA|Soldado que vigila|3
+CEREMONIA|Acto solemne|2
+CIPRES|Árbol de los cementerios|3
+CITARA|Instrumento de cuerda antiguo|3
+CLAVEL|Flor de pétalos dentados|2
+COFRE|Arca para guardar tesoros|2
+COMETA|Astro con cola; barrilete|2
+CREPUSCULO|Claridad al anochecer|3
+CRONICA|Relato de hechos en orden temporal|3
+DECORADO|Escenografía|2
+ELEGIA|Poema de lamento|3
+EMBAJADA|Representación diplomática|2
+ENCINA|Árbol de bellotas|3
+EPOPEYA|Poema épico extenso|3
+ESTANCIA|Gran establecimiento rural|2
+ESTUARIO|Desembocadura ancha de un río|3
+FANTASMA|Espíritu que se aparece|1
+FAROL|Lámpara de calle|2
+GAUCHO|Jinete de la pampa|2
+GIRASOL|Flor que sigue al sol|2
+GLACIAR|Masa de hielo que se desliza|2
+GOLONDRINA|Ave que anuncia la primavera|2
+GUITARRISTA|Toca la guitarra|2
+HECHIZO|Encantamiento|2
+HORNERO|Ave nacional argentina|2
+JACARANDA|Árbol de flores violetas|3
+JAZMIN|Flor blanca muy perfumada|2
+LABERINTO|Lugar de caminos confusos|2
+LAGUNA|Lago pequeño|2
+LECHUZA|Ave nocturna|2
+LEYENDA|Relato tradicional|2
+LUCIERNAGA|Insecto que brilla de noche|2
+MADRESELVA|Planta trepadora de flores perfumadas|3
+MAGNOLIA|Árbol de grandes flores blancas|3
+MALEVO|Malevo, compadrito del tango|3
+MILONGA|Baile y lugar de tango|2
+MIRADOR|Lugar con buena vista|2
+NAUFRAGIO|Hundimiento de un barco|2
+OMBU|Árbol emblemático de la pampa|2
+ORQUIDEA|Flor exótica|2
+PAYADOR|Cantor que improvisa con guitarra|3
+PERGAMINO|Piel preparada para escribir|3
+PINGÜINO|Ave que no vuela de la Patagonia|2
+QUEBRACHO|Árbol de madera durísima|3
+RELAMPAGO|Luz del rayo|2
+SAMBA|Danza brasileña|2
+SERENATA|Música nocturna al pie de una ventana|2
+TERCIOPELO|Tela suave de pelo corto|3
+TROVADOR|Poeta medieval|3
+VENDIMIA|Cosecha de la uva|2
+VIOLETA|Flor y color morado|2
+ZAMBA|Danza folclórica argentina|2
+GARDEL|Zorzal criollo|2
+ESTRIBILLO|Parte que se repite en una canción|2
+ACORDE|Combinación de notas simultáneas|3
+ADAGIO|Movimiento musical lento|3
+ALEGORIA|Representación simbólica|3
+ANAGRAMA|Palabra formada con las letras de otra|3
+ANTIFAZ|Máscara que cubre los ojos|2
+ARCOIRIS|Fenómeno de siete colores|1
+ATAUD|Cajón mortuorio|2
+AVESTRUZ|Ave corredora que esconde la cabeza|2
+BALANZA|Instrumento para pesar|1
+BUFANDA|Prenda para el cuello en invierno|1
+CALENDARIO|Registro de los días del año|1
+CAMELLO|Animal de dos jorobas|1
+CANGURO|Marsupial australiano saltarín|1
+CASTILLO|Fortaleza de los reyes|1
+CHIMENEA|Conducto para el humo|2
+DIAMANTE|Piedra preciosa más dura|2
+DINOSAURIO|Reptil prehistórico gigante|1
+DRAGON|Monstruo que escupe fuego|1
+ESMERALDA|Piedra preciosa verde|2
+ESQUELETO|Armazón de huesos|2
+GUARDAPOLVO|Delantal blanco escolar|2
+HAMACA|Red colgante para descansar|2
+LIBRERIA|Tienda de libros|1
+MANTEL|Cubre la mesa|1
+MOCHILA|Bolso que se lleva en la espalda|1
+PARAGUAS|Protege de la lluvia|1
+PATINES|Calzado con ruedas|1
+PAÑUELO|Pieza de tela para la nariz|1
+TIJERA|Sirve para cortar papel|1
+VALIJA|Maleta|1
+ABANICO|Se agita para darse aire|2
+ACORDEON|Instrumento de fuelle|2
+ALFOMBRA|Cubre el piso|1
+ALMOHADA|Para apoyar la cabeza en la cama|1
+BUFON|Payaso de la corte|2
+CARTERA|Bolso de mano|1
+CORONA|La lleva el rey en la cabeza|1
+ESPADA|Arma blanca larga|1
+TAMBOR|Instrumento de percusión|1
+TROMPETA|Instrumento de viento metal|1
+FLAUTA|Instrumento de viento con agujeros|1
+ARPEGIO|Notas de un acorde sucesivas|3
+DIVA|Cantante célebre|2
+OBOE|Instrumento de viento madera de doble lengüeta|3
+TENOR|Voz masculina aguda|2
+SOPRANO|Voz femenina más aguda|2
+BARITONO|Voz masculina intermedia|3
+LIBRETO|Texto de una ópera|3
+ATRIL|Soporte para la partitura|3
+BATUTA|Varita del director de orquesta|2

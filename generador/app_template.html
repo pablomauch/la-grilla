@@ -1,0 +1,523 @@
+<title>La Grilla</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="theme-color" content="#f7f5ef">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bitter:wght@600;800&display=swap">
+<style>
+/* Layout: una sola columna tipo libreta de pasatiempos; grilla arriba, pista y teclado anclados abajo */
+:root{
+  --paper:#f7f5ef; --card:#ffffff; --ink:#1d2433; --muted:#5d6577; --line:#cfd3dc;
+  --blue:#2346a8; --blue-soft:#dfe6fb; --hi:#ffd84a; --hi-soft:#fff3c2;
+  --ok:#1f7a4d; --ok-soft:#d9f0e3; --bad:#b3261e; --bad-soft:#fbe0dd;
+  --cellblack:#1d2433; --cluecell:#e9ecf3;
+  --f-display:"Bitter", Georgia, "Times New Roman", serif;
+  --f-body:"Atkinson Hyperlegible", "Segoe UI", Roboto, Arial, sans-serif;
+  --scale:1;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#151922; --card:#1e2430; --ink:#eef0f5; --muted:#a3abbd; --line:#39414f;
+  --blue:#8ea9ff; --blue-soft:#26345e; --hi:#e8bf2c; --hi-soft:#4a3f16;
+  --ok:#6fd39d; --ok-soft:#1c3b2b; --bad:#ff8a80; --bad-soft:#4a2320;
+  --cellblack:#07090d; --cluecell:#2a3140; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#151922; --card:#1e2430; --ink:#eef0f5; --muted:#a3abbd; --line:#39414f;
+  --blue:#8ea9ff; --blue-soft:#26345e; --hi:#e8bf2c; --hi-soft:#4a3f16;
+  --ok:#6fd39d; --ok-soft:#1c3b2b; --bad:#ff8a80; --bad-soft:#4a2320;
+  --cellblack:#07090d; --cluecell:#2a3140; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{height:100%}
+#app{height:100%}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:calc(17px * var(--scale));line-height:1.45;-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit}
+button:focus-visible,.cell:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.wrap{max-width:720px;margin:0 auto;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0}
+
+/* ---------- inicio ---------- */
+.home{padding-block:20px 40px;display:flex;flex-direction:column;gap:22px}
+.brand{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.brand h1{font-size:calc(2.3rem * var(--scale));font-weight:800;letter-spacing:-.01em;line-height:1}
+.brand h1 span{display:inline-block;background:var(--hi);color:#1d2433;padding:0 .15em;margin-left:.08em;border-radius:3px}
+.brand p{margin:6px 0 0;color:var(--muted)}
+.counter{display:flex;align-items:baseline;gap:12px;padding:16px 18px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.counter b{font-family:var(--f-display);font-size:calc(2.4rem * var(--scale));line-height:1;font-variant-numeric:tabular-nums;color:var(--blue)}
+.counter div{display:flex;flex-direction:column}
+.counter small{color:var(--muted)}
+.label{font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.seg{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:5px}
+.seg button{border:0;background:transparent;padding:12px 4px;border-radius:8px;font-weight:700;cursor:pointer;min-height:48px}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.types{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.type{display:flex;flex-direction:column;gap:8px;text-align:left;padding:16px;border-radius:12px;background:var(--card);border:1px solid var(--line);cursor:pointer;min-height:150px}
+.type:active{transform:scale(.99)}
+.type h3{font-size:calc(1.2rem * var(--scale))}
+.type p{margin:0;color:var(--muted);font-size:.9rem;flex:1}
+.type .avail{font-weight:700;color:var(--blue);font-variant-numeric:tabular-nums}
+.type .mini{display:grid;gap:2px;width:52px}
+.mini i{display:block;aspect-ratio:1;border:1px solid var(--ink);background:var(--card)}
+.mini i.k{background:var(--cellblack)} .mini i.h{background:var(--hi)}
+.resume{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:14px 16px;border-radius:12px;background:var(--hi-soft);border:1px solid var(--hi);cursor:pointer;text-align:left;width:100%}
+.resume b{display:block}
+.settings{display:flex;flex-direction:column;gap:12px;padding:16px;border:1px dashed var(--line);border-radius:12px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.btn{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:10px 14px;cursor:pointer;font-weight:700;min-height:46px}
+.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+:root[data-theme="dark"] .btn.primary{color:#0b1020}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .btn.primary{color:#0b1020}}
+.btn[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+textarea{width:100%;min-height:80px;font:inherit;font-size:.8rem;padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink)}
+.note{color:var(--muted);font-size:.9rem;margin:0}
+
+/* ---------- juego ---------- */
+.game{display:flex;flex-direction:column;height:100%;min-height:0}
+.board{min-height:0}
+.topbar{display:flex;align-items:center;gap:8px;padding-block:8px;border-bottom:1px solid var(--line);background:var(--paper)}
+.topbar h2{font-size:calc(1.1rem * var(--scale));flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.topbar .sub{color:var(--muted);font-size:.85rem;font-family:var(--f-body);font-weight:400}
+.icon{border:0;background:transparent;width:46px;height:46px;border-radius:10px;cursor:pointer;display:grid;place-items:center;font-size:1.4rem}
+.icon svg{width:24px;height:24px;stroke:currentColor;fill:none;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.board{flex:1;overflow:auto;padding-block:12px 16px}
+.tools{display:flex;gap:6px;flex-wrap:wrap}
+.tools .btn{flex:1;min-width:0;padding:8px 6px;font-size:.88rem;min-height:42px}
+.dock{border-top:1px solid var(--line);background:var(--card);padding-bottom:max(6px, env(safe-area-inset-bottom, 0px))}
+.cluebar{display:flex;align-items:center;gap:8px;padding-block:10px;min-height:58px}
+.cluebar .tag{font-weight:700;background:var(--hi);color:#1d2433;border-radius:6px;padding:2px 8px;font-size:.85rem;white-space:nowrap}
+.cluebar .txt{flex:1;min-width:0;font-size:calc(1.02rem * var(--scale))}
+.kb{display:flex;flex-direction:column;gap:6px;padding-block:4px 6px}
+.kb .r{display:flex;gap:4px;justify-content:center}
+.kb button{flex:1;max-width:46px;height:calc(48px * var(--scale));border:1px solid var(--line);border-radius:7px;background:var(--paper);font-weight:700;font-size:calc(1.12rem * var(--scale));cursor:pointer;touch-action:manipulation;padding:0}
+.kb button.wide{max-width:72px;flex:1.5;font-size:.95rem}
+.kb button:active{background:var(--hi)}
+
+.grid{display:grid;gap:0;margin:0 auto;border:2px solid var(--ink);width:100%;user-select:none;background:var(--ink)}
+.cell{position:relative;aspect-ratio:1;background:var(--card);border:.5px solid var(--line);display:grid;place-items:center;font-weight:700;font-size:var(--cf, 1.3rem);text-transform:uppercase;cursor:pointer;color:var(--ink)}
+.cell.k{background:var(--cellblack);cursor:default}
+.cell .n{position:absolute;top:1px;left:2px;font-size:.5em;font-weight:400;line-height:1;color:var(--muted)}
+.cell.word{background:var(--hi-soft)}
+.cell.cur{background:var(--hi)!important;color:#1d2433}
+.cell.bad{color:var(--bad);background:var(--bad-soft)}
+.cell.rev{color:var(--blue)}
+.cell.solved{background:var(--ok-soft)}
+.cell.q{background:var(--cluecell);font-weight:400;font-size:var(--qf,.5rem);line-height:1.05;place-items:stretch;padding:2px;overflow:hidden;text-transform:none}
+.cell.q .qs{display:flex;flex-direction:column;justify-content:space-around;height:100%;gap:1px}
+.cell.q .qi{hyphens:auto;-webkit-hyphens:auto;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;color:var(--ink)}
+.cell.q .qi.on{color:var(--blue);font-weight:700}
+.cell.q .qi+.qi{border-top:1px solid var(--line);padding-top:1px}
+.cell.q .ar{font-weight:700;color:var(--blue)}
+
+.clues{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:18px}
+@media (max-width:560px){.clues{grid-template-columns:1fr}}
+.clues h3{font-size:1rem;margin-bottom:6px}
+.clues ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
+.clues li{display:flex;gap:8px;padding:6px 8px;border-radius:8px;cursor:pointer}
+.clues li b{min-width:1.6em;text-align:right;font-variant-numeric:tabular-nums}
+.clues li.on{background:var(--hi-soft)}
+.clues li.done{color:var(--muted);text-decoration:line-through}
+
+/* claringrilla */
+.cg-head{display:flex;flex-direction:column;gap:8px;margin-bottom:14px}
+.cg-goal{padding:12px 14px;border-radius:10px;background:var(--blue-soft);font-size:.95rem}
+.cg-read{font-family:var(--f-display);letter-spacing:.14em;font-size:1.05rem;word-break:break-all}
+.syl{display:flex;flex-wrap:wrap;gap:6px}
+.syl button{border:1px solid var(--line);background:var(--card);border-radius:6px;padding:4px 8px;font-weight:700;font-size:calc(.95rem * var(--scale));cursor:pointer;min-height:36px}
+.syl button.used{text-decoration:line-through;color:var(--muted);background:transparent;opacity:.55}
+.cg-rows{display:flex;flex-direction:column;gap:6px}
+.cg-row{display:grid;grid-template-columns:1.8em 1fr;gap:4px 8px;padding:8px;border-radius:10px;border:1px solid transparent}
+.cg-row.on{border-color:var(--hi);background:var(--hi-soft)}
+.cg-row .num{font-weight:700;color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
+.cg-row .def{font-size:calc(.98rem * var(--scale))}
+.cg-row .boxes{grid-column:2;display:flex;gap:3px;flex-wrap:wrap}
+.cg-row .cell{width:calc(34px * var(--scale));--cf:1.1rem;border:1px solid var(--line);border-radius:4px}
+.cg-row .cell.ini{box-shadow:inset 0 -4px 0 var(--blue)}
+.cg-row .cell.fin{box-shadow:inset 0 -4px 0 var(--ok)}
+
+/* sopa */
+.ws{display:grid;margin:0 auto;width:100%;user-select:none;touch-action:none;border:2px solid var(--ink);background:var(--card)}
+.ws .l{aspect-ratio:1;display:grid;place-items:center;font-weight:700;font-size:var(--cf,1.2rem);position:relative;cursor:pointer}
+.ws .l.sel{background:var(--hi)}
+.ws .l.f{background:var(--blue-soft);color:var(--blue)}
+.ws .l.a{background:var(--hi)!important;color:#1d2433}
+.wlist{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:16px}
+.wlist span{font-weight:700;letter-spacing:.05em}
+.wlist span.done{text-decoration:line-through;color:var(--muted)}
+
+/* mensajes */
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom, 0px));background:var(--ink);color:var(--paper);padding:10px 16px;border-radius:10px;font-weight:700;z-index:50;max-width:calc(100% - 32px)}
+.overlay{position:fixed;inset:0;background:rgba(10,14,22,.55);display:grid;place-items:center;z-index:40;padding:20px}
+.dialog{background:var(--card);border-radius:16px;padding:22px;max-width:420px;width:100%;display:flex;flex-direction:column;gap:14px;border:1px solid var(--line)}
+.dialog h3{font-size:1.5rem}
+.dialog p{margin:0}
+@media (prefers-reduced-motion: no-preference){.cell.cur{transition:background .12s}.type{transition:transform .1s}}
+</style>
+
+<div id="app" lang="es"></div>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+"use strict";
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const VERSION = 'v1';
+const TYPES = {
+  claringrilla:{name:'Claringrilla', short:'cg', desc:'Definiciones y sílabas. Las letras iniciales esconden un autor y su obra.'},
+  crucigrama:{name:'Crucigrama', short:'cw', desc:'La grilla clásica con definiciones horizontales y verticales.'},
+  autodefinido:{name:'Autodefinido', short:'ad', desc:'Las definiciones van dentro de la grilla, con flechas.'},
+  sopa:{name:'Sopa de letras', short:'sp', desc:'Encontrá las palabras escondidas en todas las direcciones.'}
+};
+const DIFFS = {1:'Fácil',2:'Medio',3:'Difícil'};
+const gameId = (t,d,i)=>`${VERSION}:${TYPES[t].short}:${d}:${i}`;
+
+/* ---------- guardado ---------- */
+const KEY='lagrilla.v1';
+let S = {done:{}, saves:{}, current:{}, diff:1, scale:1};
+try{ const raw=localStorage.getItem(KEY); if(raw) S=Object.assign(S, JSON.parse(raw)); }catch(e){}
+let dbRef=null;
+function save(){
+  try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){}
+  syncCloud();
+}
+let cloudTimer=null;
+function syncCloud(){
+  if(!dbRef) return;
+  clearTimeout(cloudTimer);
+  cloudTimer=setTimeout(()=>{ dbRef.set({done:S.done, saves:S.saves, current:S.current}).catch(()=>{dbRef=null}); },1500);
+}
+(async()=>{
+  try{
+    if(!window.claude || !claude.use) return;
+    const [db,user]=await Promise.all([claude.use('db'),claude.use('user')]);
+    if(!db||!user) return;
+    const id=await user.id(); if(!id) return;
+    const ref=db.doc('data/users/'+id+'/progreso');
+    const snap=await ref.get();
+    if(snap.exists){
+      const d=snap.data()||{};
+      Object.assign(S.done, d.done||{});
+      for(const k in (d.saves||{})) if(!S.saves[k]) S.saves[k]=d.saves[k];
+      for(const k in (d.current||{})) if(!S.current[k]) S.current[k]=d.current[k];
+      for(const k in S.done) delete S.saves[k];
+      try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){}
+      if(view==='home') renderHome();
+    }
+    dbRef=ref; syncCloud();
+  }catch(e){ dbRef=null; }
+})();
+
+function applyScale(){ document.documentElement.style.setProperty('--scale', S.scale); }
+applyScale();
+
+function counts(t,d){
+  const list=DATA[t][d]||[]; let done=0;
+  for(let i=0;i<list.length;i++) if(S.done[gameId(t,d,i)]) done++;
+  return {total:list.length, left:list.length-done};
+}
+function totalLeft(){ let n=0,t=0; for(const ty in TYPES) for(const d of [1,2,3]){const c=counts(ty,d); n+=c.left; t+=c.total;} return {n,t}; }
+
+const app=document.getElementById('app');
+let view='home', G=null;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function toast(msg){ const t=document.createElement('div'); t.className='toast'; t.textContent=msg; document.body.appendChild(t); setTimeout(()=>t.remove(),2200); }
+
+/* ---------- inicio ---------- */
+function miniFor(t){
+  const pats={claringrilla:'hiiiiikiiiihkiiiiihiiiiik',crucigrama:'iiikiikiiiiiiikkiiiiiikii',autodefinido:'kiiikkiikiiiiiikiikiiiii',sopa:'iiiiiihhhhiiiiiiiiiiiiiii'};
+  return '<span class="mini" style="grid-template-columns:repeat(5,1fr)">'+[...pats[t]].map(c=>`<i class="${c==='k'?'k':c==='h'?'h':''}"></i>`).join('')+'</span>';
+}
+function renderHome(){
+  view='home'; G=null;
+  const tl=totalLeft(), d=S.diff;
+  let resume='';
+  const cur=Object.entries(S.current).filter(([k,v])=>v && S.saves[v] && !S.done[v]);
+  if(cur.length){
+    const [t,id]=cur.sort((a,b)=>(S.saves[b[1]].ts||0)-(S.saves[a[1]].ts||0))[0];
+    const dd=id.split(':')[2];
+    resume=`<button class="resume" data-resume="${t}"><span><span class="label">Seguir jugando</span><b>${TYPES[t].name} · ${DIFFS[dd]}</b></span><span aria-hidden="true">→</span></button>`;
+  }
+  app.innerHTML=`<div class="wrap home">
+    <header class="brand"><div><h1>La <span>Grilla</span></h1><p>Pasatiempos de palabras, sin apuro.</p></div></header>
+    <div class="counter"><b>${tl.n}</b><div><strong>juegos disponibles</strong><small>${tl.t-tl.n} resueltos de ${tl.t}</small></div></div>
+    ${resume}
+    <section style="display:flex;flex-direction:column;gap:8px">
+      <span class="label">Dificultad</span>
+      <div class="seg" role="group" aria-label="Dificultad">${[1,2,3].map(x=>`<button id="d${x}" data-diff="${x}" aria-pressed="${x===d}">${DIFFS[x]}</button>`).join('')}</div>
+    </section>
+    <section style="display:flex;flex-direction:column;gap:8px">
+      <span class="label">Elegí un juego</span>
+      <div class="types">${Object.keys(TYPES).map(t=>{const c=counts(t,d);return `<button class="type" data-type="${t}">${miniFor(t)}<h3>${TYPES[t].name}</h3><p>${TYPES[t].desc}</p><span class="avail">${c.left} por jugar</span></button>`}).join('')}</div>
+    </section>
+    <section class="settings">
+      <span class="label">Ajustes</span>
+      <div class="row"><span>Tamaño de letra</span>${[[1,'Normal'],[1.15,'Grande'],[1.3,'Muy grande']].map(([v,l])=>`<button class="btn" data-scale="${v}" aria-pressed="${S.scale==v}">${l}</button>`).join('')}</div>
+      <p class="note">El progreso se guarda en este teléfono. Para pasarlo a otro, copiá el código de respaldo y pegalo allá.</p>
+      <div class="row"><button class="btn" id="bk-copy">Copiar respaldo</button><button class="btn" id="bk-load">Cargar respaldo</button></div>
+      <textarea id="bk-text" placeholder="Pegá acá un código de respaldo" hidden></textarea>
+    </section>
+  </div>`;
+  app.querySelectorAll('[data-diff]').forEach(b=>b.onclick=()=>{S.diff=+b.dataset.diff; save(); renderHome();});
+  app.querySelectorAll('[data-type]').forEach(b=>b.onclick=()=>openGame(b.dataset.type, S.diff));
+  app.querySelectorAll('[data-scale]').forEach(b=>b.onclick=()=>{S.scale=+b.dataset.scale; applyScale(); save(); renderHome();});
+  const rb=app.querySelector('[data-resume]'); if(rb) rb.onclick=()=>{const t=rb.dataset.resume; const id=S.current[t]; const [,,dd,i]=id.split(':'); startGame(t,+dd,+i);};
+  const ta=app.querySelector('#bk-text');
+  app.querySelector('#bk-copy').onclick=()=>{
+    const code=btoa(unescape(encodeURIComponent(JSON.stringify({done:S.done}))));
+    ta.hidden=false; ta.value=code; ta.select();
+    try{ navigator.clipboard.writeText(code).then(()=>toast('Respaldo copiado'),()=>toast('Seleccioná y copiá el texto')); }catch(e){ toast('Seleccioná y copiá el texto'); }
+  };
+  app.querySelector('#bk-load').onclick=()=>{
+    if(ta.hidden){ ta.hidden=false; ta.value=''; ta.focus(); toast('Pegá el código y tocá otra vez'); return; }
+    try{ const o=JSON.parse(decodeURIComponent(escape(atob(ta.value.trim())))); Object.assign(S.done,o.done||{}); save(); toast('Respaldo cargado'); renderHome(); }
+    catch(e){ toast('Ese código no es válido. Revisá que esté completo.'); }
+  };
+}
+
+function openGame(t,d){
+  const cur=S.current[t];
+  if(cur && S.saves[cur] && !S.done[cur] && +cur.split(':')[2]===d){ const i=+cur.split(':')[3]; return startGame(t,d,i); }
+  const list=DATA[t][d]||[];
+  const free=[]; for(let i=0;i<list.length;i++){ const id=gameId(t,d,i); if(!S.done[id]) free.push(i); }
+  if(!free.length){ dialog('¡Completaste todos!','Ya resolviste todos los juegos de este tipo y dificultad. Probá otra dificultad, o pedí una nueva versión con más juegos.',[['Volver',renderHome]]); return; }
+  const unstarted=free.filter(i=>!S.saves[gameId(t,d,i)]);
+  const pick=(unstarted.length?unstarted:free)[Math.floor(Math.random()*(unstarted.length||free.length))];
+  startGame(t,d,pick);
+}
+function dialog(title,msg,btns){
+  const o=document.createElement('div'); o.className='overlay';
+  o.innerHTML=`<div class="dialog" role="dialog" aria-modal="true"><h3>${esc(title)}</h3><p>${esc(msg)}</p><div class="row"></div></div>`;
+  const r=o.querySelector('.row');
+  btns.forEach(([l,fn,primary],k)=>{const b=document.createElement('button'); b.className='btn'+((primary||k===btns.length-1)?' primary':''); b.textContent=l; b.onclick=()=>{o.remove(); fn&&fn();}; r.appendChild(b);});
+  document.body.appendChild(o);
+  o.querySelector('.btn').focus();
+}
+
+/* ---------- marco de juego ---------- */
+const ICON_BACK='<svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>';
+const ICON_SWAP='<svg viewBox="0 0 24 24"><path d="M7 4v14M3 14l4 4 4-4M17 20V6M13 10l4-4 4 4"/></svg>';
+function shell(t,d,i,{keyboard=true, tools=''}={}){
+  app.innerHTML=`<div class="game">
+    <div class="topbar wrap"><button class="icon" id="back" aria-label="Volver al inicio">${ICON_BACK}</button>
+      <h2>${TYPES[t].name} <span class="sub">· ${DIFFS[d]} · N.º ${i+1}</span></h2></div>
+    <div class="board"><div class="wrap" id="board"></div></div>
+    <div class="dock"><div class="wrap">
+      <div class="tools" style="padding-top:8px">${tools}</div>
+      ${keyboard?`<div class="cluebar" id="cluebar"></div>${kbHTML()}`:''}
+    </div></div>
+  </div>`;
+  app.querySelector('#back').onclick=()=>{ G && G.persist && G.persist(); renderHome(); };
+}
+function kbHTML(){
+  const rows=['QWERTYUIOP','ASDFGHJKLÑ','ZXCVBNM'];
+  return `<div class="kb" id="kb">${rows.map((r,k)=>`<div class="r">${k===2?`<button class="wide" data-k="swap" aria-label="Cambiar dirección">${ICON_SWAP.replace('<svg','<svg width="22" height="22" style="stroke:currentColor;fill:none;stroke-width:2.2"')}</button>`:''}${[...r].map(c=>`<button data-k="${c}">${c}</button>`).join('')}${k===2?'<button class="wide" data-k="del" aria-label="Borrar">⌫</button>':''}</div>`).join('')}</div>`;
+}
+function bindKeys(handler){
+  app.querySelector('#kb').addEventListener('click',e=>{const b=e.target.closest('button'); if(b) handler(b.dataset.k);});
+}
+document.addEventListener('keydown',e=>{
+  if(!G||!G.key||e.target.tagName==='TEXTAREA') return;
+  if(e.metaKey||e.ctrlKey||e.altKey) return;
+  let k=e.key;
+  if(k==='Backspace') k='del'; else if(k===' '||k==='Tab') k='swap';
+  else if(k.startsWith('Arrow')) k=k; else if(/^[a-zñA-ZÑ]$/.test(k)) k=k.toUpperCase(); else return;
+  e.preventDefault(); G.key(k);
+});
+function startGame(t,d,i){
+  const id=gameId(t,d,i); S.current[t]=id; save();
+  const data=DATA[t][d][i];
+  view='game';
+  ({claringrilla:playCG, crucigrama:playCW, autodefinido:playAD, sopa:playWS})[t](t,d,i,id,data);
+}
+function finish(t,d,i,id){
+  S.done[id]=Date.now(); delete S.saves[id]; if(S.current[t]===id) delete S.current[t]; save();
+  const c=counts(t,d);
+  setTimeout(()=>dialog('¡Resuelto!',`Muy bien. Te quedan ${c.left} juegos de ${TYPES[t].name.toLowerCase()} en ${DIFFS[d].toLowerCase()}.`,[['Inicio',renderHome],['Otro juego',()=>openGame(t,d),true]]),350);
+}
+const toolsHTML=(extra='')=>`<button class="btn" id="t-check">Comprobar</button><button class="btn" id="t-hint">Pista</button>${extra}<button class="btn" id="t-give">Ver solución</button>`;
+function confirmGiveUp(fn){ dialog('¿Ver la solución?','Se muestran todas las respuestas. Este juego no cuenta como resuelto y puede volver a aparecer más adelante.',[['Seguir intentando',null],['Ver solución',fn,true]]); }
+
+/* ---------- motor de grilla (crucigrama y autodefinido) ---------- */
+function gridGame(t,d,i,id,data,auto){
+  const R=data.R, C=data.C, sol=data.grid;
+  const saved=S.saves[id]||{};
+  const fill=saved.f || sol.map(r=>r.replace(/[^#]/g,'.'));
+  let F=fill.map(r=>[...r]);
+  const rev=new Set(saved.rev||[]);
+  const words=data.words.map((w,k)=>({...w,k,cells:[...w.a].map((_,j)=>w.d==='A'?[w.r,w.c+j]:[w.r+j,w.c])}));
+  const at={}; words.forEach(w=>w.cells.forEach(([r,c])=>{(at[r+','+c]=at[r+','+c]||{})[w.d]=w;}));
+  const clueAt={}; if(auto) words.forEach(w=>{(clueAt[w.cr+','+w.cc]=clueAt[w.cr+','+w.cc]||[]).push(w);});
+  let cur=saved.cur||[words[0].r,words[0].c], dir=saved.dir||words[0].d;
+  let bad=new Set(), given=false;
+  shell(t,d,i,{tools:toolsHTML()});
+  const board=app.querySelector('#board');
+  const cf = Math.max(14, Math.min(26, (Math.min(window.innerWidth,720)-32)/C*0.55));
+  board.innerHTML=`<div class="grid" id="grid" style="grid-template-columns:repeat(${C},1fr);--cf:${cf*Math.min(S.scale,1.1)}px;--qf:${Math.max(7.5,cf*0.36)}px"></div>${auto?'':`<div class="clues"><div><h3>Horizontales</h3><ol id="cl-A"></ol></div><div><h3>Verticales</h3><ol id="cl-D"></ol></div></div>`}`;
+  const gridEl=board.querySelector('#grid');
+  const cellEls=[];
+  for(let r=0;r<R;r++){ cellEls[r]=[]; for(let c=0;c<C;c++){
+    const el=document.createElement('div'); el.className='cell';
+    const key=r+','+c;
+    if(sol[r][c]==='#'){
+      if(auto && clueAt[key]){
+        el.classList.add('q');
+        const ws=clueAt[key].sort((a,b)=>a.d<b.d?-1:1);
+        el.innerHTML='<div class="qs">'+ws.map(w=>`<span class="qi" data-w="${w.k}"><span class="ar">${w.d==='A'?'→':'↓'}</span> ${esc(w.q)}</span>`).join('')+'</div>';
+        el.onclick=e=>{ const qi=e.target.closest('.qi')||el.querySelector('.qi'); const w=words[+qi.dataset.w]; selectWord(w); };
+      } else el.classList.add('k');
+    } else {
+      el.tabIndex=-1;
+      if(!auto){ const st=words.find(w=>w.r===r&&w.c===c); if(st) el.innerHTML=`<span class="n">${st.n}</span><span class="v"></span>`; }
+      if(!el.querySelector('.v')) el.innerHTML+='<span class="v"></span>';
+      el.onclick=()=>{ if(cur[0]===r&&cur[1]===c){ swapDir(); } else { cur=[r,c]; if(!at[key][dir]) dir=at[key].A?'A':'D'; } paint(); };
+    }
+    gridEl.appendChild(el); cellEls[r][c]=el;
+  }}
+  if(!auto){
+    for(const D of ['A','D']){
+      const ol=board.querySelector('#cl-'+D);
+      words.filter(w=>w.d===D).sort((a,b)=>a.n-b.n).forEach(w=>{const li=document.createElement('li'); li.dataset.w=w.k; li.innerHTML=`<b>${w.n}</b><span>${esc(w.q)} <span style="color:var(--muted)">(${w.a.length})</span></span>`; li.onclick=()=>selectWord(w); ol.appendChild(li);});
+    }
+  }
+  function curWord(){ const a=at[cur[0]+','+cur[1]]; return a[dir]||a.A||a.D; }
+  function selectWord(w){ dir=w.d; const empty=w.cells.find(([r,c])=>F[r][c]==='.'); cur=empty||w.cells[0]; paint(); }
+  function swapDir(){ const a=at[cur[0]+','+cur[1]]; const o=dir==='A'?'D':'A'; if(a[o]) dir=o; }
+  function wordDone(w){ return w.cells.every(([r,c])=>F[r][c]===sol[r][c]); }
+  function paint(){
+    const w=curWord(); dir=w.d;
+    const inW=new Set(w.cells.map(x=>x+''));
+    for(let r=0;r<R;r++) for(let c=0;c<C;c++){
+      if(sol[r][c]==='#') continue;
+      const el=cellEls[r][c]; const k=r+','+c;
+      el.querySelector('.v').textContent=F[r][c]==='.'?'':F[r][c];
+      el.classList.toggle('word',inW.has(k)); el.classList.toggle('cur',cur[0]===r&&cur[1]===c);
+      el.classList.toggle('bad',bad.has(k)); el.classList.toggle('rev',rev.has(k));
+    }
+    app.querySelectorAll('.clues li').forEach(li=>{const ww=words[+li.dataset.w]; li.classList.toggle('on',ww===w); li.classList.toggle('done',wordDone(ww));});
+    app.querySelectorAll('.qi').forEach(q=>q.classList.toggle('on',+q.dataset.w===w.k));
+    app.querySelector('#cluebar').innerHTML=`<span class="tag">${auto?(w.d==='A'?'→':'↓'):(w.n+(w.d==='A'?' Hor.':' Ver.'))}</span><span class="txt">${esc(w.q)} <span style="color:var(--muted)">(${w.a.length})</span></span>`;
+    const li=app.querySelector('.clues li.on');
+  }
+  function persist(){ if(given||S.done[id]) return; S.saves[id]={f:F.map(r=>r.join('')),rev:[...rev],cur,dir,ts:Date.now()}; save(); }
+  function checkDone(){
+    for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#'&&F[r][c]!==sol[r][c]) return false;
+    for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#') cellEls[r][c].classList.add('solved');
+    if(!given) finish(t,d,i,id); return true;
+  }
+  function move(step){
+    const w=curWord(); const idx=w.cells.findIndex(([r,c])=>r===cur[0]&&c===cur[1]);
+    let j=idx+step;
+    if(step>0){ // saltar a la siguiente casilla vacía de la palabra
+      while(j<w.cells.length && F[w.cells[j][0]][w.cells[j][1]]!=='.' ) j++;
+      if(j>=w.cells.length){ j=idx+1; if(j>=w.cells.length){ nextWord(); return; } }
+    }
+    if(j>=0&&j<w.cells.length) cur=w.cells[j];
+  }
+  function nextWord(){
+    const order=words.slice().sort((a,b)=>a.d===b.d?(auto?0:a.n-b.n):(a.d<b.d?-1:1));
+    const w=curWord(); let k=order.indexOf(w);
+    for(let s=1;s<=order.length;s++){ const nw=order[(k+s)%order.length]; if(!wordDone(nw)){ selectWord(nw); return; } }
+  }
+  G={persist,key(k){
+    if(given) return;
+    if(k==='swap'){ swapDir(); }
+    else if(k==='del'){ const key=cur.join(','); if(F[cur[0]][cur[1]]==='.'||rev.has(key)){ move(-1); } if(!rev.has(cur.join(','))) F[cur[0]][cur[1]]='.'; bad.delete(cur.join(',')); }
+    else if(k.startsWith('Arrow')){ const dd={ArrowLeft:[0,-1],ArrowRight:[0,1],ArrowUp:[-1,0],ArrowDown:[1,0]}[k]; let r=cur[0]+dd[0],c=cur[1]+dd[1]; while(r>=0&&r<R&&c>=0&&c<C&&sol[r][c]==='#'){r+=dd[0];c+=dd[1];} if(r>=0&&r<R&&c>=0&&c<C){cur=[r,c]; const a=at[r+','+c]; if(!a[dir]) dir=a.A?'A':'D';} }
+    else { const key=cur.join(','); if(!rev.has(key)){ F[cur[0]][cur[1]]=k; bad.delete(key);} move(1); }
+    paint(); persist(); checkDone();
+  }};
+  bindKeys(k=>G.key(k));
+  app.querySelector('#t-check').onclick=()=>{ bad.clear(); let n=0; for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#'&&F[r][c]!=='.'&&F[r][c]!==sol[r][c]){bad.add(r+','+c);n++;} paint(); toast(n?`Hay ${n} letra${n>1?'s':''} para revisar`:'Todo lo escrito está bien'); };
+  app.querySelector('#t-hint').onclick=()=>{ const w=curWord(); const target=w.cells.find(([r,c])=>F[r][c]!==sol[r][c]); if(!target){toast('Esta palabra ya está bien');return;} const [r,c]=target; F[r][c]=sol[r][c]; rev.add(r+','+c); bad.delete(r+','+c); cur=[r,c]; paint(); persist(); checkDone(); };
+  app.querySelector('#t-give').onclick=()=>confirmGiveUp(()=>{ given=true; for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#'&&F[r][c]!==sol[r][c]){F[r][c]=sol[r][c]; rev.add(r+','+c);} delete S.saves[id]; delete S.current[t]; save(); paint(); toast('Solución a la vista. Este juego sigue disponible.'); });
+  paint();
+}
+function playCW(t,d,i,id,data){ gridGame(t,d,i,id,data,false); }
+function playAD(t,d,i,id,data){ gridGame(t,d,i,id,data,true); }
+
+/* ---------- claringrilla ---------- */
+function playCG(t,d,i,id,data){
+  const rows=data.rows, n=rows.length;
+  const saved=S.saves[id]||{};
+  let F=saved.f||rows.map(r=>'.'.repeat(r.a.length)); F=F.map(s=>[...s]);
+  const rev=new Set(saved.rev||[]); const crossed=new Set(saved.x||[]);
+  let cur=saved.cur||[0,0], bad=new Set(), given=false;
+  const clasica=data.mode==='clasica';
+  shell(t,d,i,{tools:toolsHTML()});
+  const board=app.querySelector('#board');
+  const goal = clasica
+    ? `Las <b>iniciales</b> (en azul) forman el nombre de un autor y las <b>finales</b> (en verde), el título de una de sus obras. Usá cada sílaba una sola vez.`
+    : `Las <b>iniciales</b> de las respuestas, leídas de arriba hacia abajo, forman el nombre de un autor y una de sus obras (${data.author.replace(/ /g,'').length} + ${data.work.replace(/ /g,'').length} letras). Usá cada sílaba una sola vez.`;
+  board.innerHTML=`<div class="cg-head"><div class="cg-goal">${goal}<div class="cg-read" id="cg-read" style="margin-top:8px"></div></div>
+    <span class="label">Sílabas (tocá para tacharlas)</span><div class="syl" id="syl"></div></div><div class="cg-rows" id="rows"></div>`;
+  const sylEl=board.querySelector('#syl');
+  data.syl.forEach((s,k)=>{const b=document.createElement('button'); b.textContent=s; b.dataset.k=k; b.onclick=()=>{crossed.has(k)?crossed.delete(k):crossed.add(k); b.classList.toggle('used'); persist();}; if(crossed.has(k)) b.classList.add('used'); sylEl.appendChild(b);});
+  const rowsEl=board.querySelector('#rows'); const cellEls=[];
+  rows.forEach((r,ri)=>{
+    const div=document.createElement('div'); div.className='cg-row';
+    div.innerHTML=`<span class="num">${ri+1}</span><span class="def">${esc(r.c)}</span><span></span><div class="boxes"></div>`;
+    const bx=div.querySelector('.boxes'); cellEls[ri]=[];
+    [...r.a].forEach((_,ci)=>{const el=document.createElement('div'); el.className='cell'+(ci===0?' ini':'')+(clasica&&ci===r.a.length-1?' fin':''); el.innerHTML='<span class="v"></span>'; el.onclick=()=>{cur=[ri,ci]; paint();}; bx.appendChild(el); cellEls[ri].push(el);});
+    div.querySelector('.def').onclick=()=>{ const e=F[ri].indexOf('.'); cur=[ri,e<0?0:e]; paint(); };
+    rowsEl.appendChild(div);
+  });
+  function rowDone(ri){ return F[ri].join('')===rows[ri].a; }
+  function paint(){
+    rows.forEach((r,ri)=>{ const div=rowsEl.children[ri]; div.classList.toggle('on',ri===cur[0]);
+      cellEls[ri].forEach((el,ci)=>{ el.querySelector('.v').textContent=F[ri][ci]==='.'?'':F[ri][ci]; el.classList.toggle('cur',ri===cur[0]&&ci===cur[1]); el.classList.toggle('word',ri===cur[0]); el.classList.toggle('bad',bad.has(ri+','+ci)); el.classList.toggle('rev',rev.has(ri+','+ci)); el.classList.toggle('solved',rowDone(ri)); }); });
+    const ini=F.map(f=>f[0]==='.'?'·':f[0]).join(''), fin=F.map(f=>f[f.length-1]==='.'?'·':f[f.length-1]).join('');
+    board.querySelector('#cg-read').innerHTML = clasica ? `<span style="color:var(--blue)">${ini}</span><br><span style="color:var(--ok)">${fin}</span>` : `<span style="color:var(--blue)">${ini}</span>`;
+    const r=rows[cur[0]];
+    app.querySelector('#cluebar').innerHTML=`<span class="tag">${cur[0]+1}</span><span class="txt">${esc(r.c)} <span style="color:var(--muted)">(${r.a.length})</span></span>`;
+  }
+  function persist(){ if(given||S.done[id]) return; S.saves[id]={f:F.map(x=>x.join('')),rev:[...rev],x:[...crossed],cur,ts:Date.now()}; save(); }
+  function checkDone(){ if(!rows.every((_,ri)=>rowDone(ri))) return; if(!given){ toast(`${data.author} — ${data.work}`); finish(t,d,i,id);} }
+  function next(){ const [ri,ci]=cur; if(ci+1<rows[ri].a.length){ cur=[ri,ci+1]; return; } for(let s=1;s<=n;s++){ const k=(ri+s)%n; if(!rowDone(k)){ const e=F[k].indexOf('.'); cur=[k,e<0?0:e]; return; } } }
+  G={persist,key(k){
+    if(given) return; const [ri,ci]=cur; const key=ri+','+ci;
+    if(k==='swap'||k==='ArrowDown'){ cur=[(ri+1)%n,0]; }
+    else if(k==='ArrowUp'){ cur=[(ri-1+n)%n,0]; }
+    else if(k==='ArrowLeft'){ cur=[ri,Math.max(0,ci-1)]; }
+    else if(k==='ArrowRight'){ cur=[ri,Math.min(rows[ri].a.length-1,ci+1)]; }
+    else if(k==='del'){ if((F[ri][ci]==='.'||rev.has(key))&&ci>0) cur=[ri,ci-1]; const k2=cur.join(','); if(!rev.has(k2)) F[cur[0]][cur[1]]='.'; bad.delete(k2); }
+    else { if(!rev.has(key)){F[ri][ci]=k; bad.delete(key);} next(); }
+    paint(); persist(); checkDone();
+  }};
+  bindKeys(k=>G.key(k));
+  app.querySelector('#t-check').onclick=()=>{ bad.clear(); let n2=0; rows.forEach((r,ri)=>F[ri].forEach((ch,ci)=>{ if(ch!=='.'&&ch!==r.a[ci]){bad.add(ri+','+ci);n2++;} })); paint(); toast(n2?`Hay ${n2} letra${n2>1?'s':''} para revisar`:'Todo lo escrito está bien'); };
+  app.querySelector('#t-hint').onclick=()=>{ const ri=cur[0]; const ci=[...rows[ri].a].findIndex((ch,k)=>F[ri][k]!==ch); if(ci<0){toast('Esta palabra ya está bien');return;} F[ri][ci]=rows[ri].a[ci]; rev.add(ri+','+ci); cur=[ri,ci]; paint(); persist(); checkDone(); };
+  app.querySelector('#t-give').onclick=()=>confirmGiveUp(()=>{ given=true; rows.forEach((r,ri)=>[...r.a].forEach((ch,ci)=>{ if(F[ri][ci]!==ch){F[ri][ci]=ch; rev.add(ri+','+ci);} })); delete S.saves[id]; delete S.current[t]; save(); paint(); toast(`${data.author} — ${data.work}`); });
+  paint();
+}
+
+/* ---------- sopa de letras ---------- */
+function playWS(t,d,i,id,data){
+  const R=data.R,C=data.C,g=data.grid;
+  const saved=S.saves[id]||{}; const found=new Set(saved.found||[]); let given=false;
+  shell(t,d,i,{keyboard:false,tools:`<button class="btn" id="t-hint">Pista</button><button class="btn" id="t-give">Ver solución</button>`});
+  const board=app.querySelector('#board');
+  const cf=Math.max(13,Math.min(24,(Math.min(window.innerWidth,720)-32)/C*0.55));
+  const dirs=d===1?'horizontal y vertical':d===2?'horizontal, vertical y en diagonal':'en todas las direcciones, también al revés';
+  board.innerHTML=`<p class="note" style="margin:0 0 10px">Tocá la primera y la última letra de cada palabra. Están ${dirs}.</p><div class="ws" id="ws" style="grid-template-columns:repeat(${C},1fr);--cf:${cf*Math.min(S.scale,1.1)}px"></div><div class="wlist" id="wl"></div>`;
+  const ws=board.querySelector('#ws'); const els=[];
+  for(let r=0;r<R;r++){els[r]=[]; for(let c=0;c<C;c++){const el=document.createElement('div'); el.className='l'; el.textContent=g[r][c]; el.dataset.r=r; el.dataset.c=c; ws.appendChild(el); els[r][c]=el;}}
+  let start=null, hintCell=null;
+  const cellsOf=w=>[...w.a].map((_,k)=>[w.r+w.dr*k,w.c+w.dc*k]);
+  function paint(){
+    for(let r=0;r<R;r++) for(let c=0;c<C;c++){ els[r][c].classList.remove('f','sel','a'); }
+    data.words.forEach((w,k)=>{ if(found.has(k)) cellsOf(w).forEach(([r,c])=>els[r][c].classList.add('f')); });
+    if(start) els[start[0]][start[1]].classList.add('sel');
+    if(hintCell) els[hintCell[0]][hintCell[1]].classList.add('a');
+    board.querySelector('#wl').innerHTML=data.words.map((w,k)=>`<span class="${found.has(k)?'done':''}">${w.a}</span>`).join('');
+  }
+  function persist(){ if(given||S.done[id]) return; S.saves[id]={found:[...found],ts:Date.now()}; save(); }
+  function tryWord(a,b){
+    const k=data.words.findIndex((w,k)=>{ if(found.has(k)) return false; const cs=cellsOf(w); const s=cs[0],e=cs[cs.length-1]; return (s[0]===a[0]&&s[1]===a[1]&&e[0]===b[0]&&e[1]===b[1])||(s[0]===b[0]&&s[1]===b[1]&&e[0]===a[0]&&e[1]===a[1]); });
+    if(k>=0){ found.add(k); hintCell=null; toast(data.words[k].a); persist(); if(found.size===data.words.length&&!given) finish(t,d,i,id); }
+    else toast('No es una palabra de la lista');
+  }
+  ws.addEventListener('click',e=>{ const el=e.target.closest('.l'); if(!el||given) return; const p=[+el.dataset.r,+el.dataset.c];
+    if(!start) start=p; else if(start[0]===p[0]&&start[1]===p[1]) start=null; else { tryWord(start,p); start=null; } paint(); });
+  G={persist};
+  app.querySelector('#t-hint').onclick=()=>{ const k=data.words.findIndex((_,k)=>!found.has(k)); if(k<0) return; hintCell=cellsOf(data.words[k])[0]; paint(); toast('La letra marcada es el comienzo de una palabra'); };
+  app.querySelector('#t-give').onclick=()=>confirmGiveUp(()=>{ given=true; data.words.forEach((_,k)=>found.add(k)); delete S.saves[id]; delete S.current[t]; save(); paint(); });
+  paint();
+}
+
+renderHome();
+</script>
