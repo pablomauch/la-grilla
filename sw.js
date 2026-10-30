@@ -1,5 +1,5 @@
 // Subir VERSION en cada cambio para que los teléfonos instalados descarguen la versión nueva.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'la-grilla-' + VERSION;
 const FILES = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];

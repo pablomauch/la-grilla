@@ -1,0 +1,366 @@
+ARA|Altar|2
+ARA|Guacamayo|3
+ERA|Espacio de tierra donde se trillan las mieses|3
+ERA|Período geológico|2
+ORA|Reza|2
+ODA|Poema lírico de tono elevado|2
+OCA|Ánsar|3
+OCA|Juego de mesa de casilleros|2
+ECO|Ninfa enamorada de Narciso|2
+EGO|Yo, en psicoanálisis|2
+ETA|Séptima letra griega|3
+RHO|Letra griega equivalente a la erre|3
+ISA|Canto y baile popular canario|3
+ASA|Agarradera|2
+ESE|Eslabón de una cadena, por su forma|3
+ESE|Letra en forma de zigzag del camino|3
+ASO|Del verbo asar|2
+OSA|Constelación Mayor o Menor|2
+OSO|Hacer el ridículo: hacer el...|2
+ANÍS|Licor de matalahúva|3
+ALA|Costado de un ejército|2
+ALA|Extremo, en el fútbol|2
+OLA|Marejada|2
+ORO|Moneda de la baraja|2
+ARO|Pendiente|2
+ARO|Juego de embocar con canasta|9
+EMIR|Príncipe árabe|2
+EMIRATO|Estado gobernado por un emir|2
+RAJÁ|Soberano de la India|3
+SHA|Rey de Persia|3
+ZAR|Emperador de Rusia|2
+ZARINA|Esposa del zar|2
+KAN|Príncipe tártaro|3
+CALIFA|Sucesor de Mahoma|2
+SULTÁN|Soberano otomano|2
+VISIR|Ministro de un sultán|3
+FARAÓN|Rey del antiguo Egipto|1
+INCA|Soberano del Cuzco|2
+CACIQUE|Jefe indígena|1
+TOQUI|Jefe militar mapuche|3
+ÍNCUBO|Demonio de las pesadillas|3
+TRASGO|Duende travieso|3
+ELFO|Genio del folclore nórdico|2
+GNOMO|Enano de la tierra|2
+NINFA|Deidad de las aguas y los bosques|2
+NÁYADE|Ninfa de los ríos|3
+DRÍADA|Ninfa de los árboles|3
+NEREIDA|Ninfa del mar|3
+SÁTIRO|Semidiós con patas de cabra|2
+FAUNO|Semidiós romano de los campos|2
+CENTAURO|Mitad hombre y mitad caballo|2
+ARPÍA|Mujer de mal carácter|2
+QUIMERA|Monstruo con cabeza de león y cola de dragón|3
+GÁRGOLA|Caño de desagüe con figura monstruosa|2
+GRIFO|Canilla|2
+GRIFO|Animal fabuloso, mitad águila y mitad león|3
+HIDRA|Monstruo de siete cabezas de Lerna|3
+ESFINGE|Persona enigmática|2
+MINOTAURO|Monstruo del laberinto de Creta|2
+CERBERO|Can de tres cabezas del Hades|2
+CARONTE|Barquero del Hades|2
+ESTIGIA|Laguna del infierno griego|3
+LETEO|Río del olvido|3
+OLIMPO|Morada de los dioses griegos|1
+PARNASO|Monte de las musas|3
+ELÍSEOS|Campos de los bienaventurados|3
+AMBROSÍA|Manjar de los dioses|2
+NÉCTAR|Bebida de los dioses|2
+TITÁN|Gigante de la mitología griega|2
+CRONOS|Titán que devoró a sus hijos|3
+GEA|Diosa de la Tierra|3
+URANO|Dios del cielo, padre de los titanes|3
+HERMES|Mensajero de los dioses griegos|2
+HEFESTO|Dios griego de la fragua|3
+VULCANO|Dios romano del fuego y la fragua|2
+DIONISO|Dios griego del vino|2
+BACO|Dios romano del vino|2
+CUPIDO|Dios romano del amor|1
+JANO|Dios romano de dos caras|3
+CERES|Diosa romana de las cosechas|3
+DIANA|Diosa romana de la caza|2
+MINERVA|Diosa romana de la sabiduría|2
+JUNO|Esposa de Júpiter|3
+VESTA|Diosa romana del hogar|3
+ARTEMISA|Diosa griega de la caza|2
+AFRODITA|Diosa nacida de la espuma|2
+PERSÉFONE|Reina del Hades|3
+HADES|Dios griego del inframundo|2
+POSEIDÓN|Dios griego del mar|2
+TRITÓN|Hijo de Poseidón con cola de pez|3
+PROMETEO|Titán que robó el fuego|2
+ATLAS|Titán que sostiene el cielo|2
+HÉRCULES|Héroe de los doce trabajos|1
+TESEO|Vencedor del Minotauro|2
+JASÓN|Capitán de los argonautas|2
+ARGOS|Gigante de cien ojos|3
+PERSEO|Vencedor de Medusa|2
+ARIADNA|Dueña del hilo del laberinto|2
+PENÉLOPE|Esposa que tejía y destejía|2
+ELECTRA|Hermana vengadora de Orestes|3
+CASANDRA|Profetisa a la que nadie creía|2
+HELENA|Causa de la guerra de Troya|2
+ANDRÓMACA|Esposa de Héctor|3
+HÉCTOR|Héroe troyano muerto por Aquiles|2
+PARIS|Raptor de Helena|2
+PRÍAMO|Rey de Troya|3
+ENEAS|Héroe troyano del poema de Virgilio|3
+EURÍDICE|Esposa de Orfeo|3
+PANDORA|Dueña de la caja de los males|2
+MIDAS|Rey que convertía en oro lo que tocaba|2
+SÍSIFO|Condenado a empujar una roca|2
+TÁNTALO|Suplicio de quien ve y no alcanza|3
+DÉDALO|Constructor del laberinto|3
+ÉOLO|Dios de los vientos|3
+MORFEO|Dios del sueño|2
+NÉMESIS|Diosa de la venganza|2
+TALÍA|Musa de la comedia|3
+CLÍO|Musa de la historia|3
+EUTERPE|Musa de la música|3
+ERATO|Musa de la poesía amorosa|3
+CALÍOPE|Musa de la poesía épica|3
+URANIA|Musa de la astronomía|3
+TERPSÍCORE|Musa de la danza|3
+MELPÓMENE|Musa de la tragedia|3
+VALQUIRIA|Doncella guerrera de Odín|3
+OSIRIS|Dios egipcio de los muertos|3
+ANUBIS|Dios egipcio con cabeza de chacal|3
+HORUS|Dios egipcio con cabeza de halcón|3
+AMÓN|Dios egipcio de Tebas|3
+APIS|Buey sagrado egipcio|3
+QUETZALCÓATL|Serpiente emplumada|3
+VIRACOCHA|Dios creador de los incas|3
+PACHAMAMA|Madre Tierra andina|1
+INTI|Dios Sol de los incas|2
+ABEDUL|Árbol de corteza blanca|2
+ACEBO|Arbusto de hojas espinosas y frutos rojos|3
+ÁLAMO|Árbol de las alamedas|2
+ENEBRO|Arbusto de cuyas bayas se hace la ginebra|3
+ESPINILLO|Aromo criollo|3
+JUNCO|Planta de las orillas|2
+TOTORA|Junco de los lagos andinos|3
+MUÉRDAGO|Planta parásita de los druidas|3
+HIEDRA|Planta trepadora de los muros|2
+MADRESELVA|Planta trepadora del tango de Canaro|3
+ORTIGA|Planta que pica|2
+CARDO|Persona arisca|2
+MALVÓN|Flor del patio criollo|2
+AZAHAR|Flor del naranjo|2
+CAMELIA|Flor de la dama de Dumas|3
+GLICINA|Enredadera de racimos lilas|2
+NARDO|Flor blanca muy aromática|3
+AMAPOLA|Flor roja del opio|2
+NENÚFAR|Flor acuática de Monet|3
+DALIA|Flor de origen mexicano|2
+GERANIO|Flor de balcón|2
+CRISANTEMO|Flor de los difuntos|3
+VIOLETA|Flor tímida|9
+HELECHO|Planta sin flores de hojas plumosas|2
+MUSGO|Planta que alfombra las piedras húmedas|2
+LIQUEN|Asociación de alga y hongo|3
+BAMBÚ|Caña de los osos panda|2
+AJENJO|Hierba amarga de la absenta|3
+POLEO|Hierba de infusión digestiva|3
+CEDRÓN|Hierba aromática que se toma con el mate|2
+BOLDO|Hoja de infusión para el hígado|2
+TOMILLO|Hierba aromática de los montes|2
+ROMERO|Peregrino|3
+ROMERO|Hierba del cordero al horno|2
+LAVANDA|Espliego|3
+ESPLIEGO|Lavanda|3
+MENTA|Hierbabuena|2
+CICUTA|Veneno de Sócrates|2
+ADELFA|Arbusto venenoso de flores rosadas|3
+ACHIRA|Planta de flores rojas del Norte|3
+ZAPALLO|Cucurbitácea|9
+OCRE|Arcilla amarilla|9
+ÁMBAR|Resina fósil|2
+AZABACHE|Variedad negra de lignito|3
+NÁCAR|Madreperla|3
+CORAL|Pólipo marino de colores|2
+ÓNIX|Ágata listada|3
+ÓPALO|Piedra lechosa iridiscente|3
+TOPACIO|Piedra amarilla|3
+ZAFIRO|Corindón azul|3
+RUBÍ|Corindón rojo|3
+JADE|Piedra verde de China|2
+GRANATE|Rojo oscuro; también piedra|2
+CUARZO|Cristal de roca|2
+RODOCROSITA|Piedra nacional argentina, la rosa del inca|2
+AMATISTA|Cuarzo violeta|2
+ESMERALDA|Berilo verde|3
+DIAMANTE|Palo de la baraja francesa|2
+PLATINO|Metal más caro que el oro|2
+ALUMINIO|Metal del papel de cocina|2
+TITANIO|Metal de las prótesis|3
+NÍQUEL|Metal de las monedas|2
+ZINC|Cinc|9
+LATÓN|Aleación de cobre y cinc|3
+BRONCE|Aleación de cobre y estaño|2
+BRONCE|Tercer puesto olímpico|2
+ACERO|Espada, por metonimia|3
+AZUFRE|Elemento del olor a huevo podrido|2
+FÓSFORO|Cerilla|2
+CARBÓN|Combustible negro|1
+GRAFITO|Carbono del lápiz|2
+YESO|Escayola|3
+CAL|Sustancia para blanquear paredes|2
+CAL|Sustancia de la lechada|1
+ARCILLA|Barro de alfarero|2
+GRANITO|Roca de las mesadas|2
+MÁRMOL|Roca de Carrara|2
+PIZARRA|Roca de los pizarrones|2
+BASALTO|Roca volcánica oscura|3
+PIEDRA PÓMEZ|Roca volcánica|9
+OBSIDIANA|Vidrio volcánico negro|3
+LAVA|Magma que fluye|2
+MAGMA|Roca fundida|2
+CRÁTER|Boca del volcán|2
+GÉISER|Surtidor de agua caliente|2
+MESETA|Altiplanicie|2
+PUNA|Altiplano andino|2
+PUNA|Soroche, mal de altura|3
+QUEBRADA|Paso estrecho entre montañas, como la de Humahuaca|1
+CAÑADÓN|Valle profundo patagónico|2
+DESFILADERO|Paso estrecho entre montañas|2
+PRECIPICIO|Despeñadero|2
+ACANTILADO|Costa cortada a pique|2
+ARRECIFE|Banco de rocas cerca de la superficie|2
+ATOLÓN|Isla de coral en anillo|3
+ISTMO|Lengua de tierra que une dos continentes|2
+ESTRECHO|Paso de mar entre dos tierras, como el de Magallanes|1
+PENÍNSULA|Tierra casi rodeada de agua|1
+ARCHIPIÉLAGO|Grupo de islas|1
+GOLFO|Gran entrada del mar, como el San Jorge|1
+GOLFO|Pillo, vagabundo|3
+CABO|Punta de tierra, como el de Hornos|1
+CABO|Grado militar|2
+FIORDO|Golfo glaciar estrecho|2
+DELTA|Cuarta letra griega|2
+ESTUARIO|Desembocadura del Plata, por ejemplo|2
+AFLUENTE|Río que desemboca en otro|1
+CAUDAL|Volumen de agua; también fortuna|2
+REMANSO|Lugar donde el agua corre lento|2
+CATARATA|Salto como el de Iguazú|1
+CATARATA|Opacidad del cristalino|2
+CASCADA|Caída de agua|1
+VADO|Parte poco profunda para cruzar un río|2
+MÉDANO|Duna|2
+OASIS|Refugio en el desierto|1
+ESTEPA|Llanura patagónica de arbustos|2
+TUNDRA|Llanura helada sin árboles|2
+TAIGA|Bosque de coníferas siberiano|3
+SABANA|Llanura africana de pastos|2
+MANGLAR|Bosque costero tropical inundado|3
+PANTANO|Ciénaga|2
+CIÉNAGA|Lodazal|2
+ESTERO|Terreno pantanoso como los del Iberá|2
+BAÑADO|Terreno anegadizo|3
+ALUVIÓN|Avenida repentina de agua|2
+TERREMOTO|Sismo|1
+MAREMOTO|Tsunami|2
+HURACÁN|Ciclón|2
+TORNADO|Remolino violento de viento|2
+SEQUÍA|Falta prolongada de lluvia|1
+CANÍCULA|Período más caluroso del año|3
+SOLSTICIO|Día más largo o más corto del año|2
+EQUINOCCIO|Día igual a la noche|2
+CENIT|Punto del cielo sobre el observador|3
+NADIR|Punto opuesto al cenit|3
+AFELIO|Punto de la órbita más alejado del Sol|3
+PERIHELIO|Punto de la órbita más cercano al Sol|3
+NEBULOSA|Nube de gas en el espacio|2
+METEORITO|Aerolito|2
+ASTEROIDE|Planetoide|2
+SATÉLITE|Luna de un planeta|1
+ÓRBITA|Cuenca del ojo|3
+CONSTELACIÓN|Grupo de estrellas|1
+ZODÍACO|Franja de las doce constelaciones|1
+ARIES|Signo del carnero|2
+TAURO|Signo del toro|2
+GÉMINIS|Signo de los gemelos|2
+CÁNCER|Signo del cangrejo|2
+VIRGO|Signo de la doncella|2
+LIBRA|Signo de la balanza|2
+LIBRA|Moneda británica|2
+ESCORPIO|Signo del escorpión|2
+SAGITARIO|Signo del arquero|2
+CAPRICORNIO|Signo de la cabra|2
+ACUARIO|Signo del aguador|2
+PISCIS|Signo de los peces|2
+ALTAR|Ara|2
+ABSIDE|Parte semicircular de una iglesia detrás del altar|9
+ÁBSIDE|Parte abovedada detrás del altar mayor|3
+NAVE|Espacio entre muros de una iglesia|2
+CRIPTA|Lugar subterráneo de una iglesia|2
+CLAUSTRO|Galería de un convento|2
+CÚPULA|Bóveda semiesférica|2
+CÚPULA|Dirigencia de una organización|2
+PÚLPITO|Lugar desde donde se predica|2
+CAMPANARIO|Torre de las campanas|1
+CAMPANA|Instrumento del campanario|1
+SACRISTÁN|Ayudante del cura en la sacristía|2
+MONAGUILLO|Niño que ayuda en misa|2
+CÁLIZ|Copa sagrada|2
+HOSTIA|Pan consagrado|2
+ROSARIO|Sarta de cuentas para rezar|1
+ROSARIO|Ciudad de la Bandera|1
+CIRIO|Vela larga de cera|2
+INCIENSO|Resina aromática que se quema|2
+AMÉN|Así sea|1
+ALELUYA|Interjección de júbilo|2
+HOSANNA|Exclamación de alabanza|3
+SALMO|Canto bíblico de David|2
+PARÁBOLA|Narración con enseñanza|2
+PARÁBOLA|Curva de un tiro|2
+APÓSTOL|Cada uno de los doce|2
+PROFETA|Vidente, augur|2
+PROFETA|Isaías o Jeremías|3
+ÉXODO|Salida masiva de un pueblo|2
+GÉNESIS|Origen, principio|2
+DILUVIO|Lluvia de Noé|1
+ARCA|Embarcación de Noé|1
+ARCA|Cofre|2
+EDÉN|Paraíso de Adán y Eva|1
+ABEL|Hermano de Caín|1
+CAÍN|Primer fratricida|2
+SANSÓN|Forzudo bíblico|2
+DALILA|Mujer que traicionó a Sansón|2
+GOLIAT|Gigante vencido por David|2
+SALOMÓN|Rey bíblico de la sabiduría|2
+JONÁS|Profeta tragado por una ballena|2
+LÁZARO|Resucitado por Jesús|2
+JUDAS|Traidor|2
+PILATOS|Se lavó las manos|2
+BABEL|Torre de la confusión de lenguas|2
+MANÁ|Alimento caído del cielo|2
+TALENTO|Moneda antigua|3
+TALENTO|Don, aptitud|1
+DENARIO|Moneda romana de plata|3
+DRACMA|Moneda griega|3
+ESCUDO|Moneda portuguesa antigua|3
+DOBLÓN|Moneda de oro antigua española|3
+REAL|Moneda de Brasil|2
+PESO|Moneda argentina|1
+AUSTRAL|Moneda argentina de 1985|2
+AUSTRAL|Del sur|2
+PATACÓN|Bono provincial bonaerense|2
+LECOP|Bono federal argentino|3
+EURO|Moneda europea|1
+DÓLAR|Verde, en la jerga financiera|2
+YEN|Moneda japonesa|2
+RUBLO|Moneda rusa|2
+LIRA|Moneda turca|2
+FLORÍN|Moneda holandesa antigua|3
+MARCO|Moneda alemana antigua|2
+MARCO|Cuadro de un cuadro|1
+FRANCO|Moneda suiza|2
+FRANCO|Sincero|1
+CORONA|Moneda sueca|2
+RAND|Moneda sudafricana|3
+RUPIA|Moneda de la India|3
+GUARANÍ|Moneda paraguaya|2
+BOLÍVAR|Moneda venezolana|2
+COLÓN|Moneda costarricense|3
+QUETZAL|Moneda guatemalteca|3
+SUCRE|Capital constitucional de Bolivia|2

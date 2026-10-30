@@ -1,0 +1,280 @@
+ABAD|Superior de un monasterio|2
+ABETO|Árbol de Navidad|2
+ABRA|Ensenada; paso entre montañas|3
+ACRE|Medida inglesa de superficie|3
+ACTA|Documento de una reunión|2
+ADAGIO|Proverbio, sentencia|3
+ADALID|Caudillo|3
+ADOBO|Salsa para conservar carnes|2
+AGIO|Especulación|3
+ALBO|Blanco|3
+ALCE|Cérvido de grandes astas|2
+ALUD|Masa de nieve que se desprende|2
+AMA|Dueña de casa|2
+AMAGO|Finta|2
+AMAZONA|Mujer que monta a caballo|2
+ANCA|Grupa|2
+ANSA|x|9
+ÁNADE|Pato|3
+ÁNSAR|Ganso|3
+APEO|Deslinde de una finca|3
+APIO|Hortaliza de tallos crocantes|2
+ARCÉN|Banquina, en España|3
+ARIA|Pieza de ópera para solista|2
+ARIO|Indoeuropeo|3
+ARRE|Voz para animar a las bestias|2
+ASCO|Repugnancia|2
+ASTA|Cuerno|2
+ASTA|Palo de la bandera|2
+ATRIO|Espacio delante de un templo|2
+AUGE|Apogeo|2
+AVE|Saludo latino|3
+AYO|Preceptor|3
+AZOR|Ave rapaz de cetrería|3
+BABA|Saliva|2
+BAHÍA|Ensenada|2
+BAJEL|Buque|3
+BALA|Proyectil|1
+BALDE|Cubo|2
+BARDO|Poeta|3
+BÁCULO|Bastón|3
+BEATA|Mujer muy devota|2
+BOA|Prenda de plumas para el cuello|3
+BOA|Serpiente constrictora|2
+BOJ|Arbusto de madera dura|3
+BOTE|Lancha|1
+BRETE|Aprieto|3
+BRIDA|Rienda|2
+CAL|Lechada|9
+CANO|De pelo blanco|2
+CANON|Regla|2
+CANTO|Piedra; borde|2
+CAOBA|Madera rojiza de muebles finos|2
+CARÁTULA|Tapa de un expediente|3
+CARE|x|9
+CASCO|Uña del caballo|2
+CEBO|Carnada|2
+CEDA|x|9
+CEPO|Trampa|2
+CERO|Nulo|1
+CETRO|Vara del rey|2
+CIMA|Cumbre|1
+CIRCO|Valle glaciar en forma de anfiteatro|3
+CISMA|Separación de una iglesia|3
+CLAN|Tribu|2
+COÁGULO|Cuajarón|3
+COFA|Plataforma en lo alto del mástil|3
+COLMO|Lo que sobrepasa la medida|2
+COMBA|Juego de saltar la soga|3
+CORSO|Desfile de carnaval|2
+COTA|Altura de un punto|3
+CRÍO|Niño pequeño|2
+DAGA|Puñal|2
+DAMA|Pieza de ajedrez|2
+DÁRSENA|Parte resguardada de un puerto|2
+DEÁN|Canónigo que preside el cabildo|3
+DIVO|Cantante famoso|2
+DOGO|Perro de presa|2
+DOTE|Bienes que aporta la novia|2
+DUCHO|Experto|2
+DUELA|Tabla del tonel|3
+DUQUE|Título nobiliario|2
+EDIL|Concejal|2
+ELIXIR|Remedio mágico|2
+ÉMULO|Imitador, rival|3
+ENEA|Planta de cuyas hojas se hacen asientos|3
+ENOJO|Enfado|1
+ERIAL|Tierra sin cultivar|3
+ERRE|Letra doble|2
+ESTE|Levante|2
+ÉTER|Fluido sutil del espacio|3
+ETNIA|Pueblo|2
+FAENA|Labor|2
+FALAZ|Engañoso|2
+FANAL|Farol grande|3
+FAUCES|Boca de las fieras|2
+FEUDO|Dominio medieval|2
+FILÓN|Veta mineral|2
+FLETE|Precio del transporte|2
+FOCO|Bombilla eléctrica|2
+FOSO|Zanja que rodea un castillo|2
+FRAGATA|Buque de guerra|2
+FRAILE|Monje|1
+FURIA|Ira|1
+GALA|Fiesta de etiqueta|2
+GALENO|Médico|2
+GANGA|Buena compra|2
+GARFIO|Gancho de Capitán Hook|2
+GESTA|Hazaña|2
+GLOSA|Comentario|3
+GOTA|Lágrima|9
+GUIRI|x|9
+HADO|Destino|2
+HAZ|Manojo|2
+HAZ|Cara de una hoja|3
+HELIO|Gas noble de los globos|2
+HITO|Mojón|2
+HOZ|Herramienta para segar|2
+HURÍ|Mujer del paraíso musulmán|3
+IDILIO|Amorío|2
+IRA|Cólera|1
+ISLA|Ínsula|2
+JAMBA|Pieza vertical de la puerta|3
+JARRA|Vasija con asa|1
+JIRÓN|Pedazo desgarrado de tela|3
+JUGLAR|Trovador|2
+JURO|Del verbo jurar|9
+LACA|Barniz|2
+LADINO|Astuto|2
+LAGO|Lacustre es lo relativo a él|9
+LAIA|x|9
+LAPSO|Tiempo transcurrido|2
+LAÚD|Instrumento de cuerda árabe|2
+LEGO|Sin estudios|9
+LEMA|Divisa|2
+LERDO|Torpe|9
+LÍO|Embrollo|1
+LITORAL|Costa|2
+LOA|Alabanza|2
+LODO|Barro|1
+LONA|Ring de boxeo|2
+LORD|Título británico|2
+LOSA|Laja|2
+LUPA|Lente de aumento|1
+MACHO|Mulo|9
+MADEJA|Ovillo|2
+MAGO|Ilusionista|1
+MANTO|Capa|2
+MECHA|Pabilo|2
+MERO|Pez de roca; puro, simple|2
+MIES|Cereal maduro|3
+MITRA|Gorro del obispo|2
+MOAI|Estatua de la isla de Pascua|3
+MOLE|Masa enorme|2
+MONJE|Fraile|1
+MORSA|Pinnípedo de colmillos largos|2
+MOTE|Apodo|2
+MOTÍN|Rebelión|2
+MUECA|Gesto|1
+MUSA|Inspiración|2
+NADIR|Opuesto al cenit|9
+NÁCAR|Nácar|9
+NATA|Crema|1
+NAVÍO|Barco|2
+NEÓN|Gas de los carteles luminosos|2
+NIMIO|Insignificante|3
+NÓMADA|Errante|2
+NORIA|Rueda de la feria|1
+NOTA|Calificación|1
+NUCA|Cogote|2
+ÑANDÚ|Avestruz americano|2
+ÑATO|Chato, de nariz aplastada|2
+OBOE|Instrumento de doble lengüeta|2
+OCIO|Tiempo libre|1
+OCRE|Pardo amarillento|2
+ODIO|Aversión|1
+OLMO|Árbol de la alameda|2
+OMEGA|Última letra griega|2
+ÓNIX|Piedra listada|9
+ORCO|Infierno|3
+ORLA|Borde, ribete|3
+ORUGA|Larva de mariposa|2
+OSADO|Atrevido|2
+ÓSEO|De hueso|2
+OTERO|Cerro aislado|3
+OVNI|Objeto volador no identificado|2
+PACTO|Convenio|2
+PAJE|Criado joven de un señor|2
+PALCO|Balcón del teatro|1
+PARIA|Marginado|2
+PAVÉS|Escudo grande|3
+PIRA|Hoguera|2
+PÍCARO|Bribón|2
+PLAZO|Término|2
+PODIO|Tarima de los ganadores|1
+POLEA|Roldana|2
+POLÍN|Tirante de madera|3
+POYO|Banco de piedra junto a la puerta|3
+PRÓCER|Hombre ilustre|1
+PÚA|Espina|2
+PUMA|León americano|2
+QUENA|Flauta andina|9
+RAÍZ|Origen|1
+RAPTO|Secuestro|2
+RECUA|Conjunto de animales de carga|3
+RÉGULO|Reyezuelo|3
+RELOJ|Cronómetro|9
+REMO|Pala de la canoa|1
+RENO|Ciervo de Laponia|2
+RIADA|Crecida de un río|3
+RIEL|Carril|2
+ROCA|Peñasco|1
+ROER|Mordisquear|2
+ROÍDO|Del verbo roer|3
+RÚA|Calle|3
+RUCIO|Pardo claro; asno de Sancho|3
+RUECA|Instrumento para hilar|2
+RUNA|Letra de la escritura nórdica|3
+SABLE|Espada curva|9
+SACRO|Sagrado|2
+SAGA|Leyenda nórdica|2
+SAÍNO|x|9
+SAJÓN|Pueblo germánico|3
+SAMBA|Danza de Río de Janeiro|2
+SATÉN|Tela brillante|2
+SEBO|Grasa animal|2
+SEDA|Tela del gusano|1
+SENA|Río de París|2
+SESGO|Oblicuidad|2
+SIEGA|Cosecha|2
+SIERVO|Criado|2
+SIMA|Abismo|2
+SÍNODO|Concilio|3
+SORNA|Ironía|2
+TABÚ|Prohibición|2
+TACO|Palo del billar|2
+TAHÚR|Jugador fullero|3
+TALA|Corte de árboles|2
+TALA|Juego de niños con un palito|3
+TAPIA|Muro de barro|2
+TEA|Antorcha|2
+TEDIO|Aburrimiento|2
+TELA|Lienzo|1
+TEMPLO|Santuario|1
+TENAZA|Herramienta para agarrar|1
+TESO|Tieso|9
+TIARA|Corona del papa|2
+TIMBA|Juego de azar|2
+TINO|Acierto, juicio|2
+TÓTEM|Emblema tribal|2
+TRAMA|Argumento|2
+TRÉBOL|Palo de la baraja francesa|2
+TRIBU|Clan|2
+TROVA|Verso|2
+TUL|Tejido fino del velo|2
+TUNA|Higo chumbo|3
+TUNA|Estudiantina|3
+TUTOR|Guía|2
+UNTO|Grasa|3
+URNA|Caja de votos|1
+UTE|x|9
+VAINA|Funda|2
+VATE|Poeta|3
+VELO|Tul|2
+VERJA|Reja|2
+VETA|Filón|2
+VIGA|Madero|2
+VILLA|Casa de campo|2
+VIOLA|Instrumento entre el violín y el chelo|2
+VIRA|x|9
+VOTO|Promesa|2
+YACER|Estar tendido|2
+YATE|Barco de recreo|1
+YELMO|Casco de armadura|2
+YERRO|Error|2
+YUGO|Opresión|2
+ZAGA|Parte de atrás|2
+ZARZA|Arbusto espinoso|2
+ZOCO|Mercado árabe|2
+ZUECO|Calzado de madera|2
+ZUMO|Jugo|2

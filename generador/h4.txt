@@ -1,0 +1,427 @@
+ACERBO|Áspero al gusto; cruel|3
+ACÉRRIMO|Muy tenaz|2
+ADUSTO|Severo, hosco|3
+AFABLE|Amable en el trato|2
+ÁGIL|Ligero, pronto|1
+AJADO|Marchito|2
+ALTIVO|Orgulloso|2
+AMENO|Entretenido|2
+ANHELO|Deseo vehemente|2
+ANODINO|Insustancial|3
+APACIBLE|Tranquilo|2
+ARDUO|Muy difícil|2
+ÁRIDO|Seco, estéril|2
+ARISCO|Huraño|2
+ASTUTO|Sagaz, ladino|1
+ÁVIDO|Ansioso|2
+AVARO|Que acumula sin gastar|1
+AZORADO|Turbado, sobresaltado|3
+BANAL|Trivial|2
+BEODO|Ebrio|3
+BISOÑO|Principiante|3
+BIZARRO|Valiente, gallardo|3
+BONACHÓN|De carácter dócil y bueno|2
+BRAVO|Valiente; también aplauso|1
+CABAL|Exacto, completo|2
+CANDIDO|x|9
+CÁNDIDO|Ingenuo|2
+CAUTO|Precavido|2
+CÉLEBRE|Famoso|1
+CERRIL|Salvaje, no domado|3
+CÍNICO|Desvergonzado|2
+COLOSAL|Enorme|2
+CONCISO|Breve, preciso|2
+CORTÉS|Atento, educado|2
+CRÉDULO|Que cree con facilidad|2
+DÉBIL|Endeble|1
+DÉSPOTA|Tirano|2
+DIÁFANO|Transparente|3
+DÍSCOLO|Desobediente|3
+DÓCIL|Sumiso|2
+DÚCTIL|Maleable|3
+ECUÁNIME|Imparcial|3
+EFÍMERO|Pasajero, de un día|2
+ELOCUENTE|Que habla con fluidez|2
+ENDEBLE|Débil|2
+ENÉRGICO|Vigoroso|1
+ENJUTO|Delgado, seco de carnes|3
+ESBELTO|Alto y delgado|2
+ESCUETO|Breve, sin adornos|2
+ESPURIO|Ilegítimo, falso|3
+ESTÉRIL|Infecundo|2
+ETÉREO|Sutil, vaporoso|2
+EXIGUO|Escaso|3
+FÉRREO|Tenaz, de hierro|2
+FÉRTIL|Fecundo|2
+FÚTIL|De poca importancia|3
+GALLARDO|Apuesto, airoso|2
+GÉLIDO|Helado|2
+GRÁCIL|Sutil, delicado|3
+HERMÉTICO|Impenetrable|2
+HOSCO|Ceñudo, arisco|2
+HURAÑO|Que huye del trato|2
+ÍMPROBO|Excesivo, agotador|3
+INCAUTO|Desprevenido|2
+INDÓMITO|Que no se deja domar|2
+INEPTO|Incapaz|2
+INERTE|Sin movimiento|2
+INGENUO|Sin malicia|1
+ÍNTEGRO|Honrado|2
+IRASCIBLE|Propenso a la ira|3
+LACÓNICO|De pocas palabras|3
+LÁNGUIDO|Sin fuerzas|2
+LEAL|Fiel|1
+LEGO|Que no tiene órdenes clericales; ignorante|3
+LERDO|Torpe, lento|2
+LÚGUBRE|Fúnebre|2
+MAGNÁNIMO|Generoso|3
+MEZQUINO|Avaro, ruin|2
+MÍSERO|Desdichado|2
+MOROSO|Que se retrasa en pagar|2
+MUSTIO|Marchito|2
+NECIO|Terco, tonto|2
+NÍTIDO|Claro, limpio|2
+NOCIVO|Dañino|2
+OBESO|Muy gordo|1
+OBTUSO|Sin punta; torpe|2
+OCIOSO|Que no trabaja|2
+OPACO|Que no deja pasar la luz|2
+OPÍPARO|Abundante, espléndido|3
+PÁLIDO|Sin color|1
+PARCO|Moderado; de pocas palabras|3
+PERPLEJO|Confuso|2
+PÍO|Devoto|3
+PLÁCIDO|Sereno|2
+PRÓDIGO|Derrochador; hijo que vuelve|2
+PROLIJO|Cuidadoso, esmerado|2
+PROTERVO|Perverso, obstinado en la maldad|3
+PUDOROSO|Recatado|2
+PUSILÁNIME|Cobarde|3
+RAUDO|Veloz|2
+RECIO|Fuerte, robusto|2
+RÉPROBO|Condenado|3
+RÍGIDO|Inflexible|2
+ROBUSTO|Fuerte|1
+RUDO|Tosco|2
+SAGAZ|Astuto|2
+SECO|Árido|1
+SERENO|Calmo; también vigilante nocturno|2
+SOBRIO|Moderado|2
+SOEZ|Grosero|3
+SOMERO|Superficial|3
+SOSO|Sin gracia|2
+SUCINTO|Breve|2
+SUTIL|Delicado|2
+TACAÑO|Agarrado|1
+TENAZ|Perseverante|2
+TERSO|Liso|2
+TIBIO|Templado|2
+TÍMIDO|Vergonzoso|1
+TORPE|Desmañado|1
+TOSCO|Rústico|2
+TRÉMULO|Tembloroso|3
+TRIVIAL|Banal|2
+TURBIO|Poco claro|2
+UFANO|Orgulloso, satisfecho|3
+ÚNICO|Sin par|1
+UBÉRRIMO|Muy fértil|3
+VALEROSO|Valiente|1
+VANO|Inútil|2
+VASTO|Extenso|2
+VELOZ|Raudo|1
+VERAZ|Que dice la verdad|2
+VETUSTO|Muy viejo|3
+VIL|Despreciable|2
+VIRIL|Varonil|2
+VORAZ|Que come con ansia|2
+YERMO|Despoblado, inhabitado|3
+ZAFIO|Grosero, tosco|3
+ZALAMERO|Que hace halagos exagerados|2
+ZOQUETE|Torpe|3
+ABJURAR|Renegar de una creencia|3
+ABROGAR|Derogar|3
+ACATAR|Obedecer|2
+ACECHAR|Espiar|2
+ACICALAR|Arreglar con esmero|3
+ADOLECER|Padecer un defecto|3
+AGASAJAR|Halagar|2
+AGOBIAR|Abrumar|2
+ALBERGAR|Hospedar|2
+ALUDIR|Mencionar de pasada|2
+AMAINAR|Perder fuerza el viento|3
+ANIQUILAR|Destruir|2
+APACIGUAR|Calmar|2
+ARENGAR|Dirigir un discurso enardecido|3
+ATISBAR|Vislumbrar|3
+AVIZORAR|Acechar, otear|3
+BALBUCEAR|Hablar con dificultad|2
+BLASFEMAR|Maldecir|2
+BOSTEZAR|Abrir la boca por sueño|1
+CAVILAR|Pensar con insistencia|3
+CEJAR|Ceder, aflojar|3
+CODICIAR|Ansiar riquezas|2
+DEAMBULAR|Andar sin rumbo|2
+DECLINAR|Rehusar; decaer|2
+DEPARAR|Proporcionar, conceder|3
+DESDEÑAR|Menospreciar|2
+DILAPIDAR|Malgastar|3
+DIRIMIR|Resolver una controversia|3
+ELUDIR|Esquivar|2
+EMBELESAR|Cautivar|3
+ENAJENAR|Vender, traspasar|3
+ESCATIMAR|Dar con mezquindad|2
+EXHORTAR|Incitar con razones|3
+EXIMIR|Liberar de una obligación|3
+FRUNCIR|Arrugar el ceño|2
+FULMINAR|Matar con un rayo|2
+HOLGAZANEAR|Vaguear|2
+INCIDIR|Influir|3
+INCURRIR|Caer en falta|3
+INMOLAR|Sacrificar|3
+INQUIRIR|Indagar|3
+LIDIAR|Torear; luchar|2
+MANCILLAR|Manchar la honra|3
+MEDRAR|Prosperar|3
+MITIGAR|Calmar un dolor|2
+MOFARSE|Burlarse|2
+MURMURAR|Hablar entre dientes|2
+NAUFRAGAR|Irse a pique|2
+OBNUBILAR|Ofuscar|3
+OTEAR|Escudriñar desde lo alto|3
+PALIAR|Atenuar|3
+PERNOCTAR|Pasar la noche fuera de casa|2
+PROFERIR|Decir en voz alta|3
+REGODEARSE|Deleitarse|3
+REHUIR|Evitar|2
+RESARCIR|Indemnizar|3
+SOSLAYAR|Esquivar una dificultad|3
+SUBYUGAR|Dominar|3
+SUFRAGAR|Costear|3
+TERGIVERSAR|Torcer el sentido|3
+URDIR|Tramar|3
+VAPULEAR|Zarandear|3
+VITUPERAR|Censurar con dureza|3
+ZOZOBRAR|Peligrar una embarcación|3
+ZURCIR|Remendar|2
+ÁBACO|Tablero para contar|2
+ÁBACO|Parte superior del capitel|3
+ACÉMILA|Mula de carga|3
+ACERVO|Patrimonio cultural|3
+ADARGA|Escudo de cuero de don Quijote|3
+ADEMÁN|Gesto|2
+ADOQUÍN|Piedra del empedrado|2
+ADOQUÍN|Persona torpe|3
+AGORERO|Que predice males|2
+AGUIJÓN|Púa del insecto|2
+ALAMBIQUE|Aparato para destilar|2
+ALBACEA|Ejecutor testamentario|3
+ALBARDA|Montura del burro|3
+ALBOR|Comienzo|2
+ALCAHUETE|Chismoso|2
+ALCÁZAR|Fortaleza|2
+ALCOBA|Dormitorio|2
+ALDABA|Llamador de la puerta|2
+ALFARERO|Fabricante de vasijas de barro|2
+ALFÉIZAR|Vano de la ventana|3
+ALGARABÍA|Griterío|2
+ALHAJA|Joya|2
+ALIJO|Contrabando|3
+ALMÁCIGO|Semillero|3
+ALMIBAR|x|9
+ALMÍBAR|Jarabe de azúcar|2
+ALMOHADÓN|Cojín|2
+ALUD|Avalancha|2
+AMBAGES|Rodeos de palabras|3
+ANAQUEL|Estante|2
+ANDRAJO|Harapo|2
+ÁNFORA|Vasija de dos asas|2
+ÁNIMO|Valor, aliento|1
+ANTRO|Lugar de mala fama|2
+APÓCRIFO|Falso, no auténtico|3
+ARDID|Artimaña|2
+ARGUCIA|Sutileza engañosa|3
+ARIETE|Máquina para derribar murallas|3
+ARIETE|Delantero centro|3
+ARRIERO|Que conduce bestias de carga|2
+ARTIMAÑA|Trampa|2
+ASCUA|Brasa|2
+ATALAYA|Torre de vigía|2
+ATAVÍO|Vestimenta|2
+ATRIL|Soporte de la partitura|2
+AVARICIA|Pecado capital del avaro|1
+AZOTEA|Terraza|2
+BAGATELA|Cosa de poco valor|3
+BALUARTE|Bastión|2
+BAQUETA|Palillo del tambor|2
+BÁRTULOS|Enseres|3
+BAZA|Cartas que gana una mano|3
+BEDEL|Celador de una facultad|3
+BEODO|x|9
+BERRINCHE|Rabieta|2
+BIOMBO|Mampara plegable|2
+BISAGRA|Charnela de la puerta|2
+BÍVAR|x|9
+BOATO|Ostentación|3
+BODRIO|Cosa mal hecha|2
+BONANZA|Tiempo tranquilo en el mar|2
+BOTARATE|Atolondrado|3
+BRÍO|Energía|2
+BRUÑIDO|Lustrado, pulido|3
+BUHARDILLA|Desván|2
+BURLADOR|El de Sevilla, de Tirso|3
+CABESTRILLO|Vendaje para sostener el brazo|3
+CAÍD|x|9
+CÁFILA|Multitud de gente o de animales|3
+CALESA|Carruaje de dos ruedas|3
+CANDIL|Lámpara de aceite|2
+CANDOR|Inocencia|2
+CANTIMPLORA|Recipiente para llevar agua|2
+CAPATAZ|Encargado|9
+CARAMBOLA|Tanto del billar|2
+CARAMBOLA|Casualidad favorable|2
+CARCAJ|Aljaba para las flechas|3
+CAREO|Confrontación de testigos|3
+CARROZA|Coche de gala|2
+CASTA|Linaje|2
+CAUDILLO|Líder|2
+CELADA|Emboscada|3
+CENÁCULO|Reunión de artistas|3
+CERNÍCALO|Halconcito; también hombre rudo|3
+CHABACANO|Grosero, ordinario|3
+CHAMBERGO|Sombrero de ala ancha|3
+CHUSMA|Gentuza|2
+CIZAÑA|Discordia|2
+COFRADÍA|Hermandad|3
+CONCIÁBULO|Reunión secreta|3
+CÓNCLAVE|Reunión para elegir papa|2
+CONSIGNA|Lema, orden|2
+CORCEL|Caballo brioso|2
+CORNISA|Saliente del muro|2
+CORPIÑO|Sostén|1
+CUCHITRIL|Tugurio|3
+CÚMULO|Montón; tipo de nube|2
+DÁDIVA|Regalo|2
+DESAZÓN|Inquietud|3
+DESIDIA|Negligencia|2
+DESLIZ|Falta leve|2
+DESVÁN|Altillo|2
+DIATRIBA|Crítica violenta|3
+DONAIRE|Gracia|3
+EMBELECO|Engaño, embuste|3
+EMBOSCADA|Celada|2
+ENJAMBRE|Multitud de abejas|2
+ENTUERTO|Agravio|3
+ESCARCEO|Aventura breve|3
+ESCOLLO|Obstáculo|2
+ESTOCADA|Golpe con la punta de la espada|2
+ESTRAGO|Daño grave|2
+ÉXODO|Emigración masiva|9
+FALACIA|Engaño|2
+FAROLERO|Fanfarrón|3
+FATUO|Presumido|3
+FELONÍA|Traición|3
+FILÁNTROPO|Que ama a la humanidad|2
+FÍSTULA|x|9
+FOLLAJE|Hojarasca de los árboles|2
+FRAGOR|Estruendo|3
+FULLERO|Tramposo en el juego|3
+GALIMATÍAS|Lenguaje confuso|3
+GARBO|Gracia, elegancia|2
+GAZAPO|Error, errata|2
+GRESCA|Riña|3
+GUARIDA|Cueva de animales|2
+HÁLITO|Aliento|3
+HARAPO|Andrajo|2
+HECATOMBE|Matanza, desastre|3
+HEDOR|Olor fétido|2
+HEREJE|Que niega un dogma|2
+HOJALATA|Lata|2
+HOLGURA|Amplitud|2
+ÍDOLO|Ídolo de barro|9
+ÍMPETU|Impulso violento|2
+ÍNFULAS|Aires de grandeza|3
+JACTANCIA|Alarde|2
+JAEZ|Calidad, índole|3
+JERGA|Lenguaje de un grupo|2
+JOFAINA|Palangana|3
+JOLGORIO|Fiesta, diversión|2
+JORNAL|Paga diaria|2
+JÚBILO|Alegría|2
+LACAYO|Criado|2
+LÁPIDA|Losa sepulcral|2
+LETARGO|Sopor|2
+LISONJA|Adulación|3
+LITIGIO|Pleito|2
+LOZANÍA|Frescura|3
+MAGNATE|Persona muy rica|2
+MANSEDUMBRE|Docilidad|2
+MARASMO|Apatía, inmovilidad|3
+MAREJADA|Agitación del mar|2
+MENDIGO|Pordiosero|2
+MESNADA|Tropa de un señor feudal|3
+MIASMA|Efluvio maligno|3
+MÍMESIS|Imitación|3
+MOHÍN|Gesto de disgusto|3
+MORADA|Hogar|2
+MUSITAR|Susurrar|3
+NAIPE|Carta de la baraja|2
+NEFASTO|Funesto|2
+NIMIEDAD|Insignificancia|3
+NOSTALGIA|Añoranza|2
+OBOLO|x|9
+ÓBOLO|Contribución pequeña|3
+OPROBIO|Deshonra|3
+OSADÍA|Atrevimiento|2
+PABELLÓN|Bandera; también oreja|3
+PALIZA|Tunda|2
+PANACEA|Remedio universal|2
+PARADOJA|Contradicción aparente|2
+PATRAÑA|Mentira|2
+PENURIA|Escasez|2
+PERFIDIA|Deslealtad|3
+PIRUETA|Voltereta|2
+PLÁTICA|Charla|2
+POTESTAD|Dominio|3
+PREBENDA|Privilegio|3
+PRESAGIO|Augurio|2
+PROSAPIA|Linaje ilustre|3
+PÚGIL|Boxeador|2
+QUEBRANTO|Pérdida, daño|3
+QUIMERA|Ilusión|9
+RACIMO|Conjunto de uvas|2
+RAPAZ|Muchacho; ave rapaz|3
+RÉDITO|Renta, ganancia|2
+REGAZO|Falda donde se sienta un niño|2
+RELENTE|Humedad de la noche|3
+REMILGO|Melindre|3
+RENCOR|Resentimiento|2
+REYERTA|Riña|2
+RÚBRICA|Firma|2
+SAÑA|Furor cruel|3
+SARAO|Fiesta de noche|3
+SEQUITO|x|9
+SÉQUITO|Comitiva|2
+SINO|Destino|2
+SOPOR|Somnolencia|2
+SUBTERFUGIO|Pretexto|3
+TERTULIA|Reunión de conversación|2
+TIMO|Estafa|3
+TREGUA|Cese temporal de hostilidades|2
+TROPEL|Muchedumbre que se mueve en desorden|3
+TUGURIO|Cuchitril|2
+UMBRAL|Comienzo; entrada|2
+UTOPÍA|Ideal irrealizable|2
+VAHO|Vapor|2
+VASALLO|Súbdito feudal|2
+VEJAMEN|Humillación|3
+VERDUGO|Ejecutor|2
+VERGEL|Huerto con flores|3
+VESTIGIO|Huella, rastro|2
+VIANDA|Comida|2
+VITUALLA|Víveres|3
+VOCERÍO|Griterío|2
+ZAFRA|Cosecha de caña de azúcar|2
+ZAGAL|Muchacho, pastor joven|3
+ZAHERIR|Mortificar|3
+ZOZOBRA|Inquietud|3
+ZURRA|Paliza|3

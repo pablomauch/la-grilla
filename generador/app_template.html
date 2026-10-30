@@ -138,9 +138,12 @@ textarea{width:100%;min-height:80px;font:inherit;font-size:.8rem;padding:8px;bor
 .ws .l.sel{background:var(--hi)}
 .ws .l.f{background:var(--blue-soft);color:var(--blue)}
 .ws .l.a{background:var(--hi)!important;color:#1d2433}
-.wlist{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:16px}
-.wlist span{font-weight:700;letter-spacing:.05em}
-.wlist span.done{text-decoration:line-through;color:var(--muted)}
+.wdefs{list-style:none;margin:16px 0 0;padding:0;display:flex;flex-direction:column;gap:4px}
+.wdefs li{display:grid;grid-template-columns:minmax(1.4em,max-content) 1fr;gap:10px;padding:6px 8px;border-radius:8px;background:var(--card);border:1px solid var(--line)}
+.wdefs li b{font-variant-numeric:tabular-nums;color:var(--muted);font-weight:700;letter-spacing:.04em;overflow-wrap:anywhere}
+.wdefs li.done{background:var(--blue-soft);border-color:transparent}
+.wdefs li.done b{color:var(--blue)}
+.wdefs li.done span{color:var(--muted)}
 
 /* mensajes */
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom, 0px));background:var(--ink);color:var(--paper);padding:10px 16px;border-radius:10px;font-weight:700;z-index:50;max-width:calc(100% - 32px)}
@@ -156,20 +159,26 @@ textarea{width:100%;min-height:80px;font:inherit;font-size:.8rem;padding:8px;bor
 <script>
 "use strict";
 const DATA = JSON.parse(document.getElementById('data').textContent);
-const VERSION = 'v1';
+const VERSION = 'v2';
 const TYPES = {
   claringrilla:{name:'Claringrilla', short:'cg', desc:'Definiciones y sílabas. Las letras iniciales esconden un autor y su obra.'},
   crucigrama:{name:'Crucigrama', short:'cw', desc:'La grilla clásica con definiciones horizontales y verticales.'},
   autodefinido:{name:'Autodefinido', short:'ad', desc:'Las definiciones van dentro de la grilla, con flechas.'},
-  sopa:{name:'Sopa de letras', short:'sp', desc:'Encontrá las palabras escondidas en todas las direcciones.'}
+  sopa:{name:'Sopa de letras', short:'sp', desc:'Deducí las palabras por su definición y encontralas en cualquier dirección.'}
 };
-const DIFFS = {1:'Fácil',2:'Medio',3:'Difícil'};
+const DIFFS = {1:'Difícil',2:'Muy difícil',3:'Experto'};
 const gameId = (t,d,i)=>`${VERSION}:${TYPES[t].short}:${d}:${i}`;
 
 /* ---------- guardado ---------- */
 const KEY='lagrilla.v1';
 let S = {done:{}, saves:{}, current:{}, diff:1, scale:1};
 try{ const raw=localStorage.getItem(KEY); if(raw) S=Object.assign(S, JSON.parse(raw)); }catch(e){}
+function purgeOld(){
+  const ok=k=>typeof k==='string' && k.startsWith(VERSION+':');
+  for(const k in S.saves) if(!ok(k)) delete S.saves[k];
+  for(const t in S.current) if(!ok(S.current[t])) delete S.current[t];
+}
+purgeOld();
 let dbRef=null;
 function save(){
   try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){}
@@ -195,6 +204,7 @@ function syncCloud(){
       for(const k in (d.saves||{})) if(!S.saves[k]) S.saves[k]=d.saves[k];
       for(const k in (d.current||{})) if(!S.current[k]) S.current[k]=d.current[k];
       for(const k in S.done) delete S.saves[k];
+      purgeOld();
       try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){}
       if(view==='home') renderHome();
     }
@@ -371,7 +381,7 @@ function gridGame(t,d,i,id,data,auto){
   if(!auto){
     for(const D of ['A','D']){
       const ol=board.querySelector('#cl-'+D);
-      words.filter(w=>w.d===D).sort((a,b)=>a.n-b.n).forEach(w=>{const li=document.createElement('li'); li.dataset.w=w.k; li.innerHTML=`<b>${w.n}</b><span>${esc(w.q)} <span style="color:var(--muted)">(${w.a.length})</span></span>`; li.onclick=()=>selectWord(w); ol.appendChild(li);});
+      words.filter(w=>w.d===D).sort((a,b)=>a.n-b.n).forEach(w=>{const li=document.createElement('li'); li.dataset.w=w.k; li.innerHTML=`<b>${w.n}</b><span>${esc(w.q)}${d===1?` <span style="color:var(--muted)">(${w.a.length})</span>`:''}</span>`; li.onclick=()=>selectWord(w); ol.appendChild(li);});
     }
   }
   function curWord(){ const a=at[cur[0]+','+cur[1]]; return a[dir]||a.A||a.D; }
@@ -390,7 +400,7 @@ function gridGame(t,d,i,id,data,auto){
     }
     app.querySelectorAll('.clues li').forEach(li=>{const ww=words[+li.dataset.w]; li.classList.toggle('on',ww===w); li.classList.toggle('done',wordDone(ww));});
     app.querySelectorAll('.qi').forEach(q=>q.classList.toggle('on',+q.dataset.w===w.k));
-    app.querySelector('#cluebar').innerHTML=`<span class="tag">${auto?(w.d==='A'?'→':'↓'):(w.n+(w.d==='A'?' Hor.':' Ver.'))}</span><span class="txt">${esc(w.q)} <span style="color:var(--muted)">(${w.a.length})</span></span>`;
+    app.querySelector('#cluebar').innerHTML=`<span class="tag">${auto?(w.d==='A'?'→':'↓'):(w.n+(w.d==='A'?' Hor.':' Ver.'))}</span><span class="txt">${esc(w.q)}${d===1?` <span style="color:var(--muted)">(${w.a.length})</span>`:''}</span>`;
     const li=app.querySelector('.clues li.on');
   }
   function persist(){ if(given||S.done[id]) return; S.saves[id]={f:F.map(r=>r.join('')),rev:[...rev],cur,dir,ts:Date.now()}; save(); }
@@ -431,6 +441,7 @@ function playCW(t,d,i,id,data){ gridGame(t,d,i,id,data,false); }
 function playAD(t,d,i,id,data){ gridGame(t,d,i,id,data,true); }
 
 /* ---------- claringrilla ---------- */
+const letters=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^A-Za-zÑñ]/g,'').length;
 function playCG(t,d,i,id,data){
   const rows=data.rows, n=rows.length;
   const saved=S.saves[id]||{};
@@ -442,7 +453,7 @@ function playCG(t,d,i,id,data){
   const board=app.querySelector('#board');
   const goal = clasica
     ? `Las <b>iniciales</b> (en azul) forman el nombre de un autor y las <b>finales</b> (en verde), el título de una de sus obras. Usá cada sílaba una sola vez.`
-    : `Las <b>iniciales</b> de las respuestas, leídas de arriba hacia abajo, forman el nombre de un autor y una de sus obras (${data.author.replace(/ /g,'').length} + ${data.work.replace(/ /g,'').length} letras). Usá cada sílaba una sola vez.`;
+    : `Las <b>iniciales</b> de las respuestas, leídas de arriba hacia abajo, forman el nombre de un autor y una de sus obras${d===1?` (${letters(data.author)} + ${letters(data.work)} letras)`:''}. Usá cada sílaba una sola vez.`;
   board.innerHTML=`<div class="cg-head"><div class="cg-goal">${goal}<div class="cg-read" id="cg-read" style="margin-top:8px"></div></div>
     <span class="label">Sílabas (tocá para tacharlas)</span><div class="syl" id="syl"></div></div><div class="cg-rows" id="rows"></div>`;
   const sylEl=board.querySelector('#syl');
@@ -492,8 +503,7 @@ function playWS(t,d,i,id,data){
   shell(t,d,i,{keyboard:false,tools:`<button class="btn" id="t-hint">Pista</button><button class="btn" id="t-give">Ver solución</button>`});
   const board=app.querySelector('#board');
   const cf=Math.max(13,Math.min(24,(Math.min(window.innerWidth,720)-32)/C*0.55));
-  const dirs=d===1?'horizontal y vertical':d===2?'horizontal, vertical y en diagonal':'en todas las direcciones, también al revés';
-  board.innerHTML=`<p class="note" style="margin:0 0 10px">Tocá la primera y la última letra de cada palabra. Están ${dirs}.</p><div class="ws" id="ws" style="grid-template-columns:repeat(${C},1fr);--cf:${cf*Math.min(S.scale,1.1)}px"></div><div class="wlist" id="wl"></div>`;
+  board.innerHTML=`<p class="note" style="margin:0 0 10px">Deducí cada palabra por su definición y buscala en la grilla: puede estar en cualquier dirección, también al revés o en diagonal. Tocá su primera y su última letra. Ojo: hay comienzos de palabras que no llevan a ningún lado.</p><div class="ws" id="ws" style="grid-template-columns:repeat(${C},1fr);--cf:${cf*Math.min(S.scale,1.1)}px"></div><ol class="wdefs" id="wl"></ol>`;
   const ws=board.querySelector('#ws'); const els=[];
   for(let r=0;r<R;r++){els[r]=[]; for(let c=0;c<C;c++){const el=document.createElement('div'); el.className='l'; el.textContent=g[r][c]; el.dataset.r=r; el.dataset.c=c; ws.appendChild(el); els[r][c]=el;}}
   let start=null, hintCell=null;
@@ -503,7 +513,9 @@ function playWS(t,d,i,id,data){
     data.words.forEach((w,k)=>{ if(found.has(k)) cellsOf(w).forEach(([r,c])=>els[r][c].classList.add('f')); });
     if(start) els[start[0]][start[1]].classList.add('sel');
     if(hintCell) els[hintCell[0]][hintCell[1]].classList.add('a');
-    board.querySelector('#wl').innerHTML=data.words.map((w,k)=>`<span class="${found.has(k)?'done':''}">${w.a}</span>`).join('');
+    board.querySelector('#wl').innerHTML=data.words.map((w,k)=>found.has(k)
+      ? `<li class="done"><b>${w.a}</b><span>${esc(w.q)}</span></li>`
+      : `<li><b>${d===1?w.a.length+' letras':'?'}</b><span>${esc(w.q)}</span></li>`).join('');
   }
   function persist(){ if(given||S.done[id]) return; S.saves[id]={found:[...found],ts:Date.now()}; save(); }
   function tryWord(a,b){
@@ -514,7 +526,7 @@ function playWS(t,d,i,id,data){
   ws.addEventListener('click',e=>{ const el=e.target.closest('.l'); if(!el||given) return; const p=[+el.dataset.r,+el.dataset.c];
     if(!start) start=p; else if(start[0]===p[0]&&start[1]===p[1]) start=null; else { tryWord(start,p); start=null; } paint(); });
   G={persist};
-  app.querySelector('#t-hint').onclick=()=>{ const k=data.words.findIndex((_,k)=>!found.has(k)); if(k<0) return; hintCell=cellsOf(data.words[k])[0]; paint(); toast('La letra marcada es el comienzo de una palabra'); };
+  app.querySelector('#t-hint').onclick=()=>{ const k=data.words.findIndex((_,k)=>!found.has(k)); if(k<0) return; hintCell=cellsOf(data.words[k])[0]; paint(); toast('La letra marcada es el comienzo de: '+data.words[k].q); };
   app.querySelector('#t-give').onclick=()=>confirmGiveUp(()=>{ given=true; data.words.forEach((_,k)=>found.add(k)); delete S.saves[id]; delete S.current[t]; save(); paint(); });
   paint();
 }

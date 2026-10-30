@@ -1,8 +1,11 @@
 # La Grilla
 
-Pasatiempos de palabras para el teléfono: **claringrillas**, **crucigramas**, **autodefinidos** y **sopas de letras**, en tres dificultades (Fácil, Medio, Difícil).
+Pasatiempos de palabras para el teléfono: **claringrillas**, **crucigramas**, **autodefinidos** y **sopas de letras**, en tres dificultades (Difícil, Muy difícil, Experto).
 
-- 936 juegos incluidos (versión `v1` del banco).
+- 1036 juegos incluidos (versión `v2` del banco, mucho más difícil que la `v1`).
+- Vocabulario culto, lunfardo, mitología, geografía y cultura argentina, con definiciones indirectas.
+- En Muy difícil y Experto no se muestra el largo de las palabras.
+- Las sopas de letras dan definiciones en lugar de las palabras, y tienen comienzos falsos para despistar.
 - Contador de juegos disponibles: un juego completado no vuelve a aparecer; uno abandonado sí.
 - Comprobar, Pista y Ver solución en cada juego.
 - Teclado propio con Ñ y tres tamaños de letra.

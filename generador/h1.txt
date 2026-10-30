@@ -1,0 +1,389 @@
+PERRO|Can|2
+PERRO|Pichicho, en lenguaje familiar|1
+GATO|Minino|1
+GATO|Herramienta para levantar el auto|2
+CABALLO|Pingo, en el habla gauchesca|2
+CABALLO|Pieza de ajedrez que salta en L|1
+CASA|Morada, domicilio|1
+CASA|Linaje noble, como la de Austria|2
+MESA|Meseta de cima plana|3
+MESA|Junta directiva de una asamblea|2
+PAN|Dios griego de los pastores|2
+PAN|Sustento diario, en el padrenuestro|1
+SOL|Moneda del Perú|2
+SOL|Quinta nota de la escala|1
+MAR|Piélago|2
+MAR|Ponto, en lenguaje poético|3
+RÍO|Del verbo reír|2
+RÍO|Afluente o tributario, por ejemplo|1
+LUNA|Selene, para los griegos|2
+LUNA|Espejo grande de un ropero|2
+ESTRELLA|Lucero|1
+ESTRELLA|Artista muy famosa|1
+ORO|Palo de la baraja española|1
+ORO|Metal de símbolo Au|2
+PLATA|Dinero, en el habla rioplatense|1
+PLATA|Metal de símbolo Ag|2
+HIERRO|Metal de símbolo Fe|2
+COBRE|Metal de símbolo Cu|2
+PLOMO|Metal pesado de símbolo Pb|2
+PLOMO|Persona pesada, aburrida|1
+ESTAÑO|Metal de símbolo Sn|3
+MERCURIO|Mensajero de los dioses romanos|2
+MERCURIO|Planeta más cercano al Sol|1
+AGUA|Compuesto de fórmula H2O|1
+FUEGO|Uno de los cuatro elementos clásicos|1
+AIRE|Garbo, gracia al andar|2
+TIERRA|Planeta azul|1
+ROSA|Flor de la rosaleda|1
+ROSA|Rumbos de la brújula, de los vientos|2
+CLAVEL|Flor que lleva el torero en la solapa|2
+LIRIO|Flor de lis|2
+AZUCENA|Flor blanca símbolo de pureza|2
+JAZMÍN|Flor blanca de perfume intenso|1
+MARGARITA|Flor que se deshoja: me quiere, no me quiere|1
+MARGARITA|Perla, en sentido antiguo|3
+VIOLETA|Flor emblema de la modestia|2
+GIRASOL|Flor del heliotropismo|2
+OLIVO|Árbol de Atenea|2
+LAUREL|Corona del vencedor|1
+ROBLE|Árbol de la bellota, muy fuerte|1
+PINO|Árbol de la piña|1
+CEDRO|Árbol del Líbano|2
+SAUCE|Árbol llorón|1
+CIPRÉS|Árbol de los camposantos|2
+ÁLAMO|Chopo|2
+PALMERA|Árbol de los dátiles|1
+CEIBO|Flor nacional argentina|1
+OMBÚ|Árbol de la pampa, de enorme tronco|1
+JACARANDÁ|Árbol de flores violáceas de Buenos Aires|1
+TILO|Árbol cuya flor se toma en infusión calmante|2
+NOGAL|Árbol de la nuez|1
+HIGUERA|Árbol de la breva|2
+ALGARROBO|Árbol del patay|3
+QUEBRACHO|Árbol que quiebra el hacha|2
+CALDÉN|Árbol típico de La Pampa|3
+ARAUCARIA|Pino de los Andes patagónicos|2
+LENGA|Árbol de los bosques fueguinos|3
+COIHUE|Árbol del bosque andino patagónico|3
+ARRAYÁN|Árbol de corteza canela de Villa La Angostura|3
+LEÓN|Rey de los animales|1
+LEÓN|Signo del zodíaco de fines de julio|1
+TIGRE|Partido del delta bonaerense|1
+TIGRE|Yaguareté, en el habla popular|2
+LOBO|Cánido de Caperucita|1
+ZORRO|Raposo|2
+ZORRO|Persona astuta|1
+LIEBRE|Lebrel la persigue|2
+CONEJO|Gazapo cuando es cría|2
+CIERVO|Venado|1
+OVEJA|Hembra del carnero|1
+CARNERO|Macho de la oveja|1
+CABRA|Animal de los riscos, hembra del cabrío|2
+CHIVO|Cría de la cabra|1
+TORO|Signo del zodíaco de mayo|1
+BUEY|Toro castrado de tiro|1
+VACA|Hembra del toro|1
+TERNERO|Cría de la vaca|1
+BURRO|Jumento|2
+BURRO|Rucio, como el de Sancho|3
+MULA|Híbrido de yegua y asno|1
+POTRO|Caballo joven sin domar|1
+POTRO|Aparato de gimnasia para saltar|2
+YEGUA|Hembra del caballo|1
+CERDO|Puerco, marrano|1
+JABALÍ|Cerdo montés|1
+OSO|Plantígrado de Berna|2
+MONO|Simio|1
+MONO|Gracioso, lindo|2
+ELEFANTE|Paquidermo de grandes orejas|1
+JIRAFA|Camelopardo|3
+CAMELLO|Rumiante de dos gibas|1
+DROMEDARIO|Rumiante de una sola giba|1
+RINOCERONTE|Paquidermo de cuerno sobre la nariz|1
+HIPOPÓTAMO|Caballo de río, según su etimología|2
+COCODRILO|Saurio del Nilo|2
+TORTUGA|Quelonio|2
+SERPIENTE|Ofidio|2
+LAGARTO|Reptil saurio de tamaño mediano|1
+RANA|Batracio que croa|1
+SAPO|Escuerzo|2
+ÁGUILA|Ave rapaz, emblema de Roma|1
+HALCÓN|Ave de cetrería|2
+CÓNDOR|Rey de los Andes|1
+LECHUZA|Ave nocturna de Atenea|2
+BÚHO|Ave nocturna con penachos|1
+PALOMA|Ave de la paz|1
+GORRIÓN|Pajarito pardo de las plazas|1
+HORNERO|Pájaro que construye su casa de barro|1
+CALANDRIA|Ave cantora que imita a otras|2
+ZORZAL|Pájaro cantor, apodo de Gardel|1
+BENTEVEO|Pájaro de pecho amarillo que dice su nombre|2
+CARDENAL|Pájaro de copete rojo|2
+CARDENAL|Prelado del Sacro Colegio|2
+CISNE|Ave de Leda|3
+CISNE|Ave del lago de Tchaikovsky|2
+FLAMENCO|Ave zancuda rosada|1
+FLAMENCO|Natural de Flandes|2
+PINGÜINO|Ave de Península Valdés que no vuela|1
+GAVIOTA|Ave marina de la costa|1
+GAVIOTA|Obra de Chéjov|2
+CUERVO|Ave de Poe|2
+CUERVO|Ave que pide nunca más|3
+LORO|Persona que habla demasiado|1
+COTORRA|Persona charlatana|1
+PAVO|Persona sosa, sin gracia|2
+PAVO REAL|Ave de cola con ojos|9
+ABEJA|Insecto del panal|1
+AVISPA|Insecto de cintura estrecha que pica|1
+HORMIGA|Insecto de la fábula con la cigarra|1
+CIGARRA|Insecto de la fábula con la hormiga|1
+GRILLO|Insecto de Pinocho|2
+MARIPOSA|Estilo de natación|2
+LUCIÉRNAGA|Bicho de luz|1
+ARAÑA|Lámpara de techo con brazos|2
+ESCORPIÓN|Alacrán|1
+CARACOL|Parte del oído interno|2
+PULPO|Cefalópodo de ocho brazos|1
+CALAMAR|Cefalópodo de las rabas|2
+MEJILLÓN|Molusco bivalvo negro|1
+OSTRA|Molusco de la perla|1
+CANGREJO|Crustáceo que camina de costado|1
+LANGOSTA|Insecto de las plagas bíblicas|2
+BALLENA|Cetáceo gigante de Puerto Madryn|1
+DELFÍN|Heredero del trono de Francia|2
+TIBURÓN|Escualo|2
+SALMÓN|Color rosado anaranjado|2
+TRUCHA|Pez de los ríos patagónicos|1
+DORADO|Tigre del río Paraná|2
+SURUBÍ|Pez de los grandes ríos del litoral|2
+PEJERREY|Pez de agua dulce muy pescado en la provincia de Buenos Aires|2
+MERLUZA|Pez de las milanesas de pescado|1
+SARDINA|Pez que se vende enlatado|1
+ATÚN|Bonito, por ejemplo|2
+MANZANA|Fruta de Newton|1
+MANZANA|Cuadra urbana|1
+PERA|Parte de la cara bajo la boca|2
+NARANJA|Fruta de Valencia|1
+LIMÓN|Fruta del lemon pie|1
+DURAZNO|Fruta de carozo aterciopelada|1
+UVA|Fruto de la parra|1
+HIGO|Breva|2
+DÁTIL|Fruto de la palmera|1
+CEREZA|Guinda|2
+FRUTILLA|Fruta del postre con crema|1
+FRAMBUESA|Fruto rojo del bosque|1
+ANANÁ|Piña tropical|1
+MEMBRILLO|Fruta del dulce que va con queso|1
+NUEZ|Prominencia del cuello masculino|2
+ALMENDRA|Fruto seco del turrón|1
+AVELLANA|Fruto seco del avellano|1
+CASTAÑA|Fruto del castaño|1
+CASTAÑA|Trompada, golpe|2
+ACEITUNA|Oliva|1
+PAPA|Sumo pontífice|1
+BATATA|Boniato|2
+BATATA|Persona tímida, en el habla porteña|3
+CEBOLLA|Bulbo que hace llorar|1
+AJO|Diente de un bulbo|1
+TOMATE|Fruto de la salsa filetto|2
+LECHUGA|Verdura de la ensalada criolla|1
+ZAPALLO|Calabaza|1
+ZAPALLITO|Calabacín redondo|2
+CHOCLO|Mazorca de maíz tierno|1
+PIMIENTO|Morrón|1
+BERENJENA|Hortaliza de cáscara morada|1
+ESPINACA|Verdura de Popeye|1
+ACELGA|Verdura de las tartas|1
+REPOLLO|Col|1
+ZANAHORIA|Hortaliza rica en caroteno|1
+RÚCULA|Verdura de hoja de sabor picante|2
+ALBAHACA|Hierba del pesto|1
+ORÉGANO|Hierba de la pizza|1
+PEREJIL|Hierba del chimichurri|1
+COMINO|Cosa sin importancia: me importa un...|2
+PIMIENTA|Especia de la ensalada de pepinos|9
+CANELA|Especia en rama del arroz con leche|1
+AZAFRÁN|Especia de la paella|1
+CLAVO|Especia de olor; también se martilla|2
+SAL|Gracia, donaire|2
+AZÚCAR|Sacarosa|2
+MIEL|Producto de la colmena|1
+LECHE|Producto del tambo|1
+MANTECA|Grasa de la leche|1
+QUESO|Producto que se cuaja|1
+HUEVO|Lo pone la gallina|1
+JAMÓN|Pernil curado|2
+CHORIZO|Embutido del choripán|1
+MORCILLA|Embutido de sangre|1
+ASADO|Comida de domingo argentino|1
+EMPANADA|Comida de repulgue|1
+LOCRO|Guiso del 25 de mayo|1
+CARBONADA|Guiso criollo servido en zapallo|3
+PUCHERO|Cocido criollo|1
+PUCHERO|Gesto de llanto inminente|2
+MATE|Calabaza para la infusión|1
+MATE|Final del ajedrez|1
+BOMBILLA|Caño para sorber el mate|1
+PAVA|Recipiente para calentar el agua del mate|1
+TERMO|Recipiente que conserva el calor|1
+FACTURA|Medialuna, bola de fraile o vigilante|2
+ALFAJOR|Golosina de maicena|1
+DULCE DE LECHE|Dulce nacional|9
+PASTAFROLA|Tarta con dulce de membrillo enrejado|1
+BUDÍN|Pan dulce de molde|1
+FLAN|Postre de huevos con caramelo|1
+ARROZ|Cereal de la paella|1
+TRIGO|Cereal del pan|1
+CEBADA|Cereal de la cerveza|1
+CENTENO|Cereal del pan negro|2
+AVENA|Cereal del porridge|2
+MAÍZ|Cereal del choclo|1
+SOJA|Oleaginosa estrella de la pampa|2
+GIRASOL|Oleaginosa del aceite más usado|9
+CABEZA|Testa|2
+MANO|Palma y dorso|1
+MANO|Capa de pintura|2
+DEDO|Meñique o pulgar|1
+BRAZO|Miembro superior|1
+CODO|Medida antigua de longitud|2
+HOMBRO|Lugar de las charreteras|2
+PIERNA|Muslo y pantorrilla|1
+RODILLA|Lugar de la rótula|1
+TOBILLO|Unión de pie y pierna|1
+TALÓN|Parte vulnerable de Aquiles|1
+TALÓN|Comprobante que queda en la chequera|2
+OJO|Órgano de la vista|1
+OJO|Interjección de advertencia|2
+OREJA|Pabellón auditivo|1
+NARIZ|Apéndice de Pinocho|1
+BOCA|Cuadro xeneize|1
+BOCA|Desembocadura de un río|2
+LABIO|Borde de la boca|1
+DIENTE|Pieza dental|1
+MUELA|Diente de juicio|1
+LENGUA|Idioma|1
+CORAZÓN|Centro, núcleo|2
+CORAZÓN|Palo de la baraja francesa|2
+PULMÓN|Órgano de la respiración|1
+HÍGADO|Órgano de la bilis|1
+RIÑÓN|Órgano filtrante|1
+ESTÓMAGO|Lugar de la digestión|1
+CEREBRO|Persona que planea algo|2
+HUESO|Carozo|2
+HUESO|Profesor exigente|2
+COSTILLA|Esposa, en broma|2
+VÉRTEBRA|Hueso de la columna|1
+PIEL|Cutis|1
+PELO|Cabello|1
+BARBA|Pelo del mentón|1
+BIGOTE|Mostacho|2
+CEJA|Pelo sobre el ojo|1
+PESTAÑA|Pelo del párpado|1
+UÑA|Garra del gato|2
+SANGRE|Linaje, estirpe|2
+SUDOR|Transpiración|1
+LÁGRIMA|Gota del llanto|1
+PADRE|Progenitor|1
+MADRE|Progenitora|1
+MADRE|Cauce de un río|3
+HIJO|Vástago|2
+HERMANO|Fraile|2
+ABUELO|Antepasado|1
+TÍO|Hombre cualquiera, en España|2
+SOBRINO|Hijo del hermano|1
+PRIMO|Ingenuo que se deja engañar|2
+PRIMO|Número divisible solo por sí y por uno|2
+NIETO|Descendiente en segundo grado|1
+SUEGRA|Madre del cónyuge|1
+YERNO|Esposo de la hija|1
+NUERA|Esposa del hijo|1
+CUÑADO|Hermano del cónyuge|1
+CONSUEGRO|Padre del yerno o de la nuera|2
+VIUDA|Mujer que perdió a su esposo|1
+VIUDO|Hombre que perdió a su esposa|1
+HUÉRFANO|Que perdió a sus padres|1
+PADRINO|Testigo del bautismo|1
+AHIJADO|Respecto del padrino, el bautizado|1
+NOVIA|Prometida|1
+ESPOSA|Cónyuge|1
+ESPOSAS|Manillas del preso|2
+AMIGO|Compinche|2
+VECINO|Habitante del mismo barrio|1
+ROJO|Color de Independiente|1
+ROJO|Comunista, en lenguaje coloquial|2
+AZUL|Color del mar en calma|1
+AZUL|Libro de Rubén Darío|2
+VERDE|Fruta que no está madura|1
+VERDE|Chiste subido de tono|2
+AMARILLO|Prensa sensacionalista|2
+BLANCO|Diana, objetivo del tiro|2
+NEGRO|Muy enojado|2
+GRIS|Anodino, sin brillo|2
+MARRÓN|Color castaño|1
+CELESTE|Color de la bandera|1
+CELESTE|Del cielo|2
+NARANJA|Color del atardecer|1
+ÍNDIGO|Añil|2
+CARMÍN|Rojo intenso del lápiz labial|2
+OCRE|Tierra amarilla para pintar|2
+BERMELLÓN|Rojo vivo del cinabrio|3
+ESCARLATA|Rojo encendido|2
+TURQUESA|Azul verdoso; también piedra|2
+LILA|Morado claro|1
+LILA|Tonto, en lunfardo antiguo|3
+FUCSIA|Rosado intenso|2
+BEIGE|Color crudo|2
+NUBE|Cúmulo|2
+LLUVIA|Precipitación|1
+GRANIZO|Piedra que cae del cielo|1
+NIEVE|Precipitación blanca|1
+HELADA|Escarcha de la madrugada|1
+ESCARCHA|Rocío congelado|2
+NIEBLA|Bruma|1
+BRUMA|Niebla del mar|2
+VIENTO|Céfiro|3
+PAMPERO|Viento frío del sudoeste|2
+ZONDA|Viento cálido y seco de Cuyo|2
+SUDESTADA|Viento con lluvia del Río de la Plata|2
+TORMENTA|Tempestad|1
+RAYO|Centella|2
+TRUENO|Estruendo de la tormenta|1
+RELÁMPAGO|Fulgucita del cielo|9
+ARCOÍRIS|Arco iris, con siete colores|9
+OTOÑO|Estación de la vendimia|2
+INVIERNO|Estación que empieza en junio en el sur|1
+PRIMAVERA|Estación que empieza el 21 de septiembre|1
+VERANO|Estío|2
+ENERO|Mes de Jano|3
+FEBRERO|Mes de los carnavales|1
+MARZO|Mes del dios de la guerra|2
+ABRIL|Mes de las aguas mil|2
+MAYO|Mes de la Revolución|1
+JUNIO|Mes del medio aguinaldo|1
+JULIO|Mes del Congreso de Tucumán|1
+AGOSTO|Mes de la Pachamama|2
+SEPTIEMBRE|Mes del día del estudiante|1
+OCTUBRE|Mes del día de la madre en la Argentina|2
+NOVIEMBRE|Mes de los difuntos|2
+DICIEMBRE|Mes del solsticio de verano austral|2
+LUNES|Día de la Luna|2
+MARTES|Día de Marte|2
+MIÉRCOLES|Día de Mercurio|2
+JUEVES|Día de Júpiter|2
+VIERNES|Día de Venus|2
+SÁBADO|Sabbat|2
+DOMINGO|Día del Señor|2
+ALBA|Aurora|1
+ALBA|Vestidura blanca del sacerdote|3
+AURORA|Diosa del amanecer|2
+OCASO|Decadencia|2
+OCASO|Poniente|2
+MEDIODÍA|Sur, como punto cardinal|3
+NOCHE|Tiempo de Nix|3
+SIGLO|Cien años|1
+DÉCADA|Diez años|1
+LUSTRO|Cinco años|1
+BIENIO|Dos años|1
+MILENIO|Mil años|1
+CENTURIA|Siglo|2

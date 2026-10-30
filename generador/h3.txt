@@ -1,0 +1,288 @@
+MINA|Mujer, en lunfardo|2
+MINA|Yacimiento|1
+PIBE|Muchacho, en lunfardo|1
+PIBA|Muchacha, en lunfardo|1
+BULÍN|Departamento de soltero, en lunfardo|3
+COBANI|Policía, en lunfardo|3
+YIRO|x|9
+BACÁN|Hombre adinerado, en lunfardo|2
+MANGO|Peso, en lunfardo|2
+MANGO|Fruta tropical|1
+GUITA|Dinero, en lunfardo|2
+LABURO|Trabajo, en lunfardo|1
+FIACA|Pereza, en lunfardo|2
+CHAMUYO|Conversación para convencer|2
+MORFI|Comida, en lunfardo|2
+GARRONEAR|Pedir de favor, vivir de otros|3
+CHORRO|Ladrón, en lunfardo|2
+GIL|Tonto, en lunfardo|2
+OTARIO|Ingenuo que se deja engañar, en lunfardo|3
+MATUFIA|Engaño, en lunfardo|3
+MORLACO|Peso, en lunfardo antiguo|3
+CANA|Policía, en lunfardo|2
+CANA|Cabello blanco|1
+BONDI|Colectivo, en lunfardo|1
+PIOLA|Astuto y simpático, en el habla porteña|1
+PIOLA|Cordel|2
+CHABÓN|Tipo, muchacho, en el habla porteña|2
+FANGO|Lodo|2
+ARRABAL|Suburbio del tango|2
+CONVENTILLO|Casa de inquilinato de La Boca|1
+CAFETÍN|Café humilde, del tango de Discépolo|2
+COMPADRITO|Fanfarrón del arrabal|2
+GUAPO|Valiente del arrabal|2
+MALEVAJE|Conjunto de malevos|3
+FARRA|Juerga|2
+MILONGA|Ritmo hermano del tango|1
+TANGUERO|Aficionado al tango|1
+FUELLE|Bandoneón, en lenguaje tanguero|2
+BANDONEÓN|Instrumento de Troilo|1
+ORQUESTA|Típica, en el tango|2
+CORTE|Figura del tango|2
+QUEBRADA|Figura del tango|2
+OCHO|Figura del tango con giro|2
+CAMINITO|Calle museo de La Boca|1
+SAN TELMO|Barrio de la feria de Dorrego|9
+PALERMO|Barrio de los bosques porteños|1
+RECOLETA|Barrio del cementerio de los próceres|1
+BOEDO|Barrio del tango de Homero Manzi, Sur|2
+POMPEYA|Barrio del Sur de Manzi|2
+FLORES|Barrio natal del papa Francisco|2
+BELGRANO|Creador de la bandera|1
+SARMIENTO|Padre del aula|1
+MORENO|Secretario de la Primera Junta|2
+SAAVEDRA|Presidente de la Primera Junta|2
+CASTELLI|Orador de la Revolución de Mayo|3
+GÜEMES|Caudillo de los gauchos salteños|2
+PUEYRREDÓN|Director Supremo en 1816|3
+RIVADAVIA|Primer presidente argentino|2
+ROSAS|Restaurador de las leyes|2
+URQUIZA|Vencedor de Caseros|2
+MITRE|Fundador del diario La Nación|2
+ALBERDI|Autor de las Bases|2
+ROCA|Presidente de la Conquista del Desierto|2
+YRIGOYEN|Caudillo radical, el Peludo|2
+ALVEAR|Presidente casado con Regina Pacini|3
+PERÓN|Fundador del justicialismo|1
+EVITA|Abanderada de los humildes|1
+FRONDIZI|Presidente desarrollista|2
+ILLIA|Presidente médico de Cruz del Eje|2
+ALFONSÍN|Padre de la democracia|1
+MALVINAS|Islas del Atlántico Sur|1
+TIERRA DEL FUEGO|Provincia más austral|9
+CHUBUT|Provincia del dique Florentino Ameghino|2
+SANTA CRUZ|Provincia del glaciar Perito Moreno|9
+RÍO NEGRO|Provincia de Bariloche|9
+FORMOSA|Provincia del bañado La Estrella|2
+MISIONES|Provincia de las Cataratas|1
+CORRIENTES|Provincia del chamamé|1
+CATAMARCA|Provincia de la Virgen del Valle|2
+LA RIOJA|Provincia de Famatina|9
+SAN JUAN|Provincia natal de Sarmiento|9
+SANTIAGO|Provincia madre de ciudades, del Estero|9
+CHAMAMÉ|Música del litoral|1
+CHACARERA|Danza de Santiago del Estero|1
+GATO|Danza folclórica de zapateo y zarandeo|2
+MALAMBO|Zapateo masculino criollo|1
+CUECA|Danza cuyana y chilena|2
+CARNAVALITO|Danza de la Quebrada|2
+VIDALA|Canto con caja del noroeste|3
+BAGUALA|Canto con caja y copla del Norte|3
+YARAVÍ|Canto melancólico andino|3
+TRIUNFO|Danza criolla antigua|3
+PERICÓN|Danza nacional de pañuelos|3
+ESCONDIDO|Danza criolla de galanteo|3
+PAYADA|Contrapunto de guitarreros|2
+PAYADOR|Cantor que improvisa|1
+GUITARRERO|Que toca la guitarra|1
+CHARANGO|Guitarrita andina de caparazón de quirquincho|2
+BOMBO|Tambor legüero|1
+QUENA|Flauta de caña andina|2
+SIKU|Zampoña|3
+ERKE|Trompa larga de caña del Norte|3
+CAJA|Tambor de la baguala|2
+GAUCHO|Habitante de la pampa|1
+GAUCHO|Servicial, en el habla argentina|2
+CHINA|Mujer del gaucho|2
+PAISANO|Hombre de campo|1
+RESERO|Arreador de hacienda|2
+TROPERO|Conductor de una tropa de ganado|2
+BAQUEANO|Conocedor de caminos|2
+RASTREADOR|Sigue huellas|2
+CAPATAZ|Jefe de peones|1
+PULPERO|Dueño de la pulpería|2
+PULPERÍA|Almacén y bar de campaña|1
+ESTANCIA|Gran establecimiento de campo|1
+TAPERA|Rancho abandonado|2
+FOGÓN|Fuego del campamento|1
+BOMBACHA|Pantalón del gaucho|1
+RASTRA|Cinturón con monedas del gaucho|3
+FACÓN|Cuchillo del gaucho|1
+BOLEADORAS|Armas arrojadizas de piedras|1
+LAZO|Cuerda para enlazar|1
+LONJA|Tira de cuero|2
+TIENTO|Tira de cuero sin curtir|3
+MONTURA|Silla de montar|1
+ESTRIBO|Apoyo del pie del jinete|2
+APERO|Recado de montar|3
+RECADO|Montura criolla|3
+RENDA|Brida|9
+RIENDA|Correa para guiar al caballo|1
+CABESTRO|Ronzal|3
+ESPUELA|Acicate del jinete|2
+PONCHO|Prenda de lana con abertura para la cabeza|1
+CHIRIPÁ|Prenda gaucha de paño anterior a la bombacha|3
+ALPARGATA|Calzado de cáñamo|1
+TROPILLA|Grupo de caballos con una madrina|2
+MADRINA|Yegua que guía la tropilla|3
+PINGO|Caballo, para el gaucho|1
+OVERO|Pelaje manchado del caballo|2
+ZAINO|Caballo de pelo castaño oscuro|3
+TOBIANO|Pelaje de manchas blancas grandes|3
+TORDILLO|Caballo de pelo gris mezclado|2
+ALAZÁN|Caballo de pelo rojizo|2
+BAYO|Caballo de pelo blanco amarillento|3
+MORO|Caballo de pelo negro con manchas blancas|3
+DOMA|Jineteada|1
+TOLDERÍA|Campamento indígena|2
+MALÓN|Ataque sorpresivo indígena|2
+FORTÍN|Puesto militar de frontera|2
+CAUTIVA|Poema de Echeverría|2
+MAPUCHE|Pueblo originario de la Araucanía|1
+QOM|Pueblo originario del Gran Chaco|2
+WICHI|Pueblo originario del Chaco salteño|3
+TEHUELCHE|Pueblo originario patagónico|2
+SELK'NAM|Ona|9
+ONA|Pueblo originario de Tierra del Fuego|3
+YAGÁN|Pueblo canoero del Beagle|3
+QUECHUA|Lengua de los incas|2
+AIMARA|Pueblo del lago Titicaca|3
+GUARANÍ|Lengua oficial del Paraguay|2
+DIAGUITA|Pueblo originario del noroeste|2
+QUILMES|Pueblo de las ruinas tucumanas|2
+HUMAHUACA|Quebrada jujeña|2
+TILCARA|Pueblo del pucará jujeño|2
+PURMAMARCA|Pueblo del cerro de los siete colores|2
+CAFAYATE|Ciudad del torrontés|2
+TORRONTÉS|Uva blanca salteña|2
+MALBEC|Cepa emblema argentina|1
+BONARDA|Cepa tinta muy cultivada en Mendoza|3
+CABERNET|Cepa tinta bordelesa|2
+VENDIMIA|Fiesta de Mendoza|1
+BODEGA|Lugar donde se elabora el vino|1
+BARRICA|Tonel de roble para añejar|2
+SOMMELIER|Experto en vinos|2
+CATA|Degustación|2
+TANINO|Sustancia astringente del vino|3
+APERITIVO|Bebida antes de comer|1
+VERMÚ|Aperitivo de las seis|2
+FERNET|Bebida amarga cordobesa con cola|1
+GRAPPA|Aguardiente de orujo|2
+CAÑA|Aguardiente de caña de azúcar|2
+SIDRA|Bebida de manzana fermentada|1
+CHICHA|Bebida de maíz fermentado|2
+GINEBRA|Bebida de enebro|2
+GINEBRA|Ciudad suiza de la ONU|2
+LICOR|Bebida alcohólica dulce|1
+TERERÉ|Mate frío|1
+ACONCAGUA|Centinela de piedra|2
+LANÍN|Volcán neuquino|2
+TRONADOR|Cerro de Bariloche que retumba|2
+FITZ ROY|Chaltén|9
+CHALTÉN|Cerro humeante de los tehuelches|2
+OJOS DEL SALADO|Volcán más alto del mundo|9
+NAHUEL HUAPI|Lago de Bariloche|9
+IBERÁ|Esteros correntinos|2
+ISCHIGUALASTO|Valle de la Luna sanjuanino|2
+TALAMPAYA|Parque riojano de cañones rojos|2
+VALDÉS|Península de las ballenas|2
+BEAGLE|Canal fueguino|2
+ITAIPÚ|Represa paraguayo-brasileña|3
+YACYRETÁ|Represa del Paraná entre Argentina y Paraguay|3
+URUGUAY|Río de Colón y Concordia|2
+PARANÁ|Río que nace en Brasil y forma el delta|1
+PILCOMAYO|Río fronterizo con Paraguay|3
+BERMEJO|Río del Chaco de aguas rojizas|3
+SALADO|Río bonaerense|2
+COLORADO|Río que separa la Patagonia|2
+LIMAY|Río que nace en el Nahuel Huapi|3
+NEUQUÉN|Río que se une al Limay|2
+CHUBUT|Río de Trelew|9
+DESEADO|Río y puerto de Santa Cruz|3
+GALLEGOS|Río de la capital santacruceña|2
+RIACHUELO|Río de La Boca|1
+LUJÁN|Río y basílica bonaerense|1
+CHASCOMÚS|Laguna bonaerense|2
+MAR CHIQUITA|Laguna cordobesa|9
+EPECUÉN|Villa inundada de Carhué|3
+TEMPERLEY|Localidad del sur del conurbano|3
+QUILMES|Cerveza bonaerense|2
+PERGAMINO|Ciudad bonaerense de la semilla|2
+JUNÍN|Ciudad de la laguna de Gómez|3
+AZUL|Ciudad bonaerense del festival Cervantino|3
+TANDIL|Ciudad de la Piedra Movediza|1
+BALCARCE|Ciudad de Fangio|1
+GESELL|Villa balnearia fundada por un alemán|2
+PINAMAR|Balneario de los pinos|1
+NECOCHEA|Balneario del Quequén|2
+MIRAMAR|Ciudad de los niños|2
+PARANÁ|Capital de Entre Ríos|1
+POSADAS|Capital de Misiones|1
+RESISTENCIA|Capital del Chaco|1
+RESISTENCIA|Oposición|1
+VIEDMA|Capital de Río Negro|1
+RAWSON|Capital del Chubut|2
+USHUAIA|Capital fueguina|1
+SALTA|La Linda|1
+JUJUY|Tacita de plata del norte|9
+TUCUMÁN|Cuna de la Independencia|1
+MENDOZA|Tierra del sol y del buen vino|1
+CÓRDOBA|La Docta|1
+SANTA FE|Ciudad de la Constitución de 1853|9
+CATAMARCA|Ciudad de la Virgen morena|9
+OLIMPÍADA|Período de cuatro años entre juegos|3
+MARATÓN|Carrera de 42 kilómetros|1
+DECATLÓN|Prueba de diez eventos|2
+JABALINA|Lanza del atletismo|2
+PÉRTIGA|Garrocha|2
+GARROCHA|Salto con vara|2
+TRIATLÓN|Natación, ciclismo y carrera|2
+ESGRIMA|Deporte del florete|2
+FLORETE|Espada de esgrima|2
+SABLE|Arma de la esgrima de corte|2
+REMO|Deporte del Tigre|2
+POLO|Deporte de Palermo a caballo|1
+PATO|Deporte nacional argentino|1
+PELOTA PALETA|Deporte de frontón|9
+BOCHAS|Juego de las bolas y el bochín|1
+BOCHÍN|Bola pequeña de las bochas|2
+TRUCO|Juego de naipes del envido|1
+ENVIDO|Apuesta del truco|1
+CHINCHÓN|Juego de naipes de escaleras|2
+ESCOBA|Juego de naipes de quince|1
+TUTE|Juego de naipes de las cuarenta|3
+MUS|Juego de naipes vasco|3
+BRISCA|Juego de naipes de triunfo|3
+LOTERÍA|Juego de los cartones|1
+QUINIELA|Juego de azar de los números|1
+DOMINÓ|Juego de fichas con puntos|1
+DAMAS|Juego de tablero de sesenta y cuatro casillas|2
+ALFIL|Pieza de ajedrez que va en diagonal|1
+TORRE|Pieza de ajedrez del enroque|1
+PEÓN|Pieza de ajedrez que corona|1
+ENROQUE|Movida del rey y la torre|2
+GAMBITO|Apertura de ajedrez con sacrificio|2
+TABLAS|Empate en el ajedrez|2
+JAQUE|Amenaza al rey|1
+NAJDORF|Ajedrecista que da nombre a una variante de la Siciliana|3
+PANNO|Ajedrecista argentino Oscar|3
+FANGIO|Quíntuple campeón de Fórmula 1|1
+VILAS|Tenista de Mar del Plata|2
+SABATINI|Tenista Gaby|2
+MARADONA|Barrilete cósmico|1
+MESSI|La Pulga|1
+DI STÉFANO|La Saeta Rubia|2
+MONZÓN|Campeón mundial de los medianos|2
+PASCUAL PÉREZ|Primer campeón mundial argentino de boxeo|9
+LOS PUMAS|Selección de rugby|9
+LEONAS|Selección femenina de hockey|2
