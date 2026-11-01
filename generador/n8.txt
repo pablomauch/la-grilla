@@ -1,0 +1,293 @@
+NORUEGA|País de los fiordos|1
+SUECIA|País del Nobel|1
+FINLANDIA|País de los mil lagos|2
+DINAMARCA|País de Hamlet|2
+ISLANDIA|Isla de géiseres|1
+IRLANDA|Isla esmeralda|2
+ESCOCIA|Tierra del kilt|1
+GALES|País del dragón rojo|2
+HOLANDA|País de molinos y tulipanes|1
+BÉLGICA|País de Bruselas|1
+SUIZA|País de los relojes|1
+AUSTRIA|País de Mozart|1
+ALEMANIA|País de Goethe|1
+POLONIA|País de Chopin|1
+HUNGRÍA|País del Danubio y Budapest|2
+RUMANIA|País de Drácula|2
+BULGARIA|País de Sofía|2
+CROACIA|País de Zagreb|2
+SERBIA|País de Belgrado|2
+UCRANIA|País de Kiev|1
+TURQUÍA|País de Estambul|1
+MARRUECOS|País de Marrakech|1
+ARGELIA|País de Argel|2
+TÚNEZ|País de Cartago|2
+LIBIA|País de Trípoli|2
+ETIOPÍA|Antigua Abisinia|2
+KENIA|País de Nairobi|1
+NIGERIA|País más poblado de África|2
+SENEGAL|País de Dakar|2
+ANGOLA|País de Luanda|2
+MOZAMBIQUE|País de Maputo|3
+MADAGASCAR|Isla de los lémures|1
+SUDÁFRICA|País de Mandela|1
+CONGO|Río y país africano|2
+ARABIA|Península del desierto|2
+ISRAEL|País de Jerusalén|1
+SIRIA|País de Damasco|2
+LÍBANO|País de Beirut|2
+JORDANIA|País de Petra|2
+AFGANISTÁN|País de Kabul|2
+PAKISTÁN|País de Islamabad|2
+NEPAL|País del Everest|2
+TÍBET|Techo del mundo|2
+MONGOLIA|País de Gengis Kan|2
+COREA|Península de Seúl|1
+VIETNAM|País de Hanói|1
+TAILANDIA|Antiguo Siam|2
+CAMBOYA|País de Angkor|3
+FILIPINAS|Archipiélago de Manila|2
+INDONESIA|País de Yakarta|2
+MALASIA|País de Kuala Lumpur|2
+AUSTRALIA|País de Sídney|1
+CANADÁ|País de la hoja de arce|1
+MÉXICO|País de los mariachis|1
+GUATEMALA|País de Tikal|2
+HONDURAS|País de Tegucigalpa|2
+NICARAGUA|País de Managua|2
+PANAMÁ|País del canal|1
+COLOMBIA|País de Cartagena de Indias|1
+VENEZUELA|País del salto Ángel|1
+BOLIVIA|País del salar de Uyuni|1
+PARAGUAY|País de Asunción|1
+BRASIL|País de la samba|1
+JAMAICA|Isla del reggae|1
+HAITÍ|Primera república negra|2
+PUERTO RICO|x|9
+DUBLÍN|Capital irlandesa|2
+EDIMBURGO|Capital escocesa|2
+ÁMSTERDAM|Capital de los canales|2
+BRUSELAS|Capital belga|1
+ESTOCOLMO|Capital sueca|2
+COPENHAGUE|Capital danesa|2
+HELSINKI|Capital finlandesa|2
+VARSOVIA|Capital polaca|2
+BUDAPEST|Capital húngara|2
+BUCAREST|Capital rumana|2
+SOFÍA|Capital búlgara|2
+BELGRADO|Capital serbia|2
+ATENAS|x|9
+ANKARA|Capital turca|2
+ESTAMBUL|Antigua Constantinopla|1
+JERUSALÉN|Ciudad santa de tres religiones|1
+DAMASCO|Capital siria|2
+BEIRUT|Capital libanesa|2
+BAGDAD|Capital iraquí|2
+TEHERÁN|Capital iraní|2
+KABUL|Capital afgana|2
+NUEVA DELHI|x|9
+DELHI|Ciudad capital de la India|2
+BOMBAY|Mumbai|2
+KATMANDÚ|Capital de Nepal|3
+PEKÍN|Capital china|1
+SHANGHÁI|Gran puerto chino|2
+SEÚL|Capital surcoreana|2
+HANÓI|Capital vietnamita|2
+BANGKOK|Capital tailandesa|2
+MANILA|Capital filipina|2
+SÍDNEY|Ciudad de la ópera australiana|1
+CANBERRA|Capital australiana|2
+OTTAWA|Capital canadiense|2
+WASHINGTON|Capital estadounidense|1
+NUEVA YORK|x|9
+CHICAGO|Ciudad de los vientos|2
+BOSTON|Ciudad del té tirado al mar|2
+HOUSTON|Ciudad de la NASA|2
+MIAMI|Ciudad de Florida|1
+TEXAS|Estado de la estrella solitaria|2
+ALASKA|Estado comprado a Rusia|2
+HAWÁI|Islas del Pacífico estadounidense|1
+CALIFORNIA|Estado de Hollywood|1
+LA HABANA|x|9
+HABANA|Capital cubana|1
+MANAGUA|Capital nicaragüense|2
+TEGUCIGALPA|Capital hondureña|3
+BRASILIA|Capital brasileña|1
+SAO PAULO|x|9
+RÍO|x|9
+SALVADOR|Ciudad de Bahía|2
+CUZCO|Capital inca|1
+AREQUIPA|Ciudad blanca del Perú|2
+TITICACA|Lago navegable más alto|1
+UYUNI|Gran salar boliviano|2
+POTOSÍ|Cerro de plata|2
+LA PAZ|x|9
+VALPARAÍSO|Puerto de los cerros|2
+ATACAMA|Desierto más árido|1
+CHILOÉ|Isla de los palafitos|2
+PATAGONIA|Región del sur|1
+TIERRA DEL FUEGO|x|9
+EVEREST|Techo del mundo|1
+HIMALAYA|Cordillera más alta|1
+KILIMANJARO|Monte africano nevado|1
+OLIMPO|x|9
+VESUBIO|Volcán de Pompeya|1
+POMPEYA|Ciudad sepultada por el Vesubio|1
+ETNA|Volcán de Sicilia|2
+FUJI|Volcán sagrado japonés|2
+URALES|Montes entre Europa y Asia|2
+PIRINEOS|Montes entre España y Francia|2
+CÁRPATOS|Montes de Transilvania|3
+ROCOSAS|Montañas del oeste norteamericano|2
+APALACHES|Montañas del este norteamericano|3
+MISISIPI|Gran río norteamericano|1
+TÁMESIS|Río de Londres|1
+VOLGA|Río más largo de Europa|2
+TIBER|x|9
+TÍBER|Río de Roma|2
+EUFRATES|Río de Mesopotamia|2
+TIGRIS|Compañero del Éufrates|2
+JORDÁN|Río del bautismo de Jesús|2
+GANGES|Río sagrado de la India|1
+YANGTSÉ|Río Azul de China|3
+ORINOCO|Río de Venezuela|2
+MAGDALENA|Río de Colombia|2
+MEDITERRÁNEO|Mar entre tres continentes|1
+CARIBE|Mar de las Antillas|1
+ADRIÁTICO|Mar de Venecia|2
+EGEO|Mar de las islas griegas|2
+BÁLTICO|Mar de Riga|2
+CANTÁBRICO|Mar del norte de España|3
+CASPIO|Mayor lago del mundo|2
+MUERTO|Mar más salado|9
+ÍNDICO|Océano de Madagascar|1
+PACÍFICO|Océano más grande|1
+ATLÁNTICO|Océano de Colón|1
+SICILIA|Isla del Etna|1
+CERDEÑA|Isla italiana|2
+CÓRCEGA|Isla de Napoleón|2
+CRETA|Isla del Minotauro|1
+MALLORCA|Isla balear|2
+CANARIAS|Islas de Tenerife|1
+AZORES|Islas portuguesas atlánticas|2
+GALÁPAGOS|Islas de Darwin|1
+PASCUA|Isla de los moai|1
+GROENLANDIA|Isla más grande|1
+TASMANIA|Isla australiana del diablo|2
+JAVA|Isla de Indonesia|2
+BORNEO|Isla de los orangutanes|2
+CEILÁN|Antigua Sri Lanka|3
+VENECIA|Ciudad de góndolas|1
+FLORENCIA|Ciudad de los Medici|1
+MILÁN|Ciudad del Duomo|1
+NÁPOLES|Ciudad de la pizza|1
+TURÍN|Ciudad de la Sábana Santa|2
+GÉNOVA|Ciudad natal de Colón|2
+VERONA|Ciudad de Romeo y Julieta|1
+PISA|Ciudad de la torre inclinada|1
+SEVILLA|Ciudad del Guadalquivir|1
+TOLEDO|Ciudad del Greco|2
+SALAMANCA|Ciudad universitaria española|2
+SANTIAGO DE COMPOSTELA|x|9
+BILBAO|Ciudad del Guggenheim|2
+VALENCIA|Ciudad de las Fallas|1
+MÁLAGA|Ciudad natal de Picasso|2
+OPORTO|Ciudad portuguesa del vino|2
+MARSELLA|Puerto francés del Mediterráneo|2
+LYON|Ciudad francesa de la gastronomía|2
+NIZA|Ciudad de la Costa Azul|2
+VERSALLES|Palacio del Rey Sol|1
+MÚNICH|Ciudad del Oktoberfest|1
+HAMBURGO|Puerto alemán|2
+SALZBURGO|Ciudad natal de Mozart|2
+ZÚRICH|Ciudad suiza de los bancos|2
+GINEBRA|x|9
+OXFORD|Universidad inglesa|2
+LIVERPOOL|Ciudad de los Beatles|1
+SAN PETERSBURGO|x|9
+DUBÁI|Emirato de rascacielos|2
+LA MECA|x|9
+MECA|Ciudad santa del islam|2
+BELÉN|Ciudad natal de Jesús|1
+NAZARET|Ciudad de la infancia de Jesús|2
+GALILEA|Región del lago de Jesús|2
+SINAÍ|Monte de las tablas de la ley|2
+GÓLGOTA|Calvario|2
+CALVARIO|Gólgota; también sufrimiento|2
+EVANGELIO|Buena nueva|2
+BIBLIA|Sagrada Escritura|1
+CORÁN|Libro del islam|1
+TALMUD|Libro judío|2
+TORÁ|Ley judía|2
+MESÍAS|Ungido esperado|2
+CRISTO|Ungido|2
+VIRGEN|Madre de Jesús|1
+ARCÁNGEL|Gabriel o Miguel|2
+QUERUBÍN|Ángel niño|2
+SERAFÍN|Ángel del coro más alto|3
+DEMONIO|Diablo|1
+LUZBEL|Lucifer|3
+SATANÁS|Diablo|1
+PURGATORIO|Lugar de purificación|2
+LIMBO|Lugar de los no bautizados|2
+BAUTISMO|Primer sacramento|1
+COMUNIÓN|Sacramento de la hostia|1
+CONFIRMACIÓN|Sacramento del obispo|2
+MATRIMONIO|Casamiento|1
+SACRAMENTO|Rito sagrado|2
+MISA|Celebración eucarística|1
+VÍSPERAS|Oración de la tarde|3
+NOVENA|Rezo de nueve días|2
+PROCESIÓN|Desfile religioso|1
+PEREGRINACIÓN|Viaje a un santuario|1
+PEREGRINO|Romero|2
+SANTUARIO|Templo de peregrinación|1
+CATEDRAL|Iglesia principal|1
+BASÍLICA|Iglesia importante|1
+CAPILLA|Iglesia pequeña|1
+PARROQUIA|Iglesia del barrio|1
+CONVENTO|Casa de monjas|1
+MONASTERIO|Casa de monjes|1
+ABADÍA|Monasterio de un abad|2
+ERMITA|Capilla aislada|2
+ERMITAÑO|Anacoreta|2
+ANACORETA|Ermitaño|3
+OBISPO|Prelado de una diócesis|1
+ARZOBISPO|Obispo principal|2
+CANÓNIGO|Clérigo de la catedral|3
+PÁRROCO|Cura de la parroquia|1
+MONJA|Religiosa|1
+NOVICIA|Monja aprendiz|2
+CLAUSURA|Encierro de monjas|2
+SOTANA|Vestido del cura|1
+HÁBITO|Vestido de fraile|2
+HÁBITO|Costumbre|1
+ESCAPULARIO|Medalla de tela|3
+CRUCIFIJO|Cruz con Cristo|1
+RELIQUIA|Resto de un santo|2
+ESTAMPITA|Imagen de un santo|1
+PROMESA|Voto a un santo|1
+MILAGRO|Prodigio|1
+PECADO|Falta religiosa|1
+PENITENCIA|Castigo por un pecado|2
+AYUNO|Abstinencia de comida|1
+CUARESMA|Cuarenta días antes de Pascua|1
+NAVIDAD|Nacimiento de Jesús|1
+EPIFANÍA|Día de Reyes|2
+PENTECOSTÉS|Venida del Espíritu Santo|3
+SEMANA SANTA|x|9
+RAMADÁN|Mes de ayuno musulmán|2
+MEZQUITA|Templo musulmán|1
+MINARETE|Torre de la mezquita|2
+SINAGOGA|Templo judío|1
+RABINO|Maestro judío|2
+PAGODA|Templo oriental|2
+BUDA|Iluminado|1
+NIRVANA|Paz budista|2
+KARMA|Destino por los actos|2
+GURÚ|x|9
+YOGUI|Practicante de yoga|2
+LAMA|Monje tibetano|2
+DALÁI|x|9
+CHAMÁN|Brujo tribal|2
+TÓTEM|x|9

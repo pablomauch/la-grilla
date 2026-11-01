@@ -1,0 +1,293 @@
+CHIVITO|Sándwich uruguayo|2
+CHORIPÁN|Sándwich de la cancha|1
+SÁNGUCHE|Emparedado|1
+BONDIOLA|Corte de cerdo|1
+VACÍO|x|9
+ENTRAÑA|Corte del diafragma|1
+TIRA|Corte de asado|9
+COSTILLAR|Asado con hueso|2
+MOLLEJA|Achura de la glándula|1
+ACHURA|Menudencia del asado|1
+CHINCHULÍN|Achura de intestino|1
+RIÑONCITO|x|9
+LECHÓN|x|9
+PARRILLA|Asador|1
+PARRILLERO|Asador|1
+ASADOR|Encargado de la parrilla|1
+CARBÓN|x|9
+CHIMICHURRI|Salsa de ajo, perejil y ají|1
+SALSA CRIOLLA|x|9
+PROVENZAL|Ajo y perejil picados|2
+ESCABECHE|Conserva en vinagre|2
+MATAMBRITO|x|9
+VITEL TONÉ|x|9
+TONÉ|x|9
+PIONONO|Arrollado de bizcochuelo|2
+BIZCOCHUELO|Torta esponjosa|1
+CHAJÁ|x|9
+ROGEL|Torta de capas con dulce de leche|2
+BUDINERA|Molde de budín|2
+TORTA FRITA|x|9
+SOPAIPILLA|Torta frita cuyana|3
+CHIPÁ|Pancito de mandioca y queso|1
+MANDIOCA|Yuca|1
+YUCA|Mandioca|2
+POLENTA|Harina de maíz|1
+GUISO|Estofado|1
+ESTOFADO|Guiso|1
+CAZUELA|Guiso de olla|2
+MOTE|x|9
+MAZAMORRA|Postre de maíz blanco|2
+ARROPE|Jarabe de chañar o uva|3
+QUESILLO|Queso fresco del norte|3
+TORREJA|Rebanada frita|3
+BUÑUELO|Masa frita|2
+BERLINESA|Factura rellena con crema|2
+VIGILANTE|Factura alargada|2
+CAÑONCITO|Factura rellena de dulce de leche|2
+BOLA DE FRAILE|x|9
+SUSPIRO|Merengue chico|2
+CHURRASCO|Bife a la plancha|1
+BIFE|Filete|1
+LOMO|Corte tierno|1
+COLITA|Corte de cuadril|9
+NALGA|x|9
+PECETO|Corte magro de la pierna|2
+OSOBUCO|Corte con hueso y caracú|2
+CARACÚ|Médula del hueso|2
+PUCHERO|x|9
+CHUCRUT|Repollo fermentado|2
+ESPINACA|x|9
+FAINÁ|Pizza de garbanzo|1
+FUGAZZETA|Pizza de cebolla|1
+MUZZARELLA|Queso de la pizza|1
+CALZONE|Pizza cerrada|2
+CANELÓN|Pasta rellena enrollada|1
+RAVIOLES|Pasta rellena cuadrada|1
+SORRENTINOS|Pasta rellena redonda|1
+TALLARINES|Fideos largos|1
+LASAÑA|Pasta en capas|1
+PESTO|Salsa de albahaca|1
+TUCO|Salsa de tomate|1
+FILETO|x|9
+PARMESANO|Queso para rallar|1
+GORGONZOLA|Queso azul|2
+REGGIANITO|Queso rallado argentino|2
+SARDO|Queso duro|2
+CREMOSO|Queso blando|9
+RICOTA|Requesón|1
+REQUESÓN|Ricota|2
+YOGUR|Leche fermentada|1
+FLAN|x|9
+BUDÍN DE PAN|x|9
+ARROZ CON LECHE|x|9
+TURRÓN|Dulce de Navidad|1
+GARRAPIÑADA|Maní con caramelo|1
+PRALINÉ|Almendra con azúcar|2
+MAZAPÁN|Pasta de almendra|2
+BOMBÓN|Golosina de chocolate|1
+CARAMELO|Golosina de azúcar|1
+CHUPETÍN|Caramelo con palito|1
+CHICLE|Goma de mascar|1
+GALLETITA|Bizcocho chico|1
+TOSTADA|Pan dorado|1
+MERMELADA|x|9
+MANTECOL|Golosina de maní|2
+COLACIÓN|Merienda|3
+MERIENDA|Comida de la tarde|1
+ALMUERZO|Comida del mediodía|1
+DESAYUNO|Primera comida|1
+VERMUT|x|9
+PICADA|Fiambres para picar|1
+FIAMBRE|Embutido|1
+SALAME|Embutido curado|1
+MORTADELA|Embutido italiano|1
+LONGANIZA|Embutido largo|2
+PATÉ|Pasta de hígado|1
+ACEITE|Óleo de cocina|1
+VINAGRE|Ácido para aliñar|1
+MOSTAZA|Salsa amarilla|1
+MAYONESA|Salsa de huevo y aceite|1
+OREGANO|x|9
+PIMENTÓN|Ají molido|1
+NUEZ MOSCADA|x|9
+COMINO|x|9
+CÚRCUMA|Especia amarilla|2
+JENGIBRE|Raíz picante|2
+VAINILLA|Esencia de las tortas|1
+ANÍS|x|9
+HINOJO|Hortaliza anisada|2
+PUERRO|Hortaliza de la tarta|1
+ESPÁRRAGO|Turión comestible|1
+ALCAUCIL|Alcachofa|1
+ALCACHOFA|Alcaucil|2
+REMOLACHA|Hortaliza roja|1
+RABANITO|Raíz roja picante|1
+NABO|Raíz blanca|2
+PEPINO|Fruto verde de la ensalada|1
+CHAUCHA|Judía verde|1
+ZUCCHINI|x|9
+BRÓCOLI|Coliflor verde|1
+COLIFLOR|Hortaliza blanca|1
+GARBANZO|Legumbre del faina|1
+HABA|Legumbre grande|2
+QUINOA|Grano andino|1
+AMARANTO|Grano de los aztecas|3
+BOTILLERÍA|x|9
+ALMACÉN|Tienda de comestibles|1
+DESPENSA|x|9
+FIAMBRERÍA|Tienda de embutidos|2
+CONFITERÍA|Café con pastelería|1
+HELADERÍA|Venta de helados|1
+PIZZERÍA|Venta de pizzas|1
+PARRILLA|x|9
+BODEGÓN|Restaurante popular|2
+FONDA|Comedor barato|2
+TABERNA|Bar antiguo|1
+CANTINA|Bar de comidas|1
+BOLICHE|Discoteca|1
+BOLICHE|Almacén de campo|2
+MILONGUERO|Bailarín de milonga|2
+FERIA|Mercado al aire libre|1
+FERIANTE|Puestero de feria|2
+PUESTERO|Encargado de un puesto|2
+CHANGARÍN|Changador|2
+CHANGA|Trabajo ocasional|1
+REBUSQUE|Trabajo improvisado|2
+CAMBALACHE|Prendería; también tango|2
+PRENDERO|Comprador de usados|3
+CIRUJA|Cartonero|2
+LINYERA|Vagabundo|2
+ATORRANTE|Vago, sinvergüenza|2
+FIACA|x|9
+VIVEZA|Picardía criolla|2
+TRUCHO|Falso|1
+MERSA|Cursi|2
+GRASA|Ordinario|1
+CHETO|Pretencioso|1
+FIFÍ|Petimetre|3
+FANFA|Fanfarrón|3
+CANCHERO|Experto, sobrador|1
+SOBRADOR|Altanero|2
+BOLUDO|x|9
+PAVADA|Tontería|1
+MACANA|Mentira, problema|2
+BOLAZO|Mentira grande|2
+CHANTA|Mentiroso|2
+PUCHO|Colilla|1
+FARO|x|9
+FÓSFORO|x|9
+QUILOMBO|Lío|2
+BARDO|x|9
+MOTÍN|x|9
+DESBOLE|x|9
+LÍO|x|9
+GOLEADA|Muchos goles|1
+CLÁSICO|Partido de rivales|1
+HINCHA|Fanático|1
+BARRA|Hinchada|1
+HINCHADA|Público fanático|1
+TRIBUNA|Gradería|1
+PLATEA|x|9
+CANCHA|Campo de juego|1
+ARCO|x|9
+TRAVESAÑO|Palo superior del arco|1
+PALO|Poste del arco|1
+CÓRNER|Tiro de esquina|1
+PENAL|Tiro de once metros|1
+OFFSIDE|x|9
+ORSAY|Posición adelantada|2
+REFERÍ|Árbitro|1
+ÁRBITRO|Juez del partido|1
+LÍNEA|Juez de línea|9
+TARJETA|Amonestación|1
+EXPULSIÓN|Roja directa|1
+CAPITÁN|Lleva la cinta|1
+ARQUERO|Portero|1
+DEFENSOR|x|9
+VOLANTE|Mediocampista|1
+VOLANTE|Rueda del auto|1
+DELANTERO|Atacante|1
+GOLEADOR|Artillero|1
+CRACK|x|9
+DIRECTOR TÉCNICO|x|9
+TÉCNICO|Entrenador|1
+CAMPEONATO|Torneo|1
+TORNEO|Campeonato|1
+DESCENSO|Pérdida de categoría|1
+ASCENSO|Subir de categoría|1
+MUNDIAL|Copa del mundo|1
+OLÍMPICO|Gol de córner directo|2
+CHILENA|Patada de espaldas|2
+GAMBETA|Regate|1
+CAÑO|Pelota entre las piernas|1
+SOMBRERITO|Pelota por encima del rival|2
+RABONA|Patada cruzando la pierna|2
+PARED|Paso y devolución|2
+TACO|Toque de taco|9
+TIRO LIBRE|x|9
+BARRERA|Muro de jugadores|1
+VESTUARIO|x|9
+CAMISETA|Casaca|1
+CASACA|Camiseta|2
+BOTÍN|x|9
+TAPÓN|Taco del botín|2
+PELOTERO|Futbolista|2
+BÁSQUET|Baloncesto|1
+TRIPLE|Canasta de tres|1
+VOLEY|Balonvolea|1
+RUGBY|Deporte de Los Pumas|1
+SCRUM|x|9
+HOCKEY|Deporte de Las Leonas|1
+PALO DE HOCKEY|x|9
+BOXEO|Pugilato|1
+RING|Cuadrilátero|1
+NOCAUT|Fuera de combate|1
+ROUND|Asalto|2
+CICLISMO|Deporte de bicicleta|1
+NATACIÓN|Deporte del agua|1
+ATLETISMO|Deporte olímpico rey|1
+GIMNASIA|Ejercicio físico|1
+ESGRIMA|x|9
+REMO|x|9
+VELA|x|9
+SURF|Deporte de olas|1
+ALPINISMO|Escalada|1
+ANDINISMO|Montañismo en los Andes|1
+TURF|Carreras de caballos|1
+HIPÓDROMO|Pista de carreras de caballos|1
+JOCKEY|Jinete de carreras|1
+PURASANGRE|Caballo de carrera|1
+FAVORITO|Candidato a ganar|1
+BATACAZO|Victoria inesperada|2
+AUTÓDROMO|Pista de autos|1
+PICADA|x|9
+RALLY|Carrera de autos por caminos|1
+TURISMO CARRETERA|x|9
+ROSARINO|De la ciudad de la bandera|1
+CORDOBÉS|De la Docta|1
+TUCUMANO|Natural de Tucumán|1
+SALTEÑO|Natural de Salta|1
+JUJEÑO|Natural de Jujuy|2
+MENDOCINO|Natural de Mendoza|1
+SANJUANINO|Natural de San Juan|2
+PUNTANO|Natural de San Luis|2
+RIOJANO|Natural de La Rioja|2
+SANTIAGUEÑO|Natural de Santiago del Estero|2
+CORRENTINO|Natural de Corrientes|1
+ENTRERRIANO|Natural de Entre Ríos|2
+SANTAFESINO|Natural de Santa Fe|2
+MISIONERO|x|9
+FORMOSEÑO|Natural de Formosa|2
+CHAQUEÑO|Natural del Chaco|2
+PAMPEANO|Natural de La Pampa|2
+NEUQUINO|Natural de Neuquén|2
+RIONEGRINO|Natural de Río Negro|3
+CHUBUTENSE|Natural del Chubut|3
+FUEGUINO|Natural de Tierra del Fuego|2
+PORTEÑO|Natural de Buenos Aires|1
+BONAERENSE|De la provincia de Buenos Aires|1
+PLATENSE|De La Plata|2
+MARPLATENSE|De Mar del Plata|1
+BAHIENSE|De Bahía Blanca|2
+CATAMARQUEÑO|Natural de Catamarca|3

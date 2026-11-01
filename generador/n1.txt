@@ -1,0 +1,356 @@
+ALICATE|Pinza de electricista|1
+SERRUCHO|Sierra de mano|1
+MARTILLO|Herramienta para clavar|1
+DESTORNILLADOR|Herramienta para tornillos|1
+TALADRO|Herramienta que perfora|1
+LIMA|Herramienta para desbastar|9
+ESCOFINA|Lima de dientes gruesos para madera|3
+FORMÓN|Herramienta de carpintero para tallar|3
+GARLOPA|Cepillo grande de carpintero|3
+BERBIQUÍ|Taladro manual de manivela|3
+PLOMADA|Pesa del albañil para marcar la vertical|2
+LLANA|Herramienta del albañil para revocar|2
+CUCHARA|x|9
+FRATACHO|Herramienta de madera para alisar el revoque|3
+ANDAMIO|Armazón para trabajar en altura|1
+HORMIGÓN|Concreto|2
+ARGAMASA|Mezcla de cal, arena y agua|3
+REVOQUE|Capa de mezcla sobre la pared|2
+MAMPOSTERÍA|Obra de piedras o ladrillos|3
+VIGUETA|Viga pequeña|2
+TIRANTE|Viga del techo|2
+CUMBRERA|Parte más alta del tejado|3
+CANALETA|Desagüe del techo|2
+CLARABOYA|Ventana en el techo|2
+TRAGALUZ|Ventanita alta|2
+MOSQUITERO|Tela contra los insectos|1
+PERSIANA|Celosía de la ventana|1
+POSTIGO|Puertita de una ventana|3
+PICAPORTE|Manija de la puerta|1
+CERROJO|Pasador de la puerta|2
+GOZNE|Bisagra|3
+UMBRAL|x|9
+ZÓCALO|Franja inferior de la pared|2
+BALDOSA|Mosaico del piso|1
+PARQUÉ|Piso de tablitas|2
+MOQUETA|Alfombra de pared a pared|3
+BARANDA|Pasamanos|1
+BALAUSTRADA|Baranda de columnitas|3
+PELDAÑO|Escalón|1
+ALTILLO|Desván|1
+SÓTANO|Piso bajo tierra|1
+GALPÓN|Cobertizo grande|1
+COBERTIZO|Techado rústico|2
+ALJIBE|Depósito de agua de lluvia|2
+CISTERNA|Tanque de agua|2
+BOMBA|Máquina que eleva agua|2
+MOLINETE|Molino de viento del campo|2
+TRANQUERA|Portón del campo|1
+ALAMBRADO|Cerco de alambre|1
+PIQUETE|Corral pequeño|3
+CORRAL|Recinto para animales|1
+CHIQUERO|Pocilga|2
+POCILGA|Lugar sucio y desordenado|2
+GALLINERO|Paraíso del teatro|2
+PALOMAR|Casa de palomas|1
+CABALLERIZA|Establo de caballos|2
+BEBEDERO|x|9
+COMEDERO|Recipiente de la comida del animal|1
+PESEBRE|Belén navideño|1
+HENO|Pasto seco|2
+FARDO|Paquete de pasto|2
+SILO|Depósito de granos|1
+ARADO|Instrumento para labrar|1
+RASTRILLO|Herramienta de dientes para juntar hojas|1
+AZADA|Herramienta para cavar|2
+AZADÓN|Azada grande|2
+PICO|Herramienta de minero|2
+GUADAÑA|Herramienta de la Muerte|2
+HORQUETA|Palo bifurcado|3
+CARRETILLA|Carrito de una rueda|1
+REGADERA|Recipiente para regar|1
+MANGUERA|Tubo para regar|1
+MACETA|Tiesto|1
+TIESTO|Maceta|2
+CANTERO|Parcela de jardín con flores|2
+ENREDADERA|Planta trepadora|1
+PÉRGOLA|Galería cubierta de plantas|2
+GLORIETA|Cenador del jardín|2
+FUENTE|Surtidor|9
+ESTANQUE|Pileta ornamental|2
+CENTELLA|Chispa|9
+HOGUERA|Fogata|1
+TIZÓN|Palo a medio quemar|3
+YESCA|Material que arde fácil|2
+PEDERNAL|Piedra de chispa|3
+CERILLA|Fósforo|2
+ENCENDEDOR|Mechero|1
+BRASERO|Recipiente para brasas|2
+SALAMANDRA|Estufa a leña|2
+CALEFÓN|Calentador de agua|1
+TERMOTANQUE|Tanque de agua caliente|1
+GARRAFA|Envase de gas|1
+HORNALLA|Quemador de la cocina|1
+CACEROLA|Olla con mango|1
+ESPUMADERA|Cuchara con agujeros|2
+CUCHARÓN|Cuchara grande para servir|1
+COLADOR|Para filtrar|1
+RALLADOR|Utensilio para el queso|1
+PALOTE|Rodillo de amasar|2
+TABLA|Lámina de madera|1
+MORTERO|Almirez|2
+ALMIREZ|Mortero de metal|3
+EMBUDO|x|9
+SOPERA|Fuente de la sopa|2
+FRUTERA|Recipiente de fruta|1
+AZUCARERA|Recipiente del azúcar|1
+SALERO|Gracia, donaire|2
+PANERA|Cesta del pan|2
+JARRA|x|9
+BOTELLÓN|Botella grande|2
+DAMAJUANA|Botellón de vidrio forrado|2
+PORRÓN|Botella de vino con pico largo|3
+BARRIL|Tonel|1
+CORCHO|Tapón de alcornoque|1
+SACACORCHOS|Tirabuzón|1
+TIRABUZÓN|Rizo de pelo en espiral|2
+ABRELATAS|Para abrir conservas|1
+SERVILLETA|Para limpiarse la boca|1
+INDIVIDUAL|Mantelito de cada comensal|2
+BANDEJA|Fuente plana para servir|1
+CUBIERTO|Tenedor, cuchillo o cuchara|1
+PALILLO|Escarbadientes|2
+ESCARBADIENTES|Mondadientes|2
+APARADOR|Mueble de comedor|2
+ALACENA|Despensa de cocina|2
+DESPENSA|Lugar de provisiones|1
+HELADERA|Refrigerador|1
+FREEZER|x|9
+LAVARROPAS|Máquina de lavar|1
+PLANCHA|Para alisar la ropa|1
+TENDEDERO|Cuerda para colgar la ropa|1
+BROCHE|Palillo para colgar ropa|1
+PERCHA|Gancho de la ropa|1
+ROPERO|Armario|1
+CÓMODA|Mueble de cajones|1
+MESITA|Mesa de luz|9
+VELADOR|Lámpara de la mesa de luz|1
+COLCHÓN|Base blanda de la cama|1
+SÁBANA|Ropa de cama|1
+FRAZADA|Manta|1
+ACOLCHADO|Cobertor relleno|1
+FUNDA|Cubierta de la almohada|1
+CUNA|Camita del bebé|1
+CORRALITO|Restricción bancaria del 2001|2
+MECEDORA|Silla que se balancea|1
+BANQUETA|Asiento sin respaldo|2
+TABURETE|Banqueta|2
+REPISA|Estante en la pared|2
+ESTANTERÍA|Mueble de estantes|1
+BIBLIOTECA|Mueble de libros|1
+ESCRITORIO|Mesa de trabajo|1
+PUPITRE|Mesa escolar|1
+PIZARRÓN|Tablero escolar|1
+BORRADOR|Elimina la tiza|1
+CUADERNO|Libreta escolar|1
+CARPETA|Archivo de hojas|1
+CARTUCHERA|Estuche de lápices|1
+SACAPUNTAS|Afila el lápiz|1
+GOMA|Borra el lápiz|1
+REGLA|Útil para trazar líneas|1
+ESCUADRA|Regla en ángulo recto|2
+TRANSPORTADOR|Mide ángulos|2
+COMPÁS|Traza círculos|1
+COMPÁS|Ritmo musical|2
+TINTERO|Recipiente de tinta|2
+SECANTE|Papel que absorbe la tinta|3
+LAPICERA|Bolígrafo|1
+PLUMÍN|Punta de la pluma|3
+ABECEDARIO|Alfabeto|1
+SILABARIO|Libro para aprender a leer|3
+CARTILLA|Libro de primeras letras|2
+BOLETÍN|Libreta de calificaciones|2
+RECREO|Pausa escolar|1
+CAMPANA|x|9
+PORTERO|Guardameta|2
+CONSERJE|Encargado del edificio|2
+ASCENSORISTA|Operador del ascensor|2
+ASCENSOR|Elevador|1
+MONTACARGAS|Elevador de mercancías|2
+ESCALERA MECÁNICA|x|9
+BUZÓN|Caja de las cartas|1
+ESTAMPILLA|Sello postal|1
+ENCOMIENDA|Paquete postal|2
+REMITENTE|Quien envía la carta|2
+DESTINATARIO|Quien recibe la carta|2
+TELEGRAMA|Mensaje del telégrafo|1
+MORSE|Código de puntos y rayas|2
+ANTENA|Recibe la señal|1
+ENCHUFE|Toma de corriente|1
+INTERRUPTOR|Llave de la luz|2
+FUSIBLE|Protector del circuito|2
+BOMBITA|Lamparita eléctrica|1
+LINTERNA|Luz portátil|1
+PILA|Batería pequeña|1
+CANDELABRO|Portavelas de varios brazos|1
+CANDELERO|Portavelas|2
+QUINQUÉ|Lámpara de kerosén con tubo de vidrio|3
+FAROLITO|Farol pequeño|9
+LAMPARITA|Bombita|9
+BOMBILLA|x|9
+VITRAL|Ventana de vidrios de colores|2
+MOSAICO|Obra de teselas|2
+TAPIZ|Paño decorativo colgado|2
+CORTINA|Telón de la ventana|1
+VISILLO|Cortina fina|3
+CENICERO|Recipiente de ceniza|1
+FLORERO|Jarrón de flores|1
+JARRÓN|Vaso ornamental|1
+PORTARRETRATO|Marco de foto|1
+RELOJ CUCÚ|x|9
+PÉNDULO|Péndulo del reloj|9
+PÉNDOLA|Péndulo del reloj|3
+CLEPSIDRA|Reloj de agua|3
+SEXTANTE|Instrumento de navegación|3
+ASTROLABIO|Instrumento astronómico antiguo|3
+TELESCOPIO|Anteojo astronómico|1
+MICROSCOPIO|Aumenta lo diminuto|1
+CATALEJO|Anteojo de larga vista|2
+PRISMÁTICOS|Binoculares|1
+TERMÓMETRO|Mide la fiebre|1
+BARÓMETRO|Mide la presión atmosférica|2
+VELETA|Indica el viento|1
+VELETA|Persona inconstante|2
+PLUVIÓMETRO|Mide la lluvia|2
+ANEMÓMETRO|Mide el viento|3
+SISMÓGRAFO|Registra los terremotos|2
+CRONÓMETRO|Reloj de precisión|1
+METRÓNOMO|Marca el compás|2
+DIAPASÓN|Horquilla que da el la|3
+ESTETOSCOPIO|Instrumento del médico para auscultar|2
+JERINGA|Para inyectar|1
+VENDA|Tira de gasa|1
+GASA|Tela para curar heridas|1
+CURITA|Tirita|1
+MULETA|Bastón de apoyo axilar|1
+CAMILLA|Cama de transporte|1
+AMBULANCIA|Vehículo sanitario|1
+TERAPIA|Tratamiento|2
+CONSULTORIO|Lugar del médico|1
+RECETA|Prescripción médica|1
+FARMACIA|Botica|1
+PASTILLA|Comprimido|1
+CÁPSULA|Envoltura de un medicamento|2
+JARABE|x|9
+POMADA|Ungüento|1
+UNGÜENTO|Crema medicinal|2
+APÓSITO|Material para cubrir una herida|3
+TORNIQUETE|Ligadura para detener la sangre|3
+ESCAYOLA|Yeso para fracturas|3
+VACUNA|Inmunización|1
+ANTÍDOTO|Contraveneno|2
+PLACEBO|Sustancia sin efecto|3
+CALMANTE|Sedante|2
+ANALGÉSICO|Contra el dolor|2
+ANESTESIA|Insensibilidad provocada|1
+QUIRÓFANO|Sala de operaciones|1
+CIRUJANO|Médico que opera|1
+DENTISTA|Odontólogo|1
+OCULISTA|Médico de la vista|1
+PEDIATRA|Médico de niños|1
+PARTERA|Comadrona|2
+COMADRONA|Partera|3
+CURANDERO|Sanador sin título|2
+HERBORISTA|Vendedor de hierbas medicinales|3
+BOTICARIO|Farmacéutico antiguo|3
+BARBERO|Peluquero de hombres|1
+PELUQUERO|Corta el pelo|1
+SASTRE|Hace trajes|1
+MODISTA|Costurera de vestidos|1
+COSTURERA|Mujer que cose|1
+ZAPATERO|Arregla zapatos|1
+TALABARTERO|Artesano del cuero|3
+HERRERO|Trabaja el hierro|1
+HERRADOR|Pone herraduras|2
+HERRADURA|Hierro del casco del caballo|1
+CARPINTERO|Trabaja la madera|1
+EBANISTA|Carpintero fino|2
+TONELERO|Hace toneles|3
+CARRETERO|Conductor de carretas|2
+LECHERO|Reparte la leche|1
+VERDULERO|Vende verduras|1
+CARNICERO|Vende carne|1
+PESCADERO|Vende pescado|1
+FRUTERO|Vende fruta|1
+ALMACENERO|Dueño del almacén|1
+KIOSQUERO|Atiende el kiosco|1
+CANILLITA|Vendedor de diarios|1
+DIARIERO|Repartidor de diarios|2
+LUSTRABOTAS|Limpiabotas|1
+SERENO|Vigilante nocturno|2
+FAROLERO|Encendía los faroles|2
+AFILADOR|Afila cuchillos con silbato|2
+COLCHONERO|Hace colchones|2
+VIDRIERO|Pone vidrios|2
+PLOMERO|Arregla cañerías|1
+GASISTA|Instala el gas|1
+ELECTRICISTA|Arregla la luz|1
+ALBAÑIL|Constructor de paredes|1
+PINTOR|x|9
+TECHISTA|Arregla techos|2
+JARDINERO|Cuida el jardín|1
+CHOFER|Conductor|1
+CAMIONERO|Conduce camiones|1
+TAXISTA|Conduce un taxi|1
+MAQUINISTA|Conduce el tren|1
+GUARDA|Controla boletos|1
+AZAFATA|Asistente de vuelo|1
+PILOTO|Conduce el avión|1
+MARINERO|Tripulante del barco|1
+GRUMETE|Aprendiz de marinero|2
+TIMONEL|Lleva el timón|2
+CONTRAMAESTRE|Jefe de marineros|3
+ALMIRANTE|Jefe de la armada|2
+CORSARIO|Pirata autorizado|2
+BUCANERO|Pirata del Caribe|2
+FILIBUSTERO|Pirata de las Antillas|3
+BERGANTÍN|Velero de dos palos|3
+GOLETA|Velero ligero de dos palos|3
+CARABELA|Nave de Colón|1
+GALEÓN|Gran nave de guerra antigua|2
+CARACOLA|Concha marina|1
+TRIRREME|Galera de tres órdenes de remos|3
+GALERA|Nave de remos de esclavos|2
+CANOERO|Que conduce canoa|9
+LANCHA|Bote con motor|1
+REMOLCADOR|Barco que tira de otros|2
+TRANSATLÁNTICO|Gran barco de pasajeros|1
+SUBMARINO|Nave sumergible|1
+BALLENERO|Barco cazador de ballenas|2
+ESCOLLERA|Rompeolas|2
+MUELLE|Andén del puerto|2
+MUELLE|Resorte|2
+DIQUE|Muro de contención|2
+ESCLUSA|Compuerta de un canal|2
+BOYA|Flotador señalizador|1
+SALVAVIDAS|Flotador de rescate|1
+BRÚJULA|x|9
+CARTA NÁUTICA|x|9
+BITÁCORA|Diario de navegación|2
+CAMAROTE|Habitación del barco|2
+BODEGA|Depósito del barco|9
+CUBIERTA|Piso del barco|2
+POPA|Parte trasera del barco|1
+PROA|Parte delantera del barco|1
+BABOR|Lado izquierdo del barco|2
+ESTRIBOR|Lado derecho del barco|2
+MÁSTIL|Palo del barco|1
+VERGA|Palo horizontal de la vela|3
+ESCOTILLA|Abertura de la cubierta|2
+OJO DE BUEY|x|9
+CABRESTANTE|Torno para levar anclas|3
+AMARRA|Cabo para sujetar el barco|2
+CALADO|Profundidad del barco|3
+ESLORA|Largo del barco|3
+MANGA|Ancho del barco|3
+NUDO|x|9

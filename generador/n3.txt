@@ -1,0 +1,363 @@
+CLAVÍCULA|Hueso del hombro|2
+OMÓPLATO|Paletilla|2
+ESTERNÓN|Hueso del pecho|2
+FÉMUR|Hueso del muslo|1
+TIBIA|Hueso de la canilla|1
+PERONÉ|Hueso fino de la pierna|2
+RÓTULA|Hueso de la rodilla|1
+CÚBITO|Hueso del antebrazo|2
+HÚMERO|Hueso del brazo|2
+COXIS|Hueso final de la columna|2
+SACRO|x|9
+PELVIS|Cadera ósea|1
+MANDÍBULA|Quijada|1
+QUIJADA|Mandíbula|2
+PÓMULO|Hueso de la mejilla|1
+MEJILLA|Cachete|1
+MENTÓN|Barbilla|1
+BARBILLA|Mentón|1
+SIEN|Lado de la frente|1
+NUCA|x|9
+COGOTE|Nuca|2
+GARGANTA|Garguero|1
+LARINGE|Órgano de la voz|2
+FARINGE|Conducto tras la boca|2
+TRÁQUEA|Conducto del aire|2
+ESÓFAGO|Conducto de la comida|2
+AMÍGDALA|Anginas|2
+CAMPANILLA|x|9
+ÚVULA|Campanilla del paladar|3
+PALADAR|Techo de la boca|1
+PALADAR|Gusto para la comida|2
+ENCÍA|Carne de los dientes|1
+COLMILLO|Diente canino|1
+INCISIVO|Diente de adelante|2
+MOLAR|Muela|2
+SARRO|Placa dura en los dientes|2
+PUPILA|Niña del ojo|2
+IRIS|Parte coloreada del ojo|1
+CÓRNEA|Membrana transparente del ojo|2
+RETINA|Membrana sensible del ojo|2
+PÁRPADO|Cubre el ojo|1
+OJERA|Mancha bajo el ojo|1
+TÍMPANO|Membrana del oído|2
+LÓBULO|Parte baja de la oreja|2
+FOSA NASAL|x|9
+TABIQUE|Separación de la nariz|2
+AXILA|Sobaco|1
+SOBACO|Axila|2
+OMBLIGO|Centro del vientre|1
+VIENTRE|Barriga|1
+BARRIGA|Panza|1
+CINTURA|Talle|1
+CADERA|Anca humana|1
+NALGA|Glúteo|1
+GLÚTEO|Músculo del trasero|2
+MUSLO|Parte alta de la pierna|1
+PANTORRILLA|Gemelo de la pierna|1
+CANILLA|Espinilla|2
+ESPINILLA|Parte delantera de la pierna|2
+EMPEINE|Parte de arriba del pie|2
+PLANTA|x|9
+DEDO GORDO|x|9
+MUÑECA|Articulación de la mano|1
+MUÑECA|Juguete de niña|1
+NUDILLO|Articulación del dedo|2
+FALANGE|Hueso del dedo|2
+TENDÓN|Unión del músculo con el hueso|2
+LIGAMENTO|Une huesos|2
+CARTÍLAGO|Tejido elástico de la oreja|2
+MÉDULA|Tuétano|2
+TUÉTANO|Médula del hueso|2
+NERVIO|Fibra sensible|1
+NEURONA|Célula nerviosa|1
+VENA|Vaso que vuelve al corazón|1
+ARTERIA|Vaso que sale del corazón|1
+AORTA|Arteria principal|2
+CAPILAR|Vaso finísimo|2
+PLASMA|Parte líquida de la sangre|2
+GLÓBULO|Célula de la sangre|2
+PLAQUETA|Célula de la coagulación|2
+HEMOGLOBINA|Proteína roja de la sangre|2
+BAZO|Órgano junto al estómago|2
+PÁNCREAS|Glándula de la insulina|2
+VESÍCULA|Bolsa de la bilis|2
+INTESTINO|Tripa|1
+APÉNDICE|Prolongación del intestino|1
+APÉNDICE|Anexo de un libro|2
+COLON|Parte del intestino grueso|2
+DIAFRAGMA|Músculo de la respiración|2
+TIROIDES|Glándula del cuello|2
+HIPÓFISIS|Glándula del cerebro|3
+CEREBELO|Parte posterior del encéfalo|2
+ENCÉFALO|Cerebro y anexos|3
+CRÁNEO|x|9
+MÚSCULO|Bíceps o tríceps|1
+BÍCEPS|Músculo del brazo|1
+TRÍCEPS|Músculo de atrás del brazo|2
+ABDOMINAL|Ejercicio de panza|2
+PULSO|Latido de la muñeca|1
+PULSO|Firmeza de la mano|2
+LATIDO|Golpe del corazón|1
+RESPIRACIÓN|Inhalar y exhalar|1
+BOSTEZO|Señal de sueño|1
+ESTORNUDO|Achís|1
+HIPO|Contracción del diafragma|1
+FIEBRE|Calentura|1
+GRIPE|Influenza|1
+RESFRÍO|Catarro|1
+CATARRO|Resfrío|2
+ANGINA|Inflamación de garganta|2
+JAQUECA|Migraña|2
+MIGRAÑA|Dolor de cabeza intenso|1
+MAREO|Vahído|2
+VAHÍDO|Desvanecimiento breve|3
+DESMAYO|Pérdida del conocimiento|1
+SÍNCOPE|Desmayo|3
+CALAMBRE|Contracción dolorosa|1
+ESGUINCE|Torcedura|1
+FRACTURA|Hueso roto|1
+LUXACIÓN|Dislocación|3
+MORETÓN|Hematoma|1
+HEMATOMA|Moretón|2
+CICATRIZ|Marca de una herida|1
+AMPOLLA|Vejiga en la piel|1
+VERRUGA|Excrecencia de la piel|2
+LUNAR|Mancha en la piel|1
+PECA|Manchita del sol|1
+ARRUGA|Pliegue de la piel|1
+CANA|x|9
+CALVA|Pelada|1
+PELADA|Calva|2
+PELUCA|Cabellera postiza|1
+TRENZA|Peinado entrelazado|1
+RODETE|Moño|2
+FLEQUILLO|Pelo sobre la frente|1
+PATILLA|Pelo junto a la oreja|2
+DIAGNÓSTICO|Dictamen médico|2
+SÍNTOMA|Señal de una enfermedad|1
+EPIDEMIA|Brote masivo|1
+PANDEMIA|Epidemia mundial|1
+CONTAGIO|Transmisión|1
+VIRUS|Agente infeccioso|1
+BACTERIA|Microbio|1
+MICROBIO|Microorganismo|1
+GERMEN|Semilla; también microbio|2
+ANTIBIÓTICO|Penicilina, por ejemplo|1
+PENICILINA|Descubrimiento de Fleming|2
+ASPIRINA|Ácido acetilsalicílico|2
+INSULINA|Hormona del páncreas|2
+HORMONA|Mensajero químico|2
+VITAMINA|Nutriente esencial|1
+PROTEÍNA|Nutriente de la carne|1
+CALORÍA|Unidad de energía|1
+COLESTEROL|Grasa de la sangre|1
+GLUCOSA|Azúcar de la sangre|2
+ÁTOMO|Partícula indivisible, según los griegos|1
+MOLÉCULA|Grupo de átomos|1
+ELECTRÓN|Partícula negativa|1
+PROTÓN|Partícula positiva|1
+NEUTRÓN|Partícula sin carga|1
+NÚCLEO|Centro del átomo|1
+ISÓTOPO|Átomo de igual elemento y distinta masa|3
+ION|Átomo con carga|2
+CATIÓN|Ion positivo|3
+ANIÓN|Ion negativo|3
+ÁCIDO|Agrio|1
+ÁCIDO|Sustancia de pH bajo|2
+BASE|Álcali|2
+ÁLCALI|Sustancia básica|3
+SAL|x|9
+ÓXIDO|Herrumbre|1
+HERRUMBRE|Óxido del hierro|2
+CARBONO|Elemento de símbolo C|2
+HIDRÓGENO|Elemento más liviano|2
+NITRÓGENO|Gas del aire más abundante|2
+ARGÓN|Gas noble de las lamparitas|3
+NEÓN|x|9
+CLORO|Desinfectante de pileta|1
+FLÚOR|Elemento de la pasta dental|2
+SODIO|Elemento de la sal|2
+POTASIO|Mineral de la banana|2
+CALCIO|Mineral de los huesos|1
+MAGNESIO|Metal de los fuegos artificiales blancos|2
+URANIO|Metal radiactivo|2
+PLUTONIO|Elemento de la bomba|3
+RADIO|x|9
+LITIO|Metal de las baterías|2
+COBALTO|Azul intenso|3
+CROMO|Metal brillante de los autos|2
+CROMO|Figurita|3
+MANGANESO|Metal de las pilas|3
+SILICIO|Elemento de los chips|2
+ARSÉNICO|Veneno clásico|2
+ESTRONCIO|Metal del rojo en los fuegos artificiales|3
+TUNGSTENO|Wolframio|3
+WOLFRAMIO|Metal de los filamentos|3
+VOLTIO|Unidad de tensión|2
+AMPERIO|Unidad de corriente|2
+VATIO|Unidad de potencia|2
+JULIO|x|9
+NEWTON|Unidad de fuerza|3
+GRAMO|Unidad de masa|1
+LITRO|Mil mililitros|1
+MILÍMETRO|Milésima de metro|1
+KILÓMETRO|Mil metros|1
+HECTÁREA|Diez mil metros cuadrados|2
+LEGUA|Medida antigua de camino|2
+MILLA|Medida inglesa|1
+PULGADA|Medida de las pantallas|1
+PIE|x|9
+YARDA|Medida inglesa de tres pies|2
+ONZA|Medida del oro|2
+ARROBA|Signo del correo electrónico|1
+QUINTAL|Cien kilos|2
+TONELADA|Mil kilos|1
+GALÓN|Medida de líquidos|2
+VARA|Medida antigua de longitud|3
+FANEGA|Medida antigua de granos|3
+GRADO|Unidad de temperatura|1
+DECIBEL|Unidad de sonido|2
+QUILATE|Medida de pureza del oro|2
+SEGUNDO|Sexagésima parte del minuto|1
+SEGUNDO|Padrino en un duelo|3
+NÚMERO|Cifra|1
+DÍGITO|Cifra del cero al nueve|2
+SUMA|Adición|1
+RESTA|Sustracción|1
+PRODUCTO|Resultado de multiplicar|2
+COCIENTE|Resultado de dividir|2
+DIVIDENDO|Número que se divide|2
+DIVISOR|Número que divide|2
+FRACCIÓN|Quebrado|2
+QUEBRADO|Fracción|2
+DECIMAL|Con coma|2
+PORCENTAJE|Tanto por ciento|1
+PROMEDIO|Media aritmética|1
+ECUACIÓN|Igualdad con incógnita|1
+INCÓGNITA|La equis de la ecuación|2
+TEOREMA|Pitágoras tiene uno|1
+AXIOMA|Verdad evidente|3
+POSTULADO|Principio sin demostrar|3
+ÁLGEBRA|Rama de la matemática de las letras|1
+GEOMETRÍA|Rama de las figuras|1
+TRIGONOMETRÍA|Rama de senos y cosenos|2
+ARITMÉTICA|Rama de los números|1
+CÁLCULO|Cómputo|1
+CÁLCULO|Piedra del riñón|2
+LOGARITMO|Inverso de la potencia|3
+POTENCIA|Exponente aplicado|2
+RAÍZ CUADRADA|x|9
+TRIÁNGULO|Figura de tres lados|1
+CUADRADO|Figura de cuatro lados iguales|1
+RECTÁNGULO|Figura de ángulos rectos|1
+ROMBO|Figura de los diamantes|1
+TRAPECIO|Figura con dos lados paralelos|2
+TRAPECIO|Barra del acróbata|2
+PENTÁGONO|Sede de defensa estadounidense|2
+HEXÁGONO|Figura de las celdas del panal|1
+OCTÓGONO|Figura de la señal de pare|2
+CÍRCULO|Figura redonda|1
+CIRCUNFERENCIA|Contorno del círculo|2
+ELIPSE|Óvalo de las órbitas|2
+ESFERA|Bola|1
+CUBO|Dado, en geometría|1
+CILINDRO|Forma de la lata|1
+CONO|Forma del cucurucho|1
+PIRÁMIDE|x|9
+VÉRTICE|Punta de un ángulo|2
+ARISTA|Borde de un sólido|3
+DIAGONAL|Línea entre vértices opuestos|1
+DIÁMETRO|Doble del radio|1
+PERÍMETRO|Contorno|1
+TANGENTE|Recta que toca la curva|2
+PARALELO|Línea imaginaria de latitud|2
+MERIDIANO|Línea imaginaria de Greenwich|1
+LATITUD|Distancia al ecuador|1
+LONGITUD|Distancia a Greenwich|1
+HEMISFERIO|Mitad del globo|1
+TRÓPICO|Paralelo de Capricornio|1
+POLO|Extremo del eje terrestre|1
+GRAVEDAD|Fuerza de Newton|1
+INERCIA|Tendencia al reposo|2
+ENERGÍA|Capacidad de trabajo|1
+FRICCIÓN|Rozamiento|2
+PALANCA|Máquina simple de Arquímedes|1
+PALANCA|Influencia, acomodo|2
+POLEA|x|9
+ENGRANAJE|Ruedas dentadas|1
+RESORTE|Muelle|1
+TORNILLO|Pieza de rosca|1
+TUERCA|Pieza con rosca interior|1
+ARANDELA|Anillo metálico|2
+REMACHE|Clavo que se aplasta|3
+BULÓN|Tornillo con tuerca|2
+ÉMBOLO|Pistón|3
+PISTÓN|Émbolo del motor|2
+MOTOR|Máquina motriz|1
+TURBINA|Rueda de paletas|2
+DINAMO|Generador eléctrico|2
+BATERÍA|Acumulador|1
+BATERÍA|Instrumento del baterista|1
+IMÁN|x|9
+BRÚJULA|x|9
+ÓPTICA|Ciencia de la luz|2
+ESPECTRO|Fantasma|2
+ESPECTRO|Descomposición de la luz|3
+PRISMA|Descompone la luz|2
+REFLEJO|Imagen en el espejo|1
+ECO|x|9
+SONIDO|Vibración audible|1
+ULTRASONIDO|Ecografía|2
+RAYOS X|x|9
+RADIOGRAFÍA|Placa de rayos|1
+ECOGRAFÍA|Imagen por ultrasonido|1
+TOMOGRAFÍA|Escáner médico|2
+LÁSER|Rayo de luz concentrado|1
+CÉLULA|Unidad de la vida|1
+TEJIDO|Conjunto de células|2
+ÓRGANO|Instrumento de tubos de la iglesia|2
+ADN|x|9
+GEN|Unidad de la herencia|2
+CROMOSOMA|Portador de genes|2
+EMBRIÓN|Ser en gestación|2
+FETO|Embrión avanzado|2
+ESPECIE|Clase de seres vivos|1
+EVOLUCIÓN|Teoría de Darwin|1
+FÓSIL|Resto petrificado|1
+MAMÍFERO|Animal que mama|1
+REPTIL|Animal que se arrastra|1
+ANFIBIO|Vive en agua y tierra|1
+ANFIBIO|Vehículo de agua y tierra|2
+VERTEBRADO|Animal con columna|1
+INVERTEBRADO|Animal sin columna|1
+HERBÍVORO|Come plantas|1
+CARNÍVORO|Come carne|1
+OMNÍVORO|Come de todo|1
+DEPREDADOR|Cazador|1
+PARÁSITO|Vive a costa de otro|1
+ECOSISTEMA|Comunidad y ambiente|2
+FOTOSÍNTESIS|Proceso de la clorofila|1
+CLOROFILA|Pigmento verde|1
+POLINIZACIÓN|Trabajo de las abejas en las flores|2
+SAVIA|Jugo de las plantas|2
+RESINA|Sustancia pegajosa del pino|2
+CORTEZA|Piel del árbol|1
+TRONCO|Tallo del árbol|1
+TALLO|Sostén de la flor|1
+PÉTALO|Hoja de la corola|1
+SÉPALO|Hoja del cáliz|3
+ESTAMBRE|Órgano masculino de la flor|3
+PISTILO|Órgano femenino de la flor|3
+SEMILLERO|x|9
+BROTE|Retoño|1
+RETOÑO|Hijo pequeño|2
+ESPIGA|Racimo de granos|1
+MAZORCA|Choclo|2
+VAINA|x|9
+CÁSCARA|Corteza de la fruta|1
+CAROZO|Hueso del durazno|1
+PEPITA|Semilla del melón|1
+PEPITA|Grano de oro|2
+GAJO|Porción de la naranja|1
+RACIMO|x|9

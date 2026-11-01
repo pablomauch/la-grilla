@@ -1,0 +1,362 @@
+ABRIGO|Sobretodo|1
+ABETAL|Bosque de abetos|3
+ACOPIO|Provisión|3
+ADOSAR|Arrimar a una pared|3
+AFÍN|Parecido|2
+AJUAR|Ropa de la novia|2
+ALARDE|Ostentación|2
+ALBA|x|9
+ALCOHOL|Espíritu del vino|2
+ALERTA|Aviso de peligro|1
+ALMENA|Diente de la muralla|2
+ALMIDÓN|Fécula para la ropa|2
+ALUSIÓN|Mención indirecta|2
+AMAGUE|Finta|9
+AMPLIAR|Agrandar|1
+ANGUILA|x|9
+APODO|Sobrenombre|1
+APURO|Aprieto|1
+ARENGA|Discurso enardecido|2
+ARMÓNICA|Instrumento de boca|1
+ARROYO|Riachuelo|1
+ASTILLA|Fragmento de madera|1
+ASTILLERO|Fábrica de barcos|2
+ATAQUE|Embestida|1
+AULA|Salón de clase|1
+AVAL|Garantía|2
+AVENIDA|Calle ancha|1
+AVISO|Anuncio|1
+AZOTE|Látigo|2
+BACHE|Pozo de la calle|1
+BAJÍO|Banco de arena|3
+BALIDO|Voz de la oveja|2
+BAMBALINA|x|9
+BANCA|Asiento del legislador|2
+BANDO|Facción|2
+BARRA|Lingote|2
+BASTA|Hilván grueso; también suficiente|2
+BAZAR|Tienda oriental|1
+BÉLICO|Guerrero|2
+BIRLAR|Robar|3
+BIZCO|Estrábico|2
+BLASÓN|Escudo de armas|2
+BOCHORNO|Calor sofocante; vergüenza|2
+BODEGA|x|9
+BOLEO|Figura del tango con la pierna|3
+BOLETO|Pasaje|1
+BOMBÍN|Sombrero hongo|2
+BORLA|Adorno de hilos|2
+BOTICA|Farmacia antigua|2
+BRAGA|Calzón|3
+BRIBÓN|Pícaro|2
+BROMA|Chanza|1
+CHANZA|Broma|2
+BRÚJULA|x|9
+BULTO|Bulto, paquete|9
+BURBUJA|Pompa|1
+CAB|x|9
+CABAÑA|Choza de madera|1
+CACHETE|Mejilla|1
+CADENA|Sucesión de eslabones|1
+CAÍDA|Tropezón|1
+CAJÓN|Gaveta|1
+CALADA|Pitada|2
+CALCETÍN|Media|1
+CALDO|Consomé|1
+CALIZA|Piedra de cal|3
+CÁLIDO|Caluroso|1
+CALLO|Dureza de la piel|1
+CAMPO|Agro|1
+CANAL|Cauce artificial|1
+CANASTA|Cesto|1
+CANDADO|Cerradura móvil|1
+CANELO|Árbol sagrado mapuche|3
+CANTERA|Lugar de donde se sacan piedras|2
+CANTERA|Divisiones inferiores de un club|2
+CAPATAZ|x|9
+CAPRICHO|Antojo|1
+CARCAJADA|Risa ruidosa|1
+CARETA|Máscara|1
+CARGA|Peso|1
+CARIBE|x|9
+CARPA|x|9
+CASERO|Hecho en casa|1
+CASILLA|Caseta|1
+CASTOR|x|9
+CATRE|Cama plegable|2
+CAUCE|Lecho del río|2
+CAUSA|Motivo|1
+CAVA|Champaña española|2
+CEBADOR|El que ceba el mate|1
+CEJILLA|Pieza de la guitarra|3
+CELDA|Calabozo|1
+CENIZA|Polvo del fuego|1
+CERCO|Valla|1
+CHAPA|Lámina de metal|1
+CHARCO|Pozo de agua|1
+CHISPA|Destello|1
+CHOZA|Cabaña pobre|1
+CIERRE|Cremallera|1
+CIGARRO|Cigarrillo|1
+CINTA|Lazo|1
+CINTO|Cinturón|2
+CITA|Encuentro acordado|1
+CLAVIJA|Pieza de la guitarra para afinar|2
+CLIMA|Tiempo atmosférico|1
+COCHE|Auto|1
+CODORNIZ|x|9
+COJÍN|Almohadón|1
+COLINA|Loma|1
+COLMENA|Casa de abejas|1
+COMETIDO|Encargo|2
+COPETE|Mechón alto|2
+CORBATA|Prenda del cuello|1
+CORCEL|x|9
+CORDEL|Cuerda fina|1
+CORNETA|Trompeta pequeña|1
+CORTEJO|Comitiva|2
+COSTAL|Bolsa grande|2
+COSTRA|Corteza dura|1
+CRÁTER|x|9
+CRÍA|Hijo de animal|1
+CRISTAL|Vidrio|1
+CUBETA|Recipiente rectangular|2
+CUERDA|Soga|1
+CUERNO|Asta|1
+CUESTA|Pendiente|1
+CUOTA|Pago parcial|1
+CÚPULA|x|9
+DAMASCO|Albaricoque|1
+DESFILE|Marcha|1
+DIANA|x|9
+DIENTE|x|9
+DILEMA|Disyuntiva|2
+DISCO|Placa de música|1
+DOCENA|Doce unidades|1
+DUCHA|Lluvia del baño|1
+ECLÉCTICO|Que combina estilos|3
+EMBLEMA|Símbolo|1
+EMPATE|Igualdad|1
+ENCAJE|Puntilla|2
+ENSALADA|Mezcla de verduras|1
+ENTRADA|Billete|1
+ESCOBA|x|9
+ESPIGÓN|Muelle en el mar|2
+ESPINA|Púa|1
+ESTACA|Palo puntiagudo|1
+ESTUCHE|Caja para guardar|1
+FAJA|Ceñidor|1
+FALDA|Ladera; también pollera|2
+FANGO|x|9
+FELPA|Tela afelpada|2
+FIEBRE|x|9
+FLECO|Borde de hilos|1
+FLOTA|Conjunto de barcos|1
+FORRO|Cubierta interior|1
+FRANJA|Lista, banda|1
+FRASCO|Envase pequeño|1
+FRAZADA|x|9
+FUELLE|x|9
+GALERA|x|9
+GALLETA|Bizcocho|1
+GARRA|Uña de fiera|1
+GARRA|Empuje, voluntad|2
+GAVETA|Cajón|2
+GEMELO|Mellizo|1
+GIRA|Viaje artístico|1
+GOLOSINA|Dulce|1
+GORRO|Cubre la cabeza|1
+GRADA|Escalón de la tribuna|2
+GRAFÍA|Escritura|3
+GRANJA|Chacra|1
+GRAPA|Ganchito de metal|2
+GRIETA|Rajadura|1
+GRUPO|Conjunto|1
+GUIÑO|Seña con el ojo|1
+GUIRNALDA|x|9
+HALAGO|Lisonja|2
+HAMACA|x|9
+HEBILLA|Broche del cinturón|1
+HELECHO|x|9
+HERIDA|Lesión|1
+HIGO|x|9
+HOGUERA|x|9
+HONDA|Gomera|1
+HUECO|Agujero|1
+HUÉSPED|Invitado|1
+INCENDIO|Fuego grande|1
+INGENIO|Agudeza|1
+INGENIO|Fábrica de azúcar|2
+ISLETA|Isla chica|9
+JABALINA|x|9
+JARDINERA|Maceta larga|2
+JARRO|Taza grande|1
+JEFE|Patrón|1
+JINETA|Insignia de cabo|3
+JUGUETE|Chiche|1
+CHICHE|Juguete|2
+LÁPIDA|x|9
+LAZO|x|9
+LECHUZA|x|9
+LECTURA|Acción de leer|1
+LEJÍA|Lavandina|3
+LAVANDINA|Lejía|1
+LEVITA|Saco largo antiguo|3
+LIBRETA|Cuaderno pequeño|1
+LIGA|Asociación; también elástico|2
+LIMOSNA|Dádiva al pobre|1
+LIRA|x|9
+LISTÓN|Tabla delgada|2
+LLAMADO|Convocatoria|1
+LLANTO|Lloro|1
+LLANURA|Planicie|1
+LOCURA|Demencia|1
+LUGAR|Sitio|1
+LUNETA|Vidrio trasero del auto|2
+MACHETE|Cuchillo grande|1
+MADERA|Leño|1
+MALETA|Valija|1
+MALLA|Traje de baño|1
+MANADA|Rebaño salvaje|1
+MANIJA|Picaporte|1
+MANTO|x|9
+MARCO|x|9
+MAREJADA|x|9
+MÁSCARA|Careta|1
+MECHÓN|Mecha de pelo|1
+MEJILLA|x|9
+MENSAJE|Recado|1
+MINA|x|9
+MIRADA|Ojeada|1
+MOCHO|Desmochado|3
+MOLDE|Horma|1
+MONEDA|Cospel, ficha|1
+MONTÓN|Pila|1
+MORRAL|Bolsa del cazador|2
+MOTO|Motocicleta|1
+MUESCA|Corte, hendidura|3
+MUSEO|x|9
+NAIPE|x|9
+NAVAJA|x|9
+NEUMÁTICO|Rueda de goma|1
+NIEBLA|x|9
+NIÑERA|Cuidadora de niños|1
+NOMBRE|x|9
+NOTA|x|9
+OBRERO|Trabajador|1
+OFICIO|Profesión manual|1
+OLEAJE|Movimiento de las olas|1
+ONDA|Ola|1
+OREJERA|Protector de orejas|2
+OVILLO|Bola de lana|1
+PAISAJE|x|9
+PAJA|Tallo seco|1
+PALCO|x|9
+PALETA|x|9
+PALMA|Palmera; también de la mano|1
+PANCARTA|Cartel de protesta|1
+PANTANO|x|9
+PAQUETE|Bulto|1
+PARCELA|Terreno|1
+PARCHE|Remiendo|1
+PASAJE|Boleto|1
+PASILLO|Corredor|1
+PASTOR|Cuidador de ovejas|1
+PATRULLA|Ronda policial|1
+PEDAZO|Trozo|1
+PELLIZCO|Pizca|2
+PENACHO|Plumas sobre la cabeza|2
+PERRERA|Casilla de perro|2
+PESADILLA|Mal sueño|1
+PESTAÑA|x|9
+PICAFLOR|Colibrí|1
+PILETA|Piscina|1
+PINZA|Tenaza pequeña|1
+PISADA|Huella|1
+PITO|Silbato|1
+PLANCHA|x|9
+PLANTEL|Equipo de jugadores|2
+PLATINA|Base del tocadiscos|3
+PLAYERA|Remera|9
+REMERA|Camiseta de manga corta|1
+PLUMERO|Limpia el polvo|1
+POLVO|Tierra fina|1
+POMO|Envase de crema|2
+PORTÓN|Puerta grande|1
+POSTRE|Final de la comida|1
+POZO|x|9
+PRENDA|Ropa|1
+PRISA|Apuro|1
+PUESTO|Kiosco callejero|1
+PULSERA|Brazalete|1
+PUNTILLA|Encaje|2
+PUPILO|Alumno interno|2
+QUEJA|Reclamo|1
+QUINTA|x|9
+RAMO|Manojo de flores|1
+RANURA|Hendidura|2
+RASGUÑO|Arañazo|1
+RAYUELA|Juego de la tiza|1
+REJA|Enrejado|1
+RELLENO|Contenido|1
+REMIENDO|Parche|1
+RENTA|Ganancia|1
+RESACA|Malestar del día después|1
+RETAZO|Pedazo de tela|2
+RIÑA|Pelea|1
+RONDA|Turno; también ronda de niños|1
+ROSCA|Espiral del tornillo|1
+ROSCA|Rosca de Pascua|1
+RUBÍ|x|9
+SÁBANA|x|9
+SALVADO|Cáscara del trigo|2
+SARAMPIÓN|Enfermedad de manchas rojas|2
+SARDINA|x|9
+SEMÁFORO|Señal de tránsito|1
+SENDERO|Huella del caminante|1
+SIERRA|Cordón montañoso; también herramienta|1
+SIFÓN|Botella de soda|1
+SOBRINA|Hija del hermano|1
+SOGA|Cuerda|1
+SÓTANO|x|9
+SUELO|Piso|1
+SURCO|Línea del arado|1
+TABLERO|Plancha de juego|1
+TACHO|Recipiente de basura|1
+TALCO|Polvo de bebé|1
+TAPETE|Mantelito|2
+TARRO|Recipiente|1
+TECLADO|Conjunto de teclas|1
+TELARAÑA|Tela de araña|1
+TERNO|Traje de tres piezas|3
+TIBURÓN|x|9
+TIMBRE|x|9
+TINAJA|Vasija grande de barro|2
+TIRITA|Venda adhesiva|2
+TOLDO|Lona de sombra|1
+TOMBOLA|x|9
+TÓMBOLA|Rifa|2
+TORMENTA|x|9
+TORNEO|x|9
+TRAJE|Vestido completo|1
+TRAMPA|Celada|1
+TRAPO|Paño|1
+TRINEO|Vehículo de nieve|1
+TROFEO|Copa|1
+TROMPO|Peonza|1
+TROZO|Pedazo|1
+TUBO|Caño|1
+TUERTO|De un solo ojo|1
+TURNO|Vez|1
+VAGÓN|Coche del tren|1
+VEREDA|Acera|1
+VIDRIERA|Escaparate|1
+VINCHA|Diadema|1
+VISERA|Ala de la gorra|1
+VIVERO|Criadero de plantas|1
+VOLANTE|x|9
+YERRA|Marcación del ganado|2
+ZANJA|Cuneta|1
+ZAPALLITO|x|9
+ZUMBIDO|Ruido de abeja|1
+ZURRÓN|Bolsa de pastor|3

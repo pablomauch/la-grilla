@@ -1,0 +1,908 @@
+ABANICO|Pericón que se agita para darse aire|2
+ABRIR|Inaugurar, desplegar|1
+ABUELA|Nona|1
+ACABAR|Rematar, finiquitar|2
+ACORDEÓN|Instrumento de fuelle y teclado del chamamé|1
+ACTO|Ceremonia pública; también parte de una obra|1
+ADÁN|Primer padre|1
+ADIÓS|Saludo del que se va|1
+ADOBE|Ladrillo de barro y paja secado al sol|2
+AFÁN|Anhelo vehemente|2
+ÁFRICA|Continente de Tombuctú|1
+AGUJA|Obelisco; también de coser|2
+AJÍ|Pimiento picante americano|1
+ALBUM|x|9
+ÁLBUM|Libro de figuritas|1
+ALDEA|Poblado pequeño|1
+ALELÍ|Flor perfumada de jardín|2
+ALERO|Parte del tejado que sobresale de la pared|2
+ALETA|Calzado del buceador|2
+ALFOMBRA|Tapiz del piso|1
+ALIADO|Coligado|2
+ALIAS|Seudónimo|2
+ALMA|Ánima|2
+ALMOHADA|Cabezal de la cama|1
+ALPES|Cordillera del Mont Blanc|1
+ALTAVOZ|Parlante|1
+ALUMNO|Discípulo|1
+AMAZONAS|Río de mayor caudal del mundo|1
+AMÉRICA|Nuevo Mundo|1
+AMO|Patrón|1
+AMOR|Eros|2
+AMULETO|Talismán|1
+ANCLA|Ferro del barco|3
+ANDÉN|Plataforma de la estación|1
+ANDES|Cordillera del Aconcagua|1
+ANILLO|Sortija|1
+ANTÁRTIDA|Continente blanco|1
+ANTE|Piel curtida de aspecto aterciopelado|3
+ANTES|Previamente|1
+ANTIFAZ|Careta que cubre los ojos|1
+APOLO|Dios griego de la música y la luz|2
+APTO|Idóneo|2
+AQUILES|Héroe del talón vulnerable|1
+ARAR|Labrar con el arado|1
+ÁRBOL|Esquema ramificado, como el genealógico|2
+ARCO|Arma de Robin Hood|1
+ARCO|Valla del fútbol|2
+ARDOR|Calor, pasión|2
+ÁREA|Superficie|1
+ARENA|Coliseo, palestra|2
+AREPA|Torta de maíz venezolana|2
+ARETE|Pendiente, aro|2
+ARMAR|Montar, ensamblar|1
+ARMAZÓN|Esqueleto de una construcción|2
+ARMONÍA|Concordia|2
+AROMA|Fragancia|1
+ARPA|Instrumento de cuerdas del Paraguay|2
+ARTE|Habilidad, maña|2
+ARTESANO|El que trabaja con sus manos|1
+ÁRTICO|Polo del oso blanco|1
+ARVEJA|Guisante|1
+ASALTO|Atraco; también round del boxeo|2
+ASAR|Cocinar a la parrilla|1
+ASIA|Continente más poblado|1
+ASTRO|Lucero; también estrella del espectáculo|2
+ASUNCIÓN|Capital del Paraguay|1
+ATAJO|Senda más corta|1
+ATAR|Amarrar|1
+ATENAS|Ciudad de la Acrópolis|1
+ATENEA|Diosa protectora de Atenas|2
+AUTO|Coche|1
+AUTOR|Escritor|1
+AVESTRUZ|Ave que esconde la cabeza|1
+AVIÓN|Aeroplano|1
+AZAR|Casualidad|1
+AÑO|Doce meses|9
+BAILE|Danza|1
+BAJAR|Descender|1
+BALADA|Canción lenta y romántica|1
+BALANZA|Romana, báscula|2
+BALCÓN|Mirador con baranda|1
+BALSA|Embarcación de troncos|1
+BANANA|Fruta amarilla de Ecuador|1
+BANCO|Asiento de plaza|1
+BARCO|Nave|1
+BARILOCHE|Ciudad del cerro Catedral|1
+BARRIO|Arrabal, vecindario|1
+BARRO|Fango|1
+BASTÓN|Báculo|2
+BATUTA|Varita del director de orquesta|1
+BAÑO|Toilette|1
+BEBÉ|Nene recién nacido|1
+BEBEDERO|Pileta donde toman agua los animales|2
+BEBER|Libar|2
+BELLO|Hermoso|1
+BERLÍN|Capital alemana del Muro|1
+BESO|Ósculo|3
+BICI|Bicicleta, familiarmente|1
+BIEN|Lo contrario del mal|1
+BISTURÍ|Cuchillo del cirujano|1
+BIZCOCHO|Galleta de grasa del desayuno|1
+BLUSA|Camisa femenina|1
+BODA|Casamiento|1
+BOGOTÁ|Capital de Colombia|1
+BOINA|Gorra vasca|1
+BOLERO|Obra de Ravel|2
+BOLSA|Mercado de valores|2
+BOLSO|Cartera de mano|1
+BOMBERO|Combate el fuego|1
+BORDAR|Adornar la tela con aguja|1
+BORDE|Orilla, canto|1
+BOSQUE|Floresta|2
+BOTA|Calzado alto|1
+BOTELLA|Envase de vidrio con cuello|1
+BOTÓN|Pimpollo de una flor|2
+BRASA|Carbón encendido|1
+BRISA|Céfiro|2
+BRUJA|Hechicera de escoba|1
+BRÚJULA|Aguja de marear|3
+BUENO|Bondadoso|1
+BUFANDA|Prenda para abrigar el cuello|1
+BUFÓN|Payaso de la corte|1
+BUQUE|Barco grande|1
+BUZO|Prenda deportiva de abrigo|2
+CACAO|Semilla del chocolate|1
+CAFÉ|Infusión de Colombia|1
+CAIRO|Capital egipcia, El...|2
+CALENDARIO|Almanaque|1
+CALIENTE|Ardiente|1
+CALLE|Arteria urbana|2
+CALMA|Sosiego|1
+CALOR|Bochorno|1
+CAMA|Lecho|1
+CAMINO|Senda|1
+CAMISA|Prenda con cuello y botones|1
+CANCIÓN|Tema musical con letra|1
+CANGURO|Marsupial australiano|1
+CANOA|Piragua|2
+CANTANTE|Intérprete vocal|1
+CANTAR|Entonar|1
+CAOS|Desorden total|1
+CAPA|Estrato|2
+CARA|Rostro|1
+CARACAS|Capital de Venezuela|1
+CARAVANA|Fila de vehículos o de viajeros|1
+CARGO|Puesto, empleo|1
+CARIDAD|Una de las virtudes teologales|2
+CARIES|Picadura de una muela|1
+CARNE|Bife|1
+CARPINCHO|Roedor gigante de los esteros|1
+CARRERA|Profesión universitaria|1
+CARRUAJE|Coche de caballos|1
+CARTA|Misiva|2
+CARTERA|Ministerio|2
+CARTERO|Repartidor de la correspondencia|1
+CASTILLO|Fortaleza con almenas|1
+CAÑA|Bambú; también vara de pescar|1
+CENA|Comida de la noche|1
+CENTÍMETRO|Cinta métrica de la costurera|2
+CEPILLO|Herramienta del carpintero|2
+CERA|Producto de las abejas para las velas|1
+CEREMONIA|Rito solemne|1
+CERRAR|Clausurar|1
+CERRO|Monte pequeño|1
+CERVEZA|Bebida de lúpulo|1
+CHACO|Provincia del Impenetrable|1
+CHAMPÚ|Jabón líquido para el pelo|1
+CHICO|Pequeño, pibe|1
+CHILE|País trasandino|1
+CHIMENEA|Hogar a leña|1
+CHURRO|Masa frita con azúcar|1
+CÍCLOPE|Gigante de un solo ojo|1
+CIELO|Firmamento|1
+CIEN|Centena|1
+CINCO|Número de los dedos de la mano|1
+CINE|Séptimo arte|1
+CIRUELA|Fruta que seca es pasa|1
+CIUDAD|Urbe|2
+CIUDADANO|Vecino con derechos políticos|1
+CLASE|Lección|1
+CLAVE|Contraseña|1
+CLIP|Sujetapapeles|1
+CLUB|Entidad deportiva|1
+COCINA|Arte culinario|1
+COCINAR|Guisar|1
+COFRE|Arca del tesoro|1
+COLA|Fila de espera|1
+COLECTIVO|Bondi|2
+COLIBRÍ|Picaflor|1
+COLLAR|Gargantilla|2
+COMA|Signo de puntuación|1
+COMER|Almorzar o cenar|1
+COMETA|Barrilete|2
+COPA|Trofeo del campeón|1
+CORO|Estribillo cantado por todos|2
+CORRER|Trotar rápido|1
+COSECHAR|Recolectar|1
+COSER|Hilvanar|2
+COSTA|Litoral|1
+COÑAC|Brandy francés|2
+CRÁNEO|Calavera|2
+CREER|Tener fe|1
+CRIMEN|Delito grave|1
+CRUCIGRAMA|Pasatiempo de palabras cruzadas|1
+CRUZ|Reverso de la moneda|2
+CUADRO|Pintura|1
+CUATRO|Instrumento venezolano de cuerdas|3
+CUBA|Isla de La Habana|1
+CUCHARA|Cubierto para la sopa|1
+CUCHILLO|Cubierto con filo|1
+CUENTO|Relato breve|1
+CUEVA|Caverna|1
+DANUBIO|Río azul de Strauss|1
+DAR|Donar|1
+DARDO|Flechita que se tira al blanco|1
+DATO|Información|1
+DEBUT|Estreno|1
+DECIR|Expresar|1
+DEDAL|Protector del dedo al coser|1
+DESIERTO|Páramo de arena|1
+DESTINO|Hado|9
+DIADEMA|Vincha adornada|2
+DIARIO|Periódico|1
+DIESTRO|Torero; también derecho|2
+DIEZ|Decena|1
+DIFÍCIL|Arduo|9
+DINERO|Plata, guita|1
+DINOSAURIO|Reptil del Jurásico|1
+DIOS|Creador|1
+DIOSA|Deidad femenina|1
+DIVA|Cantante célebre|1
+DIVÁN|Sofá sin respaldo|2
+DORMIR|Descansar en la cama|1
+DORMITORIO|Alcoba|1
+DRAGÓN|Monstruo de San Jorge|1
+DUELO|Desafío entre dos|1
+DUENDE|Duende travieso|9
+DULCE|Golosina|1
+DUNA|Médano|1
+ÉBANO|Madera negra|2
+EBRIO|Borracho|1
+ECLIPSE|Ocultación del sol|1
+ECUADOR|País de Quito|1
+EDAD|Años vividos|9
+EDITOR|El que publica libros|1
+EDREDÓN|Acolchado|1
+EGIPTO|País del Nilo|1
+EJE|Árbol de una rueda|2
+ELÁSTICO|Que vuelve a su forma|1
+ÉLITE|Minoría selecta|2
+ELOGIO|Encomio|2
+EMBAJADA|Sede diplomática|1
+EMBUDO|Sirve para trasvasar|1
+EMPERADOR|Káiser|2
+ENANO|Petiso extremo; hay siete en el cuento|1
+ENFERMERA|Asistente del médico|1
+ENIGMA|Acertijo|1
+EPOCA|x|9
+ÉPOCA|Era, período|1
+ERIZO|Mamífero de púas|1
+EROS|Cupido griego|2
+ERROR|Yerro|9
+ESCALA|Parada intermedia de un vuelo|2
+ESCALERA|Sucesión de escalones|1
+ESCOLAR|Colegial|1
+ESCRIBIR|Redactar|1
+ESCRITOR|Novelista|1
+ESCULTOR|Autor de estatuas|1
+ESENCIA|Perfume concentrado|2
+ESPADA|Palo de la baraja española|1
+ESPALDA|Dorso|1
+ESPAÑA|País de la Alhambra|1
+ESPEJO|Luna del ropero|9
+ESPIRAL|Curva del caracol|1
+ESQUELETO|Osamenta|2
+ESQUÍ|Deporte de Las Leñas|1
+ESQUINA|Ochava|2
+ESTABLO|Cuadra para el ganado|2
+ESTADIO|Cancha grande|1
+ESTRIBILLO|Coro que se repite|1
+ETAPA|Fase|1
+ÉTICA|Moral|1
+EUCALIPTO|Árbol del koala|1
+EUROPA|Viejo continente|1
+ÉXITO|Triunfo|1
+EXPLORADOR|Boy scout|2
+FÁBULA|Apólogo|3
+FÁCIL|Sencillo|1
+FANTASMA|Espectro|1
+FARO|Torre del fin del mundo, de Verne|2
+FAROL|Mentira del jugador para engañar|2
+FAUNA|Conjunto de animales de una región|1
+FAVOR|Gauchada|2
+FELIZ|Dichoso|1
+FÉNIX|Ave que renace de sus cenizas|1
+FEO|Antiestético|1
+FERVOR|Entusiasmo|2
+FIDEOS|Tallarines|1
+FIEL|Aguja de la balanza|3
+FIERA|Bestia salvaje|1
+FIESTA|Celebración|1
+FINAL|Desenlace|1
+FLACO|Delgado|1
+FLAUTA|Instrumento de viento traversa|1
+FLECHA|Saeta|2
+FLOR|Lo mejor de algo: la... y nata|2
+FOCA|Lobo marino pequeño|2
+FOGATA|Hoguera|1
+FOTO|Instantánea|1
+FRAC|Prenda de etiqueta con faldones|2
+FRÁGIL|Quebradizo|1
+FRANCIA|País galo|1
+FRAUDE|Estafa|1
+FRENTE|Lugar de la batalla|2
+FRESA|Frutilla|1
+FRÍO|Gélido|9
+FRUTA|Producto del árbol frutal|1
+FUENTE|Bandeja grande para servir|2
+FUROR|Furia|2
+FUSIL|Arma larga del soldado|1
+FÚTBOL|Balompié|1
+GAFAS|Anteojos|1
+GAITA|Instrumento de fuelle gallego|1
+GALÁN|Actor principal|1
+GALAXIA|Vía Láctea, por ejemplo|1
+GALLINA|Ave de corral ponedora|1
+GALLO|Ave del amanecer|1
+GANAR|Vencer|1
+GARDEL|El Morocho del Abasto|1
+GARZA|Ave zancuda de las lagunas|1
+GEMA|Piedra preciosa|1
+GENERAL|Grado militar superior|1
+GENIO|Ser de la lámpara|1
+GIGANTE|Coloso|1
+GLACIAR|Masa de hielo como el Perito Moreno|1
+GLOBO|Aeróstato|2
+GLOTÓN|Comilón|1
+GOL|Tanto en el arco|1
+GOLF|Deporte de los hoyos|1
+GOLONDRINA|Ave migratoria que no hace verano|1
+GORDO|Primer premio de la lotería|1
+GORRA|Gorro con visera|1
+GRANDE|Amplio|1
+GRANO|Semilla de cereal|1
+GRECIA|Hélade|2
+GRUTA|Caverna|1
+GUANACO|Camélido de la estepa|1
+GUANTE|Prenda de la mano|1
+GUARDAPOLVO|Delantal blanco del escolar|1
+GUITARRA|Viola criolla|2
+GURÚ|Maestro espiritual|1
+GUSANO|Lombriz|1
+HABANO|Puro cubano|1
+HÁBITAT|Ambiente natural de una especie|2
+HABLAR|Conversar|1
+HACER|Fabricar|1
+HADA|Madrina de Cenicienta|1
+HAMACA|Columpio|1
+HAMBRE|Apetito|1
+HARINA|Polvo del trigo|1
+HAZAÑA|Proeza|1
+HECHIZO|Sortilegio|2
+HELADO|Postre de crema congelada|1
+HÉLICE|Propela|2
+HERMANDAD|Fraternidad|2
+HÉROE|Protagonista valiente|1
+HIELO|Agua solidificada|1
+HILO|Hebra|1
+HISTORIA|Relato del pasado|1
+HOGAR|Casa, morada|1
+HOJA|Lámina; también de afeitar|1
+HOLGAZÁN|Haragán|1
+HOMBRE|Varón|1
+HOMERO|Poeta ciego de la Odisea|1
+HORA|Sesenta minutos|1
+HORIZONTE|Línea donde se juntan cielo y tierra|1
+HORNO|Cocina de barro de la panadería|1
+HOSPITAL|Sanatorio|1
+HOTEL|Alojamiento de turistas|1
+HUELLA|Pisada|1
+HUERTA|Quinta de verduras|1
+HUMEDAD|Agua del aire|1
+HUMILDE|Modesto|1
+HUMITA|Pasta de choclo envuelta en chala|1
+HUMO|Lo que sale de la chimenea|1
+ÍCARO|Voló con alas de cera|1
+ÍCONO|Imagen sagrada bizantina|2
+IDEA|Ocurrencia|1
+IDIOMA|Lengua|1
+ÍDOLO|Estrella admirada|1
+IGLESIA|Templo|1
+IGLÚ|Vivienda de hielo|1
+IGUANA|Reptil verde tropical|1
+IMÁN|Atrae el hierro|1
+IMÁN|Guía religioso musulmán|3
+IMITAR|Remedar|1
+IMPAR|Non|2
+IMPERIO|Dominio de un emperador|1
+INDIA|País de Gandhi|1
+ÍNDICE|Dedo que señala|1
+INFIERNO|Averno|2
+INSECTO|Bicho de seis patas|1
+INVENTO|Creación nueva|1
+INVITAR|Convidar|1
+IRAK|País de Bagdad|1
+IRÁN|País de Teherán|1
+ISABEL|Reina Católica|1
+ISLOTE|Isla pequeña|1
+ITALIA|País de la bota|1
+JABÓN|Pan para lavarse|1
+JAGUAR|Yaguareté|1
+JAPÓN|País del monte Fuji|1
+JARABE|Remedio para la tos|1
+JARDÍN|Vergel|2
+JAULA|Prisión del canario|1
+JINETE|Montado a caballo|1
+JOROBA|Giba|2
+JOVEN|Mozo|1
+JOVIAL|Alegre, festivo|2
+JOYA|Alhaja|9
+JUDICIAL|De los tribunales|2
+JUEGO|Partida|1
+JUEZ|Magistrado|1
+JUGAR|Divertirse|1
+JUGO|Zumo|9
+JUJUY|Provincia de la Quebrada de Humahuaca|1
+JÚPITER|Planeta gigante|1
+JURADO|Tribunal de un concurso|1
+JUSTICIA|Equidad|2
+JUVENIL|Propio de la juventud|1
+KARATE|Arte marcial japonés|1
+KETCHUP|Salsa de tomate de las hamburguesas|1
+KILO|Mil gramos|1
+KIOSCO|Quiosco de golosinas|1
+KIWI|Fruta de piel peluda|1
+KOALA|Marsupial del eucalipto|1
+LABERINTO|Dédalo|3
+LADRILLO|Bloque de la pared|1
+LAGO|Espejo de agua|1
+LAGUNA|Lago pequeño|1
+LÁMPARA|Velador|2
+LANA|Fibra de oveja|1
+LANZA|Pica|2
+LÁPIZ|Grafito con madera|1
+LATA|Hojalata|9
+LÁTEX|Savia del caucho|2
+LÁTIGO|Rebenque|2
+LAVAR|Limpiar con agua|1
+LEALTAD|Fidelidad|1
+LEER|Interpretar un texto|1
+LENTE|Cristal de anteojo|1
+LENTEJA|Legumbre del guiso de Esaú|2
+LENTITUD|Parsimonia|2
+LENTO|Pausado|1
+LEY|Norma|1
+LEYENDA|Tradición fabulosa|1
+LEÑA|Combustible del fogón|1
+LIBERTAD|Libre albedrío|1
+LIBRERÍA|Comercio de libros|1
+LIBRO|Volumen|1
+LIMA|Capital del Perú|1
+LIMPIO|Aseado|1
+LINDO|Bonito|1
+LISBOA|Capital portuguesa|1
+LLAMA|Flama|1
+LLAVE|Abre la cerradura|1
+LLEGAR|Arribar|1
+LLENO|Colmado|1
+LLEVAR|Transportar|1
+LLORAR|Lagrimear|1
+LOMA|Colina|1
+LONDRES|Capital del Támesis|1
+LOTE|Terreno, parcela|1
+LOTO|Flor sagrada de Oriente|1
+LUZ|Claridad|1
+MADRID|Capital española|1
+MAESTRA|Seño|1
+MAGIA|Prestidigitación|2
+MAIZAL|Plantación de maíz|1
+MAL|Daño|1
+MALO|Perverso|1
+MAMÁ|Vieja, en lenguaje familiar|1
+MAMUT|Elefante prehistórico lanudo|1
+MANANTIAL|Ojo de agua|2
+MANÍ|Cacahuete|1
+MANIQUÍ|Maniquí de vidriera|9
+MANTA|Frazada|1
+MANTEL|Cubre la mesa|1
+MAPA|Plano de un territorio|1
+MAREA|Pleamar o bajamar|1
+MARFIL|Material de los colmillos del elefante|1
+MARROQUÍ|Natural de Marruecos|1
+MARTE|Planeta rojo|1
+MATAMBRE|Corte arrollado que se sirve frío|1
+MATIZ|Gradación de color|1
+MEDALLA|Distinción de metal|1
+MEDIA|Promedio|2
+MEDIALUNA|Factura de manteca|1
+MÉDICO|Doctor|1
+MEDUSA|Aguaviva|1
+MELODÍA|Tonada|1
+MELÓN|Fruta de pulpa anaranjada|1
+MENTIRA|Embuste|1
+MENÚ|Carta del restaurante|1
+MERCADO|Feria|1
+MERMELADA|Confitura|1
+MES|Treinta días|1
+METAL|Hierro, cobre o plata|1
+METRO|Subterráneo|1
+MIEDO|Pavor|1
+MIL|Millar|1
+MILANESA|Carne empanada|1
+MINUTO|Sesenta segundos|1
+MIRADOR|Balcón con vista|1
+MIRAR|Observar|1
+MITO|Leyenda|1
+MOCHILA|Bolso de la espalda|1
+MOLINO|Ingenio para moler|1
+MONTAÑA|Monte|1
+MONTEVIDEO|Capital oriental|1
+MORTAL|Que ha de morir|1
+MOSCA|Insecto de las frutas|1
+MOSCÚ|Capital del Kremlin|1
+MÓVIL|Motivo de un crimen|2
+MUCHO|Bastante|1
+MUNDO|Orbe|2
+MURAL|Pintura en la pared|1
+MUSEO|Pinacoteca|2
+MÚSICA|Arte de los sonidos|1
+NADA|Ninguna cosa|1
+NADAR|Bracear en el agua|1
+NANA|Canción de cuna|1
+NARCISO|Joven enamorado de su reflejo|1
+NARCISO|Flor amarilla de primavera|2
+NAUFRAGIO|Hundimiento|1
+NAVAL|De la marina|1
+NENE|Niño chico|1
+NEPTUNO|Dios romano del mar|1
+NEVAR|Caer copos|1
+NIDO|Hogar del pájaro|1
+NILO|Río de Egipto|1
+NIVEL|Instrumento del albañil con burbuja|2
+NIÑEZ|Infancia|1
+NIÑO|Chico, criatura|1
+NOBLE|Hidalgo|2
+NOMBRE|Sustantivo|2
+NORTE|Septentrión|2
+NOTAR|Advertir|1
+NOTICIA|Novedad|1
+NOVELA|Relato extenso|1
+NOVIO|Prometido|1
+NUDO|Unidad de velocidad del barco|2
+NUEVE|Número que sigue al ocho|1
+NUEVO|Flamante|1
+NUPCIAL|De la boda|1
+OBEDECER|Acatar|1
+OBRA|Edificio en construcción|1
+OCCIDENTAL|Del oeste|1
+OCEANÍA|Continente de Australia|1
+OCÉANO|Mar inmenso|1
+OCTAVO|Que sigue al séptimo|1
+OESTE|Poniente|1
+OFICIAL|Militar con mando|1
+OÍR|Escuchar|1
+OJAL|Agujero del botón|1
+OLER|Olfatear|1
+OLLA|Cacerola|1
+OLOR|Aroma|1
+ÓPERA|Melodrama|2
+OPINIÓN|Parecer|1
+ORACIÓN|Plegaria|1
+ORAL|Examen hablado|1
+ORAR|Rezar|1
+ORCA|Ballena asesina|1
+ORDEN|Mandato|1
+ORGULLO|Soberbia|1
+ORIENTAL|Uruguayo|1
+ORIGEN|Principio|1
+ORILLA|Ribera|1
+ORIÓN|Constelación de las Tres Marías|2
+ORQUÍDEA|Flor exótica de invernadero|1
+OSAR|Atreverse|1
+ÓSCAR|Estatuilla de Hollywood|1
+OSCURIDAD|Tinieblas|1
+OSLO|Capital de Noruega|1
+OTRO|Distinto|1
+ÓVALO|Figura de huevo|1
+OXÍGENO|Gas vital|1
+PAGO|Abono|1
+PAGO|Lugar natal del gaucho|2
+PAÍS|Nación|1
+PÁJARO|Ave pequeña|1
+PALA|Herramienta de cavar|1
+PALABRA|Vocablo|1
+PALACIO|Residencia real|1
+PANADERO|Hace el pan|1
+PANAL|Celdillas de la colmena|1
+PANDA|Oso del bambú|1
+PANTALÓN|Prenda de dos piernas|1
+PAPEL|Rol del actor|2
+PARAGUAS|Protege de la lluvia|1
+PARAÍSO|Edén|1
+PARED|Muro|1
+PASAR|Atravesar|1
+PASIÓN|Afición vehemente|1
+PASTO|Césped|1
+PATA|Pie del animal|1
+PATINES|Calzado con ruedas|1
+PATIO|Espacio abierto de la casa|1
+PATRIA|Tierra natal|1
+PATRÓN|Jefe|1
+PAZ|Fin de la guerra|1
+PAÑUELO|Pañuelo de la zamba|9
+PEDAL|Palanca para el pie|1
+PEGASO|Caballo alado|1
+PEINE|Sirve para peinarse|1
+PELOTA|Balón|1
+PENSAR|Reflexionar|1
+PERDER|Extraviar|1
+PERLA|Gema de la ostra|1
+PERÚ|País de Machu Picchu|1
+PESCADO|Pez para comer|1
+PEZ|Animal con branquias|1
+PIANO|Instrumento de cola|1
+PIE|Base de una columna|2
+PIEDRA|Roca|1
+PIMIENTA|Especia picante en grano|1
+PINCEL|Útil del pintor|1
+PINTAR|Colorear|1
+PINTOR|Artista del lienzo|1
+PIRÁMIDE|Tumba de Keops|1
+PIRATA|Bucanero|1
+PIRULÍ|Caramelo con palito|1
+PISO|Planta de un edificio|1
+PIZZA|Muzzarella, por ejemplo|1
+PLANETA|Astro errante|2
+PLANTA|Vegetal|1
+PLÁTANO|Banana, en España|1
+PLATO|Vajilla para comer|1
+PLAYA|Costa de arena|1
+PLAZA|Espacio verde urbano|1
+PLUMA|Lapicera antigua|2
+PLURAL|Más de uno|1
+PLUTÓN|Planeta enano|1
+POCO|Escaso|1
+PODAR|Cortar ramas|1
+PODER|Facultad|1
+POEMA|Composición en verso|1
+POETA|Vate|9
+POLEN|Polvillo de las flores|1
+POLICÍA|Agente del orden|1
+POLLERA|Falda|1
+POLLO|Cría de gallina|1
+PONER|Colocar|1
+POROTO|Frijol|1
+PORTAL|Pórtico|2
+POZO|Hoyo profundo|1
+PRADO|Pradera|1
+PRAGA|Capital checa|1
+PRECIO|Costo|1
+PROVOLETA|Queso a la parrilla|1
+PUEBLO|Aldea|1
+PUENTE|Viaducto|1
+PUERTA|Entrada|1
+PUERTO|Muelle|1
+PULGA|Insecto saltarín|1
+PUÑAL|Daga|1
+QUERER|Amar|1
+QUIETO|Inmóvil|1
+QUINCE|Cumpleaños de las chicas|1
+QUINTA|Casa de fin de semana|1
+QUITO|Capital del Ecuador|1
+RADAR|Detector de aviones|1
+RADIO|Mitad del diámetro|2
+RAMA|Brazo del árbol|1
+RANCHO|Choza de paja y barro|1
+RAPIDEZ|Celeridad|2
+RÁPIDO|Veloz|9
+RATA|Roedor de las cloacas|1
+RATÓN|Ratoncito Pérez|1
+RED|Malla|1
+REGALO|Obsequio|1
+REGAR|Mojar las plantas|1
+REÍR|Carcajear|1
+RELÁMPAGO|Fogonazo de la tormenta|1
+RELOJ|Marca la hora|9
+REMAR|Bogar|2
+RESTAR|Sustraer|1
+RESTO|Saldo|1
+REVISTA|Publicación semanal|1
+REY|Monarca|9
+RIGOR|Severidad|1
+RIMA|Consonancia del verso|1
+RITO|Ceremonia|1
+RIVAL|Contrincante|1
+RIZO|Bucle|1
+ROBOT|Autómata|1
+ROCÍO|Gotas del alba|9
+RODAR|Filmar una película|2
+ROMA|Ciudad eterna|1
+ROMPER|Quebrar|1
+RON|Bebida del pirata|1
+ROPA|Indumentaria|1
+ROSAL|Arbusto de rosas|1
+ROTAR|Girar|1
+ROTO|Quebrado|1
+RUBIO|Pelo de oro|1
+RUBOR|Sonrojo|1
+RUEDA|Neumático|1
+RUIDO|Bullicio|1
+RUIN|Vil|1
+RUINA|Escombros|1
+RUMOR|Habladuría|1
+RURAL|Campestre|1
+RUSIA|País del Kremlin|1
+RUTA|Carretera|1
+SABER|Conocer|1
+SABIO|Erudito|1
+SABOR|Gusto|1
+SACO|Chaqueta|1
+SAHARA|Gran desierto africano|1
+SALA|Living|1
+SALIR|Partir|1
+SALTAR|Brincar|1
+SALTO|Brinco|1
+SALUD|Brindis|1
+SALVAJE|Silvestre|1
+SAMURÁI|Guerrero japonés|1
+SANDÍA|Fruta de verano con semillas negras|1
+SANTIAGO|Capital chilena|1
+SANTO|Beato|1
+SARTÉN|Para freír|1
+SATURNO|Planeta anillado|1
+SECAR|Enjugar|1
+SEGUIR|Continuar|1
+SEIS|Media docena|1
+SELLO|Timbre|1
+SELVA|Jungla|1
+SEMANA|Siete días|1
+SEMBRAR|Sembrar|9
+SEMILLA|Simiente|1
+SENDA|Sendero|1
+SER|Existir|1
+SERENATA|Música bajo el balcón|1
+SEÑAL|Indicio|1
+SEÑOR|Caballero|1
+SIESTA|Descanso después del almuerzo|1
+SIETE|Número de las maravillas|1
+SILBATO|Pito|1
+SILLA|Asiento con respaldo|1
+SILLÓN|Butaca|1
+SIRENA|Alarma|1
+SOBRE|Envoltorio de la carta|1
+SOFÁ|Diván|1
+SOLAR|Terreno para edificar|1
+SOLO|Sin compañía|1
+SOMBRA|Silueta oscura|1
+SOMBRERO|Chambergo|1
+SOPA|Caldo|1
+SOPRANO|Voz más aguda|1
+SOÑAR|Fantasear|1
+SUBIR|Ascender|1
+SUCIO|Mugriento|1
+SUERTE|Fortuna|1
+SUMAR|Agregar|1
+SUPERIOR|Mejor, de arriba|1
+SUR|Austro|2
+TALAR|Cortar árboles|1
+TALLER|Obrador|1
+TAMAL|Masa de maíz envuelta en chala|1
+TAMBOR|Parche que se golpea|1
+TANGO|Música del arrabal|1
+TAPA|Porción de bar español|1
+TARDE|Atardecer|1
+TATA|Abuelo|1
+TAXI|Auto de alquiler|1
+TAZA|Pocillo grande|1
+TAZÓN|Bol|1
+TEATRO|Escenario|1
+TECHO|Tejado|1
+TECLA|Pulsador del piano|1
+TEJA|Pieza del techo|1
+TEJER|Hacer punto|1
+TELAR|Máquina de tejer|1
+TELÉFONO|Aparato de Graham Bell|1
+TELEVISOR|Aparato de televisión|1
+TELÓN|Cortina del teatro|1
+TEMA|Asunto|1
+TEMOR|Miedo|1
+TENEDOR|Cubierto de dientes|1
+TENER|Poseer|1
+TENIS|Deporte de Wimbledon|1
+TENOR|Voz masculina aguda|1
+TERCO|Testarudo|1
+TERMINAL|Estación de ómnibus|1
+TERROR|Pánico|1
+TESORO|Riqueza oculta|1
+TEXTIL|Industria de tejidos|1
+THOR|Dios nórdico del martillo|2
+TIEMPO|Lo que mide el reloj|1
+TIENDA|Negocio|1
+TIJERA|Para cortar|1
+TIMÓN|Rueda del barco|1
+TINA|Bañera|1
+TINTA|Líquido de la lapicera|1
+TINTO|Vino oscuro|1
+TIRAMISÚ|Postre italiano|1
+TIZA|Para el pizarrón|1
+TOALLA|Para secarse|1
+TOCAR|Palpar|1
+TODO|Entero|1
+TOKIO|Capital japonesa|1
+TONEL|Barril|1
+TÓRAX|Pecho|1
+TORTA|Pastel|1
+TOS|Carraspera|1
+TOTAL|Suma|1
+TRABAJO|Laburo|1
+TRACTOR|Vehículo del campo|1
+TRAIDOR|Felón|2
+TRAMPOLÍN|Tabla para saltar|1
+TREN|Ferrocarril|1
+TRES|Terna|1
+TRISTE|Apenado|1
+TROMPETA|Instrumento de Louis Armstrong|1
+TRONO|Sitial del rey|1
+TROPICAL|Del trópico|1
+TROYA|Ciudad del caballo de madera|1
+TUCÁN|Ave de pico enorme|1
+TULIPÁN|Flor de Holanda|1
+TUMBA|Sepulcro|1
+TÚNEL|Paso bajo tierra|1
+UBRE|Mama de la vaca|1
+ULISES|Odiseo|1
+UNIFORME|Ropa igual para todos|1
+UNIÓN|Enlace|1
+UNIR|Juntar|1
+UNIVERSO|Cosmos|1
+UNO|Primer número|1
+URBANO|De la ciudad|1
+URUGUAYO|Oriental|1
+USUAL|Habitual|1
+UTENSILIO|Herramienta de cocina|1
+ÚTIL|Provechoso|1
+UVAS|Doce, en la Nochevieja|1
+VACÍO|Hueco|1
+VAIVÉN|Ida y vuelta|1
+VAJILLA|Platos y tazas|1
+VALIENTE|Corajudo|1
+VALIJA|Maleta|1
+VALLE|Hondonada|1
+VALOR|Coraje|1
+VAPOR|Agua gaseosa|1
+VASO|Recipiente para beber|1
+VECINDAD|Vecindario|1
+VELA|Cirio|1
+VELERO|Barco a vela|1
+VENADO|Ciervo|1
+VENIR|Llegar|1
+VENTANA|Abertura con vidrio|1
+VENUS|Lucero del alba|2
+VER|Divisar|1
+VERANIEGO|Estival|1
+VERBAL|Oral|1
+VERDAD|Lo cierto|1
+VERDURA|Hortaliza|1
+VERSO|Línea de un poema|1
+VÉRTIGO|Mareo|1
+VESTIDO|Traje de mujer|1
+VEZ|Turno|1
+VIAJE|Travesía|1
+VÍBORA|Serpiente|1
+VICUÑA|Camélido de fina lana|1
+VIDA|Existencia|1
+VIEJO|Anciano|1
+VIENA|Capital austríaca|1
+VINO|Mosto fermentado|1
+VIOLÍN|Instrumento de arco|1
+VIRAL|Que se difunde rápido en las redes|1
+VIRREY|Representante del rey en la colonia|1
+VIRTUD|Cualidad buena|1
+VITAL|Esencial|1
+VIVIR|Existir|1
+VOCAL|A, E, I, O o U|1
+VOLCÁN|Montaña de fuego|1
+VOLUMEN|Tomo|1
+VOZ|Sonido de la garganta|1
+XILOFÓN|Instrumento de láminas|1
+YAGUARETÉ|Gran felino misionero|1
+YEMA|Parte amarilla del huevo|1
+YERBA|Se pone en el mate|1
+YODO|Desinfectante|1
+YOGA|Disciplina hindú|1
+YUNQUE|Bloque del herrero|1
+ZAGUÁN|Entrada de casa chorizo|2
+ZAMBA|Danza de pañuelo|1
+ZAPATILLA|Calzado deportivo|1
+ZAPATO|Calzado|1
+ZARPA|Garra|1
+ZETA|Última letra|1
+ZEUS|Padre de los dioses|1
+ZIGZAG|Línea quebrada|1
+ZONA|Región|1
+ZONZO|Tonto|1
+ZOOLÓGICO|Lugar con fieras|1
+ZORRA|Hembra del zorro|1
+ZURDO|Siniestro|2
+ÑOQUI|Pasta del 29|1

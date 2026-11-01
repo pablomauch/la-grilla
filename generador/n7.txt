@@ -1,0 +1,327 @@
+ABURRIDO|Tedioso|1
+ACOGEDOR|Hospitalario|2
+AGRADABLE|Grato|1
+AGUDO|Afilado; también ingenioso|2
+AJENO|De otro|1
+AMARGO|Acre|1
+AMPLIO|Espacioso|1
+ANCHO|Holgado|1
+ANCIANO|Viejo|1
+ANGOSTO|Estrecho|1
+ANSIOSO|Impaciente|1
+ANTIGUO|Vetusto|1
+ÁSPERO|Rugoso|1
+ATENTO|Cortés|1
+AUDAZ|Osado|2
+AUSENTE|Que no está|1
+BARATO|Económico|1
+BLANDO|Tierno|1
+BORRACHO|Ebrio|1
+BRILLANTE|Reluciente|1
+BRUSCO|Repentino|1
+BURLÓN|Socarrón|2
+CALLADO|Silencioso|1
+CANSADO|Fatigado|1
+CAPRICHOSO|Antojadizo|2
+CARIÑOSO|Afectuoso|1
+CARO|Costoso|1
+CELOSO|Envidioso en el amor|1
+CERCANO|Próximo|1
+CHARLATÁN|Parlanchín|1
+CHISMOSO|Cotilla|1
+CIEGO|Invidente|1
+CLARO|Evidente|1
+COBARDE|Miedoso|1
+CÓMODO|Confortable|1
+CONTENTO|Alegre|1
+CORTO|Breve|1
+CRUDO|Sin cocinar|1
+CRUEL|Despiadado|1
+CULPABLE|Responsable de una falta|1
+CURIOSO|Indiscreto|1
+DELGADO|Fino|1
+DÉBIL|x|9
+DECIDIDO|Resuelto|1
+DESCARADO|Sinvergüenza|2
+DESCONFIADO|Receloso|1
+DESNUDO|Sin ropa|1
+DESPIERTO|Avispado|1
+DIESTRO|x|9
+DIVERTIDO|Entretenido|1
+DORMIDO|Que duerme|1
+DULCE|x|9
+DURO|Firme|1
+ELEGANTE|Distinguido|1
+ENFERMO|Doliente|1
+ENOJADO|Furioso|1
+ENORME|Inmenso|1
+ESTRECHO|x|9
+ESTÚPIDO|Necio|1
+EXQUISITO|Delicioso|2
+FAMOSO|Célebre|1
+FIRME|Estable|1
+FLOJO|Suelto|1
+FRÁGIL|x|9
+FRESCO|Reciente|1
+FUERTE|Robusto|1
+GENEROSO|Dadivoso|2
+GENTIL|Amable|2
+GORDO|x|9
+GRACIOSO|Chistoso|1
+GRAVE|Serio|1
+GROSERO|Ordinario|1
+HÁBIL|Diestro|1
+HERMOSO|Bello|1
+HONESTO|Honrado|1
+HONRADO|Íntegro|1
+HÚMEDO|Mojado|1
+IGUAL|Idéntico|1
+INMENSO|Colosal|1
+INQUIETO|Intranquilo|1
+INÚTIL|Que no sirve|1
+JUSTO|Equitativo|1
+LARGO|Extenso|1
+LENTO|x|9
+LIBRE|Sin ataduras|1
+LIGERO|Liviano|1
+LIMPIO|x|9
+LISTO|Inteligente|1
+LIVIANO|Ligero|1
+LOCO|Demente|1
+MADURO|Sazonado|1
+MAGNÍFICO|Espléndido|1
+MALVADO|Perverso|1
+MANSO|Dócil|1
+MAREADO|Con vértigo|1
+MEJOR|Superior|1
+MENTIROSO|Embustero|1
+MIEDOSO|Temeroso|1
+MODERNO|Actual|1
+MOJADO|Empapado|1
+MOLESTO|Fastidioso|1
+MUDO|Callado|1
+MUERTO|Difunto|1
+NERVIOSO|Alterado|1
+NOBLE|x|9
+NUBLADO|Encapotado|1
+OBEDIENTE|Dócil|1
+OCUPADO|Atareado|1
+ODIOSO|Detestable|1
+OLVIDADIZO|Desmemoriado|1
+ORDENADO|Prolijo|1
+ORGULLOSO|Altanero|1
+OSCURO|Sombrío|1
+PACIENTE|Tolerante|1
+PEREZOSO|x|9
+PERFECTO|Impecable|1
+PESADO|Molesto, cargoso|1
+PICANTE|Picoso|1
+POBRE|Necesitado|1
+PODEROSO|Influyente|1
+POPULAR|Querido por la gente|1
+PRECIOSO|Valioso|1
+PROFUNDO|Hondo|1
+PRÓXIMO|Cercano|1
+PRUDENTE|Sensato|1
+PUNTUAL|A tiempo|1
+PURO|Limpio, sin mezcla|1
+RARO|Extraño|1
+REAL|x|9
+REBELDE|Insumiso|1
+REDONDO|Circular|1
+RESPONSABLE|Cumplidor|1
+RICO|Adinerado|1
+RIDÍCULO|Grotesco|1
+SABROSO|Delicioso|1
+SALADO|Con sal|1
+SANO|Saludable|1
+SECRETO|Oculto|1
+SEGURO|Cierto|1
+SENCILLO|Simple|1
+SENSATO|Juicioso|1
+SERIO|Formal|1
+SIMPÁTICO|Agradable|1
+SOLTERO|No casado|1
+SORDO|Que no oye|1
+SUAVE|Liso|1
+SUPERFICIAL|Somero|2
+TEMPRANO|Pronto|1
+TERRIBLE|Espantoso|1
+TIERNO|Blando|1
+TONTO|Bobo|1
+TRANQUILO|Calmo|1
+TRAVIESO|Pícaro|1
+VACÍO|x|9
+VALIOSO|Precioso|1
+VANIDOSO|Presumido|1
+VECINO|x|9
+VERDADERO|Auténtico|1
+VIUDO|x|9
+VIVO|Animado|1
+ABSURDO|Disparatado|1
+ACTUAL|Presente|1
+ALEGÓRICO|Simbólico|3
+ALTANERO|Soberbio|2
+AMBICIOSO|Codicioso|2
+AMOROSO|Tierno|1
+ANDRAJOSO|Harapiento|2
+ANGELICAL|Puro como un ángel|1
+APÁTICO|Indiferente|2
+APRESURADO|Precipitado|2
+ARROGANTE|Soberbio|2
+ASTROSO|Desaliñado|3
+ATROZ|Espantoso|2
+AUSTERO|Sobrio|2
+AVISPADO|Despierto|2
+BELICOSO|Guerrero|2
+BENÉVOLO|Bondadoso|2
+BONDADOSO|Bueno|1
+BULLICIOSO|Ruidoso|2
+CABIZBAJO|Triste|2
+CALAVERA|Mujeriego|2
+CASTIZO|Típico, genuino|3
+CAUTELOSO|Prudente|2
+CENIZO|Gafe|3
+CODICIOSO|Avaro|2
+COMPASIVO|Misericordioso|2
+CORAJUDO|Valiente|1
+CORPULENTO|Grandote|2
+CRISPADO|Irritado|2
+DESALIÑADO|Descuidado|2
+DESDICHADO|Infeliz|2
+DESGARBADO|Sin garbo|2
+DESPIADADO|Cruel|2
+DICHARACHERO|Bromista|3
+DISTRAÍDO|Despistado|1
+DOLIENTE|Afligido|2
+EMBUSTERO|Mentiroso|2
+ENCLENQUE|Enfermizo|3
+ENVIDIOSO|Celoso|1
+ESCURRIDIZO|Resbaladizo|2
+ESPANTOSO|Horrible|1
+ESPLÉNDIDO|Magnífico|2
+EXTRAVAGANTE|Excéntrico|2
+FANFARRÓN|Jactancioso|2
+FASTUOSO|Lujoso|3
+FECUNDO|Fértil|2
+FERVIENTE|Ardiente|2
+FIDEDIGNO|Digno de fe|3
+FOGOSO|Ardiente|2
+FORNIDO|Robusto|2
+FRÍVOLO|Superficial|2
+GLORIOSO|Famoso|2
+HARAGÁN|Perezoso|2
+HAZMERREÍR|Persona ridícula|2
+HOLGADO|Amplio|2
+IMPÁVIDO|Impertérrito|3
+IMPETUOSO|Fogoso|2
+INAUDITO|Nunca oído|3
+INDOLENTE|Perezoso|3
+INFAME|Vil|2
+INGRATO|Desagradecido|2
+INSÍPIDO|Sin sabor|2
+INSOLENTE|Atrevido|2
+INTRÉPIDO|Valeroso|2
+JUICIOSO|Sensato|2
+LÁNGUIDO|x|9
+LOCUAZ|Hablador|3
+LUJOSO|Suntuoso|2
+MAJESTUOSO|Grandioso|2
+MALICIOSO|Pícaro|2
+MELANCÓLICO|Triste|2
+MENESTEROSO|Pobre|3
+MEZQUINO|x|9
+MINUCIOSO|Detallista|2
+MISERABLE|Desdichado|2
+MOJIGATO|Santurrón|3
+MORDAZ|Cáustico|3
+NOSTÁLGICO|Añorante|2
+ORONDO|Ufano, satisfecho|3
+PARLANCHÍN|Charlatán|2
+PEDANTE|Sabihondo|2
+PENDENCIERO|Camorrero|3
+PERSPICAZ|Agudo|3
+PETULANTE|Presumido|3
+PINTORESCO|Típico y vistoso|2
+PRESUMIDO|Vanidoso|1
+PRIMOROSO|Delicado|3
+PRÓSPERO|Floreciente|2
+QUISQUILLOSO|Susceptible|2
+RENCOROSO|Resentido|2
+REACIO|Remiso|2
+RESABIDO|Sabihondo|3
+RISUEÑO|Sonriente|2
+RUIDOSO|Estruendoso|1
+SANGUINARIO|Cruel|2
+SENSIBLE|Delicado|1
+SIGILOSO|Silencioso|2
+SOBERBIO|Altivo|2
+SOMBRÍO|Lúgubre|2
+SONRIENTE|Risueño|1
+SUNTUOSO|Lujoso|3
+SUSPICAZ|Desconfiado|3
+TACITURNO|Silencioso y triste|3
+TEMERARIO|Imprudente|2
+TENEBROSO|Oscuro|2
+TESTARUDO|Terco|2
+TORPE|x|9
+TRAMPOSO|Tahúr|2
+TRANSPARENTE|Diáfano|2
+TROTAMUNDOS|Viajero|2
+ULTRAJANTE|Ofensivo|3
+VAGABUNDO|Errante|1
+VALEROSO|x|9
+VENGATIVO|Rencoroso|2
+VIGOROSO|Fuerte|2
+VOLUBLE|Inconstante|2
+ALEGRÍA|x|9
+ANGUSTIA|Congoja|2
+CONGOJA|Angustia|3
+ANSIEDAD|Inquietud|1
+ASOMBRO|Estupor|2
+BONDAD|Benevolencia|1
+CARIÑO|Afecto|1
+CELOS|Sospecha amorosa|1
+CODICIA|Avaricia|2
+COMPASIÓN|Piedad|2
+CONFIANZA|Seguridad|1
+CORAJE|Valor|1
+CULPA|Responsabilidad|1
+DESCONSUELO|Pena honda|2
+DESDÉN|Menosprecio|2
+DESEO|Anhelo|1
+DESPECHO|Resentimiento por desengaño|3
+DICHA|Felicidad|2
+DOLOR|Sufrimiento|1
+DUDA|Incertidumbre|1
+EMOCIÓN|Sentimiento|1
+ENTUSIASMO|Fervor|1
+ENVIDIA|Pecado capital|1
+ESPERANZA|Virtud teologal verde|2
+EUFORIA|Exaltación|2
+FE|x|9
+FELICIDAD|Dicha|1
+GRATITUD|Agradecimiento|1
+GULA|Pecado del glotón|1
+HUMILDAD|Modestia|1
+IRA|x|9
+LUJURIA|Pecado capital de la carne|2
+MALICIA|Picardía|2
+NOBLEZA|Hidalguía|2
+PACIENCIA|Virtud de Job|2
+PAVOR|Terror|2
+PENA|Tristeza|1
+PEREZA|Pecado capital|1
+PIEDAD|Misericordia|2
+PRUDENCIA|Virtud cardinal|2
+RABIA|Furia|1
+REMORDIMIENTO|Pesar por una falta|2
+SERENIDAD|Calma|2
+SOBERBIA|Primer pecado capital|2
+SOLEDAD|Aislamiento|1
+TEMPLANZA|Virtud cardinal|3
+TERNURA|Afecto dulce|1
+TIMIDEZ|Vergüenza|1
+TRISTEZA|Melancolía|1
+VANIDAD|Presunción|2
+VERGÜENZA|Pudor|1

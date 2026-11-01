@@ -1,0 +1,322 @@
+ARMADILLO|Mamífero acorazado|1
+QUIRQUINCHO|Armadillo del noroeste|2
+PELUDO|Armadillo pampeano|3
+MULITA|Armadillo chico|2
+COMADREJA|Mamífero que asalta gallineros|2
+ZARIGÜEYA|Marsupial americano|3
+HURÓN|Mustélido cazador de conejos|2
+NUTRIA|Coipo|2
+COIPO|Roedor acuático de piel apreciada|3
+VIZCACHA|Roedor de la pampa que vive en vizcacheras|2
+MARA|Liebre patagónica|2
+TUCU TUCU|x|9
+CHINCHILLA|Roedor andino de piel finísima|2
+CUY|Cobayo andino|3
+COBAYO|Conejillo de Indias|2
+TOPO|Animal ciego que cava galerías|1
+TOPO|Espía infiltrado|2
+MURCIÉLAGO|Mamífero volador nocturno|1
+VAMPIRO|Murciélago chupasangre|2
+OSO HORMIGUERO|x|9
+TAMANDÚA|Oso melero|3
+PEREZOSO|Mamífero lento de los árboles|1
+COATÍ|Mamífero de hocico largo de Iguazú|2
+MAPACHE|Mamífero de antifaz negro|1
+ZORRINO|Mofeta|1
+MOFETA|Animal que despide mal olor|2
+TEJÓN|Mamífero que cava madrigueras|2
+MARMOTA|Roedor que hiberna|1
+ARDILLA|Roedor de cola peluda que trepa|1
+CASTOR|Roedor que construye diques|1
+ALCE|x|9
+GAMO|Ciervo de astas palmeadas|2
+CORZO|Ciervo pequeño europeo|3
+HUEMUL|Ciervo andino del escudo chileno|2
+PUDÚ|Ciervo más pequeño del mundo|3
+GUAZUNCHO|Corzuela|3
+CORZUELA|Ciervo pequeño del monte|3
+ANTÍLOPE|Rumiante veloz africano|1
+GACELA|Antílope grácil|1
+CEBRA|Equino rayado|1
+BISONTE|Búfalo americano|1
+BÚFALO|Bovino salvaje|1
+YAK|Bovino del Tíbet|2
+ÍBICE|Cabra montés de los Alpes|3
+ALPACA|Camélido de lana fina|1
+LLAMA|x|9
+GUANACO|x|9
+CAMÉLIDO|Familia de la llama y el camello|2
+LEOPARDO|Felino moteado|1
+PANTERA|Leopardo negro|1
+GUEPARDO|Felino más veloz|1
+LINCE|Felino de vista aguda|1
+OCELOTE|Gato onza|3
+GATO MONTÉS|x|9
+PUMA|x|9
+HIENA|Animal que ríe|1
+CHACAL|Cánido carroñero|1
+COYOTE|Cánido de las praderas norteamericanas|1
+DINGO|Perro salvaje australiano|2
+AGUARÁ|Zorro grande de patas largas|3
+LOBO MARINO|x|9
+FOCA|x|9
+ELEFANTE MARINO|x|9
+NARVAL|Cetáceo con un largo colmillo|3
+CACHALOTE|Cetáceo de cabeza enorme, como Moby Dick|2
+MANATÍ|Vaca marina|2
+DUGONGO|Sirenio del Índico|3
+TORTUGA MARINA|x|9
+OSO POLAR|x|9
+OSO PARDO|x|9
+GORILA|Simio más grande|1
+CHIMPANCÉ|Simio más cercano al hombre|1
+ORANGUTÁN|Simio de Borneo|1
+BABUINO|Mono de hocico de perro|2
+MANDRIL|Mono de cara colorida|2
+TITÍ|Mono pequeño americano|2
+CARAYÁ|Mono aullador|3
+LÉMUR|Primate de Madagascar|2
+CANGURO|x|9
+WALLABY|x|9
+ORNITORRINCO|Mamífero con pico de pato|1
+EQUIDNA|Mamífero que pone huevos, con púas|3
+PANGOLÍN|Mamífero de escamas|3
+OKAPI|Pariente de la jirafa del Congo|3
+TAPIR|Anta|2
+ANTA|Tapir|3
+JABATO|Cría del jabalí|3
+LECHÓN|Cerdito|1
+POTRILLO|Caballo recién nacido|1
+NOVILLO|Toro joven|1
+VAQUILLONA|Vaca joven|2
+CORDERO|Cría de la oveja|1
+BORREGO|Cordero de uno o dos años|2
+CABRITO|Chivito|1
+PICHÓN|Cría de paloma|1
+POLLUELO|Cría de ave|1
+RENACUAJO|Cría de la rana|1
+CACHORRO|Cría del perro|1
+GATITO|x|9
+ALEVÍN|Cría de pez|3
+LARVA|Fase de insecto|1
+CRISÁLIDA|Pupa de mariposa|2
+CAPULLO|Envoltura del gusano de seda|2
+GUSANO DE SEDA|x|9
+LOMBRIZ|Gusano de tierra|1
+SANGUIJUELA|Gusano que chupa sangre|2
+CIEMPIÉS|Bicho de muchas patas|1
+GARRAPATA|Ácaro parásito del ganado|1
+PIOJO|Parásito del pelo|1
+CHINCHE|Insecto de los colchones|2
+CUCARACHA|Insecto de las cocinas|1
+TERMITA|Insecto que come madera|1
+LIBÉLULA|Alguacil, aguacil|2
+MANTIS|Insecto rezador|2
+SALTAMONTES|Langosta pequeña|1
+ESCARABAJO|Coleóptero|2
+VAQUITA DE SAN ANTONIO|x|9
+MARIQUITA|Vaquita de San Antonio|2
+POLILLA|Mariposa nocturna que come ropa|1
+MOSQUITO|Zancudo|1
+TÁBANO|Mosca que pica al ganado|2
+ABEJORRO|Abeja grande|1
+AVISPÓN|Avispa grande|2
+CAMOATÍ|Avispa del litoral que hace miel|3
+TARÁNTULA|Araña peluda|1
+VIUDA NEGRA|x|9
+ALACRÁN|x|9
+CANGREJO|x|9
+LANGOSTINO|Crustáceo de la paella|1
+CAMARÓN|Crustáceo pequeño|1
+CENTOLLA|Gran cangrejo fueguino|2
+ALMEJA|Molusco bivalvo|1
+BERBERECHO|Molusco de la conserva|2
+VIEIRA|Concha de los peregrinos|3
+NAVAJA|Molusco alargado; también cortaplumas|3
+CARACOL|x|9
+BABOSA|Molusco sin concha|1
+ESTRELLA DE MAR|x|9
+ERIZO DE MAR|x|9
+ESPONJA|Animal marino poroso|2
+ANÉMONA|x|9
+AGUAVIVA|Medusa|1
+HIPOCAMPO|Caballito de mar|2
+ANGUILA|Pez serpiente|1
+MORENA|Anguila de roca|2
+RAYA|Pez plano con aguijón|2
+MANTA|x|9
+LENGUADO|Pez plano de fondo|1
+BACALAO|Pez de la cocina portuguesa|1
+ANCHOA|Boquerón salado|1
+CABALLA|Pez azul|2
+CORVINA|Pez del Río de la Plata|2
+BAGRE|Pez de bigotes|2
+PACÚ|Pez del litoral de carne grasa|2
+PATI|Bagre grande del Paraná|3
+BOGA|Pez de río del litoral|2
+SÁBALO|Pez de río muy abundante en el Paraná|2
+PIRAÑA|Pez carnívoro amazónico|1
+PEZ ESPADA|x|9
+PEZ GLOBO|x|9
+CARPA|Pez de estanque|1
+CARPA|Toldo de circo|2
+GOLDFISH|x|9
+TIBURÓN|x|9
+ARENQUE|Pez del Mar del Norte|2
+ESTURIÓN|Pez del caviar|2
+CAVIAR|Huevas de esturión|1
+SALAMANDRA|x|9
+AJOLOTE|Anfibio mexicano|3
+TRITÓN|x|9
+CAMALEÓN|Reptil que cambia de color|1
+CAMALEÓN|Persona que cambia de opinión|2
+GECO|Lagartija de las paredes|3
+LAGARTIJA|Pequeño lagarto|1
+IGUANA|x|9
+YACARÉ|Caimán del litoral|1
+CAIMÁN|Yacaré|2
+ALIGÁTOR|Caimán del Misisipi|3
+BOA|x|9
+ANACONDA|Serpiente gigante|1
+PITÓN|Serpiente constrictora|2
+COBRA|Serpiente del encantador|1
+CASCABEL|Víbora que suena|1
+YARARÁ|Víbora venenosa del litoral|2
+CORAL|x|9
+CULEBRA|Serpiente no venenosa|1
+AVUTARDA|Ave esteparia grande|3
+CIGÜEÑA|Ave que trae a los bebés|1
+GRULLA|Ave zancuda migratoria|2
+PELÍCANO|Ave de bolsa en el pico|1
+CORMORÁN|Biguá|2
+BIGUÁ|Ave negra pescadora del litoral|3
+ALBATROS|Gran ave marina|2
+PETREL|Ave marina oceánica|3
+GAVILÁN|Ave rapaz pequeña|2
+CARANCHO|Ave rapaz carroñera de la pampa|2
+CHIMANGO|Rapaz pequeño y común de la pampa|2
+CARACARÁ|Carancho|3
+JOTE|Buitre americano|2
+BUITRE|Ave carroñera|1
+ZOPILOTE|Buitre mexicano|3
+LECHUZÓN|Lechuza grande|3
+ÑACURUTÚ|Búho grande americano|3
+TERO|Ave que grita en un lado y tiene el nido en otro|1
+PERDIZ|Ave de caza de la pampa|1
+CODORNIZ|Ave pequeña de caza|2
+FAISÁN|Ave de caza de cola larga|2
+MARTÍN PESCADOR|x|9
+GOLONDRINA|x|9
+VENCEJO|Ave parecida a la golondrina|3
+CALANDRIA|x|9
+JILGUERO|Pájaro cantor de cabeza amarilla|2
+CANARIO|Pájaro amarillo de jaula|1
+RUISEÑOR|Ave cantora nocturna|1
+MIRLO|Pájaro negro de pico amarillo|2
+TORDO|Pájaro negro parásito de nidos|2
+CHINGOLO|Pájaro de copete muy común en la pampa|2
+CHAJÁ|Ave que grita su nombre en el litoral|2
+URRACA|Ave ladrona de cosas brillantes|2
+PÁJARO CARPINTERO|x|9
+CARPINTERO|x|9
+COLIBRÍ|x|9
+CACATÚA|Loro de copete|1
+GUACAMAYO|Loro grande de colores|1
+COTORRA|x|9
+CALANCATE|Loro del monte|9
+PATO|x|9
+GANSO|Ave de corral grande|1
+PAVO|x|9
+GALLARETA|Ave acuática negra de pico blanco|3
+FLAMENCO|x|9
+GARCITA|x|9
+ESPÁTULA|Ave rosada de pico plano|3
+CISNE DE CUELLO NEGRO|x|9
+ÑANDÚ|x|9
+CHOIQUE|Ñandú patagónico|3
+EMÚ|Ave corredora australiana|2
+KIWI|x|9
+DODO|Ave extinta de Mauricio|2
+QUETZAL|x|9
+PIQUERO|Ave marina de patas azules|3
+GAVIOTÍN|Ave marina parecida a la gaviota|3
+SKÚA|x|9
+PINGÜINO EMPERADOR|x|9
+ALGA|Planta marina|1
+CACTUS|Planta del desierto|1
+CARDÓN|Cactus gigante de los valles|2
+TUNA|x|9
+AGAVE|Planta del tequila|2
+ALOE|Planta medicinal|1
+SÁBILA|Aloe|2
+BEGONIA|Planta de interior|2
+HORTENSIA|Flor en bola de colores|2
+AZALEA|Arbusto florido|2
+GARDENIA|Flor blanca perfumada|2
+LAVANDA|x|9
+PETUNIA|Flor de balcón|2
+CALÉNDULA|Flor medicinal anaranjada|2
+CLAVELINA|Clavel pequeño|3
+JACINTO|Flor de bulbo|2
+GLADIOLO|Flor de espiga|2
+TULIPÁN|x|9
+ANÉMONA|Flor del viento|3
+MIOSOTIS|Nomeolvides|3
+NOMEOLVIDES|Flor del recuerdo|2
+CAMPANILLA|Flor de forma de campana|2
+PASIONARIA|Mburucuyá|2
+MBURUCUYÁ|Flor de la pasión|3
+IRUPÉ|Planta acuática gigante del Paraná|3
+CAMALOTE|x|9
+TOTORA|x|9
+PAPIRO|Junco del Nilo|2
+CAÑAVERAL|Plantación de cañas|2
+MIMBRE|Junco para cestería|1
+ESPARTO|Fibra para cuerdas|3
+SISAL|Fibra de agave|3
+YUTE|Fibra de arpillera|3
+LINO|Fibra de tela fresca|1
+ALGODÓN|Fibra de la planta del Chaco|1
+CÁÑAMO|Fibra de cuerdas|2
+SEDA|x|9
+ALCORNOQUE|Árbol del corcho|2
+ARCE|Árbol de la bandera canadiense|2
+FRESNO|Árbol de las calles porteñas|2
+PLÁTANO|x|9
+PALO BORRACHO|x|9
+YUCHÁN|Palo borracho|3
+TIMBÓ|Árbol del oreja de negro|3
+LAPACHO|Árbol de flores rosadas|2
+TIPA|Árbol de flores amarillas de las avenidas|2
+ESPINILLO|x|9
+CHAÑAR|Árbol espinoso del monte|3
+MISTOL|Árbol del monte santiagueño|3
+GUAYABO|Árbol de la guayaba|3
+MANGO|x|9
+PALTA|Aguacate|1
+AGUACATE|Palta|2
+PAPAYA|Fruta tropical|1
+MARACUYÁ|Fruta de la pasión|1
+GUAYABA|Fruta tropical del dulce|2
+POMELO|Cítrico grande|1
+MANDARINA|Cítrico fácil de pelar|1
+LIMA|x|9
+KINOTO|Cítrico pequeño en almíbar|2
+NÍSPERO|Fruta amarilla de carozo grande|2
+GRANADA|Fruta de granos rojos|1
+GRANADA|Ciudad de la Alhambra|1
+ARÁNDANO|Fruto azul del bosque|1
+GROSELLA|Frutito rojo ácido|2
+MORA|Fruto del moral|1
+ZARZAMORA|Fruto de la zarza|2
+SAÚCO|Arbusto de bayas negras|3
+CEREZO|Árbol de la cereza|1
+ALMENDRO|Árbol de la almendra|1
+ACEBO|x|9
+ROSA MOSQUETA|x|9
+CHAMPIÑÓN|Hongo de cultivo|1
+TRUFA|Hongo subterráneo muy caro|2
+TRUFA|Bombón de chocolate|2
+SETA|Hongo con sombrero|2
+MOHO|Hongo de lo húmedo|1
+LEVADURA|Fermento del pan|1

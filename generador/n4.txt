@@ -1,0 +1,271 @@
+SINFONÍA|Obra orquestal en movimientos|1
+SONATA|Obra para uno o dos instrumentos|2
+CONCIERTO|Recital|1
+CANTATA|Composición vocal con orquesta|3
+ORATORIO|Drama sacro cantado|3
+RÉQUIEM|Misa de difuntos|2
+OBERTURA|Introducción orquestal|2
+PRELUDIO|Pieza introductoria|2
+FUGA|Huida|1
+FUGA|Composición de Bach a varias voces|3
+TOCATA|Pieza de virtuosismo para teclado|3
+NOCTURNO|Pieza de Chopin|2
+ESTUDIO|Pieza de práctica|2
+SERENATA|x|9
+MINUETO|Danza cortesana|2
+VALS|Danza de Strauss|1
+POLCA|Danza bohemia|2
+MAZURCA|Danza polaca|2
+POLONESA|Danza de Chopin|2
+TARANTELA|Danza napolitana|2
+FANDANGO|Danza andaluza|2
+SEGUIDILLA|Danza española|3
+JOTA|Danza aragonesa|2
+SARDANA|Danza catalana en ronda|3
+MUÑEIRA|Danza gallega|3
+FOXTROT|Baile de salón|3
+CHARLESTON|Baile de los años veinte|2
+RUMBA|Baile cubano|1
+MAMBO|Baile de Pérez Prado|2
+CHACHACHÁ|Baile cubano de nombre onomatopéyico|2
+MERENGUE|Baile dominicano|1
+MERENGUE|Dulce de clara batida|1
+CUMBIA|Ritmo colombiano y bailanta|1
+CUARTETO|Ritmo cordobés|1
+CUARTETO|Conjunto de cuatro músicos|2
+TRÍO|Conjunto de tres|1
+QUINTETO|Conjunto de cinco|1
+DÚO|Pareja musical|1
+SOLISTA|Intérprete solo|1
+ORQUESTA|x|9
+DIRECTOR|Maestro de orquesta|1
+ATRIL|x|9
+PARTITURA|Música escrita|1
+PENTAGRAMA|Cinco líneas de la música|1
+CLAVE|x|9
+CORCHEA|Nota de medio tiempo|2
+NEGRA|Nota de un tiempo|2
+BLANCA|Nota de dos tiempos|2
+REDONDA|Nota de cuatro tiempos|2
+SEMICORCHEA|Mitad de la corchea|3
+SILENCIO|Pausa musical|1
+SOSTENIDO|Signo que sube medio tono|2
+BEMOL|Signo que baja medio tono|2
+BECUADRO|Signo que anula alteraciones|3
+ACORDE|x|9
+ARPEGIO|x|9
+ESCALA|x|9
+OCTAVA|Intervalo de ocho notas|2
+TONALIDAD|Tono de una obra|2
+MAYOR|Modo alegre|2
+MENOR|Modo triste|2
+TIMBRE|Color del sonido|2
+TIMBRE|Campanilla de la puerta|1
+RITMO|Cadencia|1
+TEMPO|Velocidad musical|2
+ALLEGRO|Movimiento rápido|2
+ANDANTE|Movimiento moderado|2
+PIANISSIMO|Muy suave|3
+FORTE|Fuerte, en música|2
+CRESCENDO|Aumento gradual|2
+CODA|Final de una pieza|3
+CADENCIA|Ritmo, compás|2
+ESTROFA|Grupo de versos|1
+SONETO|Catorce versos endecasílabos|1
+DÉCIMA|Estrofa de diez octosílabos|2
+REDONDILLA|Estrofa de cuatro octosílabos|3
+CUARTETA|Estrofa de cuatro versos|2
+TERCETO|Estrofa de tres versos|2
+SEXTINA|Estrofa del Martín Fierro|2
+ROMANCE|Poema de octosílabos de rima asonante|2
+ROMANCE|Amorío|1
+MADRIGAL|Poema amoroso breve|3
+ÉGLOGA|Poema pastoril|3
+ELEGÍA|x|9
+EPIGRAMA|Poema breve satírico|3
+HAIKU|Poema japonés breve|2
+COPLA|Estrofa popular|1
+LETRILLA|Composición poética breve|3
+ENDECASÍLABO|Verso de once sílabas|2
+OCTOSÍLABO|Verso de ocho sílabas|2
+ALEJANDRINO|Verso de catorce sílabas|2
+ASONANTE|Rima de vocales|2
+CONSONANTE|Rima completa|2
+METÁFORA|Figura de sustitución|1
+SÍMIL|Comparación|2
+HIPÉRBOLE|Exageración|2
+ALITERACIÓN|Repetición de sonidos|3
+ONOMATOPEYA|Palabra que imita un sonido|2
+OXÍMORON|Unión de opuestos|3
+IRONÍA|Burla fina|1
+SÁTIRA|Crítica burlesca|2
+PARODIA|Imitación burlesca|1
+EPOPEYA|Poema heroico|2
+NOVELA|x|9
+CRÓNICA|Relato periodístico|1
+ENSAYO|Escrito de reflexión|1
+ENSAYO|Prueba antes del estreno|1
+PRÓLOGO|Prefacio|1
+EPÍLOGO|Final de una obra|1
+CAPÍTULO|División de un libro|1
+PÁRRAFO|División de un texto|1
+RENGLÓN|Línea escrita|1
+MARGEN|Borde de la página|1
+PORTADA|Tapa del libro|1
+CONTRATAPA|Reverso del libro|1
+SOLAPA|Pestaña del libro|2
+LOMO|Canto del libro|2
+TOMO|Volumen|1
+EDICIÓN|Tirada|1
+TIRADA|Cantidad de ejemplares|2
+EJEMPLAR|Copia de un libro|1
+MANUSCRITO|Original a mano|1
+BORRADOR|x|9
+SEUDÓNIMO|Alias del autor|1
+ANÓNIMO|Sin firma|1
+BIOGRAFÍA|Vida de alguien|1
+MEMORIAS|Recuerdos escritos|1
+DIARIO ÍNTIMO|x|9
+EPISTOLARIO|Colección de cartas|3
+ANTOLOGÍA|Selección de textos|2
+DICCIONARIO|Libro de definiciones|1
+ENCICLOPEDIA|Obra de todo el saber|1
+ATLAS|x|9
+GLOSARIO|Lista de términos|2
+BIBLIOTECARIO|Cuida libros|1
+EDITORIAL|Casa que publica|1
+IMPRENTA|Invento de Gutenberg|1
+TIPOGRAFÍA|Arte de las letras impresas|2
+GRABADO|Estampa|2
+LITOGRAFÍA|Impresión en piedra|3
+XILOGRAFÍA|Grabado en madera|3
+ACUARELA|Pintura al agua|1
+ÓLEO|Pintura al aceite|1
+TÉMPERA|Pintura escolar|1
+PASTEL|Tiza de color para pintar|2
+CARBONCILLO|Lápiz de carbón|2
+FRESCO|Pintura sobre pared húmeda|2
+LIENZO|Tela del pintor|1
+CABALLETE|Soporte del cuadro|1
+PALETA|Tabla de colores|1
+ESPÁTULA|Paleta del pintor|2
+BOCETO|Esbozo|1
+ESBOZO|Boceto|2
+RETRATO|Imagen de una persona|1
+AUTORRETRATO|Retrato de uno mismo|1
+PAISAJE|Vista del campo pintada|1
+BODEGÓN|Naturaleza muerta|2
+DESNUDO|Figura sin ropa en el arte|2
+CARICATURA|Retrato exagerado|1
+HISTORIETA|Cómic|1
+VIÑETA|Cuadro de historieta|2
+MURAL|x|9
+ESCULTURA|Obra de bulto|1
+ESTATUA|Figura esculpida|1
+BUSTO|Escultura de medio cuerpo|1
+RELIEVE|Escultura sobre un fondo|2
+CINCEL|Herramienta del escultor|1
+BRONCE|x|9
+CERÁMICA|Arte del barro cocido|1
+PORCELANA|Loza fina|1
+LOZA|Barro cocido vidriado|2
+VASIJA|Recipiente de barro|1
+TELAR|x|9
+ORFEBRE|Artesano del oro|2
+JOYERO|Caja de alhajas|1
+GALERÍA|Sala de arte|1
+EXPOSICIÓN|Muestra|1
+CURADOR|Organizador de una muestra|2
+MECENAS|Protector de artistas|2
+VANGUARDIA|Movimiento innovador|2
+BARROCO|Estilo recargado|1
+GÓTICO|Estilo de catedrales en punta|1
+ROMÁNICO|Estilo de arcos de medio punto|2
+RENACIMIENTO|Período de Leonardo|1
+CLASICISMO|Estilo de equilibrio|2
+ROMANTICISMO|Movimiento de Bécquer|2
+REALISMO|Movimiento de Galdós|2
+NATURALISMO|Movimiento de Zola|2
+MODERNISMO|Movimiento de Rubén Darío|2
+SURREALISMO|Movimiento de Dalí|1
+CUBISMO|Movimiento de Picasso|1
+IMPRESIONISMO|Movimiento de Monet|1
+EXPRESIONISMO|Movimiento de Munch|2
+DADAÍSMO|Movimiento de Tzara|3
+ULTRAÍSMO|Vanguardia del joven Borges|3
+ESCENARIO|Tablas|1
+TABLADO|Escenario|2
+BAMBALINAS|Detrás del escenario|2
+TRAMOYA|Maquinaria teatral|3
+CAMARÍN|Vestidor del actor|1
+APUNTADOR|Sopla la letra al actor|2
+UTILERÍA|Objetos de escena|2
+VESTUARIO|Ropa de escena|1
+MAQUILLAJE|Afeite|1
+LIBRETO|x|9
+GUION|Texto de una película|1
+ACTOR|Intérprete|1
+ACTRIZ|Intérprete|9
+REPARTO|Elenco|1
+ELENCO|Compañía de actores|1
+PROTAGONISTA|Papel principal|1
+ANTAGONISTA|Rival del protagonista|2
+VILLANO|Malo de la película|1
+EXTRA|Figurante|2
+DOBLE|Reemplazo del actor en escenas peligrosas|2
+MONÓLOGO|Soliloquio|2
+SOLILOQUIO|Monólogo|3
+DIÁLOGO|Conversación|1
+ENTREACTO|Intervalo|2
+INTERVALO|Pausa entre actos|1
+ESTRENO|Primera función|1
+FUNCIÓN|Representación|1
+TAQUILLA|Boletería|1
+PLATEA|Sector bajo del teatro|1
+PARAÍSO|x|9
+PULLMAN|Sector del cine|3
+OVACIÓN|Aplauso prolongado|1
+BIS|Repetición pedida|2
+COMEDIA|Obra para reír|1
+TRAGEDIA|Obra de final funesto|1
+DRAMA|Obra seria|1
+SAINETE|Pieza cómica breve|2
+VODEVIL|Comedia ligera|3
+ZARZUELA|Ópera española|2
+ZARZUELA|Plato de mariscos|3
+OPERETA|Ópera ligera|2
+MUSICAL|Espectáculo cantado|1
+REVISTA|Espectáculo de vedettes|2
+VEDETTE|Estrella de la revista porteña|2
+CIRCO|Carpa con payasos|1
+PAYASO|Clown|1
+MALABARISTA|Arrojador de mazas|1
+EQUILIBRISTA|Funámbulo|2
+FUNÁMBULO|Equilibrista de la cuerda|3
+TRAPECISTA|Acróbata aéreo|1
+DOMADOR|Amansa fieras|1
+PRESTIDIGITADOR|Ilusionista|2
+VENTRÍLOCUO|Habla sin mover los labios|2
+TÍTERE|Marioneta|1
+MARIONETA|Títere de hilos|1
+TITIRITERO|Mueve los títeres|1
+MIMO|Actor sin palabras|1
+MIMO|Caricia|1
+PELÍCULA|Filme|1
+CORTOMETRAJE|Película breve|1
+DOCUMENTAL|Película de hechos reales|1
+WESTERN|x|9
+CINEASTA|Director de cine|1
+CAMARÓGRAFO|Maneja la cámara|1
+PLANO|Toma|2
+SECUENCIA|Serie de escenas|2
+ESCENA|Parte de una obra|1
+TOMA|Plano filmado|1
+MONTAJE|Edición del filme|2
+SUBTÍTULO|Traducción escrita|1
+DOBLAJE|Voces traducidas|1
+BANDA SONORA|x|9
+CARTELERA|Programación|1
+ACOMODADOR|Ubica al público|1
+PROYECTOR|Aparato de cine|1
+PANTALLA|Telón blanco|1

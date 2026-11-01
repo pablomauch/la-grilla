@@ -1,0 +1,399 @@
+ACARICIAR|Hacer mimos|1
+ACOMPAÑAR|Ir junto a otro|1
+ACONSEJAR|Dar consejo|1
+ACORDAR|Pactar|1
+ACOSTAR|Llevar a la cama|1
+ACUDIR|Concurrir|2
+ADIVINAR|Acertar sin saber|1
+ADMIRAR|Contemplar con asombro|1
+ADORNAR|Engalanar|1
+AFEITAR|Rasurar|1
+AFINAR|Templar un instrumento|2
+AGARRAR|Asir|1
+AGITAR|Sacudir|1
+AGRADECER|Dar las gracias|1
+AGUANTAR|Soportar|1
+AHORCAR|Colgar del cuello|2
+AHUYENTAR|Espantar|2
+ALCANZAR|Llegar a tocar|1
+ALEGRAR|Contentar|1
+ALIMENTAR|Nutrir|1
+ALIVIAR|Mitigar|1
+ALQUILAR|Arrendar|1
+AMANECER|Clarear|1
+AMASAR|Sobar la masa|1
+AMENAZAR|Intimidar|1
+AMPARAR|Proteger|2
+ANDAR|Caminar|1
+ANOCHECER|Oscurecer|1
+ANOTAR|Apuntar|1
+ANUNCIAR|Avisar|1
+APAGAR|Extinguir|1
+APLAUDIR|Palmear|1
+APOSTAR|Jugarse plata|1
+APRENDER|Instruirse|1
+APRETAR|Estrujar|1
+APROBAR|Pasar el examen|1
+ARRANCAR|Poner en marcha|1
+ARREGLAR|Componer|1
+ARRIBAR|Llegar|2
+ARROJAR|Tirar|1
+ASOMAR|Mostrarse por la ventana|1
+ASUSTAR|Espantar|1
+ATACAR|Embestir|1
+ATRAPAR|Capturar|1
+AVANZAR|Progresar|1
+AVERIGUAR|Indagar|1
+AVISAR|Advertir|1
+AYUNAR|No comer|1
+BAÑAR|Lavar el cuerpo|1
+BARRER|Usar la escoba|1
+BATIR|Revolver con fuerza|1
+BENDECIR|Santiguar|2
+BORRAR|Suprimir lo escrito|1
+BOTAR|Arrojar; echar al agua un barco|2
+BRINDAR|Chocar las copas|1
+BROTAR|Nacer, surgir|1
+BUCEAR|Nadar bajo el agua|1
+BURLAR|Engañar|1
+CABALGAR|Montar a caballo|1
+CALENTAR|Entibiar|1
+CALLAR|Enmudecer|1
+CANSAR|Fatigar|1
+CAPTURAR|Apresar|1
+CARGAR|Llevar peso|1
+CASTIGAR|Penar|1
+CAZAR|Atrapar animales|1
+CELEBRAR|Festejar|1
+CEPILLAR|Pasar el cepillo|1
+CHARLAR|Platicar|1
+CHOCAR|Colisionar|1
+CHUPAR|Succionar|1
+CICATRIZAR|Cerrarse una herida|2
+CLAVAR|Hincar|1
+COLGAR|Suspender|1
+COLOCAR|Ubicar|1
+COMENZAR|Empezar|1
+COMPARTIR|Repartir con otros|1
+COMPONER|Crear música|1
+COMPRAR|Adquirir|1
+CONDUCIR|Manejar|1
+CONFESAR|Admitir|1
+CONFIAR|Fiarse|1
+CONOCER|Saber de algo|1
+CONQUISTAR|Ganar por las armas|1
+CONSTRUIR|Edificar|1
+CONTAR|Numerar; también relatar|1
+CONTESTAR|Responder|1
+CONVENCER|Persuadir|1
+COPIAR|Plagiar|1
+CORREGIR|Enmendar|1
+CORTAR|Tajar|1
+CRECER|Aumentar|1
+CRIAR|Educar a un hijo|1
+CRUZAR|Atravesar|1
+CUIDAR|Atender|1
+CULTIVAR|Labrar la tierra|1
+CURAR|Sanar|1
+DEBATIR|Discutir|1
+DECIDIR|Resolver|1
+DEFENDER|Proteger|1
+DEMOLER|Derribar|2
+DENUNCIAR|Delatar|1
+DERRAMAR|Volcar|1
+DERRETIR|Fundir|1
+DERROTAR|Vencer|1
+DESAYUNAR|Primera comida|1
+DESCANSAR|Reposar|1
+DESCUBRIR|Hallar|1
+DESEAR|Anhelar|1
+DESPEDIR|Decir adiós|1
+DESPERTAR|Salir del sueño|1
+DIBUJAR|Trazar|1
+DIGERIR|Asimilar la comida|2
+DISFRAZAR|Encubrir|1
+DISPARAR|Tirar con un arma|1
+DIVIDIR|Partir|1
+DOBLAR|Plegar|1
+DOMAR|Amansar|1
+DUDAR|Vacilar|1
+DURAR|Perdurar|1
+ECHAR|Expulsar|1
+EDUCAR|Formar|1
+ELEGIR|Escoger|1
+EMBARCAR|Subir al barco|1
+EMPUJAR|Impulsar|1
+ENAMORAR|Conquistar el corazón|1
+ENCENDER|Prender|1
+ENCONTRAR|Hallar|1
+ENFRIAR|Refrescar|1
+ENGAÑAR|Embaucar|1
+ENSEÑAR|Instruir|1
+ENSUCIAR|Manchar|1
+ENTERRAR|Sepultar|1
+ENTRENAR|Ejercitar|1
+ENVIAR|Remitir|1
+ENVIDIAR|Codiciar lo ajeno|1
+ESCALAR|Trepar|1
+ESCAPAR|Fugarse|1
+ESCONDER|Ocultar|1
+ESCUCHAR|Prestar oído|1
+ESPERAR|Aguardar|1
+ESQUIVAR|Eludir|1
+ESTORNUDAR|Hacer achís|1
+ESTUDIAR|Aprender|1
+EVITAR|Prevenir|1
+EXIGIR|Reclamar|1
+EXPLICAR|Aclarar|1
+EXPLOTAR|Estallar|1
+FABRICAR|Producir|1
+FALTAR|Ausentarse|1
+FESTEJAR|Celebrar|1
+FIRMAR|Rubricar|1
+FLOTAR|Sobrenadar|1
+FREÍR|Cocinar en aceite|1
+FUMAR|Echar humo de tabaco|1
+FUNDAR|Establecer|1
+GASTAR|Consumir|1
+GATEAR|Andar en cuatro patas|1
+GIRAR|Dar vueltas|1
+GOBERNAR|Mandar|1
+GOLPEAR|Pegar|1
+GOTEAR|Caer de a gotas|1
+GOZAR|Disfrutar|1
+GRABAR|Registrar|1
+GRITAR|Vociferar|1
+GUARDAR|Conservar|1
+GUIAR|Conducir|1
+GUIÑAR|Cerrar un ojo|1
+HELAR|Congelar|1
+HERVIR|Bullir|1
+HUIR|Escapar|1
+HUNDIR|Sumergir|1
+IGNORAR|Desconocer|1
+ILUMINAR|Alumbrar|1
+IMPEDIR|Obstaculizar|1
+IMPRIMIR|Estampar|1
+INCLINAR|Ladear|1
+INFLAR|Hinchar|1
+INSISTIR|Porfiar|1
+INSULTAR|Ofender|1
+INTENTAR|Probar|1
+INVADIR|Ocupar por la fuerza|1
+INVERTIR|Colocar dinero|1
+JUBILARSE|Retirarse|1
+JUNTAR|Reunir|1
+JURAR|Prometer solemnemente|1
+LADRAR|Hablar del perro|1
+LAMER|Pasar la lengua|1
+LANZAR|Arrojar|1
+LASTIMAR|Herir|1
+LATIR|Palpitar|1
+LEVANTAR|Alzar|1
+LIBERAR|Soltar|1
+LIMPIAR|Asear|1
+LLAMAR|Telefonear|1
+LLENAR|Colmar|1
+LLOVER|Precipitar|1
+LOGRAR|Conseguir|1
+LUCHAR|Pelear|1
+MADRUGAR|Levantarse temprano|1
+MALGASTAR|Derrochar|1
+MANCHAR|Ensuciar|1
+MANDAR|Ordenar|1
+MANEJAR|Conducir|1
+MASTICAR|Mascar|1
+MATAR|Asesinar|1
+MAULLAR|Hablar del gato|1
+MEDIR|Mensurar|1
+MEJORAR|Progresar|1
+MENTIR|Engañar|1
+MERECER|Ser digno|1
+MEZCLAR|Combinar|1
+MOJAR|Humedecer|1
+MOLESTAR|Fastidiar|1
+MORDER|Clavar los dientes|1
+MOVER|Desplazar|1
+MUDAR|Cambiar de casa|1
+NACER|Venir al mundo|1
+NAVEGAR|Surcar el mar|1
+NEGAR|Rechazar|1
+NEGOCIAR|Tratar|1
+NOMBRAR|Designar|1
+OBLIGAR|Forzar|1
+OBSERVAR|Mirar|1
+OBTENER|Conseguir|1
+OCULTAR|Esconder|1
+OCUPAR|Llenar un lugar|1
+ODIAR|Aborrecer|1
+OFRECER|Brindar|1
+OLVIDAR|Desmemoriarse|1
+ORDENAR|Acomodar|1
+ORGANIZAR|Disponer|1
+PAGAR|Abonar|1
+PARTIR|Irse|1
+PASEAR|Callejear|1
+PEGAR|Adherir|1
+PEINAR|Arreglar el pelo|1
+PELEAR|Reñir|1
+PERDONAR|Disculpar|1
+PERMITIR|Autorizar|1
+PERSEGUIR|Acosar|1
+PESAR|Medir el peso|1
+PESCAR|Sacar peces|1
+PICAR|Morder un insecto|1
+PISAR|Pisotear|1
+PLANCHAR|Alisar la ropa|1
+PLANTAR|Sembrar|1
+PREGUNTAR|Interrogar|1
+PREMIAR|Recompensar|1
+PRESTAR|Dejar|1
+PROBAR|Degustar|1
+PROHIBIR|Vedar|1
+PROMETER|Comprometerse|1
+PROTEGER|Amparar|1
+QUEJARSE|Lamentarse|1
+QUEMAR|Abrasar|1
+QUITAR|Sacar|1
+RECIBIR|Aceptar|1
+RECOGER|Juntar|1
+RECORDAR|Rememorar|1
+RECORRER|Transitar|1
+REGALAR|Obsequiar|1
+REGRESAR|Volver|1
+REMEDIAR|Corregir|1
+RENUNCIAR|Dimitir|1
+REPARTIR|Distribuir|1
+REPETIR|Reiterar|1
+RESBALAR|Patinar|1
+RESOLVER|Solucionar|1
+RESPETAR|Honrar|1
+RESPIRAR|Inhalar|1
+RESPONDER|Contestar|1
+RETIRAR|Apartar|1
+REUNIR|Congregar|1
+REZAR|Orar|1
+ROBAR|Hurtar|1
+RODEAR|Circundar|1
+ROGAR|Suplicar|1
+RONCAR|Hacer ruido al dormir|1
+SACUDIR|Agitar|1
+SALUDAR|Saludar con la mano|9
+SALVAR|Rescatar|1
+SANGRAR|Perder sangre|1
+SECUESTRAR|Raptar|1
+SEÑALAR|Indicar|1
+SEPARAR|Apartar|1
+SILBAR|Chiflar|1
+SOLTAR|Liberar|1
+SONREÍR|Esbozar una sonrisa|1
+SOPLAR|Echar aire|1
+SOPORTAR|Tolerar|1
+SORPRENDER|Asombrar|1
+SOSPECHAR|Recelar|1
+SUBRAYAR|Destacar con una raya|1
+SUDAR|Transpirar|1
+SUFRIR|Padecer|1
+SUSPIRAR|Exhalar con pena|1
+SUSURRAR|Murmurar|1
+TARDAR|Demorar|1
+TEMBLAR|Tiritar|1
+TERMINAR|Finalizar|1
+TIRAR|Arrojar|1
+TOMAR|Beber|1
+TORCER|Doblar|1
+TOSER|Carraspear|1
+TRABAJAR|Laburar|1
+TRADUCIR|Verter a otra lengua|1
+TRAER|Acercar|1
+TRAGAR|Engullir|1
+TRAICIONAR|Vender a un amigo|1
+TRANSPIRAR|Sudar|1
+TREPAR|Escalar|1
+TRIUNFAR|Vencer|1
+TROPEZAR|Trastabillar|1
+UNTAR|Embadurnar|1
+USAR|Emplear|1
+VACIAR|Desocupar|1
+VENCER|Derrotar|1
+VENDER|Comerciar|1
+VESTIR|Ataviar|1
+VIAJAR|Recorrer el mundo|1
+VIGILAR|Custodiar|1
+VISITAR|Ir a ver|1
+VOLAR|Surcar el aire|1
+VOLTEAR|Dar vuelta|1
+VOMITAR|Devolver|1
+VOTAR|Sufragar|1
+ZAMBULLIRSE|Tirarse al agua|1
+ZARPAR|Salir del puerto|1
+ACRECENTAR|Aumentar|2
+ADULAR|Lisonjear|2
+AFERRAR|Agarrar con fuerza|2
+AGRAVIAR|Ofender|2
+ALENTAR|Animar|2
+ALTERCAR|Disputar|3
+AMEDRENTAR|Atemorizar|2
+AMONESTAR|Reprender|2
+ANHELAR|Ansiar|2
+APLACAR|Calmar|2
+APREMIAR|Urgir|2
+ARREBATAR|Quitar con violencia|2
+ASEDIAR|Sitiar|2
+ATENUAR|Aminorar|2
+AZUZAR|Instigar|3
+BLANDIR|Agitar un arma|2
+CAVAR|Excavar|1
+CONJETURAR|Suponer|2
+CONSTERNAR|Abatir|3
+CORROMPER|Pervertir|2
+DESPILFARRAR|Derrochar|2
+DESTERRAR|Exiliar|2
+DIVAGAR|Desviarse del tema|2
+EMBAUCAR|Engatusar|2
+ENGATUSAR|Embaucar|3
+ENMENDAR|Corregir|2
+ENSALZAR|Exaltar|3
+ESCARMENTAR|Aprender de un castigo|2
+ESCUDRIÑAR|Examinar a fondo|3
+ESPOLEAR|Avivar con la espuela|2
+EXTRAVIAR|Perder|2
+FISGONEAR|Curiosear|2
+FORCEJEAR|Luchar con fuerza|2
+HOSTIGAR|Acosar|2
+HURGAR|Revolver|2
+IMPLORAR|Suplicar|2
+INCITAR|Instigar|2
+INDAGAR|Investigar|2
+INTIMIDAR|Amedrentar|2
+JACTARSE|Alardear|2
+LAMENTAR|Deplorar|2
+MALDECIR|Echar pestes|2
+MENOSPRECIAR|Desdeñar|2
+MERODEAR|Vagar al acecho|2
+OBSTRUIR|Tapar|2
+ORILLAR|Bordear|3
+PERJUDICAR|Dañar|2
+PERSUADIR|Convencer|2
+PORFIAR|Insistir|2
+PRESUMIR|Alardear|2
+PROPAGAR|Difundir|2
+RECALCAR|Subrayar|2
+RECRIMINAR|Reprochar|2
+REFUNFUÑAR|Rezongar|2
+REZONGAR|Gruñir|2
+SABOTEAR|Boicotear|2
+SOBORNAR|Coimear|2
+SOFOCAR|Ahogar|2
+SOSEGAR|Tranquilizar|3
+SUPLANTAR|Reemplazar con engaño|2
+TITUBEAR|Vacilar|2
+TRASNOCHAR|Quedarse despierto|2
+ULTRAJAR|Injuriar|3
+USURPAR|Apropiarse|2
+VACILAR|Titubear|2
+VAGABUNDEAR|Andar errante|2
+VENERAR|Reverenciar|2
+VISLUMBRAR|Entrever|2
+ZARANDEAR|Sacudir|2
+ZOZOBRA|x|9

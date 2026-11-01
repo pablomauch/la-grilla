@@ -1,0 +1,279 @@
+FARAÓN|x|9
+FARAÓNICO|Desmesurado, grandioso|2
+JEROGLÍFICO|Escritura egipcia|1
+PAPIRO|x|9
+MOMIA|Cadáver embalsamado|1
+SARCÓFAGO|Ataúd de piedra|2
+OBELISCO|Monumento de la 9 de Julio|1
+ESFINGE|x|9
+MESOPOTAMIA|Tierra entre dos ríos|2
+MESOPOTAMIA|Región de Entre Ríos, Corrientes y Misiones|1
+BABILONIA|Ciudad de los jardines colgantes|2
+NÍNIVE|Capital asiria|3
+CARTAGO|Rival de Roma|2
+ANÍBAL|Cruzó los Alpes con elefantes|2
+ESPARTA|Ciudad guerrera griega|2
+ESPARTANO|Austero, sobrio|2
+LEÓNIDAS|Rey de las Termópilas|3
+PERICLES|Estadista del siglo de oro ateniense|3
+SÓCRATES|Maestro de Platón|1
+PITÁGORAS|Filósofo del teorema|1
+ARQUÍMEDES|Eureka|1
+EUCLIDES|Padre de la geometría|2
+HIPÓCRATES|Padre de la medicina|2
+DIÓGENES|Filósofo del tonel|2
+HERÓDOTO|Padre de la historia|2
+ALEJANDRO|Magno conquistador macedonio|1
+BUCÉFALO|Caballo de Alejandro|3
+CÉSAR|Cruzó el Rubicón|1
+RUBICÓN|Río de la suerte echada|2
+BRUTO|Hijo de César según la frase|2
+CLEOPATRA|Reina del Nilo|1
+NERÓN|Emperador del incendio de Roma|1
+CALÍGULA|Emperador que nombró cónsul a su caballo|2
+AUGUSTO|Primer emperador romano|2
+AUGUSTO|Majestuoso|3
+ADRIANO|Emperador de las memorias de Yourcenar|3
+CONSTANTINO|Emperador que fundó Constantinopla|2
+BIZANCIO|Antigua Estambul|2
+GLADIADOR|Luchador del circo romano|1
+COLISEO|Anfiteatro romano|1
+CENTURIÓN|Oficial romano|2
+LEGIÓN|Cuerpo militar romano|1
+SENADO|Cámara alta|1
+FORO|Plaza pública romana|2
+TOGA|Prenda romana; también de los jueces|2
+LATÍN|Lengua de Cicerón|1
+CICERÓN|Orador romano|2
+SÉNECA|Filósofo estoico cordobés|2
+ESTOICO|Impasible ante el dolor|2
+ÉPICO|Heroico|2
+VÁNDALO|Destructor salvaje|1
+BÁRBARO|Extranjero para los romanos|2
+VISIGODO|Pueblo germánico de Hispania|3
+HUNO|Pueblo de Atila|2
+ATILA|Azote de Dios|2
+VIKINGO|Navegante nórdico|1
+DRAKKAR|Nave vikinga|3
+CARLOMAGNO|Emperador franco|2
+FEUDALISMO|Sistema medieval de vasallaje|2
+SEÑOR FEUDAL|x|9
+CABALLERO|Hidalgo armado|1
+ESCUDERO|Ayudante del caballero|1
+CRUZADA|Expedición a Tierra Santa|1
+TEMPLARIO|Monje guerrero|2
+INQUISICIÓN|Santo Oficio|2
+HEREJÍA|Error en la fe|2
+CISMA|x|9
+RECONQUISTA|Recuperación de España; también 1806 en Buenos Aires|2
+AL ÁNDALUS|x|9
+CÓRDOBA|x|9
+ALHAMBRA|Palacio nazarí|1
+MORISCO|Moro convertido|3
+SEFARDÍ|Judío de origen español|3
+CATÓLICOS|Reyes Isabel y Fernando|9
+COLÓN|Almirante del descubrimiento|1
+PINTA|Carabela de Colón|1
+NIÑA|Carabela de Colón|1
+SANTA MARÍA|x|9
+MAGALLANES|Navegante del estrecho|1
+ELCANO|Primero en dar la vuelta al mundo|2
+VESPUCIO|Américo de nombre|2
+SOLÍS|Descubridor del Río de la Plata|2
+GABOTO|Fundador de Sancti Spiritus|3
+MENDOZA|Primer fundador de Buenos Aires|2
+GARAY|Segundo fundador de Buenos Aires|2
+PIZARRO|Conquistador del Perú|1
+CORTÉS|Conquistador de México|1
+ATAHUALPA|Último inca|2
+MOCTEZUMA|Emperador azteca|2
+AZTECA|Pueblo de Tenochtitlán|1
+MAYA|Pueblo de Chichén Itzá|1
+INCA|x|9
+VIRREINATO|Gobierno colonial|2
+CABILDO|Ayuntamiento colonial|1
+CABILDO ABIERTO|x|9
+ENCOMIENDA|x|9
+MITA|Trabajo forzado indígena|3
+REDUCCIÓN|Pueblo jesuítico|3
+JESUITA|Miembro de la Compañía de Jesús|2
+MISIONERO|Evangelizador|1
+CONQUISTADOR|Adelantado|1
+ADELANTADO|Gobernador de frontera|3
+CORREGIDOR|Funcionario colonial|3
+OIDOR|Juez de la Audiencia|3
+REAL AUDIENCIA|x|9
+INDEPENDENCIA|9 de julio|1
+REVOLUCIÓN|Mayo de 1810|1
+CONGRESO|Asamblea de diputados|1
+ASAMBLEA|Reunión del año XIII|2
+CONSTITUCIÓN|Carta magna|1
+PREÁMBULO|Introducción de la Constitución|2
+HIMNO|Canción patria|1
+ESCARAPELA|Distintivo patrio|1
+BANDERA|Pabellón|1
+ESCUDO|Emblema patrio|1
+PRÓCER|x|9
+GRANADEROS|Regimiento de San Martín|1
+ANDES|x|9
+MAIPÚ|Batalla de 1818|2
+CHACABUCO|Batalla de 1817|2
+SAN LORENZO|x|9
+YAPEYÚ|Pueblo natal de San Martín|2
+BOULOGNE|Ciudad francesa donde murió San Martín|3
+AYACUCHO|Batalla final de la independencia sudamericana|2
+BOLÍVAR|Libertador de Venezuela|1
+SUCRE|Mariscal de Ayacucho|2
+ARTIGAS|Protector de los Pueblos Libres|2
+O'HIGGINS|x|9
+MIRANDA|Precursor venezolano|3
+CASEROS|Batalla de 1852|2
+PAVÓN|Batalla de 1861|3
+CEPEDA|Batalla de 1820 y de 1859|3
+CURUPAYTÍ|Batalla de la guerra del Paraguay|3
+TRIPLE ALIANZA|x|9
+OBLIGADO|Vuelta de la batalla de 1845|3
+FEDERAL|Partidario de las provincias|2
+UNITARIO|Partidario del centralismo|2
+CAUDILLO|x|9
+MAZORCA|Policía de Rosas|3
+INMIGRANTE|Recién llegado de otro país|1
+GRINGO|Extranjero|1
+TANO|Italiano, en el habla porteña|1
+GALLEGO|Español, en el habla porteña|1
+RUSO|Judío, en el habla porteña antigua|3
+TURCO|Árabe, en el habla porteña|2
+HOTEL DE INMIGRANTES|x|9
+RADICAL|Partidario de la UCR|2
+PERONISTA|Justicialista|1
+DESCAMISADO|Obrero peronista|2
+SUFRAGIO|Voto|2
+PLEBISCITO|Consulta popular|2
+REFERÉNDUM|Plebiscito|2
+ELECCIÓN|Comicio|1
+COMICIO|Elección|2
+CANDIDATO|Postulante|1
+SENADOR|Miembro del Senado|1
+DIPUTADO|Representante del pueblo|1
+GOBERNADOR|Jefe provincial|1
+INTENDENTE|Alcalde|1
+CONCEJAL|Edil|1
+MINISTRO|Secretario de Estado|1
+EMBAJADOR|Diplomático|1
+CÓNSUL|Representante en el extranjero|2
+CANCILLER|Ministro de Relaciones Exteriores|2
+PRESIDENTE|Primer mandatario|1
+MONARQUÍA|Reino|1
+REPÚBLICA|Res publica|1
+DEMOCRACIA|Gobierno del pueblo|1
+DICTADURA|Tiranía|1
+ANARQUÍA|Desgobierno|2
+OLIGARQUÍA|Gobierno de pocos|2
+ARISTOCRACIA|Nobleza|2
+PLEBE|Vulgo|2
+BURGUÉS|Clase media acomodada|2
+PROLETARIO|Obrero|2
+SINDICATO|Gremio|1
+GREMIO|Corporación de oficio|1
+HUELGA|Paro|1
+PIQUETE|x|9
+MANIFESTACIÓN|Marcha|1
+SAQUEO|Pillaje|2
+GUERRA|Conflicto armado|1
+BATALLA|Combate|1
+ARMISTICIO|Tregua|2
+TRATADO|Pacto|1
+ALIANZA|Liga|1
+EJÉRCITO|Tropa|1
+ARMADA|Marina de guerra|1
+INVENCIBLE|Armada de Felipe II|2
+TRINCHERA|Zanja de defensa|1
+ARTILLERÍA|Cañones|1
+CAÑÓN|Pieza de artillería|1
+CAÑÓN|Valle profundo|2
+OBÚS|Proyectil|2
+METRALLA|Fragmentos de proyectil|2
+MOSQUETE|Arma de los mosqueteros|2
+ARCABUZ|Arma de fuego antigua|2
+BAYONETA|Cuchillo del fusil|2
+CIMITARRA|Sable curvo árabe|2
+ALABARDA|Lanza con hacha|3
+BALLESTA|Arco con mecanismo|2
+CATAPULTA|Máquina de asedio|1
+ARMADURA|Coraza|1
+CORAZA|Armadura|1
+CASCO|Yelmo|1
+ESCUDO|x|9
+COTA DE MALLA|x|9
+ESTANDARTE|Bandera militar|2
+CLARÍN|Trompeta militar|1
+CLARÍN|Diario porteño de los pasatiempos|1
+TAMBOR|x|9
+BOTÍN|Calzado alto|2
+BOTÍN|Despojo de guerra|2
+TRIBUTO|Impuesto|1
+DIEZMO|Décima parte para la Iglesia|2
+ALCABALA|Impuesto colonial|3
+ADUANA|Control de fronteras|1
+PEAJE|Pago por pasar|1
+IMPUESTO|Gravamen|1
+TASA|Tarifa|1
+MULTA|Sanción económica|1
+FIANZA|Garantía|1
+HIPOTECA|Préstamo con garantía de casa|1
+PRÉSTAMO|Crédito|1
+DEUDA|Débito|1
+INTERÉS|Rédito|1
+AHORRO|Economía|1
+SUELDO|Salario|1
+SALARIO|Sueldo|1
+AGUINALDO|Sueldo extra de diciembre|1
+JUBILACIÓN|Retiro|1
+PENSIÓN|Hospedaje|2
+INFLACIÓN|Suba de precios|1
+DEVALUACIÓN|Pérdida de valor de la moneda|1
+PRESUPUESTO|Cálculo de gastos|1
+FACTURA|Comprobante de venta|1
+RECIBO|Comprobante de pago|1
+CHEQUE|Orden de pago|1
+PAGARÉ|Documento de deuda|2
+LETRA|Documento de crédito|3
+ACCIÓN|Parte de una empresa|2
+DIVIDENDO|x|9
+BOLSA|x|9
+BANQUERO|Dueño de banco|1
+CAJERO|Atiende la caja|1
+CONTADOR|Experto en cuentas|1
+ESCRIBANO|Notario|1
+NOTARIO|Escribano|2
+ABOGADO|Letrado|1
+LETRADO|Abogado|2
+FISCAL|Acusador|1
+DEFENSOR|Abogado del acusado|1
+TESTIGO|Declara lo que vio|1
+ACUSADO|Imputado|1
+REO|Culpable|2
+VEREDICTO|Fallo del jurado|1
+SENTENCIA|Fallo del juez|1
+CONDENA|Pena|1
+INDULTO|Perdón|2
+AMNISTÍA|Olvido legal|2
+APELACIÓN|Recurso|2
+DEMANDA|Pedido judicial|1
+JUICIO|Pleito|1
+TRIBUNAL|Corte|1
+EXPEDIENTE|Legajo|1
+SUMARIO|Investigación judicial|2
+HERENCIA|Legado|1
+TESTAMENTO|Última voluntad|1
+HEREDERO|Recibe la herencia|1
+LEGADO|Herencia|1
+USUFRUCTO|Derecho a disfrutar algo ajeno|3
+ALQUILER|Arriendo|1
+INQUILINO|Arrendatario|1
+PROPIETARIO|Dueño|1
+ESCRITURA|Título de propiedad|1
+CONTRATO|Acuerdo firmado|1
+CLÁUSULA|Disposición de un contrato|2
+FIRMA|Rúbrica|1
+SELLO|x|9

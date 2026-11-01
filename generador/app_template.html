@@ -145,6 +145,42 @@ textarea{width:100%;min-height:80px;font:inherit;font-size:.8rem;padding:8px;bor
 .wdefs li.done b{color:var(--blue)}
 .wdefs li.done span{color:var(--muted)}
 
+/* cronómetro y progreso */
+.timer{font-variant-numeric:tabular-nums;font-weight:700;color:var(--muted);padding:4px 8px;border:1px solid var(--line);border-radius:8px;font-size:.95rem;white-space:nowrap}
+.resume.prog{background:var(--blue-soft);border-color:transparent}
+.stats{display:flex;flex-direction:column;gap:18px;padding-block:0 40px}
+.stats .topbar{padding-block:8px}
+.stats h2{font-size:calc(1.3rem * var(--scale))}
+.block{display:flex;flex-direction:column;gap:10px}
+.block h3{font-size:calc(1.15rem * var(--scale))}
+.sumtable,.hist{overflow-x:auto}
+.sumtable table,.hist table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.sumtable th{font-size:.82rem;text-align:left;padding:4px;color:var(--muted);font-weight:700}
+.sumtable thead th{text-align:center}
+.sumtable td{padding:3px}
+.cellbtn{width:100%;min-height:52px;border:1px solid var(--line);background:var(--card);border-radius:8px;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px}
+.cellbtn b{font-size:1.15rem;line-height:1}
+.cellbtn small{color:var(--muted);font-size:.72rem}
+.cellbtn.on{border-color:var(--blue);background:var(--blue-soft)}
+.tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+@media (max-width:420px){.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.tiles div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:2px}
+.tiles span{font-size:.8rem;color:var(--muted)}
+.tiles b{font-family:var(--f-display);font-size:1.45rem;font-variant-numeric:tabular-nums}
+.trend{display:flex;flex-direction:column;gap:2px;padding:12px 14px;border-radius:10px;border-left:5px solid var(--muted);background:var(--card)}
+.trend.up{border-left-color:var(--ok)} .trend.up b{color:var(--ok)}
+.trend.down{border-left-color:var(--bad)} .trend.down b{color:var(--bad)}
+.trend span{font-size:.92rem}
+.chart{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:4px}
+.chart svg{width:100%;height:150px;overflow:visible}
+.chart .g{stroke:var(--line);stroke-width:1}
+.chart .ax{fill:var(--muted);font-size:10px;text-anchor:end}
+.chart .ln{fill:none;stroke:var(--blue);stroke-width:2.5;vector-effect:non-scaling-stroke}
+.chart .pt{fill:var(--blue)} .chart .pt.last{fill:var(--hi);stroke:var(--blue);stroke-width:2}
+.chart .cap{font-size:.8rem;color:var(--muted)}
+.hist th{font-size:.8rem;color:var(--muted);text-align:left;padding:6px 4px;border-bottom:1px solid var(--line)}
+.hist td{padding:7px 4px;border-bottom:1px solid var(--line)}
+.muted{color:var(--muted)}
 /* mensajes */
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom, 0px));background:var(--ink);color:var(--paper);padding:10px 16px;border-radius:10px;font-weight:700;z-index:50;max-width:calc(100% - 32px)}
 .overlay{position:fixed;inset:0;background:rgba(10,14,22,.55);display:grid;place-items:center;z-index:40;padding:20px}
@@ -159,7 +195,7 @@ textarea{width:100%;min-height:80px;font:inherit;font-size:.8rem;padding:8px;bor
 <script>
 "use strict";
 const DATA = JSON.parse(document.getElementById('data').textContent);
-const VERSION = 'v2';
+const VERSION = 'v3';
 const TYPES = {
   claringrilla:{name:'Claringrilla', short:'cg', desc:'Definiciones y sílabas. Las letras iniciales esconden un autor y su obra.'},
   crucigrama:{name:'Crucigrama', short:'cw', desc:'La grilla clásica con definiciones horizontales y verticales.'},
@@ -171,12 +207,14 @@ const gameId = (t,d,i)=>`${VERSION}:${TYPES[t].short}:${d}:${i}`;
 
 /* ---------- guardado ---------- */
 const KEY='lagrilla.v1';
-let S = {done:{}, saves:{}, current:{}, diff:1, scale:1};
+let S = {done:{}, saves:{}, current:{}, diff:1, scale:1, stats:[], meta:{}};
 try{ const raw=localStorage.getItem(KEY); if(raw) S=Object.assign(S, JSON.parse(raw)); }catch(e){}
 function purgeOld(){
   const ok=k=>typeof k==='string' && k.startsWith(VERSION+':');
   for(const k in S.saves) if(!ok(k)) delete S.saves[k];
   for(const t in S.current) if(!ok(S.current[t])) delete S.current[t];
+  S.meta=S.meta||{}; S.stats=S.stats||[];
+  for(const k in S.meta) if(!ok(k)) delete S.meta[k];
 }
 purgeOld();
 let dbRef=null;
@@ -188,7 +226,7 @@ let cloudTimer=null;
 function syncCloud(){
   if(!dbRef) return;
   clearTimeout(cloudTimer);
-  cloudTimer=setTimeout(()=>{ dbRef.set({done:S.done, saves:S.saves, current:S.current}).catch(()=>{dbRef=null}); },1500);
+  cloudTimer=setTimeout(()=>{ dbRef.set({done:S.done, saves:S.saves, current:S.current, meta:S.meta, stats:S.stats}).catch(()=>{dbRef=null}); },1500);
 }
 (async()=>{
   try{
@@ -203,6 +241,10 @@ function syncCloud(){
       Object.assign(S.done, d.done||{});
       for(const k in (d.saves||{})) if(!S.saves[k]) S.saves[k]=d.saves[k];
       for(const k in (d.current||{})) if(!S.current[k]) S.current[k]=d.current[k];
+      for(const k in (d.meta||{})) if(!S.meta[k]) S.meta[k]=d.meta[k];
+      const seen=new Set(S.stats.map(x=>x.id+'@'+x.ts));
+      for(const x of (d.stats||[])) if(!seen.has(x.id+'@'+x.ts)) S.stats.push(x);
+      S.stats.sort((a,b)=>a.ts-b.ts);
       for(const k in S.done) delete S.saves[k];
       purgeOld();
       try{ localStorage.setItem(KEY, JSON.stringify(S)); }catch(e){}
@@ -246,6 +288,7 @@ function renderHome(){
     <header class="brand"><div><h1>La <span>Grilla</span></h1><p>Pasatiempos de palabras, sin apuro.</p></div></header>
     <div class="counter"><b>${tl.n}</b><div><strong>juegos disponibles</strong><small>${tl.t-tl.n} resueltos de ${tl.t}</small></div></div>
     ${resume}
+    <button class="resume prog" id="go-stats"><span><span class="label">Mi progreso</span><b>${S.stats.filter(x=>!x.given).length} resueltos · tiempos y puntajes</b></span><span aria-hidden="true">→</span></button>
     <section style="display:flex;flex-direction:column;gap:8px">
       <span class="label">Dificultad</span>
       <div class="seg" role="group" aria-label="Dificultad">${[1,2,3].map(x=>`<button id="d${x}" data-diff="${x}" aria-pressed="${x===d}">${DIFFS[x]}</button>`).join('')}</div>
@@ -263,18 +306,19 @@ function renderHome(){
     </section>
   </div>`;
   app.querySelectorAll('[data-diff]').forEach(b=>b.onclick=()=>{S.diff=+b.dataset.diff; save(); renderHome();});
+  app.querySelector('#go-stats').onclick=()=>renderStats();
   app.querySelectorAll('[data-type]').forEach(b=>b.onclick=()=>openGame(b.dataset.type, S.diff));
   app.querySelectorAll('[data-scale]').forEach(b=>b.onclick=()=>{S.scale=+b.dataset.scale; applyScale(); save(); renderHome();});
   const rb=app.querySelector('[data-resume]'); if(rb) rb.onclick=()=>{const t=rb.dataset.resume; const id=S.current[t]; const [,,dd,i]=id.split(':'); startGame(t,+dd,+i);};
   const ta=app.querySelector('#bk-text');
   app.querySelector('#bk-copy').onclick=()=>{
-    const code=btoa(unescape(encodeURIComponent(JSON.stringify({done:S.done}))));
+    const code=btoa(unescape(encodeURIComponent(JSON.stringify({done:S.done, stats:S.stats}))));
     ta.hidden=false; ta.value=code; ta.select();
     try{ navigator.clipboard.writeText(code).then(()=>toast('Respaldo copiado'),()=>toast('Seleccioná y copiá el texto')); }catch(e){ toast('Seleccioná y copiá el texto'); }
   };
   app.querySelector('#bk-load').onclick=()=>{
     if(ta.hidden){ ta.hidden=false; ta.value=''; ta.focus(); toast('Pegá el código y tocá otra vez'); return; }
-    try{ const o=JSON.parse(decodeURIComponent(escape(atob(ta.value.trim())))); Object.assign(S.done,o.done||{}); save(); toast('Respaldo cargado'); renderHome(); }
+    try{ const o=JSON.parse(decodeURIComponent(escape(atob(ta.value.trim())))); Object.assign(S.done,o.done||{}); if(Array.isArray(o.stats)){ const seen=new Set(S.stats.map(x=>x.id+'@'+x.ts)); for(const x of o.stats) if(!seen.has(x.id+'@'+x.ts)) S.stats.push(x); S.stats.sort((a,b)=>a.ts-b.ts); } save(); toast('Respaldo cargado'); renderHome(); }
     catch(e){ toast('Ese código no es válido. Revisá que esté completo.'); }
   };
 }
@@ -298,20 +342,75 @@ function dialog(title,msg,btns){
   o.querySelector('.btn').focus();
 }
 
+/* ---------- mi progreso ---------- */
+const avg=a=>a.length?a.reduce((x,y)=>x+y,0)/a.length:null;
+function renderStats(t0,d0){
+  view='stats'; G=null;
+  let selT=t0||(S.stats.length?S.stats[S.stats.length-1].t:'claringrilla'), selD=d0||S.diff;
+  const draw=()=>{
+    const all=S.stats.filter(x=>x.t===selT&&x.d===selD);
+    const ok=all.filter(x=>!x.given), gave=all.length-ok.length;
+    const sc=ok.map(x=>x.score), tm=ok.map(x=>x.secs);
+    let trend='<p class="note">Resolvé al menos 4 juegos de este tipo y nivel para ver si vas mejorando.</p>';
+    if(ok.length>=4){
+      const n=Math.min(5,Math.floor(ok.length/2));
+      const last=ok.slice(-n), before=ok.slice(-2*n,-n);
+      const ds=avg(last.map(x=>x.score))-avg(before.map(x=>x.score));
+      const dt=avg(last.map(x=>x.secs))-avg(before.map(x=>x.secs));
+      const cls=ds>=3?'up':ds<=-3?'down':'flat';
+      const word=ds>=3?'Mejorando':ds<=-3?'Bajando':'Estable';
+      trend=`<div class="trend ${cls}"><b>${word}</b><span>Tus últimos ${n} juegos promedian ${Math.round(avg(last.map(x=>x.score)))} puntos (${ds>=0?'+':''}${Math.round(ds)} frente a los ${n} anteriores) y ${fmt(avg(last.map(x=>x.secs)))} de tiempo (${dt<=0?fmt(-dt)+' menos':fmt(dt)+' más'}).</span></div>`;
+    }
+    const pts=ok.slice(-20);
+    let chart='';
+    if(pts.length>=2){
+      const Wd=320,Ht=130,px=28,py=12;
+      const X=k=>px+k*(Wd-px-8)/(pts.length-1), Y=v=>py+(100-v)*(Ht-2*py)/100;
+      chart=`<div class="chart" role="img" aria-label="Puntaje de los últimos ${pts.length} juegos"><svg viewBox="0 0 ${Wd} ${Ht}" preserveAspectRatio="none">
+        ${[0,50,100].map(v=>`<line x1="${px}" x2="${Wd-4}" y1="${Y(v)}" y2="${Y(v)}" class="g"/><text x="${px-6}" y="${Y(v)+4}" class="ax">${v}</text>`).join('')}
+        <polyline points="${pts.map((x,k)=>X(k)+','+Y(x.score)).join(' ')}" class="ln"/>
+        ${pts.map((x,k)=>`<circle cx="${X(k)}" cy="${Y(x.score)}" r="${k===pts.length-1?4.5:3}" class="${k===pts.length-1?'pt last':'pt'}"/>`).join('')}
+      </svg><span class="cap">Puntaje de los últimos ${pts.length} juegos resueltos, del más viejo al más reciente</span></div>`;
+    }
+    const hist=all.slice(-12).reverse().map(x=>{const dt=new Date(x.ts); return `<tr><td>${dt.getDate()}/${dt.getMonth()+1}</td><td>${fmt(x.secs)}</td><td>${x.given?'<span class="muted">Abandonado</span>':x.score}</td><td>${x.hints||0}</td><td>${x.errs||0}</td></tr>`;}).join('');
+    const table=`<div class="sumtable"><table><thead><tr><th></th>${[1,2,3].map(d=>`<th>${DIFFS[d]}</th>`).join('')}</tr></thead><tbody>${Object.keys(TYPES).map(t=>`<tr><th>${TYPES[t].name}</th>${[1,2,3].map(d=>{const o=S.stats.filter(x=>x.t===t&&x.d===d&&!x.given); const a=avg(o.map(x=>x.score)); return `<td><button class="cellbtn${t===selT&&d===selD?' on':''}" data-st="${t}" data-sd="${d}">${o.length?`<b>${Math.round(a)}</b><small>${o.length} jug.</small>`:'<small>—</small>'}</button></td>`;}).join('')}</tr>`).join('')}</tbody></table></div>`;
+    app.innerHTML=`<div class="wrap stats">
+      <div class="topbar"><button class="icon" id="back" aria-label="Volver al inicio">${ICON_BACK}</button><h2>Mi progreso</h2></div>
+      <section class="block"><span class="label">Puntaje promedio por juego y nivel</span>${table}<p class="note">Tocá una casilla para ver el detalle.</p></section>
+      <section class="block"><h3>${TYPES[selT].name} · ${DIFFS[selD]}</h3>
+        <div class="tiles">
+          <div><span>Resueltos</span><b>${ok.length}</b></div>
+          <div><span>Puntaje promedio</span><b>${ok.length?Math.round(avg(sc)):'—'}</b></div>
+          <div><span>Mejor tiempo</span><b>${ok.length?fmt(Math.min(...tm)):'—'}</b></div>
+          <div><span>Tiempo promedio</span><b>${ok.length?fmt(avg(tm)):'—'}</b></div>
+          <div><span>Mejor puntaje</span><b>${ok.length?Math.max(...sc):'—'}</b></div>
+          <div><span>Abandonados</span><b>${gave}</b></div>
+        </div>
+        ${trend}${chart}
+        ${hist?`<div class="hist"><table><thead><tr><th>Fecha</th><th>Tiempo</th><th>Puntaje</th><th>Pistas</th><th>Errores</th></tr></thead><tbody>${hist}</tbody></table></div>`:'<p class="note">Todavía no jugaste este tipo de juego en este nivel.</p>'}
+      </section>
+      <section class="block"><span class="label">Cómo se calcula el puntaje</span><p class="note">Cada juego resuelto empieza con 100 puntos. Cada pista resta 5, cada letra equivocada al tocar Comprobar resta 2 (en la sopa, cada palabra mal marcada) y cada minuto por encima del tiempo de referencia resta 1. Referencia para este nivel: ${PAR[selT][selD]} minutos. El cronómetro se detiene cuando salís del juego.</p></section>
+    </div>`;
+    app.querySelector('#back').onclick=renderHome;
+    app.querySelectorAll('[data-st]').forEach(b=>b.onclick=()=>{selT=b.dataset.st; selD=+b.dataset.sd; draw();});
+  };
+  draw(); window.scrollTo(0,0);
+}
+
 /* ---------- marco de juego ---------- */
 const ICON_BACK='<svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>';
 const ICON_SWAP='<svg viewBox="0 0 24 24"><path d="M7 4v14M3 14l4 4 4-4M17 20V6M13 10l4-4 4 4"/></svg>';
 function shell(t,d,i,{keyboard=true, tools=''}={}){
   app.innerHTML=`<div class="game">
     <div class="topbar wrap"><button class="icon" id="back" aria-label="Volver al inicio">${ICON_BACK}</button>
-      <h2>${TYPES[t].name} <span class="sub">· ${DIFFS[d]} · N.º ${i+1}</span></h2></div>
+      <h2>${TYPES[t].name} <span class="sub">· ${DIFFS[d]} · N.º ${i+1}</span></h2><span class="timer" id="timer" aria-label="Tiempo">0:00</span></div>
     <div class="board"><div class="wrap" id="board"></div></div>
     <div class="dock"><div class="wrap">
       <div class="tools" style="padding-top:8px">${tools}</div>
       ${keyboard?`<div class="cluebar" id="cluebar"></div>${kbHTML()}`:''}
     </div></div>
   </div>`;
-  app.querySelector('#back').onclick=()=>{ G && G.persist && G.persist(); renderHome(); };
+  app.querySelector('#back').onclick=()=>{ G && G.persist && G.persist(); saveMeta(); renderHome(); };
 }
 function kbHTML(){
   const rows=['QWERTYUIOP','ASDFGHJKLÑ','ZXCVBNM'];
@@ -328,19 +427,49 @@ document.addEventListener('keydown',e=>{
   else if(k.startsWith('Arrow')) k=k; else if(/^[a-zñA-ZÑ]$/.test(k)) k=k.toUpperCase(); else return;
   e.preventDefault(); G.key(k);
 });
+/* ---------- cronómetro y puntaje ---------- */
+const PAR={claringrilla:{1:15,2:20,3:25},crucigrama:{1:15,2:20,3:30},autodefinido:{1:10,2:12,3:15},sopa:{1:8,2:10,3:12}};
+let RUN=null;
+const fmt=s=>{s=Math.round(s); const h=Math.floor(s/3600), m=Math.floor(s%3600/60), x=String(s%60).padStart(2,'0'); return h?`${h}:${String(m).padStart(2,'0')}:${x}`:`${m}:${x}`;};
+function score(t,d,secs,hints,errs){ const over=Math.max(0,Math.floor(secs/60)-PAR[t][d]); return Math.max(0,100-5*hints-2*errs-over); }
+function saveMeta(){ if(RUN && !RUN.over){ S.meta[RUN.id]={secs:RUN.secs,hints:RUN.hints,errs:RUN.errs}; save(); } }
+setInterval(()=>{
+  if(!RUN||RUN.over||view!=='game'||document.visibilityState!=='visible') return;
+  RUN.secs++; const el=document.getElementById('timer'); if(el) el.textContent=fmt(RUN.secs);
+  if(RUN.secs%10===0) saveMeta();
+},1000);
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState!=='visible') saveMeta(); });
+document.addEventListener('click',e=>{ if(!RUN||RUN.over) return; if(e.target.closest('#t-hint')) RUN.hints++; },true);
+function record(given){
+  if(!RUN||RUN.over) return null;
+  RUN.over=true;
+  const x={id:RUN.id,t:RUN.t,d:RUN.d,secs:RUN.secs,hints:RUN.hints,errs:RUN.errs,ts:Date.now()};
+  if(given) x.given=true; else x.score=score(RUN.t,RUN.d,RUN.secs,RUN.hints,RUN.errs);
+  S.stats.push(x); delete S.meta[RUN.id]; save();
+  return x;
+}
 function startGame(t,d,i){
   const id=gameId(t,d,i); S.current[t]=id; save();
+  const m=S.meta[id]||{};
+  RUN={id,t,d,secs:m.secs||0,hints:m.hints||0,errs:m.errs||0,over:false};
   const data=DATA[t][d][i];
   view='game';
   ({claringrilla:playCG, crucigrama:playCW, autodefinido:playAD, sopa:playWS})[t](t,d,i,id,data);
+  const el=document.getElementById('timer'); if(el) el.textContent=fmt(RUN.secs);
 }
 function finish(t,d,i,id){
-  S.done[id]=Date.now(); delete S.saves[id]; if(S.current[t]===id) delete S.current[t]; save();
+  S.done[id]=Date.now(); delete S.saves[id]; if(S.current[t]===id) delete S.current[t];
+  const x=record(false); save();
   const c=counts(t,d);
-  setTimeout(()=>dialog('¡Resuelto!',`Muy bien. Te quedan ${c.left} juegos de ${TYPES[t].name.toLowerCase()} en ${DIFFS[d].toLowerCase()}.`,[['Inicio',renderHome],['Otro juego',()=>openGame(t,d),true]]),350);
+  const prev=S.stats.filter(y=>y.t===t&&y.d===d&&!y.given&&y!==x);
+  const best=prev.length?Math.min(...prev.map(y=>y.secs)):null;
+  let msg=x?`Tiempo ${fmt(x.secs)} · Puntaje ${x.score} de 100`+(x.hints?` · ${x.hints} pista${x.hints>1?'s':''}`:'')+'. ':'';
+  if(x&&best!==null) msg+= x.secs<best?'¡Es tu mejor tiempo en este nivel! ':`Tu mejor tiempo en este nivel es ${fmt(best)}. `;
+  msg+=`Te quedan ${c.left} juegos de ${TYPES[t].name.toLowerCase()} en ${DIFFS[d].toLowerCase()}.`;
+  setTimeout(()=>dialog('¡Resuelto!',msg,[['Mi progreso',()=>renderStats(t,d)],['Otro juego',()=>openGame(t,d),true]]),350);
 }
 const toolsHTML=(extra='')=>`<button class="btn" id="t-check">Comprobar</button><button class="btn" id="t-hint">Pista</button>${extra}<button class="btn" id="t-give">Ver solución</button>`;
-function confirmGiveUp(fn){ dialog('¿Ver la solución?','Se muestran todas las respuestas. Este juego no cuenta como resuelto y puede volver a aparecer más adelante.',[['Seguir intentando',null],['Ver solución',fn,true]]); }
+function confirmGiveUp(fn){ dialog('¿Ver la solución?','Se muestran todas las respuestas. Este juego no cuenta como resuelto, queda anotado como abandonado en Mi progreso y puede volver a aparecer más adelante.',[['Seguir intentando',null],['Ver solución',()=>{record(true); fn();},true]]); }
 
 /* ---------- motor de grilla (crucigrama y autodefinido) ---------- */
 function gridGame(t,d,i,id,data,auto){
@@ -432,7 +561,7 @@ function gridGame(t,d,i,id,data,auto){
     paint(); persist(); checkDone();
   }};
   bindKeys(k=>G.key(k));
-  app.querySelector('#t-check').onclick=()=>{ bad.clear(); let n=0; for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#'&&F[r][c]!=='.'&&F[r][c]!==sol[r][c]){bad.add(r+','+c);n++;} paint(); toast(n?`Hay ${n} letra${n>1?'s':''} para revisar`:'Todo lo escrito está bien'); };
+  app.querySelector('#t-check').onclick=()=>{ bad.clear(); let n=0; for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#'&&F[r][c]!=='.'&&F[r][c]!==sol[r][c]){bad.add(r+','+c);n++;} paint(); if(RUN) RUN.errs+=n; toast(n?`Hay ${n} letra${n>1?'s':''} para revisar`:'Todo lo escrito está bien'); };
   app.querySelector('#t-hint').onclick=()=>{ const w=curWord(); const target=w.cells.find(([r,c])=>F[r][c]!==sol[r][c]); if(!target){toast('Esta palabra ya está bien');return;} const [r,c]=target; F[r][c]=sol[r][c]; rev.add(r+','+c); bad.delete(r+','+c); cur=[r,c]; paint(); persist(); checkDone(); };
   app.querySelector('#t-give').onclick=()=>confirmGiveUp(()=>{ given=true; for(let r=0;r<R;r++) for(let c=0;c<C;c++) if(sol[r][c]!=='#'&&F[r][c]!==sol[r][c]){F[r][c]=sol[r][c]; rev.add(r+','+c);} delete S.saves[id]; delete S.current[t]; save(); paint(); toast('Solución a la vista. Este juego sigue disponible.'); });
   paint();
@@ -490,7 +619,7 @@ function playCG(t,d,i,id,data){
     paint(); persist(); checkDone();
   }};
   bindKeys(k=>G.key(k));
-  app.querySelector('#t-check').onclick=()=>{ bad.clear(); let n2=0; rows.forEach((r,ri)=>F[ri].forEach((ch,ci)=>{ if(ch!=='.'&&ch!==r.a[ci]){bad.add(ri+','+ci);n2++;} })); paint(); toast(n2?`Hay ${n2} letra${n2>1?'s':''} para revisar`:'Todo lo escrito está bien'); };
+  app.querySelector('#t-check').onclick=()=>{ bad.clear(); let n2=0; rows.forEach((r,ri)=>F[ri].forEach((ch,ci)=>{ if(ch!=='.'&&ch!==r.a[ci]){bad.add(ri+','+ci);n2++;} })); paint(); if(RUN) RUN.errs+=n2; toast(n2?`Hay ${n2} letra${n2>1?'s':''} para revisar`:'Todo lo escrito está bien'); };
   app.querySelector('#t-hint').onclick=()=>{ const ri=cur[0]; const ci=[...rows[ri].a].findIndex((ch,k)=>F[ri][k]!==ch); if(ci<0){toast('Esta palabra ya está bien');return;} F[ri][ci]=rows[ri].a[ci]; rev.add(ri+','+ci); cur=[ri,ci]; paint(); persist(); checkDone(); };
   app.querySelector('#t-give').onclick=()=>confirmGiveUp(()=>{ given=true; rows.forEach((r,ri)=>[...r.a].forEach((ch,ci)=>{ if(F[ri][ci]!==ch){F[ri][ci]=ch; rev.add(ri+','+ci);} })); delete S.saves[id]; delete S.current[t]; save(); paint(); toast(`${data.author} — ${data.work}`); });
   paint();
@@ -521,7 +650,7 @@ function playWS(t,d,i,id,data){
   function tryWord(a,b){
     const k=data.words.findIndex((w,k)=>{ if(found.has(k)) return false; const cs=cellsOf(w); const s=cs[0],e=cs[cs.length-1]; return (s[0]===a[0]&&s[1]===a[1]&&e[0]===b[0]&&e[1]===b[1])||(s[0]===b[0]&&s[1]===b[1]&&e[0]===a[0]&&e[1]===a[1]); });
     if(k>=0){ found.add(k); hintCell=null; toast(data.words[k].a); persist(); if(found.size===data.words.length&&!given) finish(t,d,i,id); }
-    else toast('No es una palabra de la lista');
+    else { if(RUN&&!RUN.over) RUN.errs++; toast('No es una palabra de la lista'); }
   }
   ws.addEventListener('click',e=>{ const el=e.target.closest('.l'); if(!el||given) return; const p=[+el.dataset.r,+el.dataset.c];
     if(!start) start=p; else if(start[0]===p[0]&&start[1]===p[1]) start=null; else { tryWord(start,p); start=null; } paint(); });

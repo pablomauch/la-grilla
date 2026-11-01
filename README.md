@@ -2,15 +2,16 @@
 
 Pasatiempos de palabras para el teléfono: **claringrillas**, **crucigramas**, **autodefinidos** y **sopas de letras**, en tres dificultades (Difícil, Muy difícil, Experto).
 
-- 1036 juegos incluidos (versión `v2` del banco, mucho más difícil que la `v1`).
+- 348 juegos incluidos (versión `v3` del banco). **Ninguna palabra ni definición se repite** en toda la versión: son 5282 palabras, cada una usada una sola vez, con su propia definición. Tampoco se repite ningún par autor/obra en las claringrillas.
 - Vocabulario culto, lunfardo, mitología, geografía y cultura argentina, con definiciones indirectas.
 - En Muy difícil y Experto no se muestra el largo de las palabras.
 - Las sopas de letras dan definiciones en lugar de las palabras, y tienen comienzos falsos para despistar.
 - Contador de juegos disponibles: un juego completado no vuelve a aparecer; uno abandonado sí.
+- **Mi progreso**: cronómetro en cada juego, puntaje de 0 a 100 (resta pistas, errores y minutos de más) y estadísticas por tipo de juego y nivel, con mejor tiempo, promedio, gráfico y tendencia (mejorando, estable o bajando).
 - Comprobar, Pista y Ver solución en cada juego.
 - Teclado propio con Ñ y tres tamaños de letra.
 - Funciona sin conexión después de la primera apertura.
-- El progreso se guarda en el teléfono. En Ajustes hay un código de respaldo para pasarlo a otro dispositivo.
+- El progreso y el historial se guardan en el teléfono. En Ajustes hay un código de respaldo para pasarlos a otro dispositivo.
 
 ## Abrir
 
