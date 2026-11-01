@@ -1,0 +1,312 @@
+IBÉRICO|De la península de España y Portugal|2
+ICEBERG|Témpano a la deriva|1
+TÉMPANO|Bloque de hielo flotante|2
+IDEALISTA|Soñador|1
+IDENTIDAD|Documento que dice quién sos|1
+IDÍLICO|Paradisíaco|2
+IDIOTEZ|Estupidez|2
+IGNORANCIA|Desconocimiento|1
+IGNOTO|Desconocido|3
+ILEGAL|Fuera de la ley|1
+ILEGIBLE|Que no se puede leer|1
+ILESO|Sin heridas|2
+ILÍCITO|Prohibido|2
+ILIMITADO|Sin límites|1
+ILUMINACIÓN|Alumbrado|1
+ILUSIONISTA|Mago|1
+ILUSTRACIÓN|Dibujo de un libro|1
+ILUSTRE|Célebre|2
+IMBATIBLE|Invencible|1
+IMBORRABLE|Indeleble|2
+IMITADOR|Remedador|1
+IMPACTO|Choque|1
+IMPARCIAL|Neutral|2
+IMPECABLE|Perfecto|1
+IMPERDIBLE|Alfiler de gancho|2
+IMPERIOSO|Autoritario|2
+IMPLACABLE|Inexorable|2
+IMPONENTE|Majestuoso|1
+IMPOSTOR|Farsante|2
+IMPRENTERO|x|9
+IMPREVISTO|Inesperado|1
+IMPUNE|Sin castigo|2
+INAGOTABLE|Interminable|1
+INCANSABLE|Infatigable|1
+INCAPAZ|Inepto|1
+INCENTIVO|Estímulo|1
+INCLEMENTE|Riguroso, como el clima|3
+INCOGNITO|x|9
+INCÓGNITO|De identidad oculta|2
+INCOLORO|Sin color|1
+INCONSCIENTE|Desmayado|1
+INCRÉDULO|Escéptico|2
+INCUBADORA|Aparato para bebés prematuros|1
+INDECISO|Vacilante|1
+INDEFENSO|Desamparado|1
+INDELEBLE|Imborrable|3
+INDÍGENA|Aborigen|1
+INDISCRETO|Imprudente|1
+INDIVIDUO|Sujeto|1
+INDUMENTARIA|Vestimenta|1
+INERCIA|x|9
+INESTABLE|Inseguro|1
+INFALIBLE|Que no falla|2
+INFANTE|Hijo del rey|2
+INFINITO|Sin fin|1
+INFLEXIBLE|Rígido|2
+INFLUENCIA|Influjo|1
+INFORMAL|Sin ceremonia|1
+INFORTUNIO|Desgracia|2
+INGLÉS|Británico|1
+INGREDIENTE|Componente de una receta|1
+INHALAR|Aspirar|1
+INICIADO|Adepto|2
+INJERTO|Unión de plantas|2
+INMENSIDAD|Vastedad|2
+INMIGRACIÓN|Llegada de extranjeros|1
+INMORTAL|Eterno|1
+INMUNE|Protegido|1
+INNOVADOR|Novedoso|1
+INOCENCIA|Candor|1
+INODORO|Retrete|1
+INOLVIDABLE|Memorable|1
+INQUISIDOR|Juez del Santo Oficio|2
+INSACIABLE|Que nunca se llena|1
+INSECTICIDA|Veneno para bichos|1
+INSEGURO|Dubitativo|1
+INSENSATO|Imprudente|2
+INSINUACIÓN|Indirecta|2
+INSÓLITO|Raro|2
+INSPECTOR|Supervisor|1
+INSPIRACIÓN|Musa|1
+INSTINTO|Impulso natural|1
+INSUMISO|Rebelde|2
+INTACTO|Entero|1
+INTELECTUAL|Pensador|1
+INTEMPERIE|Al aire libre|2
+INTENDENCIA|Municipalidad|1
+INTERIOR|Adentro|1
+INTÉRPRETE|Traductor|1
+INTRINCADO|Enredado|2
+INTUICIÓN|Corazonada|1
+CORAZONADA|Presentimiento|1
+INÚTIL|x|9
+INVÁLIDO|Nulo|2
+INVENCIBLE|Imbatible|1
+INVERSIÓN|Colocación de dinero|1
+INVESTIGADOR|Detective|1
+INVIERNA|x|9
+INVOCACIÓN|Llamado a un santo|2
+IRRESPONSABLE|Descuidado|1
+IRRITABLE|Susceptible|2
+ISLAMITA|x|9
+ISRAELITA|Hebreo|2
+ITALIANO|Tano|1
+IZQUIERDO|Siniestro|1
+OASIS|x|9
+OBELISCO|x|9
+OBESIDAD|Gordura|1
+OBISPADO|Diócesis|2
+OBLICUO|Inclinado|2
+OBLONGO|Alargado|3
+OBRAR|Actuar|2
+OBSERVATORIO|Lugar para mirar estrellas|1
+OBSOLETO|Anticuado|2
+OBSTÁCULO|Impedimento|1
+OBVIO|Evidente|1
+OCASIÓN|Oportunidad|1
+OCCIPITAL|Hueso de la nuca|3
+OCEANÓGRAFO|Estudia el mar|2
+OCHAVA|Esquina cortada|2
+OCTUBRE|x|9
+OCULTISMO|Esoterismo|2
+OCUPACIÓN|Empleo|1
+ODIADO|Aborrecido|1
+OESTERO|x|9
+OFENSIVA|Ataque|1
+OFICIANTE|Sacerdote de la misa|3
+OFTALMÓLOGO|Oculista|2
+OJEADA|Mirada rápida|1
+OJIVAL|Arco en punta|3
+OJOTA|Sandalia de tiras|2
+OLEOSO|Aceitoso|2
+OLIMPIADA|x|9
+OLIVERO|x|9
+OLOROSO|Perfumado|1
+OLLITA|x|9
+OMBLIGUITO|x|9
+ONDULADO|Ondeado|1
+ONEROSO|Costoso|3
+OPCIÓN|Alternativa|1
+OPERACIÓN|Cirugía|1
+OPINAR|Dar parecer|1
+OPORTUNO|Conveniente|1
+ÓPTIMO|Excelente|1
+OPUESTO|Contrario|1
+ORADOR|Conferencista|1
+ORANGUTANA|x|9
+ORDINARIO|Común|1
+ORGANIZADOR|Coordinador|1
+ORGULLOSAMENTE|x|9
+ORIGINARIO|Nativo|1
+ORILLERO|Del arrabal|2
+ORNAMENTAL|Decorativo|2
+OSADAMENTE|x|9
+OSCILAR|Balancearse|2
+OSTENTOSO|Lujoso|2
+OSTRERO|Ave costera|3
+OTORGAR|Conceder|2
+OVACIÓN|x|9
+OVEJERA|x|9
+OVÍPARO|Que pone huevos|2
+UBICUO|Omnipresente|3
+ULCERA|x|9
+ÚLCERA|Llaga|2
+ULTIMÁTUM|Aviso final|2
+ÚLTIMO|Postrero|1
+ULULAR|Aullar|3
+UMBILICAL|Del ombligo|2
+UNIFORMADO|Con uniforme|1
+UNILATERAL|De una sola parte|2
+UNIVERSITARIO|Estudiante de facultad|1
+UNTUOSO|Grasiento|3
+URBANIDAD|Cortesía|2
+URDIDOR|x|9
+URGENTE|Apremiante|1
+URINARIO|Mingitorio|2
+USANZA|Costumbre|3
+USUFRUCTUARIO|x|9
+USURPADOR|Que se apodera de lo ajeno|2
+UTENSILLO|x|9
+UVA PASA|x|9
+NACIONAL|Del país|1
+NACIONALIDAD|Ciudadanía|1
+NADADOR|El que nada|1
+NAIPERO|x|9
+NARANJADA|Bebida de naranja|1
+NARANJERO|x|9
+NARCÓTICO|Somnífero|2
+NARRACIÓN|Relato|1
+NATIVO|Originario|1
+NATURAL|Silvestre|1
+NAVEGACIÓN|Travesía|1
+NECESARIO|Imprescindible|1
+NECIAMENTE|x|9
+NEGATIVO|Contrario|1
+NEGLIGENTE|Descuidado|2
+NERVIOSO|x|9
+NETO|Limpio de descuentos|2
+NEUMONÍA|Pulmonía|2
+PULMONÍA|Neumonía|2
+NEUTRAL|Imparcial|1
+NEVISCA|Nevada ligera|3
+NIÑERÍA|x|9
+NÍVEO|Blanco como la nieve|3
+NOCIÓN|Idea|1
+NOCTURNIDAD|x|9
+NODO|Punto de unión|3
+NÓMINA|Lista de empleados|2
+NONAGENARIO|De noventa años|2
+NORMAL|Común|1
+NORTEAMERICANO|Estadounidense|1
+NOTABLE|Destacado|1
+NOTICIERO|Informativo|1
+NOVEDOSO|Nuevo|1
+NOVELISTA|Escritor de novelas|1
+NUBLADO|x|9
+NUDISTA|x|9
+NUEVECITO|x|9
+NUMEROSO|Abundante|1
+NUPCIAS|Boda|2
+NUTRIENTE|Alimento|1
+ECLESIÁSTICO|De la Iglesia|2
+ECUESTRE|Del caballo|2
+EDITORIALISTA|x|9
+EDUCADO|Cortés|1
+EFICAZ|Efectivo|1
+EJECUTIVO|Directivo|1
+ELECTOR|Votante|1
+ELEMENTAL|Básico|1
+ELEVADO|Alto|1
+ELIMINAR|Suprimir|1
+EMBARCACIÓN|Nave|1
+EMBUSTERO|x|9
+EMINENCIA|Persona notable|2
+EMISORA|Radio|1
+EMPÁTICO|Comprensivo|2
+EMPERATRIZ|Esposa del emperador|1
+ENCANTADOR|Simpático|1
+ENCARNADO|Rojo|2
+ENCIERRO|Reclusión|1
+ENDIABLADO|Endemoniado|2
+ENFERMIZO|Débil de salud|1
+ENGAÑOSO|Falaz|1
+ENIGMÁTICO|Misterioso|2
+ENORMIDAD|Inmensidad|2
+ENREJADO|Reja|1
+ENSORDECEDOR|Atronador|1
+ENTRENADOR|Técnico|1
+ENVIADO|Emisario|1
+EPIDÉRMICO|De la piel|3
+EQUINO|Caballar|2
+ESCOLAR|x|9
+ESENCIAL|Fundamental|1
+ESPACIAL|Del espacio|1
+ESTELAR|De las estrellas|2
+ETERNIDAD|Perpetuidad|1
+EUROPEO|Del Viejo Mundo|1
+EVIDENTE|Claro|1
+EXACTO|Preciso|1
+EXCELENTE|Óptimo|1
+EXITOSO|Triunfador|1
+EXÓTICO|Extranjero, raro|1
+EXPERTO|Perito|1
+PERITO|Especialista; también Moreno|2
+LABORAL|Del trabajo|1
+LACTEO|x|9
+LÁCTEO|De la leche|1
+LAICO|No religioso|2
+LAMENTOSO|Quejoso|2
+LEGENDARIO|Mítico|1
+LEGÍTIMO|Auténtico|1
+LEJANO|Distante|1
+LETRISTA|Autor de letras|2
+LIBIDINOSO|x|9
+LIMITADO|Escaso|1
+LINGÜISTA|Estudioso de las lenguas|2
+LIRICO|x|9
+LÍRICO|Poético|1
+LITIGANTE|Parte de un juicio|2
+LLAMADOR|Aldaba|2
+LLANERO|x|9
+LOCAL|Comercio|1
+LÓGICO|Razonable|1
+LONGEVIDAD|Larga vida|2
+LUCRATIVO|Rentable|2
+LUMINARIA|Luz|2
+RACIONAL|Razonable|1
+RADIACIÓN|Emisión de energía|2
+RADIOACTIVO|Que emite radiación|1
+RAMPA|Plano inclinado|1
+RAREZA|Singularidad|1
+RASTREADOR|x|9
+RATONERO|x|9
+REALIDAD|Verdad|1
+REBELIÓN|Sublevación|1
+RECIENTE|Nuevo|1
+RECTITUD|Honradez|2
+REFINADO|Exquisito|1
+REGIONAL|De la región|1
+RELIGIOSO|Devoto|1
+REMOTO|Lejano|1
+RENOMBRADO|Famoso|1
+REPENTINO|Súbito|1
+RESERVADO|Discreto|1
+RESISTENTE|Fuerte|1
+RESPETUOSO|Educado|1
+RETÓRICO|Grandilocuente|3
+REVOLTOSO|Inquieto|1
+RIGUROSO|Estricto|1
+ROBUSTEZ|Fortaleza|2
+ROMÁNTICO|Sentimental|1
+RUINOSO|Arruinado|2

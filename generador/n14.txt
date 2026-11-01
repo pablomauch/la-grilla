@@ -1,0 +1,309 @@
+MACABRO|Tétrico|2
+MACHACAR|Triturar|2
+MADRIGUERA|Cueva de conejos|1
+MADRINA|x|9
+MAESTRÍA|Habilidad|2
+MAGISTRADO|Juez|2
+MAJADA|Rebaño de ovejas|2
+MALABAR|Juego de destreza|2
+MALEZA|Yuyos|1
+YUYO|Hierba silvestre|1
+MALHUMOR|Mal genio|9
+MALETÍN|Valija pequeña|1
+MALVAVISCO|Golosina esponjosa|2
+MAMADERA|Biberón|1
+BIBERÓN|Mamadera|2
+MANANTIAL|x|9
+MANCHA|Lamparón|2
+MANDATO|Orden|1
+MANECILLA|Aguja del reloj|2
+MANGUITO|Funda de las mangas|3
+MANIOBRA|Operación|1
+MANOJO|Haz|1
+MANSIÓN|Casa lujosa|1
+MANTILLA|Velo de encaje|2
+MANUAL|Libro de instrucciones|1
+MAÑANA|Día siguiente|1
+MAQUETA|Modelo a escala|1
+MARAÑA|Enredo|2
+MARCHITO|Mustio|2
+MAREJADILLA|Oleaje leve|3
+MARGARINA|Sustituto de la manteca|1
+MARIDO|Esposo|1
+MARINO|Del mar|1
+MARQUESA|Título nobiliario femenino|2
+MARTILLAZO|Golpe de martillo|1
+MASCOTA|Animal doméstico|1
+MATADERO|Frigorífico|1
+MATORRAL|Monte bajo|2
+MAYORDOMO|Jefe de criados|1
+MECHERO|Encendedor|2
+MEDIADOR|Intermediario|2
+MEDIANOCHE|Las doce de la noche|1
+MELENA|Cabellera|1
+MELLIZO|Gemelo|1
+MENDRUGO|Pedazo de pan duro|2
+MENSUAL|Cada mes|1
+MERCADER|Comerciante|2
+MERIENDA|x|9
+MESONERO|Dueño de una posada|3
+METRALLETA|Ametralladora|1
+MIGAJA|Miga|1
+MILAGROSO|Prodigioso|1
+MINERO|Trabaja en la mina|1
+MIRILLA|Ojo de la puerta|2
+MISTERIO|Enigma|1
+MOCASÍN|Zapato sin cordones|2
+MODALES|Educación|1
+MOLESTIA|Fastidio|1
+MOLINERO|Dueño del molino|1
+MONARCA|Rey|1
+MONEDERO|Portamonedas|1
+MONTURA|x|9
+MORDISCO|Mordida|1
+MORENO|Morocho|1
+MOROCHO|Moreno|1
+MOSAQUITA|x|9
+MOSQUETERO|Soldado de Dumas|1
+MOSTRADOR|Mesa del negocio|1
+MUDANZA|Cambio de casa|1
+MUELLE|x|9
+MULETILLA|Palabra repetida|2
+MUÑECO|Monigote|1
+MURALLA|Muro grande|1
+MURMULLO|Rumor|1
+PABILO|Mecha de la vela|2
+PACIENTE|Enfermo|1
+PADRASTRO|Pellejo de la uña|2
+PAGANO|No cristiano|2
+PAISANAJE|Gente de campo|3
+PAJAR|Lugar de paja|1
+PALANGANA|Jofaina|2
+PALEONTÓLOGO|Estudia fósiles|2
+PALIZA|x|9
+PALMADA|Golpe con la palma|1
+PALMERAL|Bosque de palmeras|2
+PALOMITA|Pochoclo|2
+POCHOCLO|Maíz inflado|1
+PAMPLINA|Tontería|2
+PANCHO|Salchicha con pan|1
+PANDERETA|Pandero chico|1
+PANTEÓN|Mausoleo|2
+PANTUFLA|Zapatilla de casa|1
+PAPELERA|Cesto de papeles|1
+PAQUETERÍA|x|9
+PARADERO|Ubicación|2
+PARAPETO|Baranda de defensa|3
+PARCO|x|9
+PARIENTE|Familiar|1
+PARQUE|Jardín público|1
+PARRANDA|Juerga|2
+PARTIDO|Encuentro deportivo|1
+PASAMANOS|Baranda|1
+PASAPORTE|Documento de viaje|1
+PASATIEMPO|Entretenimiento|1
+PASTELERÍA|Confitería|1
+PASTIZAL|Campo de pasto|1
+PATRIARCA|Jefe de familia|2
+PATRIMONIO|Bienes|1
+PATRULLERO|Auto policial|1
+PEATÓN|Transeúnte|1
+PECERA|Acuario|1
+PEDALEAR|Andar en bici|1
+PEDREGAL|Terreno pedregoso|2
+PELAJE|Pelo de un animal|1
+PELLEJO|Piel|1
+PELOTÓN|Grupo de soldados|1
+PENDIENTE|Cuesta|1
+PENUMBRA|Media luz|2
+PEÑASCO|Roca grande|1
+PERCANCE|Contratiempo|2
+PERCHERO|Mueble para colgar ropa|1
+PEREGRINAJE|x|9
+PERFUME|Fragancia|1
+PERIODISTA|Reportero|1
+PERJUICIO|Daño|1
+PERSONAJE|Figura de una obra|1
+PESCADOR|El que pesca|1
+PESEBRE|x|9
+PESTILLO|Cerrojo|2
+PEZUÑA|Casco del animal|1
+PIADOSO|Devoto|2
+PICARDÍA|Malicia|1
+PICOTAZO|Golpe del pico|1
+PILETÓN|Pileta grande|2
+PINCHAZO|Pinchadura|1
+PINTURERÍA|Venta de pinturas|1
+PIOLÍN|Cordel|1
+PIRUETA|x|9
+PISTA|Huella|1
+PIZARRA|x|9
+PLACER|Gozo|1
+PLAGA|Calamidad|1
+PLATAFORMA|Tarima|1
+PLAZOLETA|Plaza pequeña|1
+PLEGARIA|Oración|1
+PLENILUNIO|Luna llena|2
+PLOMERÍA|Cañerías|1
+PODADORA|Cortadora de pasto|1
+POLVAREDA|Nube de polvo|1
+POLVORÍN|Depósito de pólvora|2
+PONCHERA|Recipiente del ponche|2
+PORDIOSERO|Mendigo|2
+PORTAVOZ|Vocero|1
+POSADA|Mesón|1
+POSTAL|Tarjeta de viaje|1
+POSTERGAR|Aplazar|1
+POTRERO|Campo de pastoreo|1
+POZO|x|9
+PRADERA|Llanura verde|1
+PRECIPICIO|x|9
+PREDIO|Terreno|1
+PREGÓN|Anuncio en voz alta|2
+PRESIDIO|Cárcel|2
+PRESO|Recluso|1
+PRIMOGÉNITO|Hijo mayor|2
+PRINCESA|Hija del rey|1
+PRISIÓN|Cárcel|1
+PROEZA|Hazaña|2
+PROFECÍA|Predicción|1
+PROPINA|Gratificación|1
+PROVERBIO|Refrán|1
+PROVINCIA|División territorial|1
+PRÓJIMO|Semejante|1
+PUESTERO|x|9
+PULPERO|x|9
+PUNTERÍA|Habilidad de tirar|1
+PUNZÓN|Herramienta puntiaguda|2
+PUPILENTE|x|9
+SABIDURÍA|Conocimiento|1
+SABLAZO|Pedido de dinero|3
+SACAPUNTAS|x|9
+SACRIFICIO|Ofrenda|1
+SALAMÍN|Salame chico|1
+SALTAMONTES|x|9
+SALVOCONDUCTO|Permiso de paso|2
+SÁNDWICH|x|9
+SANGRÍA|Bebida de vino y frutas|1
+SANTIGUAR|Persignar|2
+SARDINERO|x|9
+SARTENAZO|Golpe con sartén|2
+SAUZAL|Bosque de sauces|3
+SECADOR|Aparato para el pelo|1
+SECUAZ|Seguidor|2
+SEDANTE|Calmante|2
+SEMBRADOR|El que siembra|1
+SENDA|x|9
+SENTINELA|x|9
+SEÑORITA|Joven soltera|1
+SEPELIO|Entierro|2
+SEQUITO|x|9
+SERPENTINA|Cinta de papel del carnaval|1
+SERVILLETERO|Aro de la servilleta|2
+SIEMBRA|Siembra del campo|9
+SILUETA|Contorno|1
+SIMIO|Mono|1
+SINFÍN|Infinidad|2
+SIRVIENTE|Criado|1
+SOBRENOMBRE|Apodo|1
+SOLLOZO|Llanto entrecortado|1
+SOLTERONA|Mujer que no se casó|2
+SOMNOLENCIA|Modorra|2
+MODORRA|Sopor|2
+SONSO|Tonto|1
+SOPLETE|Llama para soldar|2
+SORTIJA|Anillo|1
+SUAVIDAD|Blandura|1
+SUBALTERNO|Subordinado|2
+SUBORDINADO|Dependiente|2
+SUCIEDAD|Mugre|1
+MUGRE|Suciedad|1
+SUDADERA|Buzo deportivo|2
+SUEGRO|Padre del cónyuge|1
+SUSPENSO|Intriga|1
+SUSTO|Sobresalto|1
+SUSURRO|Murmullo|1
+VACACIONES|Feriado largo|1
+VAGANCIA|Holgazanería|2
+VAJILLERO|Mueble de la vajilla|2
+VALENTÍA|Coraje|1
+VALIDO|Favorito del rey|3
+VAQUERO|Cowboy|1
+VARIEDAD|Diversidad|1
+VASIJERO|x|9
+VECINDARIO|Barrio|1
+VEDA|Prohibición|2
+VEHÍCULO|Rodado|1
+VELORIO|Velatorio|1
+VENCEDOR|Ganador|1
+VENDAVAL|Viento fuerte|2
+VENENO|Ponzoña|1
+PONZOÑA|Veneno|2
+VENGANZA|Revancha|1
+VENTARRÓN|Viento fuerte|1
+VENTISCA|Tormenta de nieve|2
+VERANEO|Vacaciones de verano|1
+VERDUGÓN|Marca de un golpe|3
+VERJA|x|9
+VESTÍBULO|Recibidor|1
+VETERANO|Experto|1
+VIAJERO|Pasajero|1
+VÍCTIMA|Damnificado|1
+VIDENTE|Adivino|1
+VIGÍA|Centinela|2
+VIÑEDO|Plantación de vid|1
+VIOLINISTA|Toca el violín|1
+VIRUELA|Enfermedad erradicada|2
+VITRINA|Vidriera|1
+VIUDEZ|Estado de viudo|2
+VIVIENDA|Hogar|1
+VOCACIÓN|Llamado|1
+VOLUNTARIO|Que se ofrece|1
+VORÁGINE|Remolino|3
+VUELTO|Cambio|1
+FACHADA|Frente de un edificio|1
+FACÓN|x|9
+FAENA|x|9
+FAJÍN|Faja de general|3
+FALSEDAD|Mentira|1
+FAMILIAR|Pariente|1
+FANAL|x|9
+FANATISMO|Fervor exagerado|2
+FARANDULA|x|9
+FARÁNDULA|Mundo del espectáculo|2
+FARSA|Engaño|1
+FASTIDIO|Molestia|1
+FATIGA|Cansancio|1
+FECHORÍA|Maldad|2
+FELPUDO|Alfombra de la entrada|2
+FERRETERÍA|Venta de herramientas|1
+FERROCARRIL|Tren|1
+FESTÍN|Banquete|1
+FIAMBRERA|Recipiente de comida|2
+FIERRO|Hierro|1
+FILETE|Bife fino|1
+FILO|Corte|1
+FINADO|Difunto|2
+FIRMAMENTO|Cielo|1
+FLAQUEZA|Debilidad|2
+FLECHAZO|Amor a primera vista|1
+FLORERÍA|Venta de flores|1
+FOGÓN|x|9
+FOLLETO|Panfleto|1
+FONDO|Parte más baja|1
+FORASTERO|Extranjero|1
+FORTALEZA|Fortín|1
+FORTUNA|Suerte|1
+FRAGANCIA|Perfume|1
+FRAGMENTO|Pedazo|1
+FRAILECILLO|x|9
+FRANELA|Tela de algodón|2
+FRASE|Oración|1
+FRENO|Detiene el auto|1
+FRESCURA|Frescor|1
+FRONTERA|Límite|1
+FRUTAL|Árbol de frutas|1
+FUGITIVO|Prófugo|1
+FULANO|Persona cualquiera|1
+FUNERAL|Exequias|2
+FURGÓN|Vagón de carga|2

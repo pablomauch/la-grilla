@@ -1,0 +1,376 @@
+ABAJO|Hacia lo bajo|1
+ABETO|x|9
+ABONO|Fertilizante|1
+ABRAZO|Saludo con los brazos|1
+ABSOLUTO|Total, sin límites|2
+ACEITERA|Recipiente del aceite|1
+ACERA|Vereda|1
+ACORDE|x|9
+ACOSO|Hostigamiento|2
+ACTITUD|Postura, disposición|1
+ADEMÁS|También|1
+ADIVINO|Vidente|1
+ADUANERO|Empleado de la aduana|1
+AFICIÓN|Gusto por algo|1
+AGENDA|Libreta de citas|1
+AGENTE|Representante|1
+AGOSTO|x|9
+AGUACERO|Chaparrón|1
+AGUARDIENTE|Bebida destilada fuerte|2
+AGUJERO|Orificio|1
+AHÍNCO|Empeño|3
+AHUMADO|Curado con humo|2
+AJEDREZ|Juego de reyes y peones|1
+AJETREO|Trajín|2
+ALAMEDA|Paseo de álamos|2
+ALARMA|Aviso de peligro|1
+ALBAÑILERÍA|Oficio de construir paredes|2
+ALCALDE|Intendente, en España|2
+ALCANCÍA|Chanchito para ahorrar|1
+ALDEANO|Habitante de una aldea|2
+ALEACIÓN|Mezcla de metales|2
+ALERGIA|Reacción al polen|1
+ALFILER|Aguja con cabeza|1
+ALFARERÍA|Arte del barro|2
+ALGAZARA|Bullicio|3
+ALIENTO|Respiración|1
+ALIVIO|Consuelo|1
+ALMACIGO|x|9
+ALMEJA|x|9
+ALOJAMIENTO|Hospedaje|1
+ALPISTE|Semilla para pájaros|2
+ALTURA|Elevación|1
+ALUMBRADO|Iluminación pública|1
+AMAPOLA|x|9
+AMARRE|Atadura del barco|2
+AMBIENTE|Entorno|1
+AMENAZA|Advertencia de daño|1
+AMISTAD|Afecto entre amigos|1
+ANCIANA|Mujer mayor|1
+ANDADOR|Aparato para aprender a caminar|2
+ANÉCDOTA|Relato breve curioso|1
+ÁNGEL|Mensajero celestial|1
+ÁNGULO|Esquina, rincón|1
+ANILINA|Colorante|3
+ANIMAL|Bestia|1
+ANTEOJOS|Lentes|1
+ANTOJO|Capricho|1
+ANZUELO|Gancho de pescar|1
+APELLIDO|Nombre de familia|1
+APETITO|Ganas de comer|1
+APOYO|Sostén|1
+APUNTE|Nota escrita|1
+ARAÑAZO|Rasguño|1
+ARBUSTO|Mata|1
+ARCÓN|Baúl grande|2
+ARENILLA|Arena fina|2
+ARMARIO|Ropero|1
+ARQUITECTO|Proyecta edificios|1
+ARRECIFE|x|9
+ARRIATE|Cantero de jardín|3
+ARRUGADO|Con pliegues|1
+ARTÍCULO|Nota periodística|1
+ASAMBLEÍSTA|Miembro de una asamblea|2
+ASCENSO|x|9
+ASIENTO|Lugar para sentarse|1
+ASOMBROSO|Sorprendente|1
+ASPECTO|Apariencia|1
+ASPIRADORA|Limpia el polvo aspirando|1
+ASTRÓNOMO|Estudia los astros|1
+ASUNTO|Tema|1
+ATARDECER|Ocaso|1
+ATAÚD|x|9
+ATLETA|Deportista|1
+ATMÓSFERA|Capa de aire|1
+AUDIENCIA|Público oyente|1
+AULLIDO|Voz del lobo|1
+AUMENTO|Incremento|1
+AUSENCIA|Falta|1
+AUTOPISTA|Ruta rápida|1
+AVENTURA|Peripecia|1
+AVERÍA|Desperfecto|2
+AVIADOR|Piloto|1
+AZOTEA|x|9
+AZULEJO|Baldosa de pared|1
+EBULLICIÓN|Hervor|2
+ECONOMÍA|Ahorro|1
+EDIFICIO|Construcción|1
+EJEMPLO|Modelo|1
+EJERCICIO|Práctica|1
+ELECTRICIDAD|Energía de los cables|1
+ELEFANTA|Hembra del elefante|2
+ELEGANCIA|Distinción|1
+EMBARAZO|Gestación|1
+EMBLEMA|x|9
+EMPANADITA|x|9
+EMPLEADO|Asalariado|1
+EMPRESA|Compañía|1
+ENCARGO|Pedido|1
+ENCÍA|x|9
+ENEMIGO|Adversario|1
+ENERGÍA|x|9
+ENFADO|Enojo|1
+ENFERMEDAD|Dolencia|1
+ENGAÑO|Mentira|1
+ENSEÑANZA|Educación|1
+ENTIERRO|Sepelio|1
+ENTREVISTA|Reportaje|1
+ENVASE|Recipiente|1
+EPISODIO|Capítulo de una serie|1
+EQUIPAJE|Valijas|1
+EQUIPO|Conjunto de jugadores|1
+ERRATA|Error de imprenta|2
+ESCALOFRÍO|Temblor de frío|1
+ESCAPARATE|Vidriera|2
+ESCARCHA|x|9
+ESCENOGRAFÍA|Decorado del teatro|2
+ESCLAVO|Siervo|1
+ESCONDITE|Juego de esconderse|1
+ESCOTE|Abertura del cuello|2
+ESFUERZO|Empeño|1
+ESMALTE|Pintura de uñas|1
+ESPANTAPÁJAROS|Muñeco del sembrado|1
+ESPECIA|Condimento|1
+ESPECTÁCULO|Función|1
+ESPESO|Denso|1
+ESPÍA|Agente secreto|1
+ESPINAZO|Columna vertebral|2
+ESPIRITU|x|9
+ESPÍRITU|Alma|1
+ESPUMA|Burbujas|1
+ESQUEMA|Resumen gráfico|1
+ESTACIÓN|Parada del tren|1
+ESTAMPA|Imagen impresa|2
+ESTANTE|Anaquel|1
+ESTATURA|Altura de una persona|1
+ESTRATEGIA|Plan|1
+ESTRENO|x|9
+ESTRUENDO|Ruido grande|2
+ESTUFA|Calefactor|1
+ETIQUETA|Rótulo|1
+EXAMEN|Prueba escolar|1
+EXCURSIÓN|Paseo|1
+EXILIO|Destierro|1
+EXPERIENCIA|Práctica|1
+EXPRESO|Rápido; también café|2
+EXTRANJERO|Forastero|1
+IGLESIA|x|9
+IGUALDAD|Equidad|1
+ILUSIÓN|Esperanza|1
+IMAGEN|Figura|1
+IMPRESORA|Máquina que imprime|1
+IMPULSO|Empujón|1
+INCENDIARIO|Que provoca fuego|2
+INFANCIA|Niñez|1
+INFORME|Reporte|1
+INGENIERO|Profesional de la técnica|1
+INICIO|Comienzo|1
+INQUILINATO|Conventillo|2
+INSIGNIA|Distintivo|1
+INSOMNIO|Falta de sueño|1
+INSTANTE|Momento|1
+INSTRUMENTO|Herramienta|1
+INTERVALO|x|9
+INVASIÓN|Ocupación|1
+INVENTARIO|Lista de bienes|1
+INVERNADERO|Recinto cálido para plantas|1
+INVITADO|Huésped|1
+ISLEÑO|Habitante de una isla|1
+ITINERARIO|Recorrido|2
+OBEDIENCIA|Acatamiento|1
+OBJETIVO|Meta|1
+OBJETO|Cosa|1
+OBLIGACIÓN|Deber|1
+OBRA MAESTRA|x|9
+OCURRENCIA|Idea graciosa|1
+ODISEA|Viaje lleno de peripecias|1
+OFENSA|Agravio|1
+OFERTA|Promoción|1
+OFICINA|Despacho|1
+OLFATO|Sentido del olor|1
+OLIVAR|Plantación de olivos|2
+OLVIDO|Falta de memoria|1
+OMISIÓN|Descuido|2
+OPERARIO|Obrero|1
+ORDENANZA|Norma municipal|2
+OREJÓN|Durazno seco|2
+ORFANATO|Asilo de huérfanos|1
+ORGANILLO|Instrumento callejero de manivela|2
+ORGANILLERO|Tocador del organito|2
+ORIENTE|Levante|1
+ORNAMENTO|Adorno|2
+OSAMENTA|Esqueleto|2
+OVEJERO|Perro pastor|1
+UMBRÍO|Sombreado|3
+UNGIR|Untar con óleo sagrado|3
+UNIDAD|Uno|1
+UNIVERSIDAD|Casa de altos estudios|1
+URBANIZACIÓN|Barrio nuevo|2
+URGENCIA|Apuro|1
+USUARIO|El que usa|1
+ÚTERO|Matriz|2
+NAFTA|Gasolina|1
+NARANJAL|Plantación de naranjos|1
+NARRADOR|El que cuenta|1
+NATURALEZA|Mundo natural|1
+NAVEGANTE|Marino|1
+NECESIDAD|Carencia|1
+NEGOCIO|Comercio|1
+NEVADA|Caída de nieve|1
+NEVERA|Heladera|2
+NIEVE|x|9
+NOCHEBUENA|Víspera de Navidad|1
+NOGALINA|Barniz de nuez|3
+NORMA|Regla|1
+NOSTALGIA|x|9
+NOTARIO|x|9
+NOVATO|Principiante|1
+NOVEDAD|Noticia|1
+NOVENO|Que sigue al octavo|1
+NUBARRÓN|Nube grande y oscura|1
+NUTRICIÓN|Alimentación|1
+LABRADOR|Agricultor|1
+LADERA|Falda de un monte|1
+LADRÓN|Ratero|1
+LAGARTIJA|x|9
+LAMPARITA|x|9
+LANCHERO|Conductor de lancha|2
+LANGOSTA|x|9
+LARGUERO|Travesaño|2
+LÁSTIMA|Pena|1
+LATIFUNDIO|Gran propiedad rural|2
+LAVADERO|Lugar para lavar|1
+LAVATORIO|Pileta del baño|1
+LECCIÓN|Clase|1
+LECHERÍA|Tambo|2
+LEGUMBRE|Poroto o lenteja|1
+LEJANÍA|Distancia|1
+LENTEJUELA|Adorno brillante de la ropa|2
+LEOPARDO|x|9
+LETRERO|Cartel|1
+LIBERTADOR|Título de San Martín|1
+LIBRERO|Vendedor de libros|2
+LICENCIA|Permiso|1
+LÍMITE|Frontera|1
+LIMONADA|Bebida de limón|1
+LIMPIEZA|Aseo|1
+LÍQUIDO|Fluido|1
+LISTADO|Lista|1
+LLAMARADA|Fogonazo|1
+LLANERO|Habitante de los llanos|2
+LLAVERO|Aro de llaves|1
+LLOVIZNA|Garúa|1
+GARÚA|Llovizna|2
+LOBIZÓN|Hombre lobo criollo|2
+LOCOMOTORA|Máquina del tren|1
+LOMBRIZ|x|9
+LUCHADOR|Peleador|1
+LUGAREÑO|Del lugar|2
+LUJO|Opulencia|1
+LUMBRE|Fuego|2
+LUNÁTICO|Maniático|2
+RAÍZ|x|9
+RAMILLETE|Ramo pequeño|2
+RATONERA|Trampa para ratones|1
+RAZÓN|Juicio|1
+REALEZA|Familia real|1
+REBAÑO|Hato de ovejas|1
+REBOTE|Rechazo de la pelota|1
+RECADO|x|9
+RECETARIO|Libro de recetas|1
+RECLAMO|Queja|1
+RECOMPENSA|Premio|1
+RECUERDO|Memoria|1
+RED|x|9
+REDACCIÓN|Escrito escolar|1
+REFRÁN|Dicho popular|1
+REFUGIO|Albergue|1
+REGIMIENTO|Unidad militar|1
+REGLAMENTO|Conjunto de normas|1
+REINA|Soberana|1
+REJILLA|Rejita|9
+RELICARIO|Estuche de reliquias|2
+REMATE|Subasta|1
+REMOLINO|Torbellino|1
+RENACUAJO|x|9
+RENGO|Cojo|1
+REPOSTERO|Pastelero|1
+REPTIL|x|9
+RESIDUO|Desecho|1
+RESPALDO|Apoyo de la silla|1
+RETRASO|Demora|1
+REUNIÓN|Encuentro|1
+REVÉS|Contratiempo; también golpe del tenis|1
+RINCÓN|Esquina interior|1
+RIQUEZA|Fortuna|1
+ROBLEDAL|Bosque de robles|2
+RODAJA|Tajada redonda|1
+RODILLERA|Protector de rodilla|1
+ROMERÍA|Fiesta popular religiosa|2
+RONCO|Afónico|1
+ROPAJE|Vestimenta|2
+ROSEDAL|Jardín de rosas|1
+ROSTRO|Cara|1
+RUEDO|Arena de la plaza de toros|2
+RULO|Rizo|1
+RUMBO|Dirección|1
+RUTINA|Costumbre|1
+SABANDIJA|Bicho pequeño|2
+SACERDOTE|Cura|1
+SALIDA|Puerta de escape|1
+SALÓN|Sala grande|1
+SALPICADURA|Mancha de líquido|1
+SALUDO|Saludo de mano|9
+SANATORIO|Clínica|1
+SANCIÓN|Castigo|1
+SANDALIA|Calzado abierto|1
+SAPIENCIA|Sabiduría|3
+SECRETARIA|Asistente de oficina|1
+SEMBRADÍO|Campo sembrado|2
+SENTIDO|Significado|1
+SEQUÍA|x|9
+SERVICIO|Prestación|1
+SILENCIO|x|9
+SIRVIENTA|Criada|1
+SOBREMESA|Charla después de comer|1
+SOCIEDAD|Comunidad|1
+SOLDADO|Militar|1
+SOMBRILLA|Parasol|1
+SONAJERO|Juguete del bebé|1
+SOPLIDO|Soplo|1
+SORPRESA|Asombro|1
+SUBTERRÁNEO|Subte|1
+SUBTE|Metro porteño|1
+SUCESO|Acontecimiento|1
+SUPERMERCADO|Autoservicio|1
+TABACO|Planta del cigarro|1
+TABLETA|Barra de chocolate|1
+TALENTO|x|9
+TALLE|Medida de la ropa|1
+TAMBORIL|Tambor pequeño|2
+TAPICERÍA|Revestimiento de muebles|2
+TARJETERO|Cartera de tarjetas|2
+TEJEDORA|Mujer que teje|1
+TEMPESTAD|Tormenta|1
+TEMPORADA|Período del año|1
+TENTACIÓN|Incitación|1
+TERNERA|Carne de ternero|1
+TERRAZA|Azotea|1
+TESTARUDEZ|Terquedad|2
+TEXTO|Escrito|1
+TIMONERO|Timonel|2
+TINTORERÍA|Lavandería|1
+TOBOGÁN|Juego del parque|1
+TOCADOR|Mueble con espejo|2
+TOMATERA|Planta de tomate|2
+TORMENTOSO|Agitado|1
+TORPEZA|Falta de habilidad|1
+TRAGALDABAS|Glotón|3
+TRANVÍA|Coche sobre rieles urbanos|1
+TRAVESURA|Diablura|1
+TRIBUNAL|x|9
+TRIGAL|Campo de trigo|1
+TRINCHERA|x|9
+TROVADOR|x|9
+TUMULTO|Alboroto|2
+TURISTA|Viajero de paseo|1

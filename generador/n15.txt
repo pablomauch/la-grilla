@@ -1,0 +1,245 @@
+BABERO|Pechera del bebé|1
+BABUCHA|Zapatilla oriental|2
+BACINILLA|Pelela|2
+BAHÍA BLANCA|x|9
+BAILARÍN|Danzarín|1
+BAJADA|Descenso|1
+BALAZO|Disparo|1
+BALBUCEO|Habla del bebé|2
+BALDÍO|Terreno vacío|1
+BALLESTERO|Soldado con ballesta|3
+BALNEARIO|Playa de veraneo|1
+BANDIDO|Bandolero|1
+BANDOLERO|Salteador|2
+BANQUETE|Festín|1
+BAÑERA|Tina|1
+BARAJA|Mazo de naipes|1
+BARANDILLA|Pasamanos|2
+BARBARIDAD|Disparate|1
+BARBERÍA|Peluquería de hombres|1
+BARCAZA|Barca grande|2
+BARQUILLO|Cucurucho|2
+CUCURUCHO|Cono del helado|1
+BARRACA|Depósito de lanas y cueros|2
+BARRICADA|Parapeto improvisado|2
+BARULLO|Alboroto|2
+BASURA|Desperdicio|1
+BATALLÓN|Unidad militar|1
+BATIDORA|Electrodoméstico de cocina|1
+BAÚL|x|9
+BEBIDA|Refresco|1
+BELLOTA|Fruto del roble|1
+BENDICIÓN|Gracia|1
+BERRIDO|Grito|2
+BIBELOT|Adorno pequeño|3
+BIENESTAR|Comodidad|1
+BIGOTUDO|De gran bigote|1
+BILLETE|Papel moneda|1
+BILLETERA|Cartera de bolsillo|1
+BISABUELO|Padre del abuelo|1
+BIZCOCHUELO|x|9
+BLANQUEO|Encalado|2
+BOCADILLO|Sándwich|1
+BOCANADA|Aire que se toma|1
+BOCINA|Claxon|1
+BODEGUERO|Dueño de bodega|2
+BOFETADA|Cachetada|1
+CACHETADA|Bofetada|1
+BOHEMIA|Vida de artista|2
+BOLERA|Lugar de bolos|2
+BOLÍGRAFO|Birome|1
+BIROME|Lapicera de bolilla|1
+BOMBACHO|Pantalón ancho|2
+BONANZA|x|9
+BONETE|Gorro|3
+BOQUETE|Agujero|2
+BORDADO|Labor de aguja|1
+BORRASCA|Tormenta|2
+BOSQUEJO|Esbozo|2
+BOSTEZO|x|9
+BOTICARIO|x|9
+BOTIQUÍN|Caja de primeros auxilios|1
+BOVEDA|x|9
+BÓVEDA|Techo curvo|1
+BRASILEÑO|Del Brasil|1
+BRAVURA|Valentía|2
+BRAZALETE|Pulsera|1
+BREVEDAD|Concisión|2
+BRINCO|Salto|1
+BRONCA|Enojo|1
+BUCHE|Bolsa de las aves|2
+BUFETE|Estudio de abogados|2
+BULLICIO|Ruido|1
+BURBUJEANTE|Espumante|1
+BURDEL|x|9
+BURLA|Mofa|1
+BUTACA|Sillón de cine|1
+DAMERO|Tablero de damas|2
+DECLIVE|Pendiente|2
+DEFUNCIÓN|Muerte|1
+DEGOLLADO|x|9
+DELFINARIO|Parque de delfines|2
+DERRAPE|Patinazo|2
+DESCAMPADO|Terreno abierto|2
+DESGANA|Falta de ganas|1
+DESLINDE|Límite de terreno|3
+DESMONTE|Tala del monte|2
+DESOLACIÓN|Ruina|2
+DESPOJO|Resto|2
+DESTILERÍA|Fábrica de licores|2
+DESVÍO|Rodeo|1
+DIADEMA|x|9
+DIARIERO|x|9
+DIENTE DE LEÓN|x|9
+DILUVIO|x|9
+DIMINUTO|Pequeñísimo|1
+DIRIGIBLE|Zepelín|2
+ZEPELÍN|Globo dirigible|2
+DISCURSO|Alocución|1
+DISFRAZ|Máscara|1
+DIVERSIÓN|Entretenimiento|1
+DOMINGUERO|Del domingo|2
+DORMILÓN|Que duerme mucho|1
+DUCHA|x|9
+DUDOSO|Incierto|1
+DULCERÍA|Confitería|2
+DURAZNERO|Árbol del durazno|1
+JABONERA|Caja del jabón|1
+JACARÉ|x|9
+JADEO|Respiración agitada|1
+JAGÜEL|Pozo de agua del campo|3
+JARANA|Diversión|2
+JARDINERÍA|Cuidado de plantas|1
+JARRITO|Taza pequeña|1
+JAURÍA|Grupo de perros|1
+JAZMINERO|Planta de jazmín|2
+JERARQUÍA|Rango|1
+JILGUERO|x|9
+JOROBADO|Con joroba|1
+JORNALERO|Peón|1
+JUBILADO|Retirado|1
+JUDÍA|Poroto|2
+JUERGA|Parranda|1
+JUGLARÍA|Arte del juglar|3
+JUGUETERÍA|Venta de juguetes|1
+JUNGLA|Selva|1
+JURAMENTO|Promesa|1
+JUVENTUD|Mocedad|1
+KERMESSE|x|9
+QUEBRADIZO|Frágil|2
+QUEMADURA|Lesión por fuego|1
+QUERELLA|Pleito|2
+QUERENCIA|Lugar querido|2
+QUESERA|Recipiente del queso|1
+QUIEBRA|Bancarrota|1
+QUIMONO|Bata japonesa|2
+QUINIELERO|Capitalista de quiniela|3
+QUINTETO|x|9
+QUINTILLIZO|Uno de cinco hermanos de un parto|2
+QUIOSCO|Kiosco|9
+QUIRÓFANO|x|9
+QUISQUILLA|Camarón|3
+ZAFARRANCHO|Desorden|2
+ZALAMERÍA|Halago|2
+ZAMBULLIDA|Chapuzón|1
+CHAPUZÓN|Zambullida|1
+ZAPALLAR|Plantación de zapallos|2
+ZAPATERÍA|Venta de zapatos|1
+ZARANDA|Criba|3
+ZARCILLO|Pendiente|3
+ZARPAZO|Golpe de zarpa|1
+ZODIACAL|Del zodíaco|2
+ZOOTECNIA|Cría de animales|3
+ZOPENCO|Tonto|2
+ZORZALERO|x|9
+ZUMBADOR|Que zumba|2
+ZURCIDO|Remiendo|2
+YACIMIENTO|Depósito mineral|1
+YATAÍ|x|9
+YEGUADA|Manada de yeguas|2
+YERBAL|Plantación de yerba|2
+YERBATERO|Del mate|2
+YERBERA|Recipiente de la yerba|1
+YESERO|Trabaja el yeso|2
+YUNTA|Par de bueyes|2
+YUXTAPONER|Poner al lado|3
+UNÍSONO|Al mismo tiempo|2
+UÑERO|Inflamación de la uña|2
+URRACA|x|9
+USURERO|Prestamista abusivo|2
+UTÓPICO|Irrealizable|2
+UVERO|x|9
+GAJO|x|9
+GALOPE|Carrera del caballo|1
+GAMBERRO|Vándalo|2
+GANSADA|Tontería|2
+GANZÚA|Alambre para abrir cerraduras|2
+GARGAJO|Esputo|3
+GARRAPIÑADA|x|9
+GASEOSA|Refresco|1
+GATILLO|Disparador|1
+GAZNATE|Garganta|3
+GENIAL|Brillante|1
+GERMINAR|Brotar|2
+GIGANTESCO|Enorme|1
+GIMNASIO|Lugar de ejercicio|1
+GIRÁNDULA|Rueda de fuegos artificiales|3
+GITANO|Romaní|1
+GLOBITO|x|9
+GOLETA|x|9
+GOLLETE|Cuello de botella|3
+GOMERO|Árbol de grandes raíces|2
+GOMERÍA|Taller de neumáticos|1
+GORDURA|Obesidad|1
+GORRIÓN|x|9
+GOTEO|Caída de gotas|1
+GRABADORA|Aparato de grabar|1
+GRANUJA|Pillo|2
+GRASIENTO|Aceitoso|1
+GRATINADO|Dorado al horno|2
+GRAVILLA|Piedra fina|2
+GRUMO|Bolita de la masa|2
+GUANTERA|Cajón del auto|1
+GUAPEZA|Valentía|3
+GUARANGO|Grosero|2
+GUARDARROPA|Vestidor|1
+GUARDIA|Custodia|1
+GUILLOTINA|Máquina de decapitar|1
+GUINDA|Cereza|2
+GUIRNALDA|x|9
+GUISANTE|Arveja|2
+GURISITO|x|9
+GURÍ|Niño, en el litoral|2
+HABLADURÍA|Chisme|1
+HACENDADO|Estanciero|2
+HALAGÜEÑO|Prometedor|3
+HAMACAR|Mecer|1
+HARAGANERÍA|Pereza|9
+HAZMERREÍR|x|9
+HECHICERO|Brujo|1
+HELADAMENTE|x|9
+HELICÓPTERO|Aeronave de hélices|1
+HEMBRA|Femenino|1
+HENDIJA|Rendija|3
+HERBORISTERÍA|Venta de hierbas|2
+HEREDAD|Finca|3
+HERRUMBRE|x|9
+HÍGADO|x|9
+HILACHA|Hilo suelto|2
+HILANDERA|Mujer que hila|2
+HIPNOSIS|Sueño inducido|2
+HOGAREÑO|Casero|1
+HOJARASCA|Hojas secas|2
+HOLLÍN|Tizne|2
+HOMBRÍA|Valentía|2
+HONDONADA|Hoyo|2
+HONORARIOS|Paga profesional|1
+HORMIGUEO|Cosquilleo|2
+HOSTERÍA|Hotel pequeño|1
+HUEVERÍA|Venta de huevos|2
+HUMEANTE|Que echa humo|1
+HUMILLACIÓN|Afrenta|2
+HURACANADO|Violento como un huracán|2
+KILOMETRAJE|Distancia recorrida|1
+KIMONO|x|9
+KINESIÓLOGO|Fisioterapeuta|2

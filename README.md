@@ -2,7 +2,8 @@
 
 Pasatiempos de palabras para el teléfono: **claringrillas**, **crucigramas**, **autodefinidos** y **sopas de letras**, en tres dificultades (Difícil, Muy difícil, Experto).
 
-- 348 juegos incluidos (versión `v3` del banco). **Ninguna palabra ni definición se repite** en toda la versión: son 5282 palabras, cada una usada una sola vez, con su propia definición. Tampoco se repite ningún par autor/obra en las claringrillas.
+- 300 juegos incluidos (versión `v4` del banco). **Ninguna palabra ni definición se repite**, ni dentro de esta versión ni contra las tandas anteriores (v1 y v2): son 4567 palabras nuevas, cada una usada una sola vez con su propia definición. Tampoco se repite ningún par autor/obra en las claringrillas.
+- Reparto: 88 claringrillas, 78 crucigramas, 55 autodefinidos y 79 sopas de letras.
 - Vocabulario culto, lunfardo, mitología, geografía y cultura argentina, con definiciones indirectas.
 - En Muy difícil y Experto no se muestra el largo de las palabras.
 - Las sopas de letras dan definiciones en lugar de las palabras, y tienen comienzos falsos para despistar.

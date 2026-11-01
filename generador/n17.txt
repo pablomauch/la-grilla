@@ -1,0 +1,275 @@
+ABEDUL|x|9
+ACEBO|x|9
+ADAJO|x|9
+AGRO|Campo productivo|1
+ALAZÁN|x|9
+ALBANO|x|9
+ALUMBRE|Sal mineral astringente|3
+ALVEOLO|Cavidad del diente|3
+AMBAR|x|9
+ÁNCORA|Ancla|3
+ANDAR|x|9
+ANEXO|Agregado|1
+ANGORA|Lana de conejo o cabra|2
+ANTRO|x|9
+APERO|x|9
+ARCILLOSO|Con arcilla|2
+ARETE|x|9
+ARGOT|Jerga|2
+ARMIÑO|Piel blanca de la realeza|2
+ASCUA|x|9
+ASTRAL|De los astros|2
+ATRIL|x|9
+AUREOLA|Corona de los santos|1
+AVENA|x|9
+CABRERO|Pastor de cabras|2
+CAÍDO|Derribado|1
+CALADO|x|9
+CALCE|x|9
+CALIZ|x|9
+CAMBUR|x|9
+CAMELO|Engaño|3
+CANAPÉ|Bocadito; también sofá|2
+CANTIL|Escalón del fondo marino|3
+CAPATAZA|x|9
+CARRILLO|Mejilla|2
+CASTA|x|9
+CATA|x|9
+CAUDALOSO|Con mucha agua|1
+CAVERNA|Cueva profunda|1
+CEDAZO|Colador fino|2
+CERCADO|Terreno con cerco|1
+CERDA|Pelo del cepillo|2
+CHAMUSCAR|Quemar por fuera|2
+CHAPADO|Recubierto de metal|2
+CHARRÚA|Pueblo originario uruguayo|2
+CHASQUIDO|Ruido seco|2
+CHIRRIDO|Ruido agudo|2
+CHUCHERÍA|Baratija|2
+BARATIJA|Chuchería|2
+CLARINETE|Instrumento de lengüeta|2
+COCOTERO|Palmera del coco|2
+COMPÁS|x|9
+CONTRALTO|Voz femenina grave|3
+CORNISA|x|9
+CORREAJE|Conjunto de correas|3
+COSACO|Jinete ruso|2
+COTILLA|Chismoso|3
+CUADRA|Manzana de casas|1
+CUBIL|Guarida de fieras|2
+CUÑA|Calza|2
+DÁDIVA|x|9
+DELTA|x|9
+DESTRO|x|9
+DÍSCOLO|x|9
+DOBLÓN|x|9
+DOMINÓ|x|9
+DOSEL|Techo de tela sobre la cama|3
+DRAGA|Barco que limpia el fondo|3
+ELIXIR|x|9
+EMBOLSAR|Guardar en bolsa|2
+EMBUTIDO|Fiambre|1
+ENCINAR|Bosque de encinas|3
+ENTRAMADO|Red de piezas|2
+ESCARPADO|Abrupto|2
+ESPÍN|Puercoespín|3
+ESTEPARIO|De la estepa|2
+FAJO|Atado de billetes|1
+FARDO|x|9
+FÉRULA|Tablilla para fracturas|3
+FIRMEZA|Solidez|1
+FOGONERO|El que alimenta la caldera|2
+FONOLA|x|9
+FRAGATA|x|9
+FRUNCE|Pliegue de la tela|3
+GALÓN|x|9
+GARDUÑA|Mustélido ladrón|3
+GLOBULAR|x|9
+GOMA|x|9
+GRANATE|x|9
+GRANITO|x|9
+GREDA|Arcilla arenosa|3
+GUADAÑA|x|9
+HACHÍS|x|9
+HELERO|Nieve permanente|3
+HILVÁN|Puntada larga|2
+HOCICO|Morro|1
+MORRO|Hocico|2
+HOLLAR|Pisar|3
+HORMA|Molde del zapato|2
+HURACANES|x|9
+JALEA|Gelatina de fruta|2
+JAMBA|x|9
+JÁQUIMA|Cabezal de cuerda del caballo|3
+JIRAFITA|x|9
+LADEAR|Inclinar|2
+LAGAR|Lugar donde se pisa la uva|3
+LAMBETEAR|x|9
+LANCHA|x|9
+LANERO|Del comercio de lana|2
+LAPA|Molusco que se pega a las rocas|3
+LATIDO|x|9
+LAVAZA|x|9
+LEGAÑA|Lagaña|3
+LAGAÑA|Secreción del ojo|2
+LIENZO|x|9
+LIMBO|x|9
+LITORAL|x|9
+LOBEZNO|Cría de lobo|2
+LONGANIZA|x|9
+LOSETA|Baldosa pequeña|2
+LUCIO|Pez de agua dulce europeo|3
+MAJO|Simpático, en España|3
+MALVÓN|x|9
+MANDOLINA|Instrumento de cuerda napolitano|2
+MANGLE|Árbol de los manglares|3
+MANÓMETRO|Mide la presión|3
+MANSARDA|Buhardilla|3
+MAREO|x|9
+MARRANO|Cerdo|1
+MASTÍN|Perro guardián grande|2
+MATRACA|Sonajero de madera|2
+MECEDOR|Columpio|3
+MEJUNJE|Brebaje|2
+BREBAJE|Bebida desagradable|2
+MENGUANTE|Luna en disminución|2
+MERLÍN|Mago de Arturo|2
+MIRASOL|Girasol|3
+MOCHO|x|9
+MOLUSCO|Animal blando con concha|1
+MONTERA|Gorro del torero|3
+MORTAJA|Sábana del difunto|2
+MOSTO|Jugo de uva|2
+MUSGOSO|Con musgo|2
+NANDÚ|x|9
+NAVETA|x|9
+NODRIZA|Ama de leche|2
+NOGALADA|x|9
+NONA|Abuela|1
+ÑANDUTÍ|Encaje paraguayo|2
+OBOLO|x|9
+ODRE|Bolsa de cuero para vino|2
+OJERA|x|9
+OLIVA|Aceituna|1
+OLMEDA|Bosque de olmos|3
+OPALINA|Vidrio lechoso|3
+ORÉGANO|x|9
+OROPEL|Brillo falso|3
+OSEZNO|Cría de oso|2
+OVEJA NEGRA|x|9
+PALADÍN|Caballero defensor|2
+PALETILLA|Omóplato|3
+PARDO|Marrón grisáceo|2
+PARRA|Vid trepadora|1
+PATIO|x|9
+PATRAÑA|x|9
+PEDRUSCO|Piedra grande|2
+PELELE|Muñeco de trapo|2
+PERNIL|Pierna de cerdo|2
+PICOTA|Cereza; también rollo de castigo|3
+PIEDAD|x|9
+PIJAMA|Ropa de dormir|1
+PILCHA|Prenda de vestir, en el habla criolla|2
+PINAR|Bosque de pinos|1
+PIÑA|Fruto del pino|1
+PIÑÓN|Semilla del pino|2
+PITANZA|Ración diaria|3
+PLAÑIDERA|Mujer que lloraba en entierros|3
+POCHO|Descolorido|3
+POLAINA|Cubierta de la pierna|3
+POMPA|Burbuja; también fasto|2
+PORRA|Cachiporra|2
+CACHIPORRA|Garrote|2
+POSTE|Palo vertical|1
+POTRANCA|Yegua joven|2
+PRESA|Represa|1
+PUJANZA|Fuerza|3
+PÚLPITO|x|9
+PUNTAL|Apoyo|2
+RABÍ|Rabino|3
+RAMAL|Desvío de una vía|2
+RAPIÑA|Robo|2
+RASTROJO|Restos de la cosecha|2
+RECODO|Curva|2
+REDIL|Corral de ovejas|2
+REGATEO|Discusión del precio|2
+RELENTE|x|9
+REMERO|El que rema|1
+RENEGADO|Traidor a su fe|2
+RÉPLICA|Respuesta; también copia|2
+RESQUICIO|Rendija|2
+RODEO|Desvío; también fiesta criolla|2
+RODRIGÓN|Tutor de planta|3
+ROQUEDAL|Terreno de rocas|3
+RUBIA|Mujer de pelo claro|1
+RULETA|Juego de casino|1
+SACRISTÍA|Cuarto de la iglesia|2
+SALVIA|Hierba aromática|2
+SAMOVAR|Tetera rusa|3
+SARGENTO|Suboficial|1
+SAUNA|Baño de vapor|1
+SEBOSO|Grasiento|2
+SEMÁFORO|x|9
+SERPOLLO|x|9
+SIMÚN|Viento del desierto|3
+SOCAVÓN|Pozo|2
+SOFRITO|Base de cebolla rehogada|2
+SOLAPA|x|9
+SOMBRERERO|Fabricante de sombreros|2
+SONAJA|Sonajero|3
+SORGO|Cereal forrajero|2
+SOTO|Bosque de ribera|3
+SUBSUELO|Debajo del suelo|1
+SUELA|Planta del zapato|1
+TABACALERA|Fábrica de cigarrillos|2
+TÁBANO|x|9
+TACITA|Taza chica|1
+TAHONA|Panadería antigua|3
+TAJAMAR|Represa de tierra|3
+TALEGA|Bolsa|3
+TAMBERO|Dueño de tambo|2
+TAMBO|Lechería|1
+TAPIAL|Muro de barro|2
+TARIMA|Plataforma|1
+TELILLA|x|9
+TENAZ|x|9
+TERRAPLÉN|Elevación de tierra|2
+TERRÓN|Pedazo de tierra|1
+TIRANÍA|Despotismo|2
+TOBILLERA|Venda del tobillo|2
+TOMILLAR|x|9
+TOPACIO|x|9
+TORREÓN|x|9
+TRAILLA|x|9
+TRAÍLLA|Correa del perro|3
+TRAPICHE|Molino de caña|2
+TRÉBOL|x|9
+TRENZADO|Entrelazado|1
+TRINO|Canto del pájaro|2
+TRIPA|Intestino|1
+TROJE|Granero|3
+TROMBÓN|Instrumento de vara|2
+TUNANTE|Pícaro|3
+TUPIDO|Espeso|2
+TURRÓN|x|9
+UNCIR|Atar bueyes al yugo|3
+VAGUADA|Fondo de un valle|3
+VAHO|x|9
+VALVA|Concha del molusco|3
+VASTAGO|x|9
+VERANIEGA|x|9
+VERDÍN|Moho verde|2
+VERTEDERO|Basural|2
+VIDALITA|Canción triste del norte|3
+VILLANCICO|Canción de Navidad|1
+VIRUTA|Rizo de madera|2
+VITELA|Piel para escribir|3
+VIZCONDE|Título nobiliario|2
+VOLANTÍN|Barrilete|3
+ZAGUANERO|x|9
+ZALEA|Cuero de oveja con lana|3
+ZAMARRA|Chaqueta de piel|3
+ZANCADA|Paso largo|2
+ZARAGATA|Riña|3
+ZORZALITO|x|9
+ZUMAQUE|Arbusto tintóreo|3

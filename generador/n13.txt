@@ -1,0 +1,270 @@
+CABECERA|Parte de la cama|1
+CABELLERA|Melena|1
+CABEZAZO|Golpe con la cabeza|1
+CABINA|Compartimiento del piloto|1
+CABRESTO|x|9
+CACERÍA|Partida de caza|1
+CACHAZA|Lentitud|3
+CADÁVER|Cuerpo sin vida|1
+CAFETERA|Máquina de café|1
+CAJETILLA|Paquete de cigarrillos|1
+CALABAZA|Zapallo|1
+CALABOZO|Celda|1
+CALAÑA|Índole, ralea|3
+CALCOMANÍA|Imagen que se pega|1
+CALDERA|Recipiente para hervir|1
+CALEFACCIÓN|Sistema de calor|1
+CALIDEZ|Afecto|2
+CALLEJÓN|Pasaje estrecho|1
+CALVARIO|x|9
+CAMARERO|Mozo|1
+CAMBIO|Vuelto|1
+CAMINATA|Paseo largo|1
+CAMIONETA|Vehículo de carga liviana|1
+CAMPAMENTO|Lugar con carpas|1
+CAMPEÓN|Ganador|1
+CAMPESINO|Hombre de campo|1
+CANALLA|Sinvergüenza|2
+CANCERBERO|Arquero de fútbol|3
+CANDIDEZ|Ingenuidad|2
+CANICA|Bolita|2
+BOLITA|Canica|1
+CANSANCIO|Fatiga|1
+CANTIDAD|Número|1
+CAPATACÍA|x|9
+CAPRICORNIO|x|9
+CARACTER|x|9
+CARÁCTER|Temperamento|1
+CARCAJ|x|9
+CARDUMEN|Banco de peces|2
+CARENCIA|Falta|1
+CARESTÍA|Escasez|2
+CARGAMENTO|Carga|1
+CARNAVAL|Fiesta de disfraces|1
+CARPINTERÍA|Taller de muebles|1
+CARRETA|Carro de bueyes|1
+CARRETEL|Bobina de hilo|1
+CARROÑA|Carne podrida|2
+CARTELERA|x|9
+CARTÓN|Papel grueso|1
+CASCABEL|x|9
+CASERÍO|Grupo de casas|2
+CASTAÑO|Color marrón del pelo|1
+CATÁLOGO|Lista de productos|1
+CATASTRO|Registro de propiedades|2
+CAUTIVERIO|Prisión|2
+CAZADOR|El que caza|1
+CEBOLLÍN|Cebolla de verdeo|2
+CEGUERA|Pérdida de la vista|1
+CELESTIAL|Del cielo|1
+CELULAR|Teléfono móvil|1
+CEMENTERIO|Camposanto|1
+CAMPOSANTO|Cementerio|2
+CENTINELA|x|9
+CERCANÍA|Proximidad|1
+CERRADURA|Chapa de la puerta|1
+CHALECO|Prenda sin mangas|1
+CHAPARRÓN|Aguacero|1
+CHARLA|Conversación|1
+CHATARRA|Hierro viejo|1
+CHICHARRA|Cigarra|2
+CHIMANGO|x|9
+CHIRIMOYA|Fruta de pulpa blanca|2
+CHISME|Habladuría|1
+CHOCLERA|x|9
+CHUPETE|Chupete del bebé|9
+CHUPETE|Tetina del bebé|1
+CICATERO|Tacaño|3
+CIERVA|Hembra del ciervo|2
+CIGÜEÑAL|Eje del motor|3
+CIMIENTO|Base de un edificio|1
+CINTURÓN|Correa|1
+CIRCULACIÓN|Tránsito|1
+CIRUGÍA|Operación|1
+CITACIÓN|Convocatoria|2
+CLAMOR|Grito|2
+CLARIDAD|Luz|1
+CLAUSTROFOBIA|Miedo a lo cerrado|2
+CLIENTE|Comprador|1
+COBIJA|Manta|2
+COBRADOR|Recaudador|1
+COCHERA|Garaje|1
+COCINERO|Chef|1
+CODICILO|Agregado a un testamento|3
+COFRADE|Miembro de una cofradía|3
+COHETE|Petardo; también nave espacial|1
+COLADERA|x|9
+COLCHA|Cubrecama|2
+COLECCIÓN|Conjunto de objetos|1
+COLEGIO|Escuela|1
+COLMENAR|Lugar de colmenas|2
+COLUMNA|Pilar|1
+COMARCA|Región|2
+COMBATE|Pelea|1
+COMEDOR|Sala de comer|1
+COMERCIANTE|Vendedor|1
+COMPAÑERO|Camarada|1
+COMPOTA|Fruta cocida|1
+COMPRA|Adquisición|1
+CONCHA|Caparazón del molusco|1
+CONCURSO|Certamen|1
+CONDE|Título nobiliario|2
+CONEJERA|Madriguera de conejos|2
+CONFESIÓN|Declaración de culpa|1
+CONFÍN|Límite|2
+CONFITE|Golosina de azúcar|2
+CONSEJO|Recomendación|1
+CONSUELO|Alivio|1
+CONTRABANDO|Comercio ilegal|1
+CONVITE|Invitación|2
+COPIÓN|Que copia|1
+CORDILLERA|Cadena de montañas|1
+CORNUDO|Con cuernos|2
+CORONEL|Grado militar|1
+CORREDOR|Pasillo|1
+CORREO|Correspondencia|1
+CORTAPLUMAS|Navaja pequeña|1
+CORTEJO|x|9
+COSQUILLAS|Risa al tocar|1
+COSTUMBRE|Hábito|1
+COTIDIANO|Diario|1
+CREENCIA|Fe|1
+CREPITAR|Chisporrotear|3
+CRIATURA|Niño|1
+CRISOL|x|9
+CRITERIO|Juicio|1
+CRUCERO|Barco de paseo|1
+CRUJIDO|Ruido de madera|1
+CUADRILLA|Grupo de trabajo|2
+CUARTEL|Instalación militar|1
+CUCHICHEO|Susurro|2
+CUENTISTA|Que cuenta cuentos|1
+CUERVO|x|9
+CULPABLE|x|9
+CUMBRE|Cima|1
+CUMPLEAÑOS|Aniversario de nacimiento|1
+CURANDERA|Sanadora|2
+CURSILERÍA|Mal gusto pretencioso|2
+DÁMASO|x|9
+DEBUTANTE|Principiante|1
+DECADENCIA|Ocaso|2
+DECORADOR|Ambientador|1
+DEDICATORIA|Mensaje en un libro|1
+DEFECTO|Falla|1
+DEGUSTACIÓN|Cata|2
+DELANTAL|Mandil|1
+MANDIL|Delantal|2
+DELEITE|Placer|2
+DELICIA|Placer|1
+DEMORA|Retraso|1
+DENUNCIA|Acusación|1
+DEPORTE|Ejercicio físico|1
+DERRUMBE|Desplome|1
+DESAFÍO|Reto|1
+DESAGÜE|Canal de salida del agua|1
+DESASTRE|Catástrofe|1
+DESCARO|Desvergüenza|2
+DESCUIDO|Distracción|1
+DESDICHA|Desgracia|1
+DESFILADERO|x|9
+DESGRACIA|Infortunio|1
+DESIERTO|x|9
+DESMÁN|Abuso|3
+DESORDEN|Caos|1
+DESPACHO|Oficina|1
+DESPEDIDA|Adiós|1
+DESPERTADOR|Reloj alarma|1
+DESTELLO|Brillo|1
+DESVELO|Insomnio|2
+DETALLE|Pormenor|1
+DIABLILLO|Niño travieso|1
+DIABLURA|Travesura|1
+DICHO|Refrán|1
+DIENTUDO|De dientes grandes|1
+DIFUNTO|Muerto|1
+DIGNIDAD|Decoro|1
+DILIGENCIA|Carruaje de viajeros|2
+DIRECCIÓN|Domicilio|1
+DISCÍPULO|Alumno|1
+DISCORDIA|Desacuerdo|2
+DISGUSTO|Pesar|1
+DISPARATE|Absurdo|1
+DISPUTA|Pelea|1
+DISTANCIA|Lejanía|1
+DOBLEZ|Hipocresía|3
+DOCTRINA|Enseñanza|2
+DOMICILIO|Hogar|1
+DOMINIO|Poder|1
+DONATIVO|Regalo|2
+DORADO|x|9
+DRAMATURGO|Autor de teatro|2
+DUEÑO|Propietario|1
+DULZURA|Ternura|1
+GABARDINA|Impermeable|2
+GABINETE|Conjunto de ministros|2
+GALANTE|Caballeroso|2
+GALARDÓN|Premio|2
+GALLARDÍA|Garbo|2
+GANADERO|Criador de ganado|1
+GANANCIA|Beneficio|1
+GARABATO|Dibujo torpe|1
+GARGANTILLA|Collar corto|2
+GÁRGARA|Enjuague de garganta|2
+GARITA|Casilla del guardia|2
+GAVILLA|Manojo de mieses|3
+GEMIDO|Quejido|1
+GENTÍO|Multitud|1
+GERENTE|Directivo|1
+GESTO|Ademán|1
+GIRALDA|Torre de Sevilla|2
+GLACIAL|Helado|2
+GLOTONERÍA|Gula|2
+GOBERNANTE|Mandatario|1
+GOLPE|Porrazo|1
+GORJEO|Canto del pájaro|2
+GOTERA|Filtración del techo|1
+GRANERO|Depósito de granos|1
+GRANIZADA|Caída de granizo|1
+GRATUITO|Gratis|1
+GRAVAMEN|Impuesto|3
+GRILLETE|Argolla del preso|2
+GRITERÍO|Bullicio|1
+GRUÑIDO|Voz del cerdo|1
+GUACHO|Huérfano, en el campo|2
+GUARDAESPALDAS|Custodio|1
+GUARDIÁN|Vigilante|1
+GUARIDA|x|9
+GUERRERO|Combatiente|1
+GUIRIGAY|Griterío confuso|3
+GUSTO|Sabor|1
+HABITANTE|Vecino|1
+HACHA|Herramienta del leñador|1
+HACIENDA|Ganado|1
+HALLAZGO|Descubrimiento|1
+HAMBRUNA|Escasez de alimentos|2
+HARAPIENTO|Andrajoso|2
+HECHICERA|Bruja|1
+HELADA|x|9
+HELADERO|Vendedor de helados|1
+HERENCIA|x|9
+HERIDO|Lesionado|1
+HERRAMIENTA|Útil de trabajo|1
+HERVIDERO|Lugar muy agitado|2
+HIDALGO|Noble de linaje|2
+HILERA|Fila|1
+HINOJO|x|9
+HOJALDRE|Masa de capas finas|2
+HOLGAZANERÍA|Pereza|2
+HOMBRERA|Relleno del hombro|2
+HOMENAJE|Tributo|1
+HORARIO|Horas de trabajo|1
+HORMIGUERO|Nido de hormigas|1
+HORNERO|x|9
+HORQUILLA|Pinza de pelo|2
+HOSPEDAJE|Alojamiento|1
+HUERFANITO|x|9
+HUÉSPED|x|9
+HUESUDO|Flaco|1
+HUMAREDA|Mucho humo|1
+HUMORISTA|Cómico|1
+HUNDIMIENTO|Naufragio|1

@@ -1,0 +1,376 @@
+ABAD|x|9
+ABEJERO|Apicultor|3
+ABOLLAR|Hundir una chapa|2
+ABONAR|Pagar|1
+ABORDAR|Subir a un barco|2
+ABRASAR|Quemar|2
+ABRIGAR|Cubrir del frío|1
+ABUNDAR|Sobrar|1
+ACALORADO|Sofocado|2
+ACAMPAR|Poner la carpa|1
+ACANTO|Hoja del capitel corintio|3
+ACATO|x|9
+ACEDÍA|Acidez de estómago|3
+ACERCAR|Aproximar|1
+ACHICAR|Reducir|1
+ACOPLE|Unión de piezas|2
+ACOSTUMBRAR|Habituar|1
+ACRÓBATA|Saltimbanqui|1
+ACTUAR|Representar un papel|1
+ADEREZO|Condimento|2
+ADMITIR|Aceptar|1
+ADOPTAR|Prohijar|2
+ADORAR|Idolatrar|1
+AFLIGIR|Apenar|2
+AFLOJAR|Soltar|1
+AGALLA|Branquia; también coraje|2
+AGILIDAD|Ligereza|1
+AGOTADO|Exhausto|1
+AGRIO|Ácido|1
+AGUADO|Diluido|1
+AGUAFIESTAS|Persona que arruina la diversión|2
+AGUJETA|Dolor muscular, en España|3
+AHOGAR|Asfixiar|1
+AHORA|En este momento|1
+AJUSTAR|Apretar|1
+ALABAR|Elogiar|1
+ALADO|Con alas|1
+ALAMBRE|Hilo metálico|1
+ALCOBA|x|9
+ALEGAR|Argumentar|2
+ALERCE|Árbol milenario patagónico|2
+ALFALFA|Pasto forrajero|1
+ALHÓNDIGA|Depósito público de granos|3
+ALIÑO|Condimento|2
+ALISAR|Pulir|1
+ALMORZAR|Comer al mediodía|1
+ALOJAR|Hospedar|1
+ALTERNAR|Turnarse|1
+ALUMBRAR|Iluminar|1
+ALZAR|Levantar|1
+AMANSAR|Domar|1
+AMARRAR|Atar|1
+AMBULANTE|Que va de un lugar a otro|1
+AMÍGDALAS|x|9
+AMOLAR|Afilar|3
+AMPLIFICADOR|Aumenta el sonido|2
+ANCLAR|Fondear|2
+ANDRAJOSO|x|9
+ANÉMICO|Débil por falta de sangre|2
+ANGELITO|Niño bueno|1
+ANIDAR|Hacer nido|1
+ANIMAR|Alentar|1
+ANTENA|x|9
+ANTESALA|Sala de espera|2
+ANUAL|Que dura un año|1
+APAÑAR|Encubrir|3
+APEGO|Cariño|2
+APELAR|Recurrir|2
+APENAS|Casi no|1
+APERTURA|Inauguración|1
+APIÑAR|Amontonar|2
+APLASTAR|Aplanar|1
+APODERADO|Representante legal|2
+APRECIO|Estima|1
+APRESAR|Capturar|1
+APRISA|Rápidamente|2
+ARANCEL|Tarifa oficial|2
+ARBITRAR|Dirigir un partido|1
+ARCHIVO|Registro de documentos|1
+ARDILLA|x|9
+ARGOLLA|Aro grueso|1
+ARGUMENTO|Trama|1
+ARISTOCRÁTICO|Noble|2
+ARMERO|Fabricante de armas|2
+ARRABALERO|Del arrabal|2
+ARRASTRAR|Llevar por el suelo|1
+ARREAR|Conducir ganado|2
+ARRIENDO|Alquiler|2
+ARROJO|Valor|2
+ARRULLO|Canto de la paloma|2
+ARTILLERO|Goleador|2
+ASCO|x|9
+ASFALTO|Pavimento|1
+ASIDUO|Frecuente|2
+ASOMBRAR|Sorprender|1
+ÁSPID|Víbora de Cleopatra|3
+ASTUCIA|Picardía|1
+ASUETO|Día libre|3
+ATAVIAR|Vestir con adornos|3
+ATESORAR|Acumular riquezas|2
+ATIZAR|Avivar el fuego|2
+ATLÉTICO|Deportivo|1
+ATÓNITO|Pasmado|2
+ATRASO|Demora|1
+ATRIBUTO|Cualidad|2
+AUSPICIO|Patrocinio|2
+AUXILIO|Socorro|1
+AVENENCIA|Acuerdo|3
+AVÍO|Provisión del viajero|3
+AYUDANTE|Asistente|1
+AZOTAR|Golpear con látigo|1
+EBANISTERÍA|Taller de muebles finos|2
+ECHARPE|Chal|2
+EDICTO|Mandato publicado|3
+EFECTO|Consecuencia|1
+EFIGIE|Imagen de una persona|3
+EGOÍSTA|Que piensa solo en sí|1
+ELEGIR|x|9
+ELENCO|x|9
+ELOCUENCIA|Facilidad de palabra|2
+EMBALAJE|Envoltorio|2
+EMBARCADERO|Muelle|2
+EMBESTIDA|Ataque|2
+EMBRUJO|Hechizo|2
+EMPEÑO|Esfuerzo|1
+EMPLEO|Trabajo|1
+ENCANTO|Atractivo|1
+ENCAPOTADO|Nublado|2
+ENCRUCIJADA|Cruce de caminos|2
+ENCUESTA|Sondeo|1
+ENEBRO|x|9
+ENFOQUE|Punto de vista|1
+ENGRUDO|Pegamento casero|2
+ENJAMBRE|x|9
+ENLACE|Unión|1
+ENOJÓN|Cascarrabias|1
+ENSAMBLE|Unión de piezas|2
+ENSUEÑO|Fantasía|2
+ENTRAÑABLE|Muy querido|2
+ENTREMÉS|Pieza teatral breve|3
+ENTUSIASTA|Fervoroso|1
+ENVOLTORIO|Paquete|1
+EPICENTRO|Centro del sismo|2
+EQUILIBRIO|Estabilidad|1
+ERUPCIÓN|Explosión volcánica|1
+ESBIRRO|Matón a sueldo|3
+ESCARAPELA|x|9
+ESCASEZ|Penuria|1
+ESCOLTA|Acompañante armado|2
+ESCOMBRO|Desecho de obra|1
+ESCRUTINIO|Recuento de votos|2
+ESCUELA|x|9
+ESMERO|Cuidado|2
+ESPECIERO|Recipiente de especias|2
+ESPESURA|Monte cerrado|2
+ESPLENDOR|Brillo|2
+ESPUELA|x|9
+ESTAFADOR|Timador|1
+ESTALLIDO|Explosión|1
+ESTAMBRE|x|9
+ESTATAL|Del Estado|1
+ESTIRPE|Linaje|2
+ESTÍO|Verano|3
+ESTOFA|Calaña|3
+ESTRELLADO|Lleno de estrellas|1
+ESTRÉPITO|Estruendo|3
+ETERNO|Perpetuo|1
+EVASIÓN|Fuga|1
+EXCUSA|Pretexto|1
+EXIGENCIA|Requisito|1
+EXTRAÑO|Raro|1
+IDÉNTICO|Igual|1
+IMPACIENTE|Ansioso|1
+IMPERMEABLE|Piloto de lluvia|1
+IMPORTE|Monto|1
+IMPRUDENTE|Atolondrado|1
+INCIERTO|Dudoso|1
+INCÓMODO|Molesto|1
+INDIGENTE|Pobre|2
+INDOMABLE|Salvaje|1
+INEFABLE|Indecible|3
+INFIEL|Desleal|1
+INGENIOSO|Creativo|1
+INHÓSPITO|Poco acogedor|2
+INICIAL|Primera letra|1
+INJUSTO|Inicuo|2
+INMÓVIL|Quieto|1
+INOCENTE|Sin culpa|1
+INSIPIDEZ|Falta de sabor|3
+INSOPORTABLE|Intolerable|1
+INSTITUTO|Colegio|1
+INTRIGA|Enredo|1
+INÚTILMENTE|x|9
+INVICTO|Nunca vencido|1
+IRACUNDO|Colérico|2
+IRREAL|Fantástico|1
+OBSEQUIO|Regalo|1
+OBSTINADO|Terco|2
+OCARINA|Instrumento de barro con agujeros|3
+OCULTO|Escondido|1
+OFRENDA|Ofrecimiento sagrado|2
+OJIVA|Arco en punta|3
+OLEADA|Ola grande|1
+OMNIPOTENTE|Todopoderoso|2
+OPOSITOR|Adversario|1
+OPRESIÓN|Tiranía|2
+OPTIMISTA|Esperanzado|1
+OPULENCIA|Riqueza|2
+ORATORIA|Arte de hablar en público|2
+ORDEÑAR|Sacar la leche|1
+OREAR|Ventilar|3
+ORFEBRERÍA|Arte de la platería|2
+ORGÍA|Festín desenfrenado|3
+ORIFICIO|Agujero|1
+ORNITÓLOGO|Experto en aves|2
+OTOÑAL|Del otoño|1
+OVACIONAR|Aplaudir con fervor|2
+OVEJUNO|De la oveja|2
+UNÁNIME|De todos|2
+UNGÜENTO|x|9
+URDIMBRE|Hilos del tejido|3
+UTILERO|Encargado de la utilería|2
+NACIENTE|Que nace|2
+NATILLA|Crema de huevo y leche|2
+NAUFRAGIO|x|9
+NAVAJAZO|Corte de navaja|2
+NEBLINA|Niebla ligera|1
+NERVADURA|Venas de la hoja|3
+NIDADA|Huevos de un nido|2
+NIÑERÍA|Chiquilinada|2
+NOCHERO|Sereno|3
+NOCTÁMBULO|Trasnochador|2
+NOMBRADÍA|Fama|3
+NOVENARIO|Novena de difuntos|3
+NUBOSIDAD|Nubes|1
+NUDOSO|Con nudos|2
+NUTRIDO|Abundante|2
+LABIAL|Lápiz de labios|1
+LABORIOSO|Trabajador|1
+LACRE|Pasta para sellar cartas|2
+LAMENTO|Queja|1
+LÁMINA|Plancha delgada|1
+LANCERO|Soldado con lanza|2
+LANUDO|Con mucha lana|1
+LATERAL|Del costado|1
+LAVANDERA|Mujer que lava ropa|1
+LEÑADOR|Corta leña|1
+LETARGO|x|9
+LEVADIZO|Puente de castillo|2
+LIBERAL|Tolerante|2
+LIBRANZA|Orden de pago|3
+LICUADORA|Batidora de vaso|1
+LINAJE|Estirpe|1
+LISIADO|Tullido|2
+LITERA|Cama superpuesta|1
+LLAMATIVO|Vistoso|1
+LLANTO|x|9
+LLAVÍN|Llave pequeña|3
+LOGRO|Éxito|1
+LOZANO|Fresco|2
+LÚCIDO|Claro de mente|2
+LUJOSO|x|9
+LUMINOSO|Brillante|1
+RABIETA|Berrinche|1
+RACIÓN|Porción|1
+RADIANTE|Brillante|1
+RAÍDO|Gastado|3
+RAMAJE|Ramas|2
+RANGO|Jerarquía|1
+RAPAPOLVO|Reprimenda|3
+RASTRO|Huella|1
+RAUDAL|Torrente|2
+REBANADA|Tajada de pan|1
+RECATADO|Pudoroso|2
+RECIPIENTE|Envase|1
+RECOVA|Galería con arcos|3
+RECTO|Derecho|1
+RECUESTO|Pendiente|3
+REDOMA|Frasco de laboratorio|3
+REFLEXIÓN|Meditación|1
+REGATA|Carrera de botes|2
+REGIDOR|Concejal|3
+REGOCIJO|Alegría|2
+REGUERO|Rastro de líquido|2
+REINADO|Gobierno de un rey|1
+RELATO|Narración|1
+RELIEVE|x|9
+RELINCHO|Voz del caballo|1
+REMANENTE|Sobrante|3
+REMOJO|Inmersión|2
+RENGLONERA|x|9
+REPOSO|Descanso|1
+REPRIMENDA|Reto|2
+RESOLANA|Reflejo del sol|2
+RESUELLO|Respiración fuerte|3
+RETABLO|Conjunto de imágenes del altar|3
+RETAMA|Arbusto de flores amarillas|3
+RETORNO|Regreso|1
+RETRETE|Inodoro|2
+REVUELO|Agitación|2
+RIBERA|Orilla|1
+RIBETE|Adorno del borde|2
+RISCO|Peñasco|2
+ROCALLA|Piedras sueltas|3
+RODADO|Vehículo con ruedas|2
+ROMPECABEZAS|Puzle|1
+RONQUIDO|Ruido al dormir|1
+ROSEDAL|x|9
+RUBICUNDO|Rubio rojizo|3
+RUDEZA|Tosquedad|2
+SABÁTICO|Año de descanso|2
+SABUESO|Perro rastreador|2
+SAETA|Flecha|2
+SAGRADO|Santo|1
+SALITRE|Sal del mar en las paredes|2
+SALMUERA|Agua salada|2
+SALTEADO|Frito rápido|2
+SALUDABLE|Sano|1
+SAQUEADOR|Ladrón|2
+SARMIENTO|x|9
+SATÍRICO|Burlón|2
+SEDOSO|Suave como seda|1
+SEMBLANTE|Cara|2
+SENECTUD|Vejez|3
+SERRANÍA|Sierra|2
+SESUDO|Inteligente|2
+SIDERAL|De las estrellas|2
+SIGNO|Señal|1
+SILVESTRE|Salvaje|1
+SIMIENTE|Semilla|2
+SOBERANO|Rey|1
+SOLAPADO|Disimulado|2
+SOLARIEGO|Antiguo y noble|3
+SOLAZ|Esparcimiento|2
+SONDEO|Encuesta|1
+SOPLÓN|Delator|1
+SORBO|Trago pequeño|1
+SOSIEGO|Calma|2
+SUBASTA|Remate|1
+SUCURSAL|Filial|1
+SUMISO|Obediente|1
+SUPLENTE|Reemplazo|1
+TABERNERO|Dueño de taberna|2
+TABLÓN|Tabla gruesa|1
+TÁCTICA|Estrategia|1
+TAJADA|Rebanada|1
+TALISMÁN|Amuleto|1
+TAMIZ|Cedazo|2
+TAÑIDO|Sonido de campana|3
+TAPADO|Abrigo de mujer|2
+TÁRTARO|Infierno griego|3
+TEMIBLE|Terrible|1
+TENDERO|Comerciante|1
+TENTEMPIÉ|Bocadillo|2
+TERSURA|Suavidad|2
+TESÓN|Tenacidad|2
+TIENTO|x|9
+TIJERETAZO|Corte de tijera|2
+TIRANO|Déspota|1
+TOCAYO|Del mismo nombre|1
+TORBELLINO|Remolino|1
+TORRENTE|Corriente impetuosa|1
+TOSQUEDAD|Rudeza|2
+TRAJÍN|Ajetreo|2
+TRAMO|Trecho|1
+TRANCE|Situación difícil|2
+TRASTO|Cachivache|2
+CACHIVACHE|Trasto|2
+TRAVESAÑO|x|9
+TRECHO|Distancia|1
+TRIGUEÑO|Moreno|2
+TRIPULANTE|Marinero|1
+TROFEO|x|9
+TRUHÁN|Pícaro|3
+TÚNICA|Vestidura larga|2
+TURBANTE|Tocado oriental|2

@@ -1,0 +1,288 @@
+ABADESA|Superiora de un convento|2
+ABALORIO|Cuenta de collar|3
+ABANDONO|Desamparo|1
+ABASTO|Mercado de Gardel|2
+ABATIDO|Desanimado|2
+ABERTURA|Hueco|1
+ABOLENGO|Linaje|3
+ABORIGEN|Originario|1
+ABRIDOR|Abrelatas|2
+ABUCHEO|Silbatina|2
+ACAPARADOR|Que acumula todo|2
+ACERTIJO|Adivinanza|1
+ADIVINANZA|Acertijo|1
+ACÉQUIA|x|9
+ACOGIDA|Recibimiento|2
+ACOPLADO|Remolque del camión|2
+ACRÍLICO|Pintura sintética|2
+ACUEDUCTO|Canal de agua romano|1
+ADALID|x|9
+ADEUDO|Deuda|3
+ADMIRADOR|Fan|1
+ADOLESCENTE|Joven|1
+ADUANERO|x|9
+AERÓDROMO|Aeropuerto pequeño|2
+AEROPUERTO|Terminal aérea|1
+AFILADO|Cortante|1
+AFORISMO|Sentencia breve|3
+AGORAFOBIA|Miedo a espacios abiertos|3
+AGUADOR|Repartidor de agua|2
+AGUAMANIL|Jarro para lavarse|3
+AGUATERO|Vendedor de agua|3
+AGUILUCHO|Cría de águila|2
+AHIJADA|Hija de padrino|1
+AHORCADO|Juego de adivinar palabras|1
+AJEDRECISTA|Jugador de ajedrez|1
+ALAMBIQUE|x|9
+ALBOROTO|Bullicio|1
+ALCAPARRA|Botón floral en vinagre|2
+ALCAUDÓN|Pájaro que empala insectos|3
+ALCORNOQUE|x|9
+ALEGATO|Defensa oral|2
+ALETEO|Movimiento de alas|1
+ALFANJE|Sable corto curvo|3
+ALGARROBA|Fruto del algarrobo|2
+ALHÓNDIGA|x|9
+ALJABA|Carcaj|3
+ALMÁCIGA|Semillero|3
+ALMOHADILLA|Cojín pequeño|1
+ALMORRANA|x|9
+ALOJADO|Huésped|9
+ALQUIMIA|Química antigua|2
+ALQUIMISTA|Buscador de la piedra filosofal|2
+ALTAMAR|Mar abierto|2
+ALTOPARLANTE|Megáfono|1
+AMANERADO|Afectado|2
+AMANTE|Querido|1
+AMARILLENTO|Tirando a amarillo|1
+AMATEUR|Aficionado|2
+AMBULANCIERO|x|9
+AMETRALLADORA|Arma automática|1
+ANAFE|Hornillo portátil|3
+ANCIANIDAD|Vejez|1
+ANDARIEGO|Caminador|2
+ANESTESISTA|Médico que duerme al paciente|2
+ANFITRIÓN|Dueño de casa que invita|1
+ANGOSTURA|Estrechez|2
+ANHÍDRIDO|Gas químico|3
+ANOMALÍA|Irregularidad|2
+ANTEPASADO|Ancestro|1
+ANTICUADO|Pasado de moda|1
+ANTOJITO|Bocadito|2
+ANTORCHA|x|9
+ANZUELERO|x|9
+APARECIDO|Fantasma|2
+APARIENCIA|Aspecto|1
+APOSENTO|Habitación|2
+APOTEOSIS|Final glorioso|2
+APRENDIZ|Principiante|1
+APUESTA|Jugada|1
+ARACNIDO|x|9
+ARÁCNIDO|Clase de la araña|2
+ARBOLEDA|Grupo de árboles|1
+ARDIENTE|Quemante|1
+ARENERO|Cajón de arena|1
+ARMONIOSO|Equilibrado|1
+ARQUETIPO|Modelo|3
+ARREBOL|Rojo de las nubes|3
+ARREO|Conducción de ganado|2
+ARRIERÍA|x|9
+ARTEFACTO|Aparato|1
+ARTÍFICE|Autor|2
+ASALARIADO|Empleado|2
+ASCETA|Austero religioso|3
+ASERRADERO|Fábrica de tablas|2
+ASFIXIA|Ahogo|1
+ASPEREZA|Rugosidad|2
+ASTILLAR|Hacer astillas|2
+ATALAYA|x|9
+ATARDECER|x|9
+ATAVISMO|Herencia ancestral|3
+ATOLLADERO|Aprieto|2
+ATRACCIÓN|Juego de parque|1
+ATROPELLO|Abuso|1
+AUDICIÓN|Prueba de músicos|2
+AURÍCULA|Cavidad del corazón|2
+AUSTRALIANO|Natural de Australia|1
+AVANZADA|Vanguardia|2
+AVELLANO|Árbol de la avellana|2
+AVENTURERO|Explorador|1
+AVIONETA|Avión pequeño|1
+EBANISTA|x|9
+ECOLOGÍA|Estudio del ambiente|1
+EDÉN|x|9
+EFEMÉRIDE|Fecha conmemorativa|2
+EGOCENTRISMO|Egoísmo|2
+ELECTRODO|Terminal eléctrico|3
+ELEGÍACO|Triste, de lamento|3
+EMBAJADOR|x|9
+EMBELESO|Encanto|3
+EMBOLIA|Obstrucción de vena|3
+EMBRAGUE|Pedal del auto|2
+EMBUSTE|Mentira|2
+EMIGRANTE|El que emigra|1
+EMPALME|Unión|2
+EMPEDRADO|Calle de adoquines|1
+EMPUÑADURA|Mango de la espada|2
+ENAGUA|Prenda interior femenina|2
+ENCAJERA|Hace encajes|3
+ENCARGADO|Responsable|1
+ENCÍCLICA|Carta del papa|3
+ENCOMIENDA|x|9
+ENCUADERNACIÓN|Tapas del libro|2
+ENJUAGUE|Lavado de boca|1
+ENMIENDA|Corrección|2
+ENREDO|Lío|1
+ENSALADERA|Fuente de ensalada|1
+ENSENADA|Bahía pequeña|2
+ENTARIMADO|Piso de madera|2
+ENTENADO|Hijastro|3
+ENTERO|Completo|1
+ENTONACIÓN|Tono de voz|2
+ENTRECEJO|Espacio entre las cejas|2
+ENVERGADURA|Importancia|2
+EPITAFIO|Inscripción de una tumba|2
+EQUITACIÓN|Arte de montar|1
+ERMITAÑO|x|9
+ERUDITO|Sabio|2
+ESCALINATA|Escalera exterior|2
+ESCAMA|Placa del pez|1
+ESCAPADA|Fuga breve|1
+ESCARMIENTO|Lección|2
+ESCLUSA|x|9
+ESCRIBIENTE|Copista|2
+ESCUDERÍA|Equipo de autos de carrera|2
+ESCULTÓRICO|De escultura|2
+ESMOQUIN|Traje de etiqueta|2
+ESPADACHÍN|Diestro con la espada|2
+ESPANTO|Terror|1
+ESPECIALIDAD|Rama|1
+ESPEJISMO|Ilusión óptica|1
+ESPESOR|Grosor|1
+ESPIGADO|Alto y delgado|2
+ESPINOSO|Con espinas|1
+ESPONTÁNEO|Natural|1
+ESTABLECIMIENTO|Comercio|1
+ESTACIONAMIENTO|Playa de autos|1
+ESTADISTA|Gobernante|2
+ESTANCIERO|Dueño de estancia|1
+ESTERILLA|Alfombrita de playa|2
+ESTÍMULO|Incentivo|1
+ESTRADO|Tarima del juez|2
+ESTRAMBÓTICO|Extravagante|3
+ESTROPICIO|Destrozo|3
+EVANGELISTA|Autor de un evangelio|2
+EXCAVACIÓN|Pozo arqueológico|1
+EXPEDICIÓN|Viaje de exploración|1
+EXPRESIÓN|Gesto|1
+EXQUISITEZ|Delicadeza|2
+INAUGURACIÓN|Apertura|1
+INCENSARIO|Recipiente del incienso|2
+INCIDENTE|Percance|1
+INDIGESTIÓN|Empacho|1
+EMPACHO|Indigestión|1
+INDULGENCIA|Perdón|2
+INFUSIÓN|Té de hierbas|1
+INGENUIDAD|Candor|2
+INGLE|Pliegue del muslo|2
+INICIATIVA|Propuesta|1
+INQUIETUD|Desasosiego|1
+INSCRIPCIÓN|Matrícula|1
+INSULTO|Agravio|1
+INTERCAMBIO|Trueque|1
+TRUEQUE|Intercambio sin dinero|1
+INTRUSO|Entrometido|1
+INUNDACIÓN|Anegamiento|1
+INVENTOR|Creador|1
+IRREVERENTE|Irrespetuoso|2
+OBERTURA|x|9
+OBITUARIO|Aviso fúnebre|3
+OBRAJE|Taller de manufactura|3
+OBSCURANTISMO|Oposición al saber|3
+OBSESIÓN|Idea fija|1
+OCARINISTA|x|9
+OCULISTA|x|9
+ODONTÓLOGO|Dentista|1
+OFRECIMIENTO|Propuesta|1
+OLEODUCTO|Caño de petróleo|2
+OLLERO|Fabricante de ollas|3
+OLVIDADIZO|x|9
+OMBLIGUERO|x|9
+OPACIDAD|Falta de brillo|2
+OPERETA|x|9
+OPINÓLOGO|Opinador de televisión|2
+OPRESOR|Tirano|2
+ORATORIO|x|9
+ORDENADOR|Computadora, en España|2
+ORFANDAD|Condición de huérfano|2
+ORGANISMO|Ser vivo|1
+ORIGINALIDAD|Novedad|1
+ORQUESTAL|De orquesta|1
+ORTOGRAFÍA|Escritura correcta|1
+ORZUELO|Grano del párpado|2
+OSCILACIÓN|Vaivén|2
+OSTENTACIÓN|Alarde|2
+OVILLAR|Hacer ovillos|2
+UBICACIÓN|Lugar|1
+UFANÍA|Orgullo|3
+ULTRAMAR|Del otro lado del mar|2
+UMBRALES|x|9
+UNICORNIO|Caballo de un cuerno|1
+URBANITA|Habitante de ciudad|3
+UTILIDAD|Provecho|1
+NARIGUDO|De nariz grande|1
+NATALICIO|Cumpleaños|2
+NAUTA|Navegante|3
+NÁUTICO|De la navegación|2
+NAVIDEÑO|De Navidad|1
+NECEDAD|Tontería|2
+NEGLIGENCIA|Descuido|2
+NERVIOSISMO|Inquietud|1
+NIETA|Hija del hijo|1
+NIÑATO|Inmaduro|3
+NOBLEMENTE|x|9
+NOCTURNIDAD|Oscuridad de la noche|3
+NOMENCLATURA|Lista de nombres|3
+NORTEÑO|Del norte|1
+NOVILLADA|Corrida de novillos|3
+NUEVAMENTE|Otra vez|1
+LABERÍNTICO|Enredado|2
+LACAYUNO|Servil|3
+LACTANTE|Bebé que toma pecho|2
+LADRIDO|Voz del perro|1
+LAGARTO|x|9
+LAMENTABLE|Deplorable|1
+LAMPAZO|Trapeador|3
+LANCHÓN|Lancha grande|2
+LÁNGUIDAMENTE|x|9
+LÁPIZ LABIAL|x|9
+LATONERO|x|9
+LAVAPLATOS|Lavavajillas|1
+LECHUGUINO|Petimetre|3
+LEGAJO|Expediente|2
+LEGIONARIO|Soldado de la legión|2
+LEÑERO|Vendedor de leña|2
+LETANÍA|Oración repetitiva|2
+LEVADURA|x|9
+LIBERTINO|Desenfrenado|2
+LIBIDO|x|9
+LIENCILLO|x|9
+LIGUERO|Portaligas|3
+LIMONERO|Árbol del limón|1
+LINDERO|Límite de un terreno|2
+LINIERO|Juez de línea|1
+LIQUIDACIÓN|Rebaja|1
+LIRISMO|Expresión emotiva|2
+LITERATURA|Arte de las letras|1
+LLAMEANTE|En llamas|1
+LLANURA|x|9
+LOCATARIO|Inquilino|2
+LOCUTOR|Conductor de radio|1
+LOGIA|Asociación masónica|3
+LONGEVO|De larga vida|2
+LORERO|x|9
+LUCERO|Estrella brillante|1
+LUJURIOSO|x|9
+LUMBRERA|Persona muy inteligente|2
+LUNETO|x|9
+LUTO|Duelo|1

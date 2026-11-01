@@ -17,3 +17,11 @@
 - Diccionario: `h1-h5`, `r1` (definiciones nuevas para palabras de la v1) y `n1-n10`. Unas 5400 palabras.
 - `build3.py`: genera `games3.json`. Cada palabra, definición y autor/obra se usa una sola vez; los juegos se arman por turnos (tipo y nivel) hasta agotar el diccionario.
 - Para una tanda nueva sin repetir: agregar palabras nuevas a un archivo `n11.txt` (y sumarlo en `build3.py`), y excluir las ya usadas.
+
+## Banco v4 (cero repetición contra v1 y v2)
+
+- `used_v1v2.json`: palabras, definiciones y pares autor/obra ya usados en v1 y v2; `build4.py` los excluye de entrada.
+- Diccionario ampliado con `n11-n18` y autores nuevos en `authors3.py`.
+- Las claringrillas se arman primero (hasta 40 por nivel) para que no se queden sin palabras con las iniciales que necesitan.
+- `newcount.py archivo.txt`: cuenta cuántas palabras de un archivo son realmente nuevas.
+- Para la próxima tanda: sumar a `used_v1v2.json` todo lo usado en `games4.json`.
